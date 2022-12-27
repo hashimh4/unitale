@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 973f092f67f411441a6b095a8e91f065
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PixGamer
+  fontNames:
+  - PixGamer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c4e5a8686877704e832a8596b922248, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

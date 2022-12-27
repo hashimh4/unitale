@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0e35bfd1865af924db12595817d8ca47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: warriot
+  fontNames:
+  - warriot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35e77a448cd1e2e4db67768a37995883, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
