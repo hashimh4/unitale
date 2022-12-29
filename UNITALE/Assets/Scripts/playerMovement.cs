@@ -7,15 +7,20 @@ public class playerMovement : MonoBehaviour
 
     // Defining the move speed
     public float moveSpeed = 5f;
-
     // Create the rigid body that moves our player
     public Rigidbody2D rb;
     // Refer to the animator
     public Animator animator;
+    // Tells us if the player is allowed to move or not
+    public bool canMove;
 
     // Stores x and y values
     private Vector2 movement;
 
+    private void Start()
+    {
+        canMove = true;
+    }
 
     // Update is called once per frame
     void Update()
@@ -23,8 +28,11 @@ public class playerMovement : MonoBehaviour
         movement = Vector2.zero;
         
         // To keep up with input
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+        if (canMove)
+        {
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = Input.GetAxisRaw("Vertical");
+        }
 
         // Ensure that the magnitude for diagnoal inputs remains the same (a maximum of 1)
         movement = Vector2.ClampMagnitude(movement, 1);

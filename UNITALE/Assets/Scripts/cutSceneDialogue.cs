@@ -8,12 +8,7 @@ using TMPro;
 // CHANGE THE SPRITE FOR EACH DIALOGUE LINE
 // (THIS WILL BE SIMILAR TO CHANGING THE AUDIO FOR EACH DIALOGUE LINE)
 
-// WE WANT IT JUST TO END AND THEN SUPPLY ANOTHER SET OF DIALOGUE WITH A DIFFERENT IMAGE - TO A DIALOGUE CUT-SCENE HANDLER
-// ENSURE THAT IT HAPPENS - YOU DON'T NEED TO PRESS SPACE AND BECOME FROZEN IN PLACE UNTIL ALL THE DIALOGUE IS OVER
-
-// SET THE FIRST ONE ACTIVE, TURN THE OTHERS OFF. SET THE NEXT ONE ACTIVE, TURN THE OTHERS OFF. UNTIL WE REACH THE END WHERE WE STOP
-
-// STOP THE CONTROLS FROM WORKING DURING A CUTSCENE
+// STOP THE MOVEMENT CONTROLS FROM WORKING DURING A CUTSCENE
 
 public class cutSceneDialogue : MonoBehaviour
 {
@@ -30,13 +25,14 @@ public class cutSceneDialogue : MonoBehaviour
     public bool interaction;
     // The speed of dialogue
     public float dialogueSpeed;
-    // Tells the cut scene script which set of dialogue to go to
+    // Tells the cut-scene script which set of dialogue to go to
     public bool nextSet { get; private set; }
 
     // Which section of text / sentence the user is currently seeing
     private int index;
     // Whether the index is at zero
     private bool first;
+    // Whether we are on the first section of text for the set of dialogue
     private bool initial;
 
     // Start is called before the first frame update
@@ -50,6 +46,7 @@ public class cutSceneDialogue : MonoBehaviour
         first = true;
         // Ensure the system knows not to go on to the next set yet
         nextSet = false;
+        // Ensures the first section of dialogue is automatically played when you enter the box collider
         initial = true;
     }
 
@@ -59,11 +56,13 @@ public class cutSceneDialogue : MonoBehaviour
         // Allow the user to continue the dialogue when they press space, or automatically trigger the dialogue if it is a new set
         if ((Input.GetKeyDown(KeyCode.Space) && interaction) || (initial && interaction))
         {
+            // As the new set of dialogue has already been loaded
             initial = false;
             // Display the dialogue box
             dialogueBox.SetActive(true);
             // Display the face of the character talking
             imageHolder.sprite = characterSprite;
+            // Maintains the aspect ratio of the sprite
             imageHolder.preserveAspect = true;
             // The initial case of typing the first sentence - so that it doesn't all display at once
             if (first)
@@ -114,6 +113,8 @@ public class cutSceneDialogue : MonoBehaviour
         }
         else
         {
+  //          movementScript.canMove = true;
+            // As the next set of dialogue will be loaded
             initial = true;
             // Add one to the cut-scene index to ensure that the next child of dialogue is visible, as done within the cut scene handler script
             nextSet = true;
@@ -127,6 +128,10 @@ public class cutSceneDialogue : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             interaction = true;
+            // Make reference to the player movement script
+            playerMovement movementScript = other.GetComponent<playerMovement>();
+            // Ensure the player cannot move during the cut-scene
+            movementScript.canMove = false;
         }
     }
 
@@ -137,7 +142,7 @@ public class cutSceneDialogue : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             interaction = false;
-            // Set everything in the dialogue box to black when the system changes child
+            // Set the text within the dialogue box to black when the system changes child
             text.text = string.Empty;
             // Stop the method of loading the sentence
             StopAllCoroutines();
