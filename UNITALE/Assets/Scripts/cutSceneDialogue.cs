@@ -3,29 +3,41 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+[System.Serializable]
 
-// The user will see one set of dialogue and then a second set repeatedly
-public class dialogue3 : MonoBehaviour
+// CHANGE THE SPRITE FOR EACH DIALOGUE LINE
+// (THIS WILL BE SIMILAR TO CHANGING THE AUDIO FOR EACH DIALOGUE LINE)
+
+// WE WANT IT JUST TO END AND THEN SUPPLY ANOTHER SET OF DIALOGUE WITH A DIFFERENT IMAGE - TO A DIALOGUE CUT-SCENE HANDLER
+// ENSURE THAT IT HAPPENS - YOU DON'T NEED TO PRESS SPACE AND BECOME FROZEN IN PLACE UNTIL ALL THE DIALOGUE IS OVER
+
+// SET THE FIRST ONE ACTIVE, TURN THE OTHERS OFF. SET THE NEXT ONE ACTIVE, TURN THE OTHERS OFF. UNTIL WE REACH THE END WHERE WE STOP
+
+// STOP THE CONTROLS FROM WORKING DURING A CUTSCENE
+
+public class cutSceneDialogue : MonoBehaviour
 {
     // References to the game objects - the dialogue box and the text within this
     public GameObject dialogueBox;
     public TMP_Text text;
-    // The first set of text to be loaded
+    public Image imageHolder;
+    // The text to be loaded
+    [TextArea(1, 10)]
     public string[] dialogueText;
-    // The second set of text to be loaded
-    public string[] dialogueText2;
+    // The image of the character who is talking
+    public Sprite characterSprite;
     // Whether the player is in the correct area
     public bool interaction;
+    // The speed of dialogue
     public float dialogueSpeed;
+    // Tells the cut scene script which set of dialogue to go to
+    public bool nextSet { get; private set; }
 
     // Which section of text / sentence the user is currently seeing
     private int index;
-    // Tells us whether the index is at zero
+    // Whether the index is at zero
     private bool first;
-    // Tells us whether the user has seen all of the first set of dialogue
-    private bool end;
-    // An array to pass the correct set of dialogue to the user
-    private string[] dialogueHandler;
+    private bool initial;
 
     // Start is called before the first frame update
     void Start()
@@ -36,28 +48,23 @@ public class dialogue3 : MonoBehaviour
         index = 0;
         // Ensure we know the user has not interacted with the dialogue yet
         first = true;
-        // Check whether we reach the end of the first set of dialogue
-        end = false;
-        // Ensure the user first sees the first set of dialogue
-        dialogueHandler = dialogueText;
+        // Ensure the system knows not to go on to the next set yet
+        nextSet = false;
+        initial = true;
     }
 
     // Update is called once per frame
     void Update()
-    {   
-        // When the user presses space and can interact with an object
-        if (Input.GetKeyDown(KeyCode.Space) && interaction)
+    {
+        // Allow the user to continue the dialogue when they press space, or automatically trigger the dialogue if it is a new set
+        if ((Input.GetKeyDown(KeyCode.Space) && interaction) || (initial && interaction))
         {
+            initial = false;
             // Display the dialogue box
             dialogueBox.SetActive(true);
-            // When we reach the end of the first set of dialogue
-            if (end)
-            {
-                // Change the dialogue set
-                dialogueHandler = dialogueText2;
-                // Ensure we keep looping over this second set of dialogue
-                end = false;
-            }
+            // Display the face of the character talking
+            imageHolder.sprite = characterSprite;
+            imageHolder.preserveAspect = true;
             // The initial case of typing the first sentence - so that it doesn't all display at once
             if (first)
             {
@@ -67,7 +74,7 @@ public class dialogue3 : MonoBehaviour
                 first = false;
             }
             // If we are on the next sentence, and the dialogue box is active, load the next line
-            else if (dialogueBox.activeInHierarchy && text.text == dialogueHandler[index])
+            else if (dialogueBox.activeInHierarchy && text.text == dialogueText[index])
             {
                 NextLine();
             }
@@ -76,7 +83,7 @@ public class dialogue3 : MonoBehaviour
                 // Stop the method of loading the sentence
                 StopAllCoroutines();
                 // Set the next line of text to the next predefined sentence
-                text.text = dialogueHandler[index];
+                text.text = dialogueText[index];
             }
         }
     }
@@ -84,7 +91,7 @@ public class dialogue3 : MonoBehaviour
     // The method to display each character in a sentence one by one, when it is loaded
     IEnumerator TypeLine()
     {
-        foreach (char c in dialogueHandler[index].ToCharArray())
+        foreach (char c in dialogueText[index].ToCharArray())
         {
             text.text += c;
             // Set the time to wait for each character to be displayed
@@ -96,7 +103,7 @@ public class dialogue3 : MonoBehaviour
     void NextLine()
     {
         // When there is still a sentence to display
-        if (index < dialogueHandler.Length - 1)
+        if (index < dialogueText.Length - 1)
         {
             // Ensure we know what sentence to display next
             index++;
@@ -107,12 +114,9 @@ public class dialogue3 : MonoBehaviour
         }
         else
         {
-            // When there are no more sentences to display, hide the dialogue box
-            dialogueBox.SetActive(false);
-            end = true;
-            // Set the sentence index and first encounter booleon back to their initial values
-            index = 0;
-            first = true;
+            initial = true;
+            // Add one to the cut-scene index to ensure that the next child of dialogue is visible, as done within the cut scene handler script
+            nextSet = true;
         }
     }
 
@@ -133,11 +137,8 @@ public class dialogue3 : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             interaction = false;
-            // If the player leaves the interaction area, close the dialogue box
-            dialogueBox.SetActive(false);
-            // Set the sentence index and first encounter booleon back to their initial values
-            index = 0;
-            first = true;
+            // Set everything in the dialogue box to black when the system changes child
+            text.text = string.Empty;
             // Stop the method of loading the sentence
             StopAllCoroutines();
         }

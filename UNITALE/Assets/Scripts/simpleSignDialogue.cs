@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class dialogue : MonoBehaviour
+public class simpleSignDialogue : MonoBehaviour
 {
     public GameObject dialogueBox;
     public TMP_Text text;
