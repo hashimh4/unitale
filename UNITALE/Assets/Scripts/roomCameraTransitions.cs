@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class roomCameraTransitions : MonoBehaviour
 {
+    // Defining the virtual camera for a new room
     public GameObject virtualCam;
     // Whether the location requires text
     public bool needText;
@@ -40,11 +41,6 @@ public class roomCameraTransitions : MonoBehaviour
             virtualCam.SetActive(false);
         }
     }
-
-    // If battle = true, battle area camera priority = high, otherwise battle area camera priority = low
-    // Ensure the player stops moving off-screen
-
-
 
     // Allows the location place to pop up and then disappear
     private IEnumerator locationNameCo()

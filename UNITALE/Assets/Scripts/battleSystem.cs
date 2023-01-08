@@ -33,11 +33,17 @@ public class battleSystem : MonoBehaviour
     public BattleState gameState;
 
     // Start is called before the first frame update
-    void Start()
+    private void Start()
+    {
+        gameState = BattleState.NOBATTLE;
+    }
+
+    void Update()
     {
         // Ensure we enter the start state when entering a battle
-        gameState = BattleState.START;
-        StartCoroutine(InitiateBattle());
+        if (gameState == BattleState.START) {
+            StartCoroutine(InitiateBattle());
+        }
     }
 
     // put in update and check that the state is not NOBATTLE
@@ -48,7 +54,7 @@ public class battleSystem : MonoBehaviour
     void PlayerUI()
     {
         // Load the player level on the screen
-        playerLevelText.text = "Level" + playerStats.level;
+        playerLevelText.text = "Level " + playerStats.level;
         // Load the player's HP on the screen
         playerHPText.text = "HP - " + playerStats.currentHP + "/" + playerStats.maxHP;
     }
