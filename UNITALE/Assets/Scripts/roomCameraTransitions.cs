@@ -15,7 +15,7 @@ public class roomCameraTransitions : MonoBehaviour
     // Defining the text for the object
     public Text locationText;
 
-    // If the player is in a particular collider box, use that camera
+    // If the player enters a collider box, use that camera
     private void OnTriggerEnter2D(Collider2D other)
     {
         // If the player is in the collider box, use the camera
@@ -30,6 +30,8 @@ public class roomCameraTransitions : MonoBehaviour
             }
         }
     }
+
+    // If the player exits a collider box, do not use that camera
     private void OnTriggerExit2D(Collider2D other)
     {
         // If the player is not in the collider box, do not use the camera
@@ -37,7 +39,12 @@ public class roomCameraTransitions : MonoBehaviour
         {
             virtualCam.SetActive(false);
         }
-    }  
+    }
+
+    // If battle = true, battle area camera priority = high, otherwise battle area camera priority = low
+    // Ensure the player stops moving off-screen
+
+
 
     // Allows the location place to pop up and then disappear
     private IEnumerator locationNameCo()

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2908162754808544923
+--- !u!1 &7105345664221642215
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,37 +8,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2908162754808544902}
-  - component: {fileID: 2908162754808544901}
-  - component: {fileID: 2908162754808544900}
+  - component: {fileID: 7105345664221642202}
+  - component: {fileID: 7105345664221642203}
+  - component: {fileID: 7105345664221642212}
   m_Layer: 0
-  m_Name: Sign 1
+  m_Name: Interactive Character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2908162754808544902
+--- !u!4 &7105345664221642202
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2908162754808544923}
+  m_GameObject: {fileID: 7105345664221642215}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.53, y: 7.5, z: 0}
+  m_LocalPosition: {x: -5.5, y: 7.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &2908162754808544901
+--- !u!61 &7105345664221642203
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2908162754808544923}
+  m_GameObject: {fileID: 7105345664221642215}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -58,24 +58,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 2.0019598}
   m_EdgeRadius: 0
---- !u!114 &2908162754808544900
+--- !u!114 &7105345664221642212
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2908162754808544923}
+  m_GameObject: {fileID: 7105345664221642215}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce4affe501eaa714cb982010ac649cec, type: 3}
+  m_Script: {fileID: 11500000, guid: a2b78ecd11fed734cac89dfa871cd094, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueBox: {fileID: 0}
   text: {fileID: 0}
+  imageHolder: {fileID: 0}
   dialogueText:
-  - yo yo yoooo
-  - I'm a sign.
-  - Oh hell yeah I am.
-  - 'It''s time you became the person who you were destined to be. '
+  - Hey there!
+  - Yoooooo you're cool
+  dialogueText2:
+  - Hella cool my guy
+  characterSprite: {fileID: 6237780861798913854, guid: 0524be3bcc1f51f4eb80d776ee3727dc,
+    type: 3}
   interaction: 0
   dialogueSpeed: 0.05
