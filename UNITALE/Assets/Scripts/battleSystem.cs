@@ -15,6 +15,11 @@ public class battleSystem : MonoBehaviour
     // The object holding the location for the enemy sprite
     public Transform enemyLocation;
 
+    // Reference to the cutSceneHandler script
+    public cutSceneHandler cutScene; /// <summary>
+    /// /////////////////////////////////////////////////////////////////// ENSURE THE CORRECT ONE IS CHOSEN
+    /// </summary>
+
     // The dialogue to be loaded on the UI
     public TMP_Text text;
     public TMP_Text playerLevelText;
@@ -186,10 +191,15 @@ public class battleSystem : MonoBehaviour
             // The dialogue and rewards for when the battle is won //////////////
             text.text = "You beat " + enemyStats.name;
 
+            cutScene.isBattle = false;
+
         } else if (gameState == BattleState.LOST)
         {
             // The dialogue and losses for when the battle is lost ///////////////
             text.text = "You were beated. You passed out.";
+            
+            cutScene.isBattle = false;
+
         }
     }
 

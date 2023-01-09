@@ -805,8 +805,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueBox: {fileID: 951783478}
   movementScript: {fileID: 516766810}
+  battleScript: {fileID: 0}
   isBattle: 0
-  enemyPrefab: {fileID: 0}
+  battleEnemyPrefab: {fileID: 0}
   battleCam: {fileID: 0}
 --- !u!4 &299788769
 Transform:
@@ -23283,8 +23284,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueBox: {fileID: 951783478}
   movementScript: {fileID: 516766810}
+  battleScript: {fileID: 1682334580}
   isBattle: 1
-  enemyPrefab: {fileID: 9016981952433007498, guid: 666acbfc0194d3d44950784fce9b0953,
+  battleEnemyPrefab: {fileID: 9016981952433007498, guid: 666acbfc0194d3d44950784fce9b0953,
     type: 3}
   battleCam: {fileID: 1243823256}
 --- !u!4 &951777282
@@ -26936,6 +26938,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 9016981952433007498, guid: 666acbfc0194d3d44950784fce9b0953,
     type: 3}
   enemyLocation: {fileID: 1169945449}
+  cutScene: {fileID: 0}
   text: {fileID: 2049132398}
   playerLevelText: {fileID: 1813967709}
   playerHPText: {fileID: 907439595}

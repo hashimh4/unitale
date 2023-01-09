@@ -10,10 +10,12 @@ public class cutSceneHandler : MonoBehaviour
     public GameObject dialogueBox;
     // Reference to the player movement script to prevent movement during the cut-scene
     public playerMovement movementScript;
+    // Reference to the battle script to update the game state
+    public battleSystem battleScript;
     // Whether the cut-scene will lead to a battle or not
     public bool isBattle;
     // To pass the correct enemy prefab to the battle system, when there is due to be a battle
-    public GameObject enemyPrefab;
+    public GameObject battleEnemyPrefab;
     // Defining the battle camera
     [SerializeField]
     public CinemachineVirtualCamera battleCam;
@@ -44,14 +46,15 @@ public class cutSceneHandler : MonoBehaviour
             // Ensure the camera transitions to the battle camera
             battleCam.Priority = 100;
 
-            // Pass the enemy prefab to the battle system script
-            //
+            // Pass the correct enemy prefab to the battle system script
+            battleScript.enemyPrefab = battleEnemyPrefab;
 
-            // Change the state there
-            
-            gameState = BattleState.START;
+            // Change the state in the battle script
+            battleScript.gameState = BattleState.START;
 
             // End by changing isBattle to false in that script
+
+
         } else
         {
             // Ensure the camera transitions back to the player overworld view
