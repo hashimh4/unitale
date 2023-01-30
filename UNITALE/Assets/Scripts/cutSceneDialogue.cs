@@ -113,7 +113,6 @@ public class cutSceneDialogue : MonoBehaviour
         }
         else
         {
-  //          movementScript.canMove = true;
             // As the next set of dialogue will be loaded
             initial = true;
             // Add one to the cut-scene index to ensure that the next child of dialogue is visible, as done within the cut scene handler script
@@ -127,6 +126,7 @@ public class cutSceneDialogue : MonoBehaviour
         // If the player is within the collider box, then they can interact with the object
         if (other.CompareTag("Player"))
         {
+            // The player is interacting with the collider
             interaction = true;
             // Make reference to the player movement script
             playerMovement movementScript = other.GetComponent<playerMovement>();
@@ -141,6 +141,7 @@ public class cutSceneDialogue : MonoBehaviour
         // If the player is outside the collider box, then they cannot interact with the object
         if (other.CompareTag("Player"))
         {
+            // The player is not interacting with the collider
             interaction = false;
             // Set the text within the dialogue box to black when the system changes child
             text.text = string.Empty;

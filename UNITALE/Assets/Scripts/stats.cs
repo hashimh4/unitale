@@ -5,7 +5,7 @@ using UnityEngine;
 public class stats : MonoBehaviour
 {
     // The variables to be displayed and for calculations 
-    public string name;
+    public string spriteName;
     public int level;
 
     public int move1_damage;

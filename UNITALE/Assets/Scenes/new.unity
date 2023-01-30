@@ -803,12 +803,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 909f96ddd202c444fa7c5db9efd20203, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueBox: {fileID: 951783478}
   movementScript: {fileID: 516766810}
+  dialogueBox: {fileID: 951783478}
+  battleCutScene: 0
   battleScript: {fileID: 0}
-  isBattle: 0
   battleEnemyPrefab: {fileID: 0}
-  battleCam: {fileID: 0}
 --- !u!4 &299788769
 Transform:
   m_ObjectHideFlags: 0
@@ -930,14 +929,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 363946954}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9cde626b8b3d0bb43a319d2c79760790, type: 3}
+  m_Script: {fileID: 11500000, guid: 85cae46579336b346a9a961110027189, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  virtualCam: {fileID: 1243823254}
-  needText: 1
-  locationName: Home
-  text: {fileID: 1676585916}
-  locationText: {fileID: 1676585918}
+  battleCam: {fileID: 1243823256}
+  isBattle: 0
 --- !u!4 &363946956
 Transform:
   m_ObjectHideFlags: 0
@@ -23282,13 +23278,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 909f96ddd202c444fa7c5db9efd20203, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueBox: {fileID: 951783478}
   movementScript: {fileID: 516766810}
+  dialogueBox: {fileID: 951783478}
+  battleCutScene: 1
   battleScript: {fileID: 1682334580}
-  isBattle: 1
   battleEnemyPrefab: {fileID: 9016981952433007498, guid: 666acbfc0194d3d44950784fce9b0953,
     type: 3}
-  battleCam: {fileID: 1243823256}
 --- !u!4 &951777282
 Transform:
   m_ObjectHideFlags: 0
@@ -23449,7 +23444,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1052849246
 RectTransform:
   m_ObjectHideFlags: 0
@@ -26938,12 +26933,14 @@ MonoBehaviour:
   enemyPrefab: {fileID: 9016981952433007498, guid: 666acbfc0194d3d44950784fce9b0953,
     type: 3}
   enemyLocation: {fileID: 1169945449}
-  cutScene: {fileID: 0}
+  battleInterface: {fileID: 1052849245}
   text: {fileID: 2049132398}
   playerLevelText: {fileID: 1813967709}
   playerHPText: {fileID: 907439595}
   enemyNameText: {fileID: 263179859}
   enemyHPText: {fileID: 873024232}
+  battleCameraScript: {fileID: 363946955}
+  playerMovementScript: {fileID: 516766810}
   gameState: 0
 --- !u!1 &1737803958
 GameObject:
@@ -28119,6 +28116,16 @@ PrefabInstance:
       propertyPath: movementScript
       value: 
       objectReference: {fileID: 516766810}
+    - target: {fileID: 5115872636589919381, guid: 5e497335b859105408e823eb5264e120,
+        type: 3}
+      propertyPath: battleScript
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5115872636589919381, guid: 5e497335b859105408e823eb5264e120,
+        type: 3}
+      propertyPath: battleEnemyPrefab
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5115872636589919382, guid: 5e497335b859105408e823eb5264e120,
         type: 3}
       propertyPath: m_LocalPosition.x

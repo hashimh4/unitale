@@ -19,12 +19,14 @@ public class playerMovement : MonoBehaviour
 
     private void Start()
     {
+        // Ensure the player can move right away
         canMove = true;
     }
 
     // Update is called once per frame
     void Update()
     {
+        // Define movement as a 2D vector
         movement = Vector2.zero;
         
         // To keep up with input

@@ -2,31 +2,28 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using Cinemachine;
 
 public class cutSceneHandler : MonoBehaviour
 {
-    // Reference to the dialogue box object so it can be closed once all the dialogue is seen
-    public GameObject dialogueBox;
     // Reference to the player movement script to prevent movement during the cut-scene
     public playerMovement movementScript;
+    // Reference to the dialogue box object so it can be closed once all the dialogue is seen
+    public GameObject dialogueBox;
+    // If the cut scene is before a battle
+    public bool battleCutScene;
     // Reference to the battle script to update the game state
     public battleSystem battleScript;
-    // Whether the cut-scene will lead to a battle or not
-    public bool isBattle;
     // To pass the correct enemy prefab to the battle system, when there is due to be a battle
     public GameObject battleEnemyPrefab;
-    // Defining the battle camera
-    [SerializeField]
-    public CinemachineVirtualCamera battleCam;
 
     private void Start()
     {
         // Run the method to handle the correct ordering of dialogue
         StartCoroutine(childSequence());
     }
+
     private IEnumerator childSequence()
-    {
+    {        
         // We ensure the user sees all the sections of dialogue
         for (int i = 0; i < transform.childCount; i++)
         {
@@ -41,27 +38,19 @@ public class cutSceneHandler : MonoBehaviour
         gameObject.SetActive(false);
         dialogueBox.SetActive(false);
 
-        if (isBattle)
+        // Only pass on a battle enemy sprite and start a battle if this is a battle cut scene
+        if (battleCutScene)
         {
-            // Ensure the camera transitions to the battle camera
-            battleCam.Priority = 100;
-
             // Pass the correct enemy prefab to the battle system script
             battleScript.enemyPrefab = battleEnemyPrefab;
-
             // Change the state in the battle script
             battleScript.gameState = BattleState.START;
-
-            // End by changing isBattle to false in that script
-
-
         } else
         {
-            // Ensure the camera transitions back to the player overworld view
-            battleCam.Priority = 1;
-            // Allow the player to move again
+            // If there is not a battle to follow, allow the player to move right away
             movementScript.canMove = true;
         }
+
     }
 
     private void Deactivate()
