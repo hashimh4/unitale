@@ -47,8 +47,8 @@ MonoBehaviour:
   spriteName: Garry
   level: 3
   move1_damage: 5
-  maxHP: 100
-  currentHP: 100
+  maxHP: 10
+  currentHP: 10
 --- !u!1 &9016981952665852676
 GameObject:
   m_ObjectHideFlags: 0

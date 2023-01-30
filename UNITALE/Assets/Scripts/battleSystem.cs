@@ -18,6 +18,13 @@ public class battleSystem : MonoBehaviour
 
     // Reference to the battle UI object
     public GameObject battleInterface;
+    // Reference to the attack/item buttons object
+    public GameObject attackItemButtons;
+    // Reference to all the attack buttons object
+    public GameObject attackButtons;
+    // Reference to the dialogue box
+    public GameObject dialogueBox;
+
     // The dialogue to be loaded on the UI
     public TMP_Text text;
     public TMP_Text playerLevelText;
@@ -27,6 +34,12 @@ public class battleSystem : MonoBehaviour
     public TMP_Text enemyNameText;
     // The enemy HP information to be loaded 
     public TMP_Text enemyHPText;
+
+    // The text of the attack names to be loaded
+    public TMP_Text attack1Text;
+    public TMP_Text attack2Text;
+    public TMP_Text attack3Text;
+    public TMP_Text attack4Text;
 
     // The speed of the text to be loaded, set to 0.05 seconds
     private float dialogueSpeed = 0.05F;
@@ -91,7 +104,9 @@ public class battleSystem : MonoBehaviour
     {
         // Display the battle interface
         battleInterface.SetActive(true);
-        
+        // Activate the dialogue box
+        dialogueBox.SetActive(true);
+
         // Retrieve the player stats and store these
         playerStats = playerPrefab.GetComponent<stats>();
 
@@ -109,27 +124,38 @@ public class battleSystem : MonoBehaviour
         PlayerUI();
         EnemyUI();
 
+        // Load the names of the attack text
+        attack1Text.text = playerStats.move1_name;
+        attack2Text.text = playerStats.move2_name;
+        attack3Text.text = playerStats.move3_name;
+        attack4Text.text = playerStats.move4_name;
+
         // DIALOGUE //////////////////////////////////////////////////////////
         yield return new WaitForSeconds(2f);
 
         // Change the game state to the correct turn ////////////////////////////////////
         gameState = BattleState.PLAYERTURN;
-        PlayerTurn();
+        StartCoroutine(PlayerTurn());
     }
 
     // The method to display each character in a sentence one by one, when it is loaded
-    // Ensures the final sentence is displayed
     IEnumerator TypeLine(string[] dialogueText)
     {
+        // Clears the text on the screen
         text.text = string.Empty;
 
+        // Go through each string passed to the function
         foreach (string i in dialogueText) {
+            // Go through each character of each string
             foreach (char c in i.ToCharArray())
             {
+                // Print the character
                 text.text += c;
                 // Set the time to wait for each character to be displayed
                 yield return new WaitForSeconds(dialogueSpeed);
             }
+
+            // Ensures the final sentence stays on screen
             if (i != dialogueText.Last())
             {
                 text.text = string.Empty;
@@ -139,10 +165,10 @@ public class battleSystem : MonoBehaviour
 
 
     // If the player chooses to attack on their turn
-    IEnumerator Attack()
+    IEnumerator Attack(int move_damage)
     {
         // Update the enemy stats
-        bool dead = enemyStats.TakeDamage(playerStats.move1_damage);
+        bool dead = enemyStats.TakeDamage(move_damage);
 
         // Update the enemy UI details
         EnemyUI();
@@ -157,7 +183,7 @@ public class battleSystem : MonoBehaviour
         {
             // The battle is won when the enemy is dead
             gameState = BattleState.WON;
-            EndBattle();
+            StartCoroutine(EndBattle());
 
         } else
         {
@@ -211,41 +237,73 @@ public class battleSystem : MonoBehaviour
         {
             // The battle is lost when the player is dead
             gameState = BattleState.LOST;
-            EndBattle();
+            StartCoroutine(EndBattle());
         } else
         {
             // Continue the battle if the player is still alive once the enemy's turn is over
             gameState = BattleState.PLAYERTURN;
-            PlayerTurn();
+            StartCoroutine(PlayerTurn());
         }
 
     }
 
     // The player turn
-    void PlayerTurn()
+    IEnumerator PlayerTurn()
     {
         string[] playerTurnLines = { "Choose your next action:"};
         StartCoroutine(TypeLine(playerTurnLines));
+        // WAIT 1 SECOND THEN
+
+        yield return new WaitForSeconds(2f);
+
+        // Remove the text display
+        dialogueBox.SetActive(false);
+        // Make battle player section, attack and item buttons disappear
+        attackItemButtons.SetActive(true);
+
+
     }
 
     // The WON and LOST states
-    void EndBattle()
+    IEnumerator EndBattle()
     {
-        if(gameState == BattleState.WON)
+        if (gameState == BattleState.WON)
         {
             // The dialogue and rewards for when the battle is won
-            string[] wonBattleLines = { "You beat " + enemyStats.spriteName};
+            string[] wonBattleLines = { "You beat " + enemyStats.spriteName };
             StartCoroutine(TypeLine(wonBattleLines));
-            gameState = BattleState.NOBATTLE;
 
-        } else if (gameState == BattleState.LOST)
+            yield return new WaitForSeconds(2f);
+
+            gameState = BattleState.NOBATTLE;
+        }
+        else if (gameState == BattleState.LOST)
         {
             // The dialogue and losses for when the battle is lost
-            string[] lostBattleLines = { "You were beated. You passed out."};
+            string[] lostBattleLines = { "You were beated. You passed out." };
             StartCoroutine(TypeLine(lostBattleLines));
+
+            yield return new WaitForSeconds(2f);
+
             gameState = BattleState.NOBATTLE;
 
         }
+
+        // Make sure the player still gains XP (no matter whether they win or lose)
+        playerStats.LevelUp(enemyStats.level);
+
+        // Check whether the player can replace a current move, based on the path they have taken
+        playerStats.NewMove();
+
+
+
+
+
+
+
+
+
+
         // Get rid of the battle interface
         battleInterface.SetActive(false);
         // Change the camera in the battle script by letting the script know the battle is over
@@ -259,31 +317,116 @@ public class battleSystem : MonoBehaviour
     // For when the ATTACK button is selected by the user
     public void AttackButton()
     {
-
-        // Allow the player to attack if they press the attack button during their turn
-        // Ensure the player only chooses an action once
-        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
-        {
-            StartCoroutine(Attack());
-            actionChosen = true;
-        }
-
+        if (gameState == BattleState.PLAYERTURN)
+            // Make battle player section, attack and item buttons disappear
+            attackItemButtons.SetActive(false);
+            // Make the attack buttons appear
+            attackButtons.SetActive(true);
     }
 
-        // For when the ITEM button is selected by the user
+    public void FirstAttack()
+    {
+        // Allow the player to attack if they press the attack button during their turn
+        // Ensure the player only chooses an action once
+        // Ensure all the text has loaded onto the screen
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
+        {
+            // Start the attack with the correct damage chosen
+            StartCoroutine(Attack(playerStats.move1_damage));
+            // Pass in the correct attack
+            actionChosen = true;
+
+            // Make the action buttons disappear
+            attackButtons.SetActive(false);
+            // Reactivate the dialogue box
+            dialogueBox.SetActive(true);
+        }
+    }
+    public void SecondAttack()
+    {
+        // Allow the player to attack if they press the attack button during their turn
+        // Ensure the player only chooses an action once
+        // Ensure all the text has loaded onto the screen
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
+        {
+            // Start the attack with the correct damage chosen
+            StartCoroutine(Attack(playerStats.move2_damage));
+            // Pass in the correct attack
+            actionChosen = true;
+
+            // Make the action buttons disappear
+            attackButtons.SetActive(false);
+            // Reactivate the dialogue box
+            dialogueBox.SetActive(true);
+        }
+    }
+
+    public void ThirdAttack()
+    {
+        // Allow the player to attack if they press the attack button during their turn
+        // Ensure the player only chooses an action once
+        // Ensure all the text has loaded onto the screen
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
+        {
+            // Start the attack with the correct damage chosen
+            StartCoroutine(Attack(playerStats.move3_damage));
+            // Pass in the correct attack
+            actionChosen = true;
+
+            // Make the action buttons disappear
+            attackButtons.SetActive(false);
+            // Reactivate the dialogue box
+            dialogueBox.SetActive(true);
+        }
+    }
+    public void FourthAttack()
+    {
+        // Allow the player to attack if they press the attack button during their turn
+        // Ensure the player only chooses an action once
+        // Ensure all the text has loaded onto the screen
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
+        {
+            // Start the attack with the correct damage chosen
+            StartCoroutine(Attack(playerStats.move4_damage));
+            // Pass in the correct attack
+            actionChosen = true;
+
+            // Make the action buttons disappear
+            attackButtons.SetActive(false);
+            // Reactivate the dialogue box
+            dialogueBox.SetActive(true);
+        }
+    }
+
+    // For when the ITEM button is selected by the user
     public void ItemButton()
     {
         // Allow the player to  heal if they press the ITEM button during their turn
         // Enusre the player only chooses an action once
+        // Ensure all the text has loaded onto the screen
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             StartCoroutine(Item());
             actionChosen = true;
         }
 
+
+
+
+
+        // SIMILAR TO ATTACK BUT THE ITEM'S ARE ONLY USED ONCE AND MOVE UP A LIST
+        // MAXIMUM OF FOUR ITEMS
+        // BASED ON THE ITEMS A USER ENCOUNTERS - THEY CAN PICK THEM UP AND THROW SOMETHING AWAY THAT WAS IN THEIR QUEUE
+
+
+
+
+
+
     }
 
-    // ENSURE YOU CAN ONLY CLICK ONCE
+
+    // PERHAPS FIND A WAY TO LOAD THE MOVE PREFABS
 
 }
  
