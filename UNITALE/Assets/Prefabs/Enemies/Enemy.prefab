@@ -46,9 +46,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spriteName: Garry
   level: 3
-  move1_damage: 5
+  xp: 0
+  xpMax: 0
+  newMove: 0
+  move1_name: 
+  move1_damage: 1
+  move1_mp: 1
+  move2_name: 
+  move2_damage: 1
+  move2_mp: 1
+  move3_name: 
+  move3_damage: 1
+  move3_mp: 0
+  move4_name: 
+  move4_damage: 1
+  move4_mp: 0
   maxHP: 10
   currentHP: 10
+  mentalPhysical: 0.7
 --- !u!1 &9016981952665852676
 GameObject:
   m_ObjectHideFlags: 0

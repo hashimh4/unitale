@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
@@ -28,8 +29,10 @@ public class battleSystem : MonoBehaviour
     // The dialogue to be loaded on the UI
     public TMP_Text text;
     public TMP_Text playerLevelText;
-    // The enemy HP information to be loaded 
+    // The player HP information to be loaded 
     public TMP_Text playerHPText;
+    // The player XP information to be loaded
+    public TMP_Text playerXPText;
     // The enemy name to be loaded
     public TMP_Text enemyNameText;
     // The enemy HP information to be loaded 
@@ -88,6 +91,8 @@ public class battleSystem : MonoBehaviour
         playerLevelText.text = "Level " + playerStats.level;
         // Load the player's HP on the screen
         playerHPText.text = "HP - " + playerStats.currentHP + "/" + playerStats.maxHP;
+        // Load the player's XP on the screen
+        playerXPText.text = playerStats.xp + "/" + playerStats.xpMax;
     }
 
     // The enemy specific UI that needs to be changed throughout the battle
@@ -130,6 +135,10 @@ public class battleSystem : MonoBehaviour
         attack3Text.text = playerStats.move3_name;
         attack4Text.text = playerStats.move4_name;
 
+        // Define the player's mental-physical stat based on the moves they currently have
+        playerStats.mentalPhysical = (Convert.ToInt32(playerStats.move1_mp) + Convert.ToInt32(playerStats.move2_mp)
+            + Convert.ToInt32(playerStats.move3_mp) + Convert.ToInt32(playerStats.move4_mp) - 2) / 2;
+
         // DIALOGUE //////////////////////////////////////////////////////////
         yield return new WaitForSeconds(2f);
 
@@ -165,10 +174,10 @@ public class battleSystem : MonoBehaviour
 
 
     // If the player chooses to attack on their turn
-    IEnumerator Attack(int move_damage)
+    IEnumerator Attack(int move_damage, bool move_type, float victim_mp)
     {
         // Update the enemy stats
-        bool dead = enemyStats.TakeDamage(move_damage);
+        bool dead = enemyStats.TakeDamage(move_damage, move_type, victim_mp);
 
         // Update the enemy UI details
         EnemyUI();
@@ -224,8 +233,32 @@ public class battleSystem : MonoBehaviour
 
         yield return new WaitForSeconds(2f);
 
+        // Random move between 1 and 4
+        System.Random rnd = new System.Random();
+        int enemyMove = rnd.Next(1, 4);
+
+        bool dead = false;
+
+        if (enemyMove == 1)
+        {
+            dead = playerStats.TakeDamage(enemyStats.move1_damage, enemyStats.move1_mp, playerStats.mentalPhysical);
+        }
+
+        if (enemyMove == 2)
+        {
+            dead = playerStats.TakeDamage(enemyStats.move2_damage, enemyStats.move2_mp, playerStats.mentalPhysical);
+        }
+
+        if (enemyMove == 3)
+        {
+            dead = playerStats.TakeDamage(enemyStats.move3_damage, enemyStats.move3_mp, playerStats.mentalPhysical);
+        
+        } else
+        {
+            dead = playerStats.TakeDamage(enemyStats.move4_damage, enemyStats.move4_mp, playerStats.mentalPhysical);
+        }
+
         // Update the player stats
-        bool dead = playerStats.TakeDamage(enemyStats.move1_damage);
 
         // Update the player UI details
         PlayerUI();
@@ -280,7 +313,7 @@ public class battleSystem : MonoBehaviour
         else if (gameState == BattleState.LOST)
         {
             // The dialogue and losses for when the battle is lost
-            string[] lostBattleLines = { "You were beated. You passed out." };
+            string[] lostBattleLines = { "You were beat. You passed out." };
             StartCoroutine(TypeLine(lostBattleLines));
 
             yield return new WaitForSeconds(2f);
@@ -291,19 +324,6 @@ public class battleSystem : MonoBehaviour
 
         // Make sure the player still gains XP (no matter whether they win or lose)
         playerStats.LevelUp(enemyStats.level);
-
-        // Check whether the player can replace a current move, based on the path they have taken
-        playerStats.NewMove();
-
-
-
-
-
-
-
-
-
-
         // Get rid of the battle interface
         battleInterface.SetActive(false);
         // Change the camera in the battle script by letting the script know the battle is over
@@ -312,6 +332,7 @@ public class battleSystem : MonoBehaviour
         playerMovementScript.canMove = true;
         // Reset the system variables
         hasRun = false;
+        actionChosen = false;
     }
 
     // For when the ATTACK button is selected by the user
@@ -332,7 +353,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move1_damage));
+            StartCoroutine(Attack(playerStats.move1_damage, playerStats.move1_mp, enemyStats.mentalPhysical));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -350,7 +371,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move2_damage));
+            StartCoroutine(Attack(playerStats.move2_damage, playerStats.move2_mp, enemyStats.mentalPhysical));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -369,7 +390,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move3_damage));
+            StartCoroutine(Attack(playerStats.move3_damage, playerStats.move3_mp, enemyStats.mentalPhysical));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -387,7 +408,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move4_damage));
+            StartCoroutine(Attack(playerStats.move4_damage, playerStats.move4_mp, enemyStats.mentalPhysical));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -411,6 +432,7 @@ public class battleSystem : MonoBehaviour
         }
 
 
+        // INSTEAD JUST HAVE ONE HEAL BUTTON WHICH YOU CAN USE THREE TIMES AT EACH LEVEL (e.g. stays at 30 points)
 
 
 

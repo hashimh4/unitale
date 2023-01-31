@@ -1,41 +1,94 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class stats : MonoBehaviour
 {
-    // The variables to be displayed and for calculations 
+    // The variables to be displayed and for caulations
     public string spriteName;
 
+    // Variables related to the level and XP
     public int level;
     public int xp;
     public int xpMax;
     public int newMove;
 
+    // Variables related to the four moves each character can have
     public string move1_name;
     public int move1_damage;
+    // Whether a move is mentally or physically geared
+    public bool move1_mp;
 
     public string move2_name;
     public int move2_damage;
+    public bool move2_mp;
 
     public string move3_name;
     public int move3_damage;
+    public bool move3_mp;
 
     public string move4_name;
     public int move4_damage;
+    public bool move4_mp;
 
+    // Variables related to HP
     public int maxHP;
     public int currentHP;
 
-    public bool TakeDamage(int damage)
+    // Mental-physical stat - a number between -1 and 1
+    // -1 means a more mentally skilled character
+    // 1 means a more physically skilled character
+    public float mentalPhysical;
+
+    public bool TakeDamage(int damage, bool moveType, float victimMP)
     {
-        if (currentHP - damage <= 0)
+        int moveTypeMultiplier;
+        int finalDamage;
+
+        if (moveType)
         {
+            // The move is a physical attack
+            moveTypeMultiplier = 1;
+        } else
+        {
+            // The move is a mental attack
+            moveTypeMultiplier = -1;
+        }
+
+        // A score of 0 will do normal damage
+        // A negative score will do more damage
+        // A positive score will do less damage
+        float victimCalc = moveTypeMultiplier + victimMP;
+
+        // Create a random multiplier 
+        float randomMult = UnityEngine.Random.Range(0.8f, 1.2f);
+
+        // Calculate the damage
+        float damageCalc = victimCalc * (damage/4f) * randomMult;
+
+        // If the damage is less than zero, set it to one
+        if ((damageCalc + damage) < 0)
+        {
+            finalDamage = 1;
+        }
+        else
+        {
+            // Round the damage, so that it is an integer value
+            finalDamage = (int)Math.Round(damageCalc + damage);
+        }
+
+        // Adjust the final HP
+        if (currentHP - finalDamage <= 0)
+        {
+            // Set the final HP to zero if it goes below zero
             currentHP = 0;
+            // Notify the system that the player / enemy has died
             return true;
         } else
         {
-            currentHP -= damage;
+            // Otherwise subtract the correct value
+            currentHP -= finalDamage;
             return false;
         }
     }
@@ -64,8 +117,34 @@ public class stats : MonoBehaviour
         {
             // Calculate the current XP in this level bracket
             xp = xp - xpMax;
+
             // Calculate the maximum XP for the next level
-            xpMax = xpMax * 2;
+            if (xpMax < 30)
+            {
+                xpMax += 5;
+            }
+            else if (30 <= xpMax && xpMax < 120)
+            {
+                xpMax += 10;
+            } else
+            {
+                xpMax += 20;
+            }
+
+            // Calculate the maximum HP for the next level
+            if (maxHP < 30)
+            {
+                maxHP += 5;
+            }
+            else if (30 <= maxHP && maxHP < 120)
+            {
+                maxHP += 10;
+            }
+            else
+            {
+                maxHP += 20;
+            }
+
             // Increase the level by one
             level += 1;
             // Increase the new move counter by one
@@ -73,18 +152,5 @@ public class stats : MonoBehaviour
         }
     }
 
-    public void NewMove()
-    {
-        if (newMove > 0)
-        {
-            // (Perhaps do this all in the other script)
-            // Show the moves the player can select depending on the skill tree below
-            // Let them choose in the interface which move they want and which move to replace it with
-            // Replace the current move they have with they one they chose (by loading the correct move prefab)
-
-            // Run a newMove script if they level up, and then have all the move prefab links there 
-
-        }
-    }
 
 }
