@@ -28,11 +28,14 @@ public class battleSystem : MonoBehaviour
 
     // The dialogue to be loaded on the UI
     public TMP_Text text;
+    // The player level information to be loaded
     public TMP_Text playerLevelText;
     // The player HP information to be loaded 
     public TMP_Text playerHPText;
     // The player XP information to be loaded
     public TMP_Text playerXPText;
+    // The number of USBs the player has
+    public TMP_Text playerUSBs;
     // The enemy name to be loaded
     public TMP_Text enemyNameText;
     // The enemy HP information to be loaded 
@@ -93,6 +96,13 @@ public class battleSystem : MonoBehaviour
         playerHPText.text = "HP - " + playerStats.currentHP + "/" + playerStats.maxHP;
         // Load the player's XP on the screen
         playerXPText.text = playerStats.xp + "/" + playerStats.xpMax;
+        // Load the names of the attack text
+        attack1Text.text = playerStats.move1_name;
+        attack2Text.text = playerStats.move2_name;
+        attack3Text.text = playerStats.move3_name;
+        attack4Text.text = playerStats.move4_name;
+        // Load the number of player USBs on the screen
+        //playerUSBs.text = playerStats.USB.ToString();
     }
 
     // The enemy specific UI that needs to be changed throughout the battle
@@ -128,12 +138,6 @@ public class battleSystem : MonoBehaviour
         // Update the UI on the screen
         PlayerUI();
         EnemyUI();
-
-        // Load the names of the attack text
-        attack1Text.text = playerStats.move1_name;
-        attack2Text.text = playerStats.move2_name;
-        attack3Text.text = playerStats.move3_name;
-        attack4Text.text = playerStats.move4_name;
 
         // Define the player's mental-physical stat based on the moves they currently have
         playerStats.mentalPhysical = (Convert.ToInt32(playerStats.move1_mp) + Convert.ToInt32(playerStats.move2_mp)
@@ -432,13 +436,9 @@ public class battleSystem : MonoBehaviour
         }
 
 
-        // INSTEAD JUST HAVE ONE HEAL BUTTON WHICH YOU CAN USE THREE TIMES AT EACH LEVEL (e.g. stays at 30 points)
+        // YOU CAN COLLECT USBs IN GAME (CREATE ANOTHER SCRIPT FOR THIS) AND CAN HEAL IF HAVE ONE
 
-
-
-        // SIMILAR TO ATTACK BUT THE ITEM'S ARE ONLY USED ONCE AND MOVE UP A LIST
-        // MAXIMUM OF FOUR ITEMS
-        // BASED ON THE ITEMS A USER ENCOUNTERS - THEY CAN PICK THEM UP AND THROW SOMETHING AWAY THAT WAS IN THEIR QUEUE
+        // INSTEAD JUST HAVE ONE HEAL BUTTON WHICH YOU CAN USE TO HEAL, DEPENDING ON HOW MANY YOU COLLECT (e.g. stays at 30 points)
 
 
 
@@ -448,7 +448,7 @@ public class battleSystem : MonoBehaviour
     }
 
 
-    // PERHAPS FIND A WAY TO LOAD THE MOVE PREFABS
+    // IF A CERTAIN MOVE(S) ARE USED ON A CERTAIN ENEMY, GIVE THEM SPECIAL DIALOGUE IN A CUT-SCENE PERHAPS
 
 }
  

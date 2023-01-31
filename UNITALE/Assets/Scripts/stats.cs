@@ -32,6 +32,9 @@ public class stats : MonoBehaviour
     public int move4_damage;
     public bool move4_mp;
 
+    // The number of USBs the player has
+    public int USB;
+
     // Variables related to HP
     public int maxHP;
     public int currentHP;
