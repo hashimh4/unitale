@@ -44,25 +44,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9f811f521f7c4f4aa5548e2ced9921f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spriteName: Garry
+  spriteName: Prof. Kazan
   level: 13
   xp: 0
   xpMax: 0
   newMove: 0
   move1_name: Poke
-  move1_damage: 1
+  move1_damage: 12
   move1_mp: 1
   move1_response: pokes your arm.
   move2_name: Punch
-  move2_damage: 1
+  move2_damage: 13
   move2_mp: 1
   move2_response: punches your face.
   move3_name: Kick
-  move3_damage: 1
+  move3_damage: 12
   move3_mp: 0
   move3_response: kicks you.
   move4_name: Chomp
-  move4_damage: 1
+  move4_damage: 30
   move4_mp: 0
   move4_response: bites your hand.
   USB: 0

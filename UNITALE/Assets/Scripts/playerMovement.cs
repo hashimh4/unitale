@@ -14,11 +14,16 @@ public class playerMovement : MonoBehaviour
     // Tells us if the player is allowed to move or not
     public bool canMove;
 
+    // The start screen to be displayed
+    public GameObject startScreen;
+
     // Stores x and y values
     private Vector2 movement;
 
     private void Start()
     {
+        StartCoroutine(TheStartScreen());
+        
         // Ensure the player can move right away
         canMove = true;
     }
@@ -63,5 +68,17 @@ public class playerMovement : MonoBehaviour
     {
         // Moves the player to the new position (ensuring the speed stays the same)
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    IEnumerator TheStartScreen()
+    {
+        // Display the start screen
+        startScreen.SetActive(true);
+
+        yield return new WaitForSeconds(5f);
+
+        // A sound effect played when the start screen is loaded
+
+        startScreen.SetActive(false);
     }
 }

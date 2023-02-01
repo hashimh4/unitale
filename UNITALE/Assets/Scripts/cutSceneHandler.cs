@@ -2,23 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class cutSceneHandler : MonoBehaviour
 {
     // Reference to the player movement script to prevent movement during the cut-scene
     public playerMovement movementScript;
+
     // Reference to the player stats
     public stats playerStats;
+
     // Reference to the dialogue box object so it can be closed once all the dialogue is seen
     public GameObject dialogueBox;
+
     // If the cut scene is before a battle
     public bool battleCutScene;
     // Whether the player has collected a USB
     public bool USB;
+
     // Reference to the battle script to update the game state
     public battleSystem battleScript;
+
     // To pass the correct enemy prefab to the battle system, when there is due to be a battle
     public GameObject battleEnemyPrefab;
+
+    // Reference to the end game screen object
+    public GameObject endGameScreen;
 
     private void Start()
     {
@@ -46,6 +55,20 @@ public class cutSceneHandler : MonoBehaviour
         if (USB)
         {
             playerStats.USB += 1;
+        }
+
+        // Allow the game to end if the player has reached the end
+        if (battleScript.endGame)
+        {
+            dialogueBox.SetActive(false);
+            endGameScreen.SetActive(true);
+            yield return new WaitForSeconds(1f);
+            // Allow the player to press any key to play again
+            while (!Input.anyKeyDown)
+            {
+                yield return null;
+            }
+            SceneManager.LoadScene("new");
         }
 
         // Only pass on a battle enemy sprite and start a battle if this is a battle cut scene

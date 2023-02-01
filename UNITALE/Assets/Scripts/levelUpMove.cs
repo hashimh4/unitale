@@ -9,6 +9,8 @@ public class levelUpMove : MonoBehaviour
 {
     // Reference to the player movement script
     public playerMovement movementScript;
+    // Reference to the game state
+    public battleSystem battleScript;
 
     // Reference to the battle UI object
     public GameObject levelUpInterface;
@@ -112,7 +114,7 @@ public class levelUpMove : MonoBehaviour
         // The list of possible moves the player can obtain in the game
         attackMove[] newMoveList = moveListofLists[moveSet];
 
-        if (playerStats.newMove > 0 && hasRun == false) // And as long as there are four moves in the moves list
+        if (playerStats.newMove > 0 && hasRun == false && battleScript.gameState != BattleState.LOST) // And as long as there are four moves in the moves list
         {
             // Stop the player from moving
             movementScript.canMove = false;

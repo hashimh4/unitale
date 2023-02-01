@@ -55,6 +55,9 @@ public class battleSystem : MonoBehaviour
     // Whether the player has already chosen their actioon
     private bool actionChosen = false;
 
+    // To notify the system whether the game should be over
+    public bool endGame = false;
+
     // To store the stats of the player and enemy
     stats playerStats;
     stats enemyStats;
@@ -65,6 +68,9 @@ public class battleSystem : MonoBehaviour
     public playerMovement playerMovementScript;
     // Making reference to the game state, so that it can be changed
     public BattleState gameState;
+
+    // The game over screen
+    public GameObject gameOverScreen;
 
     // Start is called before the first frame update
     private void Start()
@@ -294,7 +300,6 @@ public class battleSystem : MonoBehaviour
     {
         string[] playerTurnLines = { "Choose your next action:"};
         StartCoroutine(TypeLine(playerTurnLines));
-        // WAIT 1 SECOND THEN
 
         yield return new WaitForSeconds(2.5f);
 
@@ -311,25 +316,51 @@ public class battleSystem : MonoBehaviour
     {
         if (gameState == BattleState.WON)
         {
+
             // The dialogue and rewards for when the battle is won
-            string[] wonBattleLines = { "You beat " + enemyStats.spriteName };
+            System.Random rnd = new System.Random();
+            int randomText = rnd.Next(1, 3);
+            string[] finalText = { "What a fine effort. You beat " + enemyStats.spriteName, "Excellent progress. You beat " + enemyStats.spriteName,
+            "One more enemy down. You beat " + enemyStats.spriteName };
+            string[] wonBattleLines = { finalText[randomText - 1] };
             StartCoroutine(TypeLine(wonBattleLines));
 
             yield return new WaitForSeconds(2.5f);
+
+            // Guide the player to talk to the professor
+            if (enemyStats.spriteName == "Prof. Kazan")
+            {
+                // Set the end game variable to true
+                endGame = true;
+
+                string[] hint = { "Go and talk to Prof. Kazan" };
+                StartCoroutine(TypeLine(hint));
+                yield return new WaitForSeconds(2.5f);
+            }
 
             gameState = BattleState.NOBATTLE;
         }
         else if (gameState == BattleState.LOST)
         {
             // The dialogue and losses for when the battle is lost
-            string[] lostBattleLines = { "You were beat. You passed out." };
+            string[] lostBattleLines = { "You were beaten. You passed out." };
             StartCoroutine(TypeLine(lostBattleLines));
 
             yield return new WaitForSeconds(2.5f);
 
-            gameState = BattleState.NOBATTLE;
-            SceneManager.LoadScene("SampleScene");
+            // LOAD A "GAME OVER"
+            battleInterface.SetActive(false);
+            gameOverScreen.SetActive(true);
+            yield return new WaitForSeconds(1f);
 
+            // Allow the player to press any key to play again
+            while (!Input.anyKeyDown)
+            {
+                yield return null;
+            }
+
+            gameState = BattleState.NOBATTLE;
+            SceneManager.LoadScene("new");
         }
 
         // Make sure the player still gains XP (no matter whether they win or lose)
