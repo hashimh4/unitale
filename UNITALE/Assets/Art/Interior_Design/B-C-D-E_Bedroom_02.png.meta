@@ -1,0 +1,4868 @@
+fileFormatVersion: 2
+guid: 83ea320220eca1b44b077e2e5d0169e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2523941093360436564
+    second: B-C-D-E_Bedroom_02_0
+  - first:
+      213: -5016054382115051671
+    second: B-C-D-E_Bedroom_02_1
+  - first:
+      213: 666187967621759819
+    second: B-C-D-E_Bedroom_02_2
+  - first:
+      213: 3274433157261965061
+    second: B-C-D-E_Bedroom_02_3
+  - first:
+      213: 4057778520785791072
+    second: B-C-D-E_Bedroom_02_4
+  - first:
+      213: -161695982450342129
+    second: B-C-D-E_Bedroom_02_5
+  - first:
+      213: -685010831632343224
+    second: B-C-D-E_Bedroom_02_6
+  - first:
+      213: -6192407394285905534
+    second: B-C-D-E_Bedroom_02_7
+  - first:
+      213: 2414087604774340766
+    second: B-C-D-E_Bedroom_02_8
+  - first:
+      213: 8856089918683331625
+    second: B-C-D-E_Bedroom_02_9
+  - first:
+      213: 4375967489090248839
+    second: B-C-D-E_Bedroom_02_10
+  - first:
+      213: -6401918890577748600
+    second: B-C-D-E_Bedroom_02_11
+  - first:
+      213: 6990705458850548557
+    second: B-C-D-E_Bedroom_02_12
+  - first:
+      213: 3313899741377956146
+    second: B-C-D-E_Bedroom_02_13
+  - first:
+      213: -3350120215222107496
+    second: B-C-D-E_Bedroom_02_14
+  - first:
+      213: 5113092074876996559
+    second: B-C-D-E_Bedroom_02_15
+  - first:
+      213: 6722000132355766262
+    second: B-C-D-E_Bedroom_02_16
+  - first:
+      213: 8624581219639630064
+    second: B-C-D-E_Bedroom_02_17
+  - first:
+      213: 2960832511994414830
+    second: B-C-D-E_Bedroom_02_18
+  - first:
+      213: 1090358829710153217
+    second: B-C-D-E_Bedroom_02_19
+  - first:
+      213: 5316065089921451508
+    second: B-C-D-E_Bedroom_02_20
+  - first:
+      213: 4691805041699075189
+    second: B-C-D-E_Bedroom_02_21
+  - first:
+      213: -3339486771282302229
+    second: B-C-D-E_Bedroom_02_22
+  - first:
+      213: 211292966962913306
+    second: B-C-D-E_Bedroom_02_23
+  - first:
+      213: -7589261452383081635
+    second: B-C-D-E_Bedroom_02_24
+  - first:
+      213: -4173451608844730032
+    second: B-C-D-E_Bedroom_02_25
+  - first:
+      213: -8276805238471694976
+    second: B-C-D-E_Bedroom_02_26
+  - first:
+      213: 4939491178881120876
+    second: B-C-D-E_Bedroom_02_27
+  - first:
+      213: -2091599072915166452
+    second: B-C-D-E_Bedroom_02_28
+  - first:
+      213: 6677821655710296944
+    second: B-C-D-E_Bedroom_02_29
+  - first:
+      213: 1315633009629665072
+    second: B-C-D-E_Bedroom_02_30
+  - first:
+      213: -3960267418039651026
+    second: B-C-D-E_Bedroom_02_31
+  - first:
+      213: -8121106697459786954
+    second: B-C-D-E_Bedroom_02_32
+  - first:
+      213: 8365846501166221267
+    second: B-C-D-E_Bedroom_02_33
+  - first:
+      213: 7603205856982560128
+    second: B-C-D-E_Bedroom_02_34
+  - first:
+      213: 925292485696547801
+    second: B-C-D-E_Bedroom_02_35
+  - first:
+      213: -8165948984572374364
+    second: B-C-D-E_Bedroom_02_36
+  - first:
+      213: -5336151130968292545
+    second: B-C-D-E_Bedroom_02_37
+  - first:
+      213: 6997001585341365242
+    second: B-C-D-E_Bedroom_02_38
+  - first:
+      213: -6272422581032356683
+    second: B-C-D-E_Bedroom_02_39
+  - first:
+      213: 6195848607626355141
+    second: B-C-D-E_Bedroom_02_40
+  - first:
+      213: -6757436399353666062
+    second: B-C-D-E_Bedroom_02_41
+  - first:
+      213: 7484915962328330830
+    second: B-C-D-E_Bedroom_02_42
+  - first:
+      213: 7041425860040691724
+    second: B-C-D-E_Bedroom_02_43
+  - first:
+      213: 6485497814498270375
+    second: B-C-D-E_Bedroom_02_44
+  - first:
+      213: 3621278303562136958
+    second: B-C-D-E_Bedroom_02_45
+  - first:
+      213: -7988519092015019047
+    second: B-C-D-E_Bedroom_02_46
+  - first:
+      213: -2353949933845270850
+    second: B-C-D-E_Bedroom_02_47
+  - first:
+      213: 6390900534726169214
+    second: B-C-D-E_Bedroom_02_48
+  - first:
+      213: -7913388859429491396
+    second: B-C-D-E_Bedroom_02_49
+  - first:
+      213: -458518174556539105
+    second: B-C-D-E_Bedroom_02_50
+  - first:
+      213: -5511302545987053620
+    second: B-C-D-E_Bedroom_02_51
+  - first:
+      213: 1984294032334248862
+    second: B-C-D-E_Bedroom_02_52
+  - first:
+      213: 4781082068245520606
+    second: B-C-D-E_Bedroom_02_53
+  - first:
+      213: -8884702115681786346
+    second: B-C-D-E_Bedroom_02_54
+  - first:
+      213: -7849790960394540637
+    second: B-C-D-E_Bedroom_02_55
+  - first:
+      213: 7307871542944123614
+    second: B-C-D-E_Bedroom_02_56
+  - first:
+      213: -6355235233097322969
+    second: B-C-D-E_Bedroom_02_57
+  - first:
+      213: 3285931731298929832
+    second: B-C-D-E_Bedroom_02_58
+  - first:
+      213: 4384449255526799466
+    second: B-C-D-E_Bedroom_02_59
+  - first:
+      213: -2220412369989716862
+    second: B-C-D-E_Bedroom_02_60
+  - first:
+      213: 1227268466788180220
+    second: B-C-D-E_Bedroom_02_61
+  - first:
+      213: -7507199107178146655
+    second: B-C-D-E_Bedroom_02_62
+  - first:
+      213: 5864409864589230623
+    second: B-C-D-E_Bedroom_02_63
+  - first:
+      213: 1579309221155318562
+    second: B-C-D-E_Bedroom_02_64
+  - first:
+      213: -6140805527184738543
+    second: B-C-D-E_Bedroom_02_65
+  - first:
+      213: 4495040530878880677
+    second: B-C-D-E_Bedroom_02_66
+  - first:
+      213: -5768192317855127267
+    second: B-C-D-E_Bedroom_02_67
+  - first:
+      213: -3260064718947849597
+    second: B-C-D-E_Bedroom_02_68
+  - first:
+      213: 6816995570998165612
+    second: B-C-D-E_Bedroom_02_69
+  - first:
+      213: 2515995197963336548
+    second: B-C-D-E_Bedroom_02_70
+  - first:
+      213: 699850164194459790
+    second: B-C-D-E_Bedroom_02_71
+  - first:
+      213: 3534286562867008911
+    second: B-C-D-E_Bedroom_02_72
+  - first:
+      213: 89259922009484459
+    second: B-C-D-E_Bedroom_02_73
+  - first:
+      213: 6067085003262723784
+    second: B-C-D-E_Bedroom_02_74
+  - first:
+      213: -1794474147093730093
+    second: B-C-D-E_Bedroom_02_75
+  - first:
+      213: -2934004440131636185
+    second: B-C-D-E_Bedroom_02_76
+  - first:
+      213: -5663551895161633265
+    second: B-C-D-E_Bedroom_02_77
+  - first:
+      213: 8421702180835849337
+    second: B-C-D-E_Bedroom_02_78
+  - first:
+      213: 3339445419380303072
+    second: B-C-D-E_Bedroom_02_79
+  - first:
+      213: 6051341396062607581
+    second: B-C-D-E_Bedroom_02_80
+  - first:
+      213: -4556359255561226136
+    second: B-C-D-E_Bedroom_02_81
+  - first:
+      213: 5395982464080428440
+    second: B-C-D-E_Bedroom_02_82
+  - first:
+      213: -8836848701528545169
+    second: B-C-D-E_Bedroom_02_83
+  - first:
+      213: -4429112701766080739
+    second: B-C-D-E_Bedroom_02_84
+  - first:
+      213: -8589916193538972962
+    second: B-C-D-E_Bedroom_02_85
+  - first:
+      213: 1619587194527446946
+    second: B-C-D-E_Bedroom_02_86
+  - first:
+      213: -1767871522167869698
+    second: B-C-D-E_Bedroom_02_87
+  - first:
+      213: -6295610255369156236
+    second: B-C-D-E_Bedroom_02_88
+  - first:
+      213: 773505873383463204
+    second: B-C-D-E_Bedroom_02_89
+  - first:
+      213: -6235518887591944595
+    second: B-C-D-E_Bedroom_02_90
+  - first:
+      213: 8225545637007201435
+    second: B-C-D-E_Bedroom_02_91
+  - first:
+      213: -1071269271180750672
+    second: B-C-D-E_Bedroom_02_92
+  - first:
+      213: 4649558006624738474
+    second: B-C-D-E_Bedroom_02_93
+  - first:
+      213: 6630728726510501634
+    second: B-C-D-E_Bedroom_02_94
+  - first:
+      213: -3091163586303259058
+    second: B-C-D-E_Bedroom_02_95
+  - first:
+      213: 4325288612840572373
+    second: B-C-D-E_Bedroom_02_96
+  - first:
+      213: 3071852372591311223
+    second: B-C-D-E_Bedroom_02_97
+  - first:
+      213: 5449596916850068490
+    second: B-C-D-E_Bedroom_02_98
+  - first:
+      213: 6773737848629107839
+    second: B-C-D-E_Bedroom_02_99
+  - first:
+      213: 7104265163302949833
+    second: B-C-D-E_Bedroom_02_100
+  - first:
+      213: -7456413990097461595
+    second: B-C-D-E_Bedroom_02_101
+  - first:
+      213: 2290351802814576326
+    second: B-C-D-E_Bedroom_02_102
+  - first:
+      213: 7997492247257655715
+    second: B-C-D-E_Bedroom_02_103
+  - first:
+      213: 3290148326348391626
+    second: B-C-D-E_Bedroom_02_104
+  - first:
+      213: -5036035241991136843
+    second: B-C-D-E_Bedroom_02_105
+  - first:
+      213: 1370984694386271923
+    second: B-C-D-E_Bedroom_02_106
+  - first:
+      213: -642627560701133356
+    second: B-C-D-E_Bedroom_02_107
+  - first:
+      213: -4501664554564016181
+    second: B-C-D-E_Bedroom_02_108
+  - first:
+      213: -210627200864466845
+    second: B-C-D-E_Bedroom_02_109
+  - first:
+      213: 9145830507931020913
+    second: B-C-D-E_Bedroom_02_110
+  - first:
+      213: 3393949257700116806
+    second: B-C-D-E_Bedroom_02_111
+  - first:
+      213: -1400510196200475976
+    second: B-C-D-E_Bedroom_02_112
+  - first:
+      213: -3303351147857933111
+    second: B-C-D-E_Bedroom_02_113
+  - first:
+      213: 7350117782977723915
+    second: B-C-D-E_Bedroom_02_114
+  - first:
+      213: -2850319447114576808
+    second: B-C-D-E_Bedroom_02_115
+  - first:
+      213: 4500076792838252349
+    second: B-C-D-E_Bedroom_02_116
+  - first:
+      213: -8165414586608360082
+    second: B-C-D-E_Bedroom_02_117
+  - first:
+      213: 9201871057165042639
+    second: B-C-D-E_Bedroom_02_118
+  - first:
+      213: 251676388505044720
+    second: B-C-D-E_Bedroom_02_119
+  - first:
+      213: -5405944854221996339
+    second: B-C-D-E_Bedroom_02_120
+  - first:
+      213: -8012963328041777439
+    second: B-C-D-E_Bedroom_02_121
+  - first:
+      213: -5298976375856653099
+    second: B-C-D-E_Bedroom_02_122
+  - first:
+      213: -5688407955527389252
+    second: B-C-D-E_Bedroom_02_123
+  - first:
+      213: 4091012119773540534
+    second: B-C-D-E_Bedroom_02_124
+  - first:
+      213: 4058571121654656509
+    second: B-C-D-E_Bedroom_02_125
+  - first:
+      213: 2337429689560988788
+    second: B-C-D-E_Bedroom_02_126
+  - first:
+      213: 3708656062149896251
+    second: B-C-D-E_Bedroom_02_127
+  - first:
+      213: 5793278966267448268
+    second: B-C-D-E_Bedroom_02_128
+  - first:
+      213: 9205829431404641518
+    second: B-C-D-E_Bedroom_02_129
+  - first:
+      213: -3374059475545794072
+    second: B-C-D-E_Bedroom_02_130
+  - first:
+      213: 3918086158299578067
+    second: B-C-D-E_Bedroom_02_131
+  - first:
+      213: -3927065456665560922
+    second: B-C-D-E_Bedroom_02_132
+  - first:
+      213: -5155964536662444290
+    second: B-C-D-E_Bedroom_02_133
+  - first:
+      213: 3805204665290448562
+    second: B-C-D-E_Bedroom_02_134
+  - first:
+      213: 5983491835736864364
+    second: B-C-D-E_Bedroom_02_135
+  - first:
+      213: -4742697926409737947
+    second: B-C-D-E_Bedroom_02_136
+  - first:
+      213: 3722916835708505842
+    second: B-C-D-E_Bedroom_02_137
+  - first:
+      213: 2062194110502181326
+    second: B-C-D-E_Bedroom_02_138
+  - first:
+      213: 4449172585759096811
+    second: B-C-D-E_Bedroom_02_139
+  - first:
+      213: 1970828921386944599
+    second: B-C-D-E_Bedroom_02_140
+  - first:
+      213: -5283315454250367068
+    second: B-C-D-E_Bedroom_02_141
+  - first:
+      213: 7390239930844705422
+    second: B-C-D-E_Bedroom_02_142
+  - first:
+      213: -3763396149313726717
+    second: B-C-D-E_Bedroom_02_143
+  - first:
+      213: 8827851932751405733
+    second: B-C-D-E_Bedroom_02_144
+  - first:
+      213: -8261240701038407862
+    second: B-C-D-E_Bedroom_02_145
+  - first:
+      213: -3021686989054224652
+    second: B-C-D-E_Bedroom_02_146
+  - first:
+      213: 6422890152487865597
+    second: B-C-D-E_Bedroom_02_147
+  - first:
+      213: -8984306292635456167
+    second: B-C-D-E_Bedroom_02_148
+  - first:
+      213: 1661491187831598022
+    second: B-C-D-E_Bedroom_02_149
+  - first:
+      213: -1841646110953854209
+    second: B-C-D-E_Bedroom_02_150
+  - first:
+      213: 1505382834489334178
+    second: B-C-D-E_Bedroom_02_151
+  - first:
+      213: 4647722183491296166
+    second: B-C-D-E_Bedroom_02_152
+  - first:
+      213: 8112909695759548289
+    second: B-C-D-E_Bedroom_02_153
+  - first:
+      213: 817786368352148273
+    second: B-C-D-E_Bedroom_02_154
+  - first:
+      213: -4735258806124121712
+    second: B-C-D-E_Bedroom_02_155
+  - first:
+      213: -8493927156143385341
+    second: B-C-D-E_Bedroom_02_156
+  - first:
+      213: 4624068722593011480
+    second: B-C-D-E_Bedroom_02_157
+  - first:
+      213: -3192559206901359200
+    second: B-C-D-E_Bedroom_02_158
+  - first:
+      213: 8913770119331201415
+    second: B-C-D-E_Bedroom_02_159
+  - first:
+      213: 7716876457134685296
+    second: B-C-D-E_Bedroom_02_160
+  - first:
+      213: 297128615512882355
+    second: B-C-D-E_Bedroom_02_161
+  - first:
+      213: -2856973475831997479
+    second: B-C-D-E_Bedroom_02_162
+  - first:
+      213: 2738589501294897606
+    second: B-C-D-E_Bedroom_02_163
+  - first:
+      213: -8718997941468126417
+    second: B-C-D-E_Bedroom_02_164
+  - first:
+      213: 5597534446815834937
+    second: B-C-D-E_Bedroom_02_165
+  - first:
+      213: -409753235544945350
+    second: B-C-D-E_Bedroom_02_166
+  - first:
+      213: -6426962214607412760
+    second: B-C-D-E_Bedroom_02_167
+  - first:
+      213: -6899475104408009679
+    second: B-C-D-E_Bedroom_02_168
+  - first:
+      213: 4518028630687688613
+    second: B-C-D-E_Bedroom_02_169
+  - first:
+      213: 4510094978601257013
+    second: B-C-D-E_Bedroom_02_170
+  - first:
+      213: -2512111862020232968
+    second: B-C-D-E_Bedroom_02_171
+  - first:
+      213: -6752765866877156497
+    second: B-C-D-E_Bedroom_02_172
+  - first:
+      213: -6777025334653934033
+    second: B-C-D-E_Bedroom_02_173
+  - first:
+      213: 6543642163519615097
+    second: B-C-D-E_Bedroom_02_174
+  - first:
+      213: -5516062347249911083
+    second: B-C-D-E_Bedroom_02_175
+  - first:
+      213: -265344904617830961
+    second: B-C-D-E_Bedroom_02_0
+  - first:
+      213: -1785515030147900812
+    second: B-C-D-E_Bedroom_02_1
+  - first:
+      213: -6123884009474951690
+    second: B-C-D-E_Bedroom_02_2
+  - first:
+      213: -3270449876801490128
+    second: B-C-D-E_Bedroom_02_3
+  - first:
+      213: -3534795840465244171
+    second: B-C-D-E_Bedroom_02_4
+  - first:
+      213: -8538219903127906438
+    second: B-C-D-E_Bedroom_02_5
+  - first:
+      213: 2636511666483639443
+    second: B-C-D-E_Bedroom_02_6
+  - first:
+      213: -6198917723744743766
+    second: B-C-D-E_Bedroom_02_7
+  - first:
+      213: 213164091506075551
+    second: B-C-D-E_Bedroom_02_8
+  - first:
+      213: -6410780742512589450
+    second: B-C-D-E_Bedroom_02_9
+  - first:
+      213: 4550907070181456036
+    second: B-C-D-E_Bedroom_02_10
+  - first:
+      213: 1194445513873274449
+    second: B-C-D-E_Bedroom_02_11
+  - first:
+      213: 3746673436534462505
+    second: B-C-D-E_Bedroom_02_12
+  - first:
+      213: -2614290685554185181
+    second: B-C-D-E_Bedroom_02_13
+  - first:
+      213: 4460635225564998347
+    second: B-C-D-E_Bedroom_02_14
+  - first:
+      213: -3781758386374419101
+    second: B-C-D-E_Bedroom_02_15
+  - first:
+      213: -5461490276102610749
+    second: B-C-D-E_Bedroom_02_16
+  - first:
+      213: -405168820623295854
+    second: B-C-D-E_Bedroom_02_17
+  - first:
+      213: 6895170210229971
+    second: B-C-D-E_Bedroom_02_18
+  - first:
+      213: 4041471680978399832
+    second: B-C-D-E_Bedroom_02_19
+  - first:
+      213: -262015344428047937
+    second: B-C-D-E_Bedroom_02_20
+  - first:
+      213: 2973717063622469813
+    second: B-C-D-E_Bedroom_02_21
+  - first:
+      213: 804041283764889769
+    second: B-C-D-E_Bedroom_02_22
+  - first:
+      213: 8290501086190716017
+    second: B-C-D-E_Bedroom_02_23
+  - first:
+      213: -2342797316590370510
+    second: B-C-D-E_Bedroom_02_24
+  - first:
+      213: -7385404384861908389
+    second: B-C-D-E_Bedroom_02_25
+  - first:
+      213: 6538156565491437163
+    second: B-C-D-E_Bedroom_02_26
+  - first:
+      213: 5629765093319715400
+    second: B-C-D-E_Bedroom_02_27
+  - first:
+      213: 8033136188702849716
+    second: B-C-D-E_Bedroom_02_28
+  - first:
+      213: -8376742040452046
+    second: B-C-D-E_Bedroom_02_29
+  - first:
+      213: 8632825277482526166
+    second: B-C-D-E_Bedroom_02_30
+  - first:
+      213: 2791782486160019676
+    second: B-C-D-E_Bedroom_02_31
+  - first:
+      213: -5228613177864978394
+    second: B-C-D-E_Bedroom_02_32
+  - first:
+      213: -9123913872648290822
+    second: B-C-D-E_Bedroom_02_33
+  - first:
+      213: -1465408314350106419
+    second: B-C-D-E_Bedroom_02_34
+  - first:
+      213: -8973379614317630573
+    second: B-C-D-E_Bedroom_02_35
+  - first:
+      213: 2445981724658656673
+    second: B-C-D-E_Bedroom_02_36
+  - first:
+      213: 7030880955999298391
+    second: B-C-D-E_Bedroom_02_37
+  - first:
+      213: 3109690562595267414
+    second: B-C-D-E_Bedroom_02_38
+  - first:
+      213: -9004770977295427228
+    second: B-C-D-E_Bedroom_02_39
+  - first:
+      213: 2754132887381136686
+    second: B-C-D-E_Bedroom_02_40
+  - first:
+      213: 9120791996342456004
+    second: B-C-D-E_Bedroom_02_41
+  - first:
+      213: -4102525840021098756
+    second: B-C-D-E_Bedroom_02_42
+  - first:
+      213: 8439614590047297875
+    second: B-C-D-E_Bedroom_02_43
+  - first:
+      213: -8305728470274597937
+    second: B-C-D-E_Bedroom_02_44
+  - first:
+      213: -5728180895907214746
+    second: B-C-D-E_Bedroom_02_45
+  - first:
+      213: 4799397113740861575
+    second: B-C-D-E_Bedroom_02_46
+  - first:
+      213: -6981383778907340548
+    second: B-C-D-E_Bedroom_02_47
+  - first:
+      213: 2379082073822183356
+    second: B-C-D-E_Bedroom_02_48
+  - first:
+      213: -6689183560892706089
+    second: B-C-D-E_Bedroom_02_49
+  - first:
+      213: -5916104518828876051
+    second: B-C-D-E_Bedroom_02_50
+  - first:
+      213: 4829160297457500364
+    second: B-C-D-E_Bedroom_02_51
+  - first:
+      213: 1795114991870396533
+    second: B-C-D-E_Bedroom_02_52
+  - first:
+      213: -4472503997213796861
+    second: B-C-D-E_Bedroom_02_53
+  - first:
+      213: 5944459277072696367
+    second: B-C-D-E_Bedroom_02_54
+  - first:
+      213: 125615687214188767
+    second: B-C-D-E_Bedroom_02_55
+  - first:
+      213: -219859672351129434
+    second: B-C-D-E_Bedroom_02_56
+  - first:
+      213: 6644478292721594656
+    second: B-C-D-E_Bedroom_02_57
+  - first:
+      213: 891532074302215514
+    second: B-C-D-E_Bedroom_02_58
+  - first:
+      213: -4681397977027412913
+    second: B-C-D-E_Bedroom_02_59
+  - first:
+      213: -8723716456608793964
+    second: B-C-D-E_Bedroom_02_60
+  - first:
+      213: 8785135743562946854
+    second: B-C-D-E_Bedroom_02_61
+  - first:
+      213: 7242638066785820951
+    second: B-C-D-E_Bedroom_02_62
+  - first:
+      213: 2898739825185535872
+    second: B-C-D-E_Bedroom_02_63
+  - first:
+      213: -5365923860488204111
+    second: B-C-D-E_Bedroom_02_64
+  - first:
+      213: -4896682844190121259
+    second: B-C-D-E_Bedroom_02_65
+  - first:
+      213: 7209487365250421110
+    second: B-C-D-E_Bedroom_02_66
+  - first:
+      213: 2823576155916504212
+    second: B-C-D-E_Bedroom_02_67
+  - first:
+      213: -2814357021450968961
+    second: B-C-D-E_Bedroom_02_68
+  - first:
+      213: -5983588309631817840
+    second: B-C-D-E_Bedroom_02_69
+  - first:
+      213: -5037055599554487925
+    second: B-C-D-E_Bedroom_02_70
+  - first:
+      213: -2220743089604698218
+    second: B-C-D-E_Bedroom_02_71
+  - first:
+      213: -644785823329718839
+    second: B-C-D-E_Bedroom_02_72
+  - first:
+      213: -4651330680874059357
+    second: B-C-D-E_Bedroom_02_73
+  - first:
+      213: -7002397522581969041
+    second: B-C-D-E_Bedroom_02_74
+  - first:
+      213: -709554583976619392
+    second: B-C-D-E_Bedroom_02_75
+  - first:
+      213: 6726469330615831079
+    second: B-C-D-E_Bedroom_02_76
+  - first:
+      213: 5409617412773310700
+    second: B-C-D-E_Bedroom_02_77
+  - first:
+      213: -4492176977863742511
+    second: B-C-D-E_Bedroom_02_78
+  - first:
+      213: -7159226295306494525
+    second: B-C-D-E_Bedroom_02_79
+  - first:
+      213: -4966142735231303153
+    second: B-C-D-E_Bedroom_02_80
+  - first:
+      213: 1806344789796121729
+    second: B-C-D-E_Bedroom_02_81
+  - first:
+      213: 1095439189409125460
+    second: B-C-D-E_Bedroom_02_82
+  - first:
+      213: -3300734371115046447
+    second: B-C-D-E_Bedroom_02_83
+  - first:
+      213: 243407636755741501
+    second: B-C-D-E_Bedroom_02_84
+  - first:
+      213: 6940073898708404792
+    second: B-C-D-E_Bedroom_02_85
+  - first:
+      213: 5367457187582367714
+    second: B-C-D-E_Bedroom_02_86
+  - first:
+      213: 7712537186409714172
+    second: B-C-D-E_Bedroom_02_87
+  - first:
+      213: 834090482335709749
+    second: B-C-D-E_Bedroom_02_88
+  - first:
+      213: -7062153206742086309
+    second: B-C-D-E_Bedroom_02_89
+  - first:
+      213: -6641337059426182501
+    second: B-C-D-E_Bedroom_02_90
+  - first:
+      213: -2322741890456579726
+    second: B-C-D-E_Bedroom_02_91
+  - first:
+      213: -9113413765124021982
+    second: B-C-D-E_Bedroom_02_92
+  - first:
+      213: 5109776107013543916
+    second: B-C-D-E_Bedroom_02_93
+  - first:
+      213: 380807301415726587
+    second: B-C-D-E_Bedroom_02_94
+  - first:
+      213: 7814520966455705089
+    second: B-C-D-E_Bedroom_02_95
+  - first:
+      213: 522307289811350222
+    second: B-C-D-E_Bedroom_02_96
+  - first:
+      213: -8713520779002258673
+    second: B-C-D-E_Bedroom_02_97
+  - first:
+      213: -6614267759463421127
+    second: B-C-D-E_Bedroom_02_98
+  - first:
+      213: -5941348819014686750
+    second: B-C-D-E_Bedroom_02_99
+  - first:
+      213: 3264418263432890571
+    second: B-C-D-E_Bedroom_02_100
+  - first:
+      213: 6096554428907604507
+    second: B-C-D-E_Bedroom_02_101
+  - first:
+      213: -4142364409296753808
+    second: B-C-D-E_Bedroom_02_102
+  - first:
+      213: -782266309946694565
+    second: B-C-D-E_Bedroom_02_103
+  - first:
+      213: 3619629541625130228
+    second: B-C-D-E_Bedroom_02_104
+  - first:
+      213: 5295184679758265385
+    second: B-C-D-E_Bedroom_02_105
+  - first:
+      213: -6352421710749381130
+    second: B-C-D-E_Bedroom_02_106
+  - first:
+      213: 9093897537424165014
+    second: B-C-D-E_Bedroom_02_107
+  - first:
+      213: -7278940679164551902
+    second: B-C-D-E_Bedroom_02_108
+  - first:
+      213: 7684987567543443092
+    second: B-C-D-E_Bedroom_02_109
+  - first:
+      213: -7631015589931212281
+    second: B-C-D-E_Bedroom_02_110
+  - first:
+      213: 583159426813567648
+    second: B-C-D-E_Bedroom_02_111
+  - first:
+      213: -7173227191655184946
+    second: B-C-D-E_Bedroom_02_112
+  - first:
+      213: 8578554265925529263
+    second: B-C-D-E_Bedroom_02_113
+  - first:
+      213: 6039212615114157801
+    second: B-C-D-E_Bedroom_02_114
+  - first:
+      213: -3348288643751802058
+    second: B-C-D-E_Bedroom_02_115
+  - first:
+      213: -6772908772659603052
+    second: B-C-D-E_Bedroom_02_116
+  - first:
+      213: -7989065235899067651
+    second: B-C-D-E_Bedroom_02_117
+  - first:
+      213: -158204338559597223
+    second: B-C-D-E_Bedroom_02_118
+  - first:
+      213: 3038349784900593367
+    second: B-C-D-E_Bedroom_02_119
+  - first:
+      213: -5960205411721465535
+    second: B-C-D-E_Bedroom_02_120
+  - first:
+      213: 8170226411254196639
+    second: B-C-D-E_Bedroom_02_121
+  - first:
+      213: -989464210354763369
+    second: B-C-D-E_Bedroom_02_122
+  - first:
+      213: 7743256673811730130
+    second: B-C-D-E_Bedroom_02_123
+  - first:
+      213: 5519693975406832336
+    second: B-C-D-E_Bedroom_02_124
+  - first:
+      213: 1581794708046229019
+    second: B-C-D-E_Bedroom_02_125
+  - first:
+      213: -3474390821724280462
+    second: B-C-D-E_Bedroom_02_126
+  - first:
+      213: -7403279766141620561
+    second: B-C-D-E_Bedroom_02_127
+  - first:
+      213: 145356520125615610
+    second: B-C-D-E_Bedroom_02_128
+  - first:
+      213: 7640354263546713833
+    second: B-C-D-E_Bedroom_02_129
+  - first:
+      213: 5789245612658790409
+    second: B-C-D-E_Bedroom_02_130
+  - first:
+      213: -2761137743874377396
+    second: B-C-D-E_Bedroom_02_131
+  - first:
+      213: -2233744369978793873
+    second: B-C-D-E_Bedroom_02_132
+  - first:
+      213: -2566044681189396479
+    second: B-C-D-E_Bedroom_02_133
+  - first:
+      213: 6920596741258537496
+    second: B-C-D-E_Bedroom_02_134
+  - first:
+      213: -2873179791745119501
+    second: B-C-D-E_Bedroom_02_135
+  - first:
+      213: -4790827701710548208
+    second: B-C-D-E_Bedroom_02_136
+  - first:
+      213: -8042720783209202791
+    second: B-C-D-E_Bedroom_02_137
+  - first:
+      213: -699326868045296662
+    second: B-C-D-E_Bedroom_02_138
+  - first:
+      213: -8806631973984323003
+    second: B-C-D-E_Bedroom_02_139
+  - first:
+      213: 3941036425222140335
+    second: B-C-D-E_Bedroom_02_140
+  - first:
+      213: 459601911246068231
+    second: B-C-D-E_Bedroom_02_141
+  - first:
+      213: 7657093304956044039
+    second: B-C-D-E_Bedroom_02_142
+  - first:
+      213: 796686874948915449
+    second: B-C-D-E_Bedroom_02_143
+  - first:
+      213: 5518447200199770205
+    second: B-C-D-E_Bedroom_02_144
+  - first:
+      213: 3331990983320758607
+    second: B-C-D-E_Bedroom_02_145
+  - first:
+      213: 5544947832575725147
+    second: B-C-D-E_Bedroom_02_146
+  - first:
+      213: 6309561697404136408
+    second: B-C-D-E_Bedroom_02_147
+  - first:
+      213: 8171249382140782419
+    second: B-C-D-E_Bedroom_02_148
+  - first:
+      213: -3019456617319169743
+    second: B-C-D-E_Bedroom_02_149
+  - first:
+      213: -1779206422685219578
+    second: B-C-D-E_Bedroom_02_150
+  - first:
+      213: -6031444979763335673
+    second: B-C-D-E_Bedroom_02_151
+  - first:
+      213: -4731615034034744759
+    second: B-C-D-E_Bedroom_02_152
+  - first:
+      213: 1317815799076581902
+    second: B-C-D-E_Bedroom_02_153
+  - first:
+      213: -2439372518330441664
+    second: B-C-D-E_Bedroom_02_154
+  - first:
+      213: -8022645484794477809
+    second: B-C-D-E_Bedroom_02_155
+  - first:
+      213: -8110791481278493364
+    second: B-C-D-E_Bedroom_02_156
+  - first:
+      213: -6315883888795543156
+    second: B-C-D-E_Bedroom_02_157
+  - first:
+      213: -4467629011707650700
+    second: B-C-D-E_Bedroom_02_158
+  - first:
+      213: 7947480100082949334
+    second: B-C-D-E_Bedroom_02_159
+  - first:
+      213: 8670027771250645925
+    second: B-C-D-E_Bedroom_02_160
+  - first:
+      213: 3920353914519888675
+    second: B-C-D-E_Bedroom_02_161
+  - first:
+      213: -5711056495952773911
+    second: B-C-D-E_Bedroom_02_162
+  - first:
+      213: 8130544544244018778
+    second: B-C-D-E_Bedroom_02_163
+  - first:
+      213: 2385506637564150324
+    second: B-C-D-E_Bedroom_02_164
+  - first:
+      213: 2233490483792640948
+    second: B-C-D-E_Bedroom_02_165
+  - first:
+      213: 1008483331012302817
+    second: B-C-D-E_Bedroom_02_166
+  - first:
+      213: -4264884656430819912
+    second: B-C-D-E_Bedroom_02_167
+  - first:
+      213: 2008139655935318208
+    second: B-C-D-E_Bedroom_02_168
+  - first:
+      213: -1420275877795567512
+    second: B-C-D-E_Bedroom_02_169
+  - first:
+      213: -1894976467074007375
+    second: B-C-D-E_Bedroom_02_170
+  - first:
+      213: 4350711590061594040
+    second: B-C-D-E_Bedroom_02_171
+  - first:
+      213: -4493508443042169453
+    second: B-C-D-E_Bedroom_02_172
+  - first:
+      213: -5754051854109468271
+    second: B-C-D-E_Bedroom_02_173
+  - first:
+      213: 6928475406465243649
+    second: B-C-D-E_Bedroom_02_174
+  - first:
+      213: 2642330545768299999
+    second: B-C-D-E_Bedroom_02_175
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55b41173e415cf0800000000000000
+      internalID: -265344904617830961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad9e64a839837e0800000000000000
+      internalID: -1785515030147900812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fc8960f7930ba0800000000000000
+      internalID: -6123884009474951690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f6852a270d92d0800000000000000
+      internalID: -3270449876801490128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6a8749e1e1fec0800000000000000
+      internalID: -3534795840465244171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7714eb4c36228980800000000000000
+      internalID: -8538219903127906438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943eee4465c69420800000000000000
+      internalID: 2636511666483639443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae425c6c2509f9a0800000000000000
+      internalID: -6198917723744743766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a611ac9f45f200800000000000000
+      internalID: 213164091506075551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754f9561e45807a0800000000000000
+      internalID: -6410780742512589450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8bafb5ed1182f30800000000000000
+      internalID: 4550907070181456036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b9fdcdd5839010800000000000000
+      internalID: 1194445513873274449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928570ac3abdef330800000000000000
+      internalID: 3746673436534462505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2eebf87c28bbd0800000000000000
+      internalID: -2614290685554185181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca656caa1c57ed30800000000000000
+      internalID: 4460635225564998347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5cc1c8ce748bc0800000000000000
+      internalID: -3781758386374419101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c067a4b783e434b0800000000000000
+      internalID: -5461490276102610749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3fa4ba1d806af0800000000000000
+      internalID: -405168820623295854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deeb0bee1f781000800000000000000
+      internalID: 6895170210229971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b48ac411361830800000000000000
+      internalID: 4041471680978399832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12aa5be622d5cf0800000000000000
+      internalID: -262015344428047937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82cb7f9e3c44920800000000000000
+      internalID: 2973717063622469813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82e8f9947882b00800000000000000
+      internalID: 804041283764889769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174436c10d6cd0370800000000000000
+      internalID: 8290501086190716017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23184e3d046bc7fd0800000000000000
+      internalID: -2342797316590370510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5291bd67d5c18990800000000000000
+      internalID: -7385404384861908389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e410471c23cba50800000000000000
+      internalID: 6538156565491437163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a273c4681f02e40800000000000000
+      internalID: 5629765093319715400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf7ff5dce6b7f60800000000000000
+      internalID: 8033136188702849716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234cd42c56d32eff0800000000000000
+      internalID: -8376742040452046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5eb58e9d4fdc770800000000000000
+      internalID: 8632825277482526166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd099b131676eb620800000000000000
+      internalID: 2791782486160019676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208e61640c3077b0800000000000000
+      internalID: -5228613177864978394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd3a836ca8516180800000000000000
+      internalID: -9123913872648290822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80244f6e2d9abe0800000000000000
+      internalID: -1465408314350106419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39badd5a8c6287380800000000000000
+      internalID: -8973379614317630573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a560615b6fd1f120800000000000000
+      internalID: 2445981724658656673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753a5607af4b29160800000000000000
+      internalID: 7030880955999298391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65320e04717d72b20800000000000000
+      internalID: 3109690562595267414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691f866180a80380800000000000000
+      internalID: -9004770977295427228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d290e445a83620800000000000000
+      internalID: 2754132887381136686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec7342fff839e70800000000000000
+      internalID: 9120791996342456004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6eaf0c76e017c0800000000000000
+      internalID: -4102525840021098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35129f031c88f1570800000000000000
+      internalID: 8439614590047297875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1f6046ff1cbc80800000000000000
+      internalID: -8305728470274597937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a854a03d96180b0800000000000000
+      internalID: -5728180895907214746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802f842f32ea9240800000000000000
+      internalID: 4799397113740861575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0cd8921742d1f90800000000000000
+      internalID: -6981383778907340548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfbbad8a82340120800000000000000
+      internalID: 2379082073822183356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29b9ffdfe3b23a0800000000000000
+      internalID: -6689183560892706089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee1f15f846c5eda0800000000000000
+      internalID: -5916104518828876051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0cf5d54bf940340800000000000000
+      internalID: 4829160297457500364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c96df29789e810800000000000000
+      internalID: 1795114991870396533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069e859f497ee1c0800000000000000
+      internalID: -4472503997213796861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2481b7a736fe7250800000000000000
+      internalID: 5944459277072696367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84e9e4dc64eb100800000000000000
+      internalID: 125615687214188767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0c319fac6e2fcf0800000000000000
+      internalID: -219859672351129434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f673adcde53c50800000000000000
+      internalID: 6644478292721594656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5596a2b2bb5f5c00800000000000000
+      internalID: 891532074302215514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7c0fc755580fb0800000000000000
+      internalID: -4681397977027412913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7a9a5a122fe680800000000000000
+      internalID: -8723716456608793964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62918a2c9621be970800000000000000
+      internalID: 8785135743562946854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ad77d2f4038460800000000000000
+      internalID: 7242638066785820951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087367843846a3820800000000000000
+      internalID: 2898739825185535872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0dec3cda86885b0800000000000000
+      internalID: -5365923860488204111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d26c4e95ec7b0cb0800000000000000
+      internalID: -4896682844190121259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711b6aaf8e3d0460800000000000000
+      internalID: 7209487365250421110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c8aa9cd8b5f2720800000000000000
+      internalID: 2823576155916504212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e949333561f8d0800000000000000
+      internalID: -2814357021450968961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972732822606fca0800000000000000
+      internalID: -5983588309631817840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8999a2ae98c81ab0800000000000000
+      internalID: -5037055599554487925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f55be0de55e21e0800000000000000
+      internalID: -2220743089604698218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd693cb5b24d07f0800000000000000
+      internalID: -644785823329718839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a930a9b367237fb0800000000000000
+      internalID: -4651330680874059357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672d62bd8c72de90800000000000000
+      internalID: -7002397522581969041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d2518dd72726f0800000000000000
+      internalID: -709554583976619392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8ae3c738395d50800000000000000
+      internalID: 6726469330615831079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0fe132062d21b40800000000000000
+      internalID: 5409617412773310700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6e36d6d498a1c0800000000000000
+      internalID: -4492176977863742511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdde999d9155ac90800000000000000
+      internalID: -7159226295306494525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c6aa7e77b41bb0800000000000000
+      internalID: -4966142735231303153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_81
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ceca1140d611910800000000000000
+      internalID: 1806344789796121729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d5cd8328c33f00800000000000000
+      internalID: 1095439189409125460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e3c7d39f6132d0800000000000000
+      internalID: -3300734371115046447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b717cb4f1c06300800000000000000
+      internalID: 243407636755741501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8977d078105060800000000000000
+      internalID: 6940073898708404792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d6f4cfd90d7a40800000000000000
+      internalID: 5367457187582367714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf111f055bf680b60800000000000000
+      internalID: 7712537186409714172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a772edfd8439b00800000000000000
+      internalID: 834090482335709749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d80ca43113efd90800000000000000
+      internalID: -7062153206742086309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad34bb12b35d3a0800000000000000
+      internalID: -6641337059426182501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719a6a9e86f3cfd0800000000000000
+      internalID: -2322741890456579726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a0ae2776a68180800000000000000
+      internalID: -9113413765124021982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7125ceb4299e640800000000000000
+      internalID: 5109776107013543916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd62c81936e84500800000000000000
+      internalID: 380807301415726587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e3f677a61c27c60800000000000000
+      internalID: 7814520966455705089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27dc876bb9f3700800000000000000
+      internalID: 522307289811350222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd598840b531780800000000000000
+      internalID: -8713520779002258673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2dd344866534a0800000000000000
+      internalID: -6614267759463421127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e761fb4ab61c8da0800000000000000
+      internalID: -5941348819014686750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8073e6d1b8d4d20800000000000000
+      internalID: 3264418263432890571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4fd0c3ff4b9450800000000000000
+      internalID: 6096554428907604507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b65a5548d5386c0800000000000000
+      internalID: -4142364409296753808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542fdb8fe4d425f0800000000000000
+      internalID: -782266309946694565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6317f3e18b3230800000000000000
+      internalID: 3619629541625130228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf41149664c7940800000000000000
+      internalID: 5295184679758265385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcd435c1aa7d7a0800000000000000
+      internalID: -6352421710749381130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69887f5f0a3043e70800000000000000
+      internalID: 9093897537424165014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d914d84020cfa90800000000000000
+      internalID: -7278940679164551902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e58b2d97f86aa60800000000000000
+      internalID: 7684987567543443092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702aea670cf291690800000000000000
+      internalID: -7631015589931212281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a4a2b86cc71800800000000000000
+      internalID: 583159426813567648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54834efd3937c90800000000000000
+      internalID: -7173227191655184946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae27ea57a52d0770800000000000000
+      internalID: 8578554265925529263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeefe650e79fc350800000000000000
+      internalID: 6039212615114157801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b03bfe73d7881d0800000000000000
+      internalID: -3348288643751802058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4995f7d0b5bc102a0800000000000000
+      internalID: -6772908772659603052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_117
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df250deee73212190800000000000000
+      internalID: -7989065235899067651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ca360ef1fdcdf0800000000000000
+      internalID: -158204338559597223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6626018036a2a20800000000000000
+      internalID: 3038349784900593367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413bfda1c8194da0800000000000000
+      internalID: -5960205411721465535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99225122a9726170800000000000000
+      internalID: 8170226411254196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79987d70b87b442f0800000000000000
+      internalID: -989464210354763369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de88375be2957b60800000000000000
+      internalID: 7743256673811730130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daecf01d64e99c40800000000000000
+      internalID: 5519693975406832336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e20b008e9a3f510800000000000000
+      internalID: 1581794708046229019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2792f3ca4fb78cfc0800000000000000
+      internalID: -3474390821724280462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_127
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeaa46e644424990800000000000000
+      internalID: -7403279766141620561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdcfd32cf8640200800000000000000
+      internalID: 145356520125615610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d7dce8bdf70a60800000000000000
+      internalID: 7640354263546713833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90014044638875050800000000000000
+      internalID: 5789245612658790409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b170e9d77ea9d0800000000000000
+      internalID: -2761137743874377396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a26494552001e0800000000000000
+      internalID: -2233744369978793873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100fceb35f3936cd0800000000000000
+      internalID: -2566044681189396479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae07cb116ea0060800000000000000
+      internalID: 6920596741258537496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8331c33a6028d0800000000000000
+      internalID: -2873179791745119501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131173969f838db0800000000000000
+      internalID: -4790827701710548208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf9215f04826090800000000000000
+      internalID: -8042720783209202791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb06403bed7b46f0800000000000000
+      internalID: -699326868045296662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a311311ee88c580800000000000000
+      internalID: -8806631973984323003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1bd3c8fbf51b630800000000000000
+      internalID: 3941036425222140335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a99e1d085d06600800000000000000
+      internalID: 459601911246068231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034de5bac5734a60800000000000000
+      internalID: 7657093304956044039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0db82ed766e0b00800000000000000
+      internalID: 796686874948915449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5008a79d76759c40800000000000000
+      internalID: 5518447200199770205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4963ab452c9d3e20800000000000000
+      internalID: 3331990983320758607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e8fb2ecac93fc40800000000000000
+      internalID: 5544947832575725147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db2f2e2fe0109750800000000000000
+      internalID: 6309561697404136408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a1a9150c166170800000000000000
+      internalID: 8171249382140782419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310dfd443cb816d0800000000000000
+      internalID: -3019456617319169743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60501c96f2dfe47e0800000000000000
+      internalID: -1779206422685219578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea4e23fb00c4ca0800000000000000
+      internalID: -6031444979763335673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942167a123de55eb0800000000000000
+      internalID: -4731615034034744759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e027b57bc72d94210800000000000000
+      internalID: 1317815799076581902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04060127e9b952ed0800000000000000
+      internalID: -2439372518330441664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030fe7ff66d9a090800000000000000
+      internalID: -8022645484794477809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d812fde1ea07f80800000000000000
+      internalID: -8110791481278493364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899abde0197958a0800000000000000
+      internalID: -6315883888795543156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9fe8951bcff1c0800000000000000
+      internalID: -4467629011707650700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1ee02b0f1b4e60800000000000000
+      internalID: 7947480100082949334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9a2a7250225870800000000000000
+      internalID: 8670027771250645925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32325c44d15e76630800000000000000
+      internalID: 3920353914519888675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3c8a10604eb0b0800000000000000
+      internalID: -5711056495952773911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ea72e7f2f75d070800000000000000
+      internalID: 8130544544244018778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432095dd5a50b1120800000000000000
+      internalID: 2385506637564150324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfcafe2c3fefe10800000000000000
+      internalID: 2233490483792640948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e714e21f3adefd00800000000000000
+      internalID: 1008483331012302817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55d65500610d4c0800000000000000
+      internalID: -4264884656430819912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c85663a0685edb10800000000000000
+      internalID: 2008139655935318208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86860f43d9a2a4ce0800000000000000
+      internalID: -1420275877795567512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be345671f0b3b5e0800000000000000
+      internalID: -1894976467074007375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5dbcdd325d06c30800000000000000
+      internalID: 4350711590061594040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db041f0e9d3a1c0800000000000000
+      internalID: -4493508443042169453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19990a033508520b0800000000000000
+      internalID: -5754051854109468271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a146d6ca3e62060800000000000000
+      internalID: 6928475406465243649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bedroom_02_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddfea7b1a17ba420800000000000000
+      internalID: 2642330545768299999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

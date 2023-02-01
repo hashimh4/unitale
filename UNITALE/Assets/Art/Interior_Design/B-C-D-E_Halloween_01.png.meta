@@ -1,0 +1,6704 @@
+fileFormatVersion: 2
+guid: 0e12ccb6567ab7f409a0ae60aa6846e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 189196325695769887
+    second: B-C-D-E_Halloween_01_0
+  - first:
+      213: 5849746174621131412
+    second: B-C-D-E_Halloween_01_1
+  - first:
+      213: -7174323052938939638
+    second: B-C-D-E_Halloween_01_2
+  - first:
+      213: -3006092354537559086
+    second: B-C-D-E_Halloween_01_3
+  - first:
+      213: 8680971086732408027
+    second: B-C-D-E_Halloween_01_4
+  - first:
+      213: -8173147361146224283
+    second: B-C-D-E_Halloween_01_5
+  - first:
+      213: -5929254406856387586
+    second: B-C-D-E_Halloween_01_6
+  - first:
+      213: -2700335212912684074
+    second: B-C-D-E_Halloween_01_7
+  - first:
+      213: -135332778074707856
+    second: B-C-D-E_Halloween_01_8
+  - first:
+      213: 4543606912483350393
+    second: B-C-D-E_Halloween_01_9
+  - first:
+      213: 2862497286840756656
+    second: B-C-D-E_Halloween_01_10
+  - first:
+      213: 7081626966917527922
+    second: B-C-D-E_Halloween_01_11
+  - first:
+      213: -242602477752664969
+    second: B-C-D-E_Halloween_01_12
+  - first:
+      213: -7338233395906556967
+    second: B-C-D-E_Halloween_01_13
+  - first:
+      213: 8994797802834555149
+    second: B-C-D-E_Halloween_01_14
+  - first:
+      213: 8078291967787744011
+    second: B-C-D-E_Halloween_01_15
+  - first:
+      213: 2947114381451449824
+    second: B-C-D-E_Halloween_01_16
+  - first:
+      213: -180621327888592055
+    second: B-C-D-E_Halloween_01_17
+  - first:
+      213: 5591260679598957430
+    second: B-C-D-E_Halloween_01_18
+  - first:
+      213: -3019572546481051294
+    second: B-C-D-E_Halloween_01_19
+  - first:
+      213: 2369898512528695445
+    second: B-C-D-E_Halloween_01_20
+  - first:
+      213: 1793859036025154334
+    second: B-C-D-E_Halloween_01_21
+  - first:
+      213: 1487282397760903967
+    second: B-C-D-E_Halloween_01_22
+  - first:
+      213: 1817479408503525044
+    second: B-C-D-E_Halloween_01_23
+  - first:
+      213: -273797439951374039
+    second: B-C-D-E_Halloween_01_24
+  - first:
+      213: -4468494043228166716
+    second: B-C-D-E_Halloween_01_25
+  - first:
+      213: 4556348894811603758
+    second: B-C-D-E_Halloween_01_26
+  - first:
+      213: -5702221215282889678
+    second: B-C-D-E_Halloween_01_27
+  - first:
+      213: 2579901863577274806
+    second: B-C-D-E_Halloween_01_28
+  - first:
+      213: -3660546562493580605
+    second: B-C-D-E_Halloween_01_29
+  - first:
+      213: 8982523960838478185
+    second: B-C-D-E_Halloween_01_30
+  - first:
+      213: 4089562991604072378
+    second: B-C-D-E_Halloween_01_31
+  - first:
+      213: -5204837650384863451
+    second: B-C-D-E_Halloween_01_32
+  - first:
+      213: -8866465859827236818
+    second: B-C-D-E_Halloween_01_33
+  - first:
+      213: 4612546733410915931
+    second: B-C-D-E_Halloween_01_34
+  - first:
+      213: -3381286984478200442
+    second: B-C-D-E_Halloween_01_35
+  - first:
+      213: 6069601340011753072
+    second: B-C-D-E_Halloween_01_36
+  - first:
+      213: -4480208228002077786
+    second: B-C-D-E_Halloween_01_37
+  - first:
+      213: 6352623261299367417
+    second: B-C-D-E_Halloween_01_38
+  - first:
+      213: 6640831351809210859
+    second: B-C-D-E_Halloween_01_39
+  - first:
+      213: 3422963841157394212
+    second: B-C-D-E_Halloween_01_40
+  - first:
+      213: -6944792291924762223
+    second: B-C-D-E_Halloween_01_41
+  - first:
+      213: 7196282817931676352
+    second: B-C-D-E_Halloween_01_42
+  - first:
+      213: 1208178436917834336
+    second: B-C-D-E_Halloween_01_43
+  - first:
+      213: 8116795169335362797
+    second: B-C-D-E_Halloween_01_44
+  - first:
+      213: 6551612493113503842
+    second: B-C-D-E_Halloween_01_45
+  - first:
+      213: 3998109732353449612
+    second: B-C-D-E_Halloween_01_46
+  - first:
+      213: -3841772236786732195
+    second: B-C-D-E_Halloween_01_47
+  - first:
+      213: -5119030336648287455
+    second: B-C-D-E_Halloween_01_48
+  - first:
+      213: 1361459026437219812
+    second: B-C-D-E_Halloween_01_49
+  - first:
+      213: -6909178120391829977
+    second: B-C-D-E_Halloween_01_50
+  - first:
+      213: 1105929004285016599
+    second: B-C-D-E_Halloween_01_51
+  - first:
+      213: 2233636747478150515
+    second: B-C-D-E_Halloween_01_52
+  - first:
+      213: 229681670298231630
+    second: B-C-D-E_Halloween_01_53
+  - first:
+      213: 6234794751494304020
+    second: B-C-D-E_Halloween_01_54
+  - first:
+      213: 3958006118361102020
+    second: B-C-D-E_Halloween_01_55
+  - first:
+      213: 5719330109250732204
+    second: B-C-D-E_Halloween_01_56
+  - first:
+      213: 2557439818031827501
+    second: B-C-D-E_Halloween_01_57
+  - first:
+      213: -578789215834029692
+    second: B-C-D-E_Halloween_01_58
+  - first:
+      213: 3404854222370625927
+    second: B-C-D-E_Halloween_01_59
+  - first:
+      213: -692300164327395688
+    second: B-C-D-E_Halloween_01_60
+  - first:
+      213: 3333164883434210951
+    second: B-C-D-E_Halloween_01_61
+  - first:
+      213: 7530442717285217697
+    second: B-C-D-E_Halloween_01_62
+  - first:
+      213: 3415696217070836658
+    second: B-C-D-E_Halloween_01_63
+  - first:
+      213: 8085927837307395433
+    second: B-C-D-E_Halloween_01_64
+  - first:
+      213: -6042807033888900253
+    second: B-C-D-E_Halloween_01_65
+  - first:
+      213: -9125354469566539930
+    second: B-C-D-E_Halloween_01_66
+  - first:
+      213: 2304067497508791397
+    second: B-C-D-E_Halloween_01_67
+  - first:
+      213: -77924966891330245
+    second: B-C-D-E_Halloween_01_68
+  - first:
+      213: 8359771932008187738
+    second: B-C-D-E_Halloween_01_69
+  - first:
+      213: 4022544371015689529
+    second: B-C-D-E_Halloween_01_70
+  - first:
+      213: 2437301932459668910
+    second: B-C-D-E_Halloween_01_71
+  - first:
+      213: -4283084418565385591
+    second: B-C-D-E_Halloween_01_72
+  - first:
+      213: 4954716850195345455
+    second: B-C-D-E_Halloween_01_73
+  - first:
+      213: -5189809631292774910
+    second: B-C-D-E_Halloween_01_74
+  - first:
+      213: -3663129154025876415
+    second: B-C-D-E_Halloween_01_75
+  - first:
+      213: -1391379496389946704
+    second: B-C-D-E_Halloween_01_76
+  - first:
+      213: -7012651986593196176
+    second: B-C-D-E_Halloween_01_77
+  - first:
+      213: 5236099054638095766
+    second: B-C-D-E_Halloween_01_78
+  - first:
+      213: 2068618896994222573
+    second: B-C-D-E_Halloween_01_79
+  - first:
+      213: 7216953149878514710
+    second: B-C-D-E_Halloween_01_80
+  - first:
+      213: -2023028523811407039
+    second: B-C-D-E_Halloween_01_81
+  - first:
+      213: 404385272140783991
+    second: B-C-D-E_Halloween_01_82
+  - first:
+      213: -779256911610329236
+    second: B-C-D-E_Halloween_01_83
+  - first:
+      213: -3251014368954575216
+    second: B-C-D-E_Halloween_01_84
+  - first:
+      213: 6508730583398191709
+    second: B-C-D-E_Halloween_01_85
+  - first:
+      213: 6298894473053386588
+    second: B-C-D-E_Halloween_01_86
+  - first:
+      213: 2269017480920351002
+    second: B-C-D-E_Halloween_01_87
+  - first:
+      213: -6468801669865208800
+    second: B-C-D-E_Halloween_01_88
+  - first:
+      213: -7604787290635220454
+    second: B-C-D-E_Halloween_01_89
+  - first:
+      213: -5117675589411026895
+    second: B-C-D-E_Halloween_01_90
+  - first:
+      213: 953993921700986761
+    second: B-C-D-E_Halloween_01_91
+  - first:
+      213: -8084541441487023080
+    second: B-C-D-E_Halloween_01_92
+  - first:
+      213: -248733572007159133
+    second: B-C-D-E_Halloween_01_93
+  - first:
+      213: 2707791681499677279
+    second: B-C-D-E_Halloween_01_94
+  - first:
+      213: 7346963499171327760
+    second: B-C-D-E_Halloween_01_95
+  - first:
+      213: 3367001106401852286
+    second: B-C-D-E_Halloween_01_96
+  - first:
+      213: 8600815024103804565
+    second: B-C-D-E_Halloween_01_97
+  - first:
+      213: -1019151581851793018
+    second: B-C-D-E_Halloween_01_98
+  - first:
+      213: -1989646401727506951
+    second: B-C-D-E_Halloween_01_99
+  - first:
+      213: -1163182527405026422
+    second: B-C-D-E_Halloween_01_100
+  - first:
+      213: -7441692697877235941
+    second: B-C-D-E_Halloween_01_101
+  - first:
+      213: -8851334958773735150
+    second: B-C-D-E_Halloween_01_102
+  - first:
+      213: 4771575162445726941
+    second: B-C-D-E_Halloween_01_103
+  - first:
+      213: 8164256338984269137
+    second: B-C-D-E_Halloween_01_104
+  - first:
+      213: 7409767637431365314
+    second: B-C-D-E_Halloween_01_105
+  - first:
+      213: 6522468062495719048
+    second: B-C-D-E_Halloween_01_106
+  - first:
+      213: 1436132714174967853
+    second: B-C-D-E_Halloween_01_107
+  - first:
+      213: -7149361098175852272
+    second: B-C-D-E_Halloween_01_108
+  - first:
+      213: -8010933024203623962
+    second: B-C-D-E_Halloween_01_109
+  - first:
+      213: -4116367333845256876
+    second: B-C-D-E_Halloween_01_110
+  - first:
+      213: 3282709510618733319
+    second: B-C-D-E_Halloween_01_111
+  - first:
+      213: -4740737417367103271
+    second: B-C-D-E_Halloween_01_112
+  - first:
+      213: -4004604954361903892
+    second: B-C-D-E_Halloween_01_113
+  - first:
+      213: 1259689058069410119
+    second: B-C-D-E_Halloween_01_114
+  - first:
+      213: -5457221491426591081
+    second: B-C-D-E_Halloween_01_115
+  - first:
+      213: 1365826726119159477
+    second: B-C-D-E_Halloween_01_116
+  - first:
+      213: -5725705585187593095
+    second: B-C-D-E_Halloween_01_117
+  - first:
+      213: -2839587552122745687
+    second: B-C-D-E_Halloween_01_118
+  - first:
+      213: -8170812787014302179
+    second: B-C-D-E_Halloween_01_119
+  - first:
+      213: 3343534314158605973
+    second: B-C-D-E_Halloween_01_120
+  - first:
+      213: -1686463247191657906
+    second: B-C-D-E_Halloween_01_121
+  - first:
+      213: -1829500289887647526
+    second: B-C-D-E_Halloween_01_122
+  - first:
+      213: 3956857079911510520
+    second: B-C-D-E_Halloween_01_123
+  - first:
+      213: -751207471455549476
+    second: B-C-D-E_Halloween_01_124
+  - first:
+      213: -7472530218242339506
+    second: B-C-D-E_Halloween_01_125
+  - first:
+      213: 2924225269734057198
+    second: B-C-D-E_Halloween_01_126
+  - first:
+      213: 1235845456080967474
+    second: B-C-D-E_Halloween_01_127
+  - first:
+      213: -8702755719114127240
+    second: B-C-D-E_Halloween_01_128
+  - first:
+      213: 1915810666294421264
+    second: B-C-D-E_Halloween_01_129
+  - first:
+      213: 4470967778273025153
+    second: B-C-D-E_Halloween_01_130
+  - first:
+      213: -8142963359560206515
+    second: B-C-D-E_Halloween_01_131
+  - first:
+      213: -6185449095958186500
+    second: B-C-D-E_Halloween_01_132
+  - first:
+      213: 3650963834818239457
+    second: B-C-D-E_Halloween_01_133
+  - first:
+      213: 5077876781255779468
+    second: B-C-D-E_Halloween_01_134
+  - first:
+      213: 1200327364791432179
+    second: B-C-D-E_Halloween_01_135
+  - first:
+      213: 92674639437244097
+    second: B-C-D-E_Halloween_01_136
+  - first:
+      213: 439994349725852205
+    second: B-C-D-E_Halloween_01_137
+  - first:
+      213: -4362584196172501503
+    second: B-C-D-E_Halloween_01_138
+  - first:
+      213: 2104140522934601052
+    second: B-C-D-E_Halloween_01_139
+  - first:
+      213: -5725244120994851181
+    second: B-C-D-E_Halloween_01_140
+  - first:
+      213: -6801004992002789855
+    second: B-C-D-E_Halloween_01_141
+  - first:
+      213: 1626023771068000541
+    second: B-C-D-E_Halloween_01_142
+  - first:
+      213: 7447429242317871877
+    second: B-C-D-E_Halloween_01_143
+  - first:
+      213: -6159420896816918968
+    second: B-C-D-E_Halloween_01_144
+  - first:
+      213: -8546348335497151026
+    second: B-C-D-E_Halloween_01_145
+  - first:
+      213: 1811761548742565771
+    second: B-C-D-E_Halloween_01_146
+  - first:
+      213: 6355422709063097246
+    second: B-C-D-E_Halloween_01_147
+  - first:
+      213: -432381794415096560
+    second: B-C-D-E_Halloween_01_148
+  - first:
+      213: -1190991562917487484
+    second: B-C-D-E_Halloween_01_149
+  - first:
+      213: 5932810008893331128
+    second: B-C-D-E_Halloween_01_150
+  - first:
+      213: 163915933963569974
+    second: B-C-D-E_Halloween_01_151
+  - first:
+      213: 3496035720971674223
+    second: B-C-D-E_Halloween_01_152
+  - first:
+      213: -3324342394176540748
+    second: B-C-D-E_Halloween_01_153
+  - first:
+      213: 7129057465460834833
+    second: B-C-D-E_Halloween_01_154
+  - first:
+      213: -8079189407086383486
+    second: B-C-D-E_Halloween_01_155
+  - first:
+      213: -7303395369680522615
+    second: B-C-D-E_Halloween_01_156
+  - first:
+      213: 5528266865407952068
+    second: B-C-D-E_Halloween_01_157
+  - first:
+      213: -1335668651458559435
+    second: B-C-D-E_Halloween_01_158
+  - first:
+      213: 443800063550885475
+    second: B-C-D-E_Halloween_01_159
+  - first:
+      213: 3256581267931490234
+    second: B-C-D-E_Halloween_01_160
+  - first:
+      213: 404318326046379332
+    second: B-C-D-E_Halloween_01_161
+  - first:
+      213: 3101363845390732817
+    second: B-C-D-E_Halloween_01_162
+  - first:
+      213: -1714806989762803075
+    second: B-C-D-E_Halloween_01_163
+  - first:
+      213: -5283600906263783400
+    second: B-C-D-E_Halloween_01_164
+  - first:
+      213: -2343117493549977325
+    second: B-C-D-E_Halloween_01_165
+  - first:
+      213: -1941848161463883418
+    second: B-C-D-E_Halloween_01_166
+  - first:
+      213: 6443219947657092928
+    second: B-C-D-E_Halloween_01_167
+  - first:
+      213: 5530653064239790626
+    second: B-C-D-E_Halloween_01_168
+  - first:
+      213: 8256186204686040228
+    second: B-C-D-E_Halloween_01_169
+  - first:
+      213: -2751190219124555152
+    second: B-C-D-E_Halloween_01_170
+  - first:
+      213: 1534862055699301768
+    second: B-C-D-E_Halloween_01_171
+  - first:
+      213: -3073428368840791126
+    second: B-C-D-E_Halloween_01_172
+  - first:
+      213: 8198571549690362464
+    second: B-C-D-E_Halloween_01_173
+  - first:
+      213: -1037977126375965119
+    second: B-C-D-E_Halloween_01_174
+  - first:
+      213: 8452674372915287969
+    second: B-C-D-E_Halloween_01_175
+  - first:
+      213: -703773036388740860
+    second: B-C-D-E_Halloween_01_176
+  - first:
+      213: -6254754438067392816
+    second: B-C-D-E_Halloween_01_177
+  - first:
+      213: -5009724837170984046
+    second: B-C-D-E_Halloween_01_178
+  - first:
+      213: 4007082798111006944
+    second: B-C-D-E_Halloween_01_179
+  - first:
+      213: -4220728019058354829
+    second: B-C-D-E_Halloween_01_180
+  - first:
+      213: -3110640845733580780
+    second: B-C-D-E_Halloween_01_181
+  - first:
+      213: -7192365582651467976
+    second: B-C-D-E_Halloween_01_182
+  - first:
+      213: -3457667426372732336
+    second: B-C-D-E_Halloween_01_183
+  - first:
+      213: -7304248758845500252
+    second: B-C-D-E_Halloween_01_184
+  - first:
+      213: -6229812895086638813
+    second: B-C-D-E_Halloween_01_185
+  - first:
+      213: -4254962988458429993
+    second: B-C-D-E_Halloween_01_186
+  - first:
+      213: 9111643165274081181
+    second: B-C-D-E_Halloween_01_187
+  - first:
+      213: 8064198234578928553
+    second: B-C-D-E_Halloween_01_188
+  - first:
+      213: 7181710864766033178
+    second: B-C-D-E_Halloween_01_189
+  - first:
+      213: -5245335389878396040
+    second: B-C-D-E_Halloween_01_190
+  - first:
+      213: -7966740313822071795
+    second: B-C-D-E_Halloween_01_191
+  - first:
+      213: -1436473866510310095
+    second: B-C-D-E_Halloween_01_192
+  - first:
+      213: 360149485210453030
+    second: B-C-D-E_Halloween_01_193
+  - first:
+      213: 5272727174768754494
+    second: B-C-D-E_Halloween_01_194
+  - first:
+      213: 857485106200372963
+    second: B-C-D-E_Halloween_01_195
+  - first:
+      213: -8939223239467422591
+    second: B-C-D-E_Halloween_01_196
+  - first:
+      213: -1628569254450244584
+    second: B-C-D-E_Halloween_01_197
+  - first:
+      213: 1042811382542683824
+    second: B-C-D-E_Halloween_01_198
+  - first:
+      213: -8022018086564317100
+    second: B-C-D-E_Halloween_01_199
+  - first:
+      213: 7119935549936646990
+    second: B-C-D-E_Halloween_01_200
+  - first:
+      213: 3098906749032591820
+    second: B-C-D-E_Halloween_01_201
+  - first:
+      213: -626997386210548328
+    second: B-C-D-E_Halloween_01_202
+  - first:
+      213: 4395438230364360969
+    second: B-C-D-E_Halloween_01_203
+  - first:
+      213: 8163078369078308524
+    second: B-C-D-E_Halloween_01_204
+  - first:
+      213: -5152500128031071712
+    second: B-C-D-E_Halloween_01_205
+  - first:
+      213: 4582944668103460648
+    second: B-C-D-E_Halloween_01_206
+  - first:
+      213: -6583152302850925108
+    second: B-C-D-E_Halloween_01_207
+  - first:
+      213: -42738145172177903
+    second: B-C-D-E_Halloween_01_208
+  - first:
+      213: 8754537754616540657
+    second: B-C-D-E_Halloween_01_209
+  - first:
+      213: 7792078217698174666
+    second: B-C-D-E_Halloween_01_210
+  - first:
+      213: -1280753132500120603
+    second: B-C-D-E_Halloween_01_211
+  - first:
+      213: 8786418369217749778
+    second: B-C-D-E_Halloween_01_212
+  - first:
+      213: 1089956760116582718
+    second: B-C-D-E_Halloween_01_213
+  - first:
+      213: 392946157982133249
+    second: B-C-D-E_Halloween_01_214
+  - first:
+      213: -1434695137059548165
+    second: B-C-D-E_Halloween_01_215
+  - first:
+      213: -8100948675370004376
+    second: B-C-D-E_Halloween_01_216
+  - first:
+      213: 101722264046319979
+    second: B-C-D-E_Halloween_01_217
+  - first:
+      213: -4832534219521455658
+    second: B-C-D-E_Halloween_01_218
+  - first:
+      213: 7358821068296073879
+    second: B-C-D-E_Halloween_01_219
+  - first:
+      213: -1055463670673239572
+    second: B-C-D-E_Halloween_01_220
+  - first:
+      213: 125281991649337942
+    second: B-C-D-E_Halloween_01_221
+  - first:
+      213: -7401369650880015685
+    second: B-C-D-E_Halloween_01_222
+  - first:
+      213: -7419792110059708972
+    second: B-C-D-E_Halloween_01_223
+  - first:
+      213: 6815162898451651845
+    second: B-C-D-E_Halloween_01_224
+  - first:
+      213: -5503040231062182564
+    second: B-C-D-E_Halloween_01_225
+  - first:
+      213: 4901339957579880289
+    second: B-C-D-E_Halloween_01_226
+  - first:
+      213: 1852145443889728908
+    second: B-C-D-E_Halloween_01_227
+  - first:
+      213: -4214276325781186720
+    second: B-C-D-E_Halloween_01_228
+  - first:
+      213: -3443593406325051610
+    second: B-C-D-E_Halloween_01_229
+  - first:
+      213: -5301420830652217856
+    second: B-C-D-E_Halloween_01_230
+  - first:
+      213: 8237675397271891893
+    second: B-C-D-E_Halloween_01_231
+  - first:
+      213: 5589955065186601189
+    second: B-C-D-E_Halloween_01_232
+  - first:
+      213: -1918438226569824498
+    second: B-C-D-E_Halloween_01_233
+  - first:
+      213: 870326234038458655
+    second: B-C-D-E_Halloween_01_234
+  - first:
+      213: -8577650512800970448
+    second: B-C-D-E_Halloween_01_235
+  - first:
+      213: 2767231199725644383
+    second: B-C-D-E_Halloween_01_236
+  - first:
+      213: 3361989864668471121
+    second: B-C-D-E_Halloween_01_237
+  - first:
+      213: 4679750238116328419
+    second: B-C-D-E_Halloween_01_238
+  - first:
+      213: 7838735609279081722
+    second: B-C-D-E_Halloween_01_239
+  - first:
+      213: 3471050279857621475
+    second: B-C-D-E_Halloween_01_240
+  - first:
+      213: 9209537354845493999
+    second: B-C-D-E_Halloween_01_241
+  - first:
+      213: 1554312670605858289
+    second: B-C-D-E_Halloween_01_242
+  - first:
+      213: -1498086893202982336
+    second: B-C-D-E_Halloween_01_243
+  - first:
+      213: -42803029229317603
+    second: B-C-D-E_Halloween_01_0
+  - first:
+      213: 1250254690826080353
+    second: B-C-D-E_Halloween_01_1
+  - first:
+      213: -8690543089271799266
+    second: B-C-D-E_Halloween_01_2
+  - first:
+      213: -87355232683775193
+    second: B-C-D-E_Halloween_01_3
+  - first:
+      213: -7889132732397550477
+    second: B-C-D-E_Halloween_01_4
+  - first:
+      213: 5412641193223118073
+    second: B-C-D-E_Halloween_01_5
+  - first:
+      213: 2261987248052725232
+    second: B-C-D-E_Halloween_01_6
+  - first:
+      213: -4511218659228519807
+    second: B-C-D-E_Halloween_01_7
+  - first:
+      213: -2118120957475700463
+    second: B-C-D-E_Halloween_01_8
+  - first:
+      213: 372681197345936454
+    second: B-C-D-E_Halloween_01_9
+  - first:
+      213: -8191888932559405195
+    second: B-C-D-E_Halloween_01_10
+  - first:
+      213: -7519496834763220157
+    second: B-C-D-E_Halloween_01_11
+  - first:
+      213: 8891516907970461943
+    second: B-C-D-E_Halloween_01_12
+  - first:
+      213: 3296951507163565196
+    second: B-C-D-E_Halloween_01_13
+  - first:
+      213: 2798014495254137688
+    second: B-C-D-E_Halloween_01_14
+  - first:
+      213: -8789402083667948734
+    second: B-C-D-E_Halloween_01_15
+  - first:
+      213: 8995671263671047178
+    second: B-C-D-E_Halloween_01_16
+  - first:
+      213: 571486573588075481
+    second: B-C-D-E_Halloween_01_17
+  - first:
+      213: 79763596556427258
+    second: B-C-D-E_Halloween_01_18
+  - first:
+      213: 1448043329368225569
+    second: B-C-D-E_Halloween_01_19
+  - first:
+      213: 8180556302659734736
+    second: B-C-D-E_Halloween_01_20
+  - first:
+      213: 5558128268636942962
+    second: B-C-D-E_Halloween_01_21
+  - first:
+      213: -796360271640829614
+    second: B-C-D-E_Halloween_01_22
+  - first:
+      213: 5916781560716738017
+    second: B-C-D-E_Halloween_01_23
+  - first:
+      213: 1370132892592761533
+    second: B-C-D-E_Halloween_01_24
+  - first:
+      213: 7853465230071576519
+    second: B-C-D-E_Halloween_01_25
+  - first:
+      213: -8831353488107876384
+    second: B-C-D-E_Halloween_01_26
+  - first:
+      213: 5938771501021728204
+    second: B-C-D-E_Halloween_01_27
+  - first:
+      213: -4288663790584609714
+    second: B-C-D-E_Halloween_01_28
+  - first:
+      213: 6411647548140356706
+    second: B-C-D-E_Halloween_01_29
+  - first:
+      213: -4582690686305722982
+    second: B-C-D-E_Halloween_01_30
+  - first:
+      213: 113867993567291077
+    second: B-C-D-E_Halloween_01_31
+  - first:
+      213: -6367510007889564622
+    second: B-C-D-E_Halloween_01_32
+  - first:
+      213: 5883477852313951951
+    second: B-C-D-E_Halloween_01_33
+  - first:
+      213: -7685685366702449557
+    second: B-C-D-E_Halloween_01_34
+  - first:
+      213: -8651949829034540646
+    second: B-C-D-E_Halloween_01_35
+  - first:
+      213: 4306977407730549373
+    second: B-C-D-E_Halloween_01_36
+  - first:
+      213: 909831630885999684
+    second: B-C-D-E_Halloween_01_37
+  - first:
+      213: 7445544717997066581
+    second: B-C-D-E_Halloween_01_38
+  - first:
+      213: -638508898303374970
+    second: B-C-D-E_Halloween_01_39
+  - first:
+      213: 4124377715085866529
+    second: B-C-D-E_Halloween_01_40
+  - first:
+      213: 7091883840580827564
+    second: B-C-D-E_Halloween_01_41
+  - first:
+      213: 4238213174862654325
+    second: B-C-D-E_Halloween_01_42
+  - first:
+      213: -5890681991303340507
+    second: B-C-D-E_Halloween_01_43
+  - first:
+      213: -2980778500201374467
+    second: B-C-D-E_Halloween_01_44
+  - first:
+      213: -6171558783103590130
+    second: B-C-D-E_Halloween_01_45
+  - first:
+      213: 2884641669414766180
+    second: B-C-D-E_Halloween_01_46
+  - first:
+      213: 5029805248619818268
+    second: B-C-D-E_Halloween_01_47
+  - first:
+      213: -3617204166528550414
+    second: B-C-D-E_Halloween_01_48
+  - first:
+      213: 7141019940522334049
+    second: B-C-D-E_Halloween_01_49
+  - first:
+      213: 6890373144178428234
+    second: B-C-D-E_Halloween_01_50
+  - first:
+      213: -907749458008762686
+    second: B-C-D-E_Halloween_01_51
+  - first:
+      213: -1291900701648910652
+    second: B-C-D-E_Halloween_01_52
+  - first:
+      213: -474038434486653932
+    second: B-C-D-E_Halloween_01_53
+  - first:
+      213: 3902344030531802753
+    second: B-C-D-E_Halloween_01_54
+  - first:
+      213: 3275151353122201013
+    second: B-C-D-E_Halloween_01_55
+  - first:
+      213: -7015886159498733832
+    second: B-C-D-E_Halloween_01_56
+  - first:
+      213: -6298776693859109869
+    second: B-C-D-E_Halloween_01_57
+  - first:
+      213: 9128164886716211669
+    second: B-C-D-E_Halloween_01_58
+  - first:
+      213: 1202479836302443952
+    second: B-C-D-E_Halloween_01_59
+  - first:
+      213: -2435733133703568340
+    second: B-C-D-E_Halloween_01_60
+  - first:
+      213: 6535461709792864223
+    second: B-C-D-E_Halloween_01_61
+  - first:
+      213: -9217029195506704229
+    second: B-C-D-E_Halloween_01_62
+  - first:
+      213: -5749123834033020295
+    second: B-C-D-E_Halloween_01_63
+  - first:
+      213: 8475207977574985328
+    second: B-C-D-E_Halloween_01_64
+  - first:
+      213: 6930207863435893863
+    second: B-C-D-E_Halloween_01_65
+  - first:
+      213: -4651390728260977667
+    second: B-C-D-E_Halloween_01_66
+  - first:
+      213: -6980801929589452269
+    second: B-C-D-E_Halloween_01_67
+  - first:
+      213: 8366017003640374381
+    second: B-C-D-E_Halloween_01_68
+  - first:
+      213: 4978119442903376544
+    second: B-C-D-E_Halloween_01_69
+  - first:
+      213: -4053129432205227241
+    second: B-C-D-E_Halloween_01_70
+  - first:
+      213: -1182213619359215795
+    second: B-C-D-E_Halloween_01_71
+  - first:
+      213: -7561705068402965832
+    second: B-C-D-E_Halloween_01_72
+  - first:
+      213: 9070645736244766840
+    second: B-C-D-E_Halloween_01_73
+  - first:
+      213: 5793058879160907014
+    second: B-C-D-E_Halloween_01_74
+  - first:
+      213: -3252934066012529352
+    second: B-C-D-E_Halloween_01_75
+  - first:
+      213: -4395356538094620892
+    second: B-C-D-E_Halloween_01_76
+  - first:
+      213: -3498420847664105472
+    second: B-C-D-E_Halloween_01_77
+  - first:
+      213: 4335874326222439232
+    second: B-C-D-E_Halloween_01_78
+  - first:
+      213: -6581545164742980392
+    second: B-C-D-E_Halloween_01_79
+  - first:
+      213: -5217001400855624092
+    second: B-C-D-E_Halloween_01_80
+  - first:
+      213: -3097776030499823702
+    second: B-C-D-E_Halloween_01_81
+  - first:
+      213: -8450159581313733969
+    second: B-C-D-E_Halloween_01_82
+  - first:
+      213: -6309191902556997178
+    second: B-C-D-E_Halloween_01_83
+  - first:
+      213: -6758573785238308325
+    second: B-C-D-E_Halloween_01_84
+  - first:
+      213: -2318691229015368461
+    second: B-C-D-E_Halloween_01_85
+  - first:
+      213: -7590075047280369225
+    second: B-C-D-E_Halloween_01_86
+  - first:
+      213: -2699491463501222407
+    second: B-C-D-E_Halloween_01_87
+  - first:
+      213: 4083754872747002235
+    second: B-C-D-E_Halloween_01_88
+  - first:
+      213: -8322815124371740571
+    second: B-C-D-E_Halloween_01_89
+  - first:
+      213: -1129321580291174088
+    second: B-C-D-E_Halloween_01_90
+  - first:
+      213: 301728054510234961
+    second: B-C-D-E_Halloween_01_91
+  - first:
+      213: 4010941623097951951
+    second: B-C-D-E_Halloween_01_92
+  - first:
+      213: 6421765882396796695
+    second: B-C-D-E_Halloween_01_93
+  - first:
+      213: -7853508841130167159
+    second: B-C-D-E_Halloween_01_94
+  - first:
+      213: 4411736417565671069
+    second: B-C-D-E_Halloween_01_95
+  - first:
+      213: 7817556618005483321
+    second: B-C-D-E_Halloween_01_96
+  - first:
+      213: -870428542298157789
+    second: B-C-D-E_Halloween_01_97
+  - first:
+      213: -1448788357322927963
+    second: B-C-D-E_Halloween_01_98
+  - first:
+      213: 4780576055166098372
+    second: B-C-D-E_Halloween_01_99
+  - first:
+      213: 2625466979337932393
+    second: B-C-D-E_Halloween_01_100
+  - first:
+      213: 567041678809615094
+    second: B-C-D-E_Halloween_01_101
+  - first:
+      213: 3738002793709366088
+    second: B-C-D-E_Halloween_01_102
+  - first:
+      213: -3136458534065488103
+    second: B-C-D-E_Halloween_01_103
+  - first:
+      213: 8784200129684718394
+    second: B-C-D-E_Halloween_01_104
+  - first:
+      213: 2130303166558832613
+    second: B-C-D-E_Halloween_01_105
+  - first:
+      213: 5879555068123392099
+    second: B-C-D-E_Halloween_01_106
+  - first:
+      213: 9050823725089203090
+    second: B-C-D-E_Halloween_01_107
+  - first:
+      213: 8074334981145090529
+    second: B-C-D-E_Halloween_01_108
+  - first:
+      213: -8254834452984884917
+    second: B-C-D-E_Halloween_01_109
+  - first:
+      213: 634984514592445623
+    second: B-C-D-E_Halloween_01_110
+  - first:
+      213: 128442422776687086
+    second: B-C-D-E_Halloween_01_111
+  - first:
+      213: 7485871392689135952
+    second: B-C-D-E_Halloween_01_112
+  - first:
+      213: 2453205233929236520
+    second: B-C-D-E_Halloween_01_113
+  - first:
+      213: -6011454741164402785
+    second: B-C-D-E_Halloween_01_114
+  - first:
+      213: -5083421164401889556
+    second: B-C-D-E_Halloween_01_115
+  - first:
+      213: 7065225095684391458
+    second: B-C-D-E_Halloween_01_116
+  - first:
+      213: -1351383846970493676
+    second: B-C-D-E_Halloween_01_117
+  - first:
+      213: 3209854444407699652
+    second: B-C-D-E_Halloween_01_118
+  - first:
+      213: -5731342761473137702
+    second: B-C-D-E_Halloween_01_119
+  - first:
+      213: -9222388229706354839
+    second: B-C-D-E_Halloween_01_120
+  - first:
+      213: 735027124516953670
+    second: B-C-D-E_Halloween_01_121
+  - first:
+      213: 7012164136604237801
+    second: B-C-D-E_Halloween_01_122
+  - first:
+      213: -1488476005672454625
+    second: B-C-D-E_Halloween_01_123
+  - first:
+      213: 6839170115463731303
+    second: B-C-D-E_Halloween_01_124
+  - first:
+      213: -2312945055030023526
+    second: B-C-D-E_Halloween_01_125
+  - first:
+      213: 3084158430782282695
+    second: B-C-D-E_Halloween_01_126
+  - first:
+      213: -6915200836655550387
+    second: B-C-D-E_Halloween_01_127
+  - first:
+      213: 5132505436086609985
+    second: B-C-D-E_Halloween_01_128
+  - first:
+      213: -2475678507766310770
+    second: B-C-D-E_Halloween_01_129
+  - first:
+      213: 7572866529326570138
+    second: B-C-D-E_Halloween_01_130
+  - first:
+      213: 6340600987780117066
+    second: B-C-D-E_Halloween_01_131
+  - first:
+      213: 8977614203853675342
+    second: B-C-D-E_Halloween_01_132
+  - first:
+      213: 5944559706862264297
+    second: B-C-D-E_Halloween_01_133
+  - first:
+      213: -6009281803413133946
+    second: B-C-D-E_Halloween_01_134
+  - first:
+      213: -7042596764415372795
+    second: B-C-D-E_Halloween_01_135
+  - first:
+      213: 861241832253706312
+    second: B-C-D-E_Halloween_01_136
+  - first:
+      213: -6207592220272740456
+    second: B-C-D-E_Halloween_01_137
+  - first:
+      213: 5232557713175225058
+    second: B-C-D-E_Halloween_01_138
+  - first:
+      213: -9069705705521887839
+    second: B-C-D-E_Halloween_01_139
+  - first:
+      213: -6604108538731946860
+    second: B-C-D-E_Halloween_01_140
+  - first:
+      213: -4928107571973674339
+    second: B-C-D-E_Halloween_01_141
+  - first:
+      213: -7256570225638637823
+    second: B-C-D-E_Halloween_01_142
+  - first:
+      213: 1970760146325246417
+    second: B-C-D-E_Halloween_01_143
+  - first:
+      213: 8872593193119815966
+    second: B-C-D-E_Halloween_01_144
+  - first:
+      213: 9022303221996119972
+    second: B-C-D-E_Halloween_01_145
+  - first:
+      213: 2205877507855040707
+    second: B-C-D-E_Halloween_01_146
+  - first:
+      213: -4327265666084536640
+    second: B-C-D-E_Halloween_01_147
+  - first:
+      213: -2165951939315724311
+    second: B-C-D-E_Halloween_01_148
+  - first:
+      213: 9135391320853060371
+    second: B-C-D-E_Halloween_01_149
+  - first:
+      213: -635030826934527584
+    second: B-C-D-E_Halloween_01_150
+  - first:
+      213: 2118831868074019223
+    second: B-C-D-E_Halloween_01_151
+  - first:
+      213: 1479501697740963596
+    second: B-C-D-E_Halloween_01_152
+  - first:
+      213: -3974836668824030508
+    second: B-C-D-E_Halloween_01_153
+  - first:
+      213: -940205701708950945
+    second: B-C-D-E_Halloween_01_154
+  - first:
+      213: 1786922804025124302
+    second: B-C-D-E_Halloween_01_155
+  - first:
+      213: 4732191165147667481
+    second: B-C-D-E_Halloween_01_156
+  - first:
+      213: 3891678430001436171
+    second: B-C-D-E_Halloween_01_157
+  - first:
+      213: 4768706647367409398
+    second: B-C-D-E_Halloween_01_158
+  - first:
+      213: 6069301363842349729
+    second: B-C-D-E_Halloween_01_159
+  - first:
+      213: -3055912956196346545
+    second: B-C-D-E_Halloween_01_160
+  - first:
+      213: -2575166411860388845
+    second: B-C-D-E_Halloween_01_161
+  - first:
+      213: -354968997442295797
+    second: B-C-D-E_Halloween_01_162
+  - first:
+      213: 7792874609306366687
+    second: B-C-D-E_Halloween_01_163
+  - first:
+      213: 740740128861477129
+    second: B-C-D-E_Halloween_01_164
+  - first:
+      213: -7395397853589214790
+    second: B-C-D-E_Halloween_01_165
+  - first:
+      213: -222438407070301433
+    second: B-C-D-E_Halloween_01_166
+  - first:
+      213: 4120296049909737962
+    second: B-C-D-E_Halloween_01_167
+  - first:
+      213: -3840857734963832891
+    second: B-C-D-E_Halloween_01_168
+  - first:
+      213: -4721069648047265324
+    second: B-C-D-E_Halloween_01_169
+  - first:
+      213: 2784925064055138223
+    second: B-C-D-E_Halloween_01_170
+  - first:
+      213: 2362242247959370227
+    second: B-C-D-E_Halloween_01_171
+  - first:
+      213: 6085136815777933907
+    second: B-C-D-E_Halloween_01_172
+  - first:
+      213: 4077274976728581143
+    second: B-C-D-E_Halloween_01_173
+  - first:
+      213: 6794421265656001565
+    second: B-C-D-E_Halloween_01_174
+  - first:
+      213: -8028458903354745629
+    second: B-C-D-E_Halloween_01_175
+  - first:
+      213: -2845605132294255850
+    second: B-C-D-E_Halloween_01_176
+  - first:
+      213: 4389533132007144253
+    second: B-C-D-E_Halloween_01_177
+  - first:
+      213: -904967896241680438
+    second: B-C-D-E_Halloween_01_178
+  - first:
+      213: 5341604159510798014
+    second: B-C-D-E_Halloween_01_179
+  - first:
+      213: -6275646632693298642
+    second: B-C-D-E_Halloween_01_180
+  - first:
+      213: 509904649549161553
+    second: B-C-D-E_Halloween_01_181
+  - first:
+      213: 4504951636809617806
+    second: B-C-D-E_Halloween_01_182
+  - first:
+      213: 5810871621410983524
+    second: B-C-D-E_Halloween_01_183
+  - first:
+      213: 4124936739923199105
+    second: B-C-D-E_Halloween_01_184
+  - first:
+      213: -4146746465468360321
+    second: B-C-D-E_Halloween_01_185
+  - first:
+      213: -762852497934927534
+    second: B-C-D-E_Halloween_01_186
+  - first:
+      213: -7782648587193202315
+    second: B-C-D-E_Halloween_01_187
+  - first:
+      213: -4749879701049543962
+    second: B-C-D-E_Halloween_01_188
+  - first:
+      213: 2975254934382240554
+    second: B-C-D-E_Halloween_01_189
+  - first:
+      213: -8191797452229377018
+    second: B-C-D-E_Halloween_01_190
+  - first:
+      213: 8615993887725598993
+    second: B-C-D-E_Halloween_01_191
+  - first:
+      213: -4583964907161685373
+    second: B-C-D-E_Halloween_01_192
+  - first:
+      213: -5714424033789418548
+    second: B-C-D-E_Halloween_01_193
+  - first:
+      213: 5526861253120007061
+    second: B-C-D-E_Halloween_01_194
+  - first:
+      213: 8577582737491614756
+    second: B-C-D-E_Halloween_01_195
+  - first:
+      213: 3427034730034217340
+    second: B-C-D-E_Halloween_01_196
+  - first:
+      213: -8657778829005466580
+    second: B-C-D-E_Halloween_01_197
+  - first:
+      213: -8941869721263434891
+    second: B-C-D-E_Halloween_01_198
+  - first:
+      213: 6036218187977963024
+    second: B-C-D-E_Halloween_01_199
+  - first:
+      213: 208063327964497512
+    second: B-C-D-E_Halloween_01_200
+  - first:
+      213: -5267366070839715529
+    second: B-C-D-E_Halloween_01_201
+  - first:
+      213: -7898889190455266079
+    second: B-C-D-E_Halloween_01_202
+  - first:
+      213: -6396593675583495782
+    second: B-C-D-E_Halloween_01_203
+  - first:
+      213: 2962826813384168289
+    second: B-C-D-E_Halloween_01_204
+  - first:
+      213: -7442278198023945277
+    second: B-C-D-E_Halloween_01_205
+  - first:
+      213: 5404924017294445238
+    second: B-C-D-E_Halloween_01_206
+  - first:
+      213: 2052899783495092205
+    second: B-C-D-E_Halloween_01_207
+  - first:
+      213: -1069379143549676230
+    second: B-C-D-E_Halloween_01_208
+  - first:
+      213: -3498156102840106194
+    second: B-C-D-E_Halloween_01_209
+  - first:
+      213: 4157979546329372092
+    second: B-C-D-E_Halloween_01_210
+  - first:
+      213: 7374548809674829073
+    second: B-C-D-E_Halloween_01_211
+  - first:
+      213: -1486617535659096685
+    second: B-C-D-E_Halloween_01_212
+  - first:
+      213: 8551972654926919042
+    second: B-C-D-E_Halloween_01_213
+  - first:
+      213: -6177598360877725613
+    second: B-C-D-E_Halloween_01_214
+  - first:
+      213: 1714990755479036620
+    second: B-C-D-E_Halloween_01_215
+  - first:
+      213: -2042094777252705982
+    second: B-C-D-E_Halloween_01_216
+  - first:
+      213: -1502200815683510399
+    second: B-C-D-E_Halloween_01_217
+  - first:
+      213: -3080511005176685284
+    second: B-C-D-E_Halloween_01_218
+  - first:
+      213: 1596528527023830
+    second: B-C-D-E_Halloween_01_219
+  - first:
+      213: 5330929467931323879
+    second: B-C-D-E_Halloween_01_220
+  - first:
+      213: 3528143172073523220
+    second: B-C-D-E_Halloween_01_221
+  - first:
+      213: -1048480631934227890
+    second: B-C-D-E_Halloween_01_222
+  - first:
+      213: 3477909458220851599
+    second: B-C-D-E_Halloween_01_223
+  - first:
+      213: -3164826879615238337
+    second: B-C-D-E_Halloween_01_224
+  - first:
+      213: -6703840978540832762
+    second: B-C-D-E_Halloween_01_225
+  - first:
+      213: 6648595285261721678
+    second: B-C-D-E_Halloween_01_226
+  - first:
+      213: 8408994201343404948
+    second: B-C-D-E_Halloween_01_227
+  - first:
+      213: -221075445406737939
+    second: B-C-D-E_Halloween_01_228
+  - first:
+      213: -6927180976476068209
+    second: B-C-D-E_Halloween_01_229
+  - first:
+      213: -6796713190768044195
+    second: B-C-D-E_Halloween_01_230
+  - first:
+      213: 4089681339835253521
+    second: B-C-D-E_Halloween_01_231
+  - first:
+      213: 1303685239455935619
+    second: B-C-D-E_Halloween_01_232
+  - first:
+      213: -9144103899461217135
+    second: B-C-D-E_Halloween_01_233
+  - first:
+      213: 5548564339847846873
+    second: B-C-D-E_Halloween_01_234
+  - first:
+      213: -783730059437673849
+    second: B-C-D-E_Halloween_01_235
+  - first:
+      213: -3239340860129256562
+    second: B-C-D-E_Halloween_01_236
+  - first:
+      213: -1054359394459422454
+    second: B-C-D-E_Halloween_01_237
+  - first:
+      213: -3326357105085842332
+    second: B-C-D-E_Halloween_01_238
+  - first:
+      213: -5174575766990763961
+    second: B-C-D-E_Halloween_01_239
+  - first:
+      213: 7059088775192819270
+    second: B-C-D-E_Halloween_01_240
+  - first:
+      213: 5637777666402443292
+    second: B-C-D-E_Halloween_01_241
+  - first:
+      213: 1038285879350930979
+    second: B-C-D-E_Halloween_01_242
+  - first:
+      213: -1145627853604772782
+    second: B-C-D-E_Halloween_01_243
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d9772fdee76ff0800000000000000
+      internalID: -42803029229317603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605475640cc95110800000000000000
+      internalID: 1250254690826080353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128ab2da1df46780800000000000000
+      internalID: -8690543089271799266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bac92f0e6a9cef0800000000000000
+      internalID: -87355232683775193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374898b049b248290800000000000000
+      internalID: -7889132732397550477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd5b2ec709d1b40800000000000000
+      internalID: 5412641193223118073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f565a6ea61346f10800000000000000
+      internalID: 2261987248052725232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f198e78ee461c0800000000000000
+      internalID: -4511218659228519807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111c952263cea92e0800000000000000
+      internalID: -2118120957475700463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644954e03970c2500800000000000000
+      internalID: 372681197345936454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fb7571b60905e80800000000000000
+      internalID: -8191888932559405195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9342087165a790800000000000000
+      internalID: -7519496834763220157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f085fdb483056b70800000000000000
+      internalID: 8891516907970461943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c4c228def11cd20800000000000000
+      internalID: 3296951507163565196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b4402eb5b84d620800000000000000
+      internalID: 2798014495254137688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc4e68f55c50680800000000000000
+      internalID: -8789402083667948734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a045d4b6a5b07dc70800000000000000
+      internalID: 8995671263671047178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d35f94c2045ee700800000000000000
+      internalID: 571486573588075481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd0c681906b1100800000000000000
+      internalID: 79763596556427258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127fd5a6cbb781410800000000000000
+      internalID: 1448043329368225569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dccd156d9c278170800000000000000
+      internalID: 8180556302659734736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272792c4630722d40800000000000000
+      internalID: 5558128268636942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516d9f5d82c2f4f0800000000000000
+      internalID: -796360271640829614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3a142b71ac1250800000000000000
+      internalID: 5916781560716738017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae1164b90b30310800000000000000
+      internalID: 1370132892592761533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73c4e640d1dfc60800000000000000
+      internalID: 7853465230071576519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4c670bcab07580800000000000000
+      internalID: -8831353488107876384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0d981731ca6250800000000000000
+      internalID: 5938771501021728204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44cf19310b9b74c0800000000000000
+      internalID: -4288663790584609714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26409e3897fbaf850800000000000000
+      internalID: 6411647548140356706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d9147d9130760c0800000000000000
+      internalID: -4582690686305722982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c66ddb365a849100800000000000000
+      internalID: 113867993567291077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6ff3626f02a7a0800000000000000
+      internalID: -6367510007889564622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce1d074fef46a150800000000000000
+      internalID: 5883477852313951951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c584621e5f65590800000000000000
+      internalID: -7685685366702449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9105e178791ee780800000000000000
+      internalID: -8651949829034540646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72896b022575cb30800000000000000
+      internalID: 4306977407730549373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444df5c3c0f50ac00800000000000000
+      internalID: 909831630885999684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559408b0973e35760800000000000000
+      internalID: 7445544717997066581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68983ba3a8f8327f0800000000000000
+      internalID: -638508898303374970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fa331eabbc3930800000000000000
+      internalID: 4124377715085866529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9372257ce6b6260800000000000000
+      internalID: 7091883840580827564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba1127d6821da30800000000000000
+      internalID: 4238213174862654325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed29760f7104ea0800000000000000
+      internalID: -5890681991303340507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc10653fb522a6d0800000000000000
+      internalID: -2980778500201374467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012bae2cf73a5aa0800000000000000
+      internalID: -6171558783103590130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c1c9905e480820800000000000000
+      internalID: 2884641669414766180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d216d79357dc540800000000000000
+      internalID: 5029805248619818268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b00ea9fb1dcdc0800000000000000
+      internalID: -3617204166528550414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16790d81dcff91360800000000000000
+      internalID: 7141019940522334049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4985ac2ed58f9f50800000000000000
+      internalID: 6890373144178428234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6955a6da60763f0800000000000000
+      internalID: -907749458008762686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68329182f321ee0800000000000000
+      internalID: -1291900701648910652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6a8e2e80eb69f0800000000000000
+      internalID: -474038434486653932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d6336839e72630800000000000000
+      internalID: 3902344030531802753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1d7c9dcca37d20800000000000000
+      internalID: 3275151353122201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69f7ea5b092ae90800000000000000
+      internalID: -7015886159498733832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b40328ff3698a0800000000000000
+      internalID: -6298776693859109869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e9e3f991cdae70800000000000000
+      internalID: 9128164886716211669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b580644a0110b010800000000000000
+      internalID: 1202479836302443952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2423f5be99823ed0800000000000000
+      internalID: -2435733133703568340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ee577ccf92ba50800000000000000
+      internalID: 6535461709792864223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b902b65d7c8861080800000000000000
+      internalID: -9217029195506704229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972eab645520730b0800000000000000
+      internalID: -5749123834033020295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee9e480ccfd9570800000000000000
+      internalID: 8475207977574985328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c17bf755b0d2060800000000000000
+      internalID: 6930207863435893863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb757ad6c0f27fb0800000000000000
+      internalID: -4651390728260977667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312957381a53f1f90800000000000000
+      internalID: -6980801929589452269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ccd6c3201a1470800000000000000
+      internalID: 8366017003640374381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a8b31245d51540800000000000000
+      internalID: 4978119442903376544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0abc714460c7c0800000000000000
+      internalID: -4053129432205227241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f07711afee79fe0800000000000000
+      internalID: -1182213619359215795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_72
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2029dcd4d6f0790800000000000000
+      internalID: -7561705068402965832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878e7402d3861ed70800000000000000
+      internalID: 9070645736244766840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605fe4f8b54156050800000000000000
+      internalID: 5793058879160907014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5e85a3b14bd2d0800000000000000
+      internalID: -3252934066012529352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42feda5248e8003c0800000000000000
+      internalID: -4395356538094620892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f82446cc137fc0800000000000000
+      internalID: -3498420847664105472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043893d2abe1c2c30800000000000000
+      internalID: 4335874326222439232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0e4e0b87a9a4a0800000000000000
+      internalID: -6581545164742980392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660945eddc7997b0800000000000000
+      internalID: -5217001400855624092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf965cec1d7205d0800000000000000
+      internalID: -3097776030499823702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6e64b1a00bba80800000000000000
+      internalID: -8450159581313733969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b154646f3178a0800000000000000
+      internalID: -6309191902556997178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7a9663f8b432a0800000000000000
+      internalID: -6758573785238308325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc99b6bc9a52dfd0800000000000000
+      internalID: -2318691229015368461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12c4c55f2aaa690800000000000000
+      internalID: -7590075047280369225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6fc301da798ad0800000000000000
+      internalID: -2699491463501222407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790bdb8b696ca830800000000000000
+      internalID: 4083754872747002235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568e2949dbb6f7c80800000000000000
+      internalID: -8322815124371740571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831df819108d350f0800000000000000
+      internalID: -1129321580291174088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2ad32114ff2400800000000000000
+      internalID: 301728054510234961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc60593c72ab9a730800000000000000
+      internalID: 4010941623097951951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ebfacb02be1950800000000000000
+      internalID: 6421765882396796695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984fb04915bb20390800000000000000
+      internalID: -7853508841130167159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef7abb5e2a93d30800000000000000
+      internalID: 4411736417565671069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f88bb235a8d7c60800000000000000
+      internalID: 7817556618005483321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d05fd3add9be3f0800000000000000
+      internalID: -870428542298157789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09b0f3aaed4ebe0800000000000000
+      internalID: -1448788357322927963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd9e5f794085240800000000000000
+      internalID: 4780576055166098372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e84f0be488f6420800000000000000
+      internalID: 2625466979337932393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac94e07698ed700800000000000000
+      internalID: 567041678809615094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be6707cbd00e330800000000000000
+      internalID: 3738002793709366088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb848b49f0974d0800000000000000
+      internalID: -3136458534065488103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a334ccd2a7fb7e970800000000000000
+      internalID: 8784200129684718394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e701a2717b509d10800000000000000
+      internalID: 2130303166558832613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a7d8ee20689150800000000000000
+      internalID: 5879555068123392099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293ae92893cfa9d70800000000000000
+      internalID: 9050823725089203090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d9acb2eccd0070800000000000000
+      internalID: 8074334981145090529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411e2e0dcfe07d80800000000000000
+      internalID: -8254834452984884917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4182e3d0befc800800000000000000
+      internalID: 634984514592445623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e1b7f3b158c100800000000000000
+      internalID: 128442422776687086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051ae7bae5823e760800000000000000
+      internalID: 7485871392689135952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203b71a9298b0220800000000000000
+      internalID: 2453205233929236520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97de8153c5039ca0800000000000000
+      internalID: -6011454741164402785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6f14526f0479b0800000000000000
+      internalID: -5083421164401889556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22281769ac8bc0260800000000000000
+      internalID: 7065225095684391458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157f161d8bee3de0800000000000000
+      internalID: -1351383846970493676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c831a35c91bb8c20800000000000000
+      internalID: 3209854444407699652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32368df1e2670b0800000000000000
+      internalID: -5731342761473137702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96feb9374ce730080800000000000000
+      internalID: -9222388229706354839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1c118647533a00800000000000000
+      internalID: 735027124516953670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef77055126305160800000000000000
+      internalID: 7012164136604237801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16733985fed75be0800000000000000
+      internalID: -1488476005672454625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768deaa0cfc99ee50800000000000000
+      internalID: 6839170115463731303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a60f91ab4c6efd0800000000000000
+      internalID: -2312945055030023526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbddc190c12dca20800000000000000
+      internalID: 3084158430782282695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4079a43a754800a0800000000000000
+      internalID: -6915200836655550387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14824bd30825a3740800000000000000
+      internalID: 5132505436086609985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_129
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88158e838f94add0800000000000000
+      internalID: -2475678507766310770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a94f35cf9381960800000000000000
+      internalID: 7572866529326570138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ff1321075ef750800000000000000
+      internalID: 6340600987780117066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b133f8d84e69c70800000000000000
+      internalID: 8977614203853675342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef10a9ce815f7250800000000000000
+      internalID: 5944559706862264297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856750d90eba9ca0800000000000000
+      internalID: -6009281803413133946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502d4b85e8ba34e90800000000000000
+      internalID: -7042596764415372795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840503522eeb3fb00800000000000000
+      internalID: 861241832253706312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973a20d3c33ad9a0800000000000000
+      internalID: -6207592220272740456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22a805487cd9840800000000000000
+      internalID: 5232557713175225058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c805d6bee12280800000000000000
+      internalID: -9069705705521887839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c12ca264e7954a0800000000000000
+      internalID: -6604108538731946860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa8950648db9bb0800000000000000
+      internalID: -4928107571973674339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff125a3db7b4b90800000000000000
+      internalID: -7256570225638637823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1963b59eb895b10800000000000000
+      internalID: 1970760146325246417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1994780088c12b70800000000000000
+      internalID: 8872593193119815966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e0fa6af8a53d70800000000000000
+      internalID: 9022303221996119972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c049b9f7e9dc9e10800000000000000
+      internalID: 2205877507855040707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7944bdc672f3c0800000000000000
+      internalID: -4327265666084536640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8488df2ef0f1e0800000000000000
+      internalID: -2165951939315724311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b12a3410e67ce70800000000000000
+      internalID: 9135391320853060371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91523d3daef27f0800000000000000
+      internalID: -635030826934527584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994453ab5a976d10800000000000000
+      internalID: 2118831868074019223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fff6294fe388410800000000000000
+      internalID: 1479501697740963596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fb8afb1b86d8c0800000000000000
+      internalID: -3974836668824030508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5257dd45e7b3f2f0800000000000000
+      internalID: -940205701708950945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec566fe92dc6cc810800000000000000
+      internalID: 1786922804025124302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5edfdace1ca140800000000000000
+      internalID: 4732191165147667481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061940c9e4020630800000000000000
+      internalID: 3891678430001436171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed06a1e69dd2240800000000000000
+      internalID: 4768706647367409398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafd921f6d7a3450800000000000000
+      internalID: 6069301363842349729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4527657b573795d0800000000000000
+      internalID: -3055912956196346545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145b8fcacb234cd0800000000000000
+      internalID: -2575166411860388845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ec29d395e21bf0800000000000000
+      internalID: -354968997442295797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2fdd23b2ad52c60800000000000000
+      internalID: 7792874609306366687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095aabf833a74a00800000000000000
+      internalID: 740740128861477129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_165
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e02ca5d44e5990800000000000000
+      internalID: -7395397853589214790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703cb22827db9ecf0800000000000000
+      internalID: -222438407070301433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a0585d6b3e2930800000000000000
+      internalID: 4120296049909737962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75ba26d3882bac0800000000000000
+      internalID: -3840857734963832891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a34c1b246b7eb0800000000000000
+      internalID: -4721069648047265324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a611379a06a620800000000000000
+      internalID: 2784925064055138223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d90f0fce58c020800000000000000
+      internalID: 2362242247959370227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a681a81bfb27450800000000000000
+      internalID: 6085136815777933907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140f7f2df3659830800000000000000
+      internalID: 4077274976728581143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1439c98422aa4e50800000000000000
+      internalID: 6794421265656001565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd7bbf92f259090800000000000000
+      internalID: -8028458903354745629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b829675316288d0800000000000000
+      internalID: -2845605132294255850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf7177021caec30800000000000000
+      internalID: 4389533132007144253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc16b3e78e073f0800000000000000
+      internalID: -904967896241680438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed36a9ea0312a40800000000000000
+      internalID: 5341604159510798014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_180
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a807a23ac68e8a0800000000000000
+      internalID: -6275646632693298642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_181
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154a2b1c39b831700800000000000000
+      internalID: 509904649549161553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e811a5a35adc48e30800000000000000
+      internalID: 4504951636809617806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e899dc3fc54a050800000000000000
+      internalID: 5810871621410983524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18484103c18be3930800000000000000
+      internalID: 4124936739923199105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d6206f0cc376c0800000000000000
+      internalID: -4146746465468360321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b194e1bdc965f0800000000000000
+      internalID: -762852497934927534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57947ac185a7ef390800000000000000
+      internalID: -7782648587193202315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27a1de399051eb0800000000000000
+      internalID: -4749879701049543962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e418699a3a4920800000000000000
+      internalID: 2975254934382240554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040be38e93e05e80800000000000000
+      internalID: -8191797452229377018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11932d89ac8229770800000000000000
+      internalID: 8615993887725598993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_192
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38275cd243c7260c0800000000000000
+      internalID: -4583964907161685373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_193
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e60a1e9942b0b0800000000000000
+      internalID: -5714424033789418548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_194
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b9613f60b53bc40800000000000000
+      internalID: 5526861253120007061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd5b3cd02b90770800000000000000
+      internalID: 8577582737491614756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_196
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71cd940ee54f8f20800000000000000
+      internalID: 3427034730034217340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_197
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245b31a60469d780800000000000000
+      internalID: -8657778829005466580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57395445dd818e380800000000000000
+      internalID: -8941869721263434891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016bd21f574f4c350800000000000000
+      internalID: 6036218187977963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660c129e7033e200800000000000000
+      internalID: 208063327964497512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73957ad577e86e6b0800000000000000
+      internalID: -5267366070839715529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4bdb2a122816290800000000000000
+      internalID: -7898889190455266079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e55251fbba37a0800000000000000
+      internalID: -6396593675583495782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16314cef9431e1920800000000000000
+      internalID: 2962826813384168289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_205
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c30627e867b7b890800000000000000
+      internalID: -7442278198023945277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_206
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba00d8d1c5220b40800000000000000
+      internalID: 5404924017294445238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_207
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de783b2f97d5d7c10800000000000000
+      internalID: 2052899783495092205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_208
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a359282b55dc821f0800000000000000
+      internalID: -1069379143549676230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_209
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23c959fe8d047fc0800000000000000
+      internalID: -3498156102840106194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_210
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55d421e5c14b930800000000000000
+      internalID: 4157979546329372092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_211
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da2730219a75660800000000000000
+      internalID: 7374548809674829073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954c2e4a397e5be0800000000000000
+      internalID: -1486617535659096685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f5c1c1d5bea670800000000000000
+      internalID: 8551972654926919042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35809d66503c44aa0800000000000000
+      internalID: -6177598360877725613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_215
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22865710fdcc710800000000000000
+      internalID: 1714990755479036620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490c2c9e9509a3e0800000000000000
+      internalID: -2042094777252705982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_217
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd1ef215c172be0800000000000000
+      internalID: -1502200815683510399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d13c1ef83df35d0800000000000000
+      internalID: -3080511005176685284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_219
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1ab3c80ca50000800000000000000
+      internalID: 1596528527023830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed65ba4b144bf940800000000000000
+      internalID: 5330929467931323879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188928a58b76f030800000000000000
+      internalID: 3528143172073523220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aeeab9b6c0371f0800000000000000
+      internalID: -1048480631934227890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_223
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a93ab934044030800000000000000
+      internalID: 3477909458220851599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_224
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ffce098b64414d0800000000000000
+      internalID: -3164826879615238337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_225
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608dd53062c27f2a0800000000000000
+      internalID: -6703840978540832762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_226
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ac59af2e844c50800000000000000
+      internalID: 6648595285261721678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba4616cafb2b470800000000000000
+      internalID: 8408994201343404948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de958ffbd059eecf0800000000000000
+      internalID: -221075445406737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ec4a8a95bddf90800000000000000
+      internalID: -6927180976476068209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571f001d593da1a0800000000000000
+      internalID: -6796713190768044195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1138c61b28771c830800000000000000
+      internalID: 4089681339835253521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce0bc61de971210800000000000000
+      internalID: 1303685239455935619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194995373fd991180800000000000000
+      internalID: -9144103899461217135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd70a9ed5700d40800000000000000
+      internalID: 5548564339847846873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fb6fc9a1af15f0800000000000000
+      internalID: -783730059437673849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b569586ac8b03d0800000000000000
+      internalID: -3239340860129256562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0176ab87b92e51f0800000000000000
+      internalID: -1054359394459422454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_238
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf24336d766d1d0800000000000000
+      internalID: -3326357105085842332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_239
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748cb2981c63038b0800000000000000
+      internalID: -5174575766990763961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_240
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646b05327dbe6f160800000000000000
+      internalID: 7059088775192819270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_241
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106c88dae86d3e40800000000000000
+      internalID: 5637777666402443292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_242
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e2406918bb86e00800000000000000
+      internalID: 1038285879350930979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Halloween_01_243
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25428157989e910f0800000000000000
+      internalID: -1145627853604772782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

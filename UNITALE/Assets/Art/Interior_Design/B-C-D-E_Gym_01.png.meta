@@ -1,0 +1,7070 @@
+fileFormatVersion: 2
+guid: fb189829abedb0c47b885172b1b7f472
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7862755337769801349
+    second: B-C-D-E_Gym_01_0
+  - first:
+      213: 8177518003212208258
+    second: B-C-D-E_Gym_01_1
+  - first:
+      213: 2071082239847897511
+    second: B-C-D-E_Gym_01_2
+  - first:
+      213: 6614481185373356006
+    second: B-C-D-E_Gym_01_3
+  - first:
+      213: -4948182384801592438
+    second: B-C-D-E_Gym_01_4
+  - first:
+      213: -1032567648408936389
+    second: B-C-D-E_Gym_01_5
+  - first:
+      213: -3934114018937644899
+    second: B-C-D-E_Gym_01_6
+  - first:
+      213: 4905336399016791515
+    second: B-C-D-E_Gym_01_7
+  - first:
+      213: 5648219889931674505
+    second: B-C-D-E_Gym_01_8
+  - first:
+      213: -5246198011988582849
+    second: B-C-D-E_Gym_01_9
+  - first:
+      213: -5397184011163551817
+    second: B-C-D-E_Gym_01_10
+  - first:
+      213: -8124286795055194115
+    second: B-C-D-E_Gym_01_11
+  - first:
+      213: 4163471468145157488
+    second: B-C-D-E_Gym_01_12
+  - first:
+      213: -1774419289626596480
+    second: B-C-D-E_Gym_01_13
+  - first:
+      213: 6562036631099513354
+    second: B-C-D-E_Gym_01_14
+  - first:
+      213: -4653039238255886881
+    second: B-C-D-E_Gym_01_15
+  - first:
+      213: -4580854266716412885
+    second: B-C-D-E_Gym_01_16
+  - first:
+      213: -7935093277740619641
+    second: B-C-D-E_Gym_01_17
+  - first:
+      213: -9209063864467369181
+    second: B-C-D-E_Gym_01_18
+  - first:
+      213: 7068519667798962447
+    second: B-C-D-E_Gym_01_19
+  - first:
+      213: -1651856442544332380
+    second: B-C-D-E_Gym_01_20
+  - first:
+      213: -1010457178830687425
+    second: B-C-D-E_Gym_01_21
+  - first:
+      213: -3526798272060354134
+    second: B-C-D-E_Gym_01_22
+  - first:
+      213: -8212614603898708385
+    second: B-C-D-E_Gym_01_23
+  - first:
+      213: -5660596593834734677
+    second: B-C-D-E_Gym_01_24
+  - first:
+      213: -4532898503347188769
+    second: B-C-D-E_Gym_01_25
+  - first:
+      213: -3899229674716366843
+    second: B-C-D-E_Gym_01_26
+  - first:
+      213: 8167370157410903473
+    second: B-C-D-E_Gym_01_27
+  - first:
+      213: -8098898754174678941
+    second: B-C-D-E_Gym_01_28
+  - first:
+      213: -7175327816522553831
+    second: B-C-D-E_Gym_01_29
+  - first:
+      213: 4983693027845000200
+    second: B-C-D-E_Gym_01_30
+  - first:
+      213: 2560737009873363810
+    second: B-C-D-E_Gym_01_31
+  - first:
+      213: -4210843439825501655
+    second: B-C-D-E_Gym_01_32
+  - first:
+      213: 6091695812178463943
+    second: B-C-D-E_Gym_01_33
+  - first:
+      213: 2715518376073070439
+    second: B-C-D-E_Gym_01_34
+  - first:
+      213: -5102646395888464680
+    second: B-C-D-E_Gym_01_35
+  - first:
+      213: 3768995956285857117
+    second: B-C-D-E_Gym_01_36
+  - first:
+      213: 3533782832498462941
+    second: B-C-D-E_Gym_01_37
+  - first:
+      213: 6306061559657162770
+    second: B-C-D-E_Gym_01_38
+  - first:
+      213: -4141756743365732515
+    second: B-C-D-E_Gym_01_39
+  - first:
+      213: 1023302471787685881
+    second: B-C-D-E_Gym_01_40
+  - first:
+      213: 2080856417437705698
+    second: B-C-D-E_Gym_01_41
+  - first:
+      213: -2374343594534797952
+    second: B-C-D-E_Gym_01_42
+  - first:
+      213: -2856745818638750137
+    second: B-C-D-E_Gym_01_43
+  - first:
+      213: 6173712731345065966
+    second: B-C-D-E_Gym_01_44
+  - first:
+      213: -3184654481203898320
+    second: B-C-D-E_Gym_01_45
+  - first:
+      213: 9103173713894064657
+    second: B-C-D-E_Gym_01_46
+  - first:
+      213: -3071988368722104926
+    second: B-C-D-E_Gym_01_47
+  - first:
+      213: -5585201063185176443
+    second: B-C-D-E_Gym_01_48
+  - first:
+      213: -3697191790380360851
+    second: B-C-D-E_Gym_01_49
+  - first:
+      213: 7104467403819374911
+    second: B-C-D-E_Gym_01_50
+  - first:
+      213: -5742909180112130761
+    second: B-C-D-E_Gym_01_51
+  - first:
+      213: 2076121112835747462
+    second: B-C-D-E_Gym_01_52
+  - first:
+      213: -821345431607694943
+    second: B-C-D-E_Gym_01_53
+  - first:
+      213: -4821187744457224987
+    second: B-C-D-E_Gym_01_54
+  - first:
+      213: 9069689915818614199
+    second: B-C-D-E_Gym_01_55
+  - first:
+      213: 3732826012838119241
+    second: B-C-D-E_Gym_01_56
+  - first:
+      213: 2497353000195970377
+    second: B-C-D-E_Gym_01_57
+  - first:
+      213: 4093350040172966675
+    second: B-C-D-E_Gym_01_58
+  - first:
+      213: -4733701154400612161
+    second: B-C-D-E_Gym_01_59
+  - first:
+      213: -205498867340311776
+    second: B-C-D-E_Gym_01_60
+  - first:
+      213: -5965546072609532249
+    second: B-C-D-E_Gym_01_61
+  - first:
+      213: -4700685799338784115
+    second: B-C-D-E_Gym_01_62
+  - first:
+      213: -2961611123046648712
+    second: B-C-D-E_Gym_01_63
+  - first:
+      213: 4515477833622330552
+    second: B-C-D-E_Gym_01_64
+  - first:
+      213: -2527147673492617319
+    second: B-C-D-E_Gym_01_65
+  - first:
+      213: -3426324917241641801
+    second: B-C-D-E_Gym_01_66
+  - first:
+      213: 3095752200963558621
+    second: B-C-D-E_Gym_01_67
+  - first:
+      213: 4256655620032096918
+    second: B-C-D-E_Gym_01_68
+  - first:
+      213: 3353322334962416849
+    second: B-C-D-E_Gym_01_69
+  - first:
+      213: 3623532661388741878
+    second: B-C-D-E_Gym_01_70
+  - first:
+      213: -7718622054538245494
+    second: B-C-D-E_Gym_01_71
+  - first:
+      213: -7388190285155889661
+    second: B-C-D-E_Gym_01_72
+  - first:
+      213: 1880481898452054729
+    second: B-C-D-E_Gym_01_73
+  - first:
+      213: -2856389276739677261
+    second: B-C-D-E_Gym_01_74
+  - first:
+      213: -1302298247530834987
+    second: B-C-D-E_Gym_01_75
+  - first:
+      213: -5224366459205416143
+    second: B-C-D-E_Gym_01_76
+  - first:
+      213: -6438296993444776717
+    second: B-C-D-E_Gym_01_77
+  - first:
+      213: 1125014020219604234
+    second: B-C-D-E_Gym_01_78
+  - first:
+      213: 9134245100557389059
+    second: B-C-D-E_Gym_01_79
+  - first:
+      213: -4960952806124208556
+    second: B-C-D-E_Gym_01_80
+  - first:
+      213: -8856130777566397531
+    second: B-C-D-E_Gym_01_81
+  - first:
+      213: -5437113022462371131
+    second: B-C-D-E_Gym_01_82
+  - first:
+      213: -1151906674354901428
+    second: B-C-D-E_Gym_01_83
+  - first:
+      213: 361130875178853782
+    second: B-C-D-E_Gym_01_84
+  - first:
+      213: 8544945051580248857
+    second: B-C-D-E_Gym_01_85
+  - first:
+      213: -2169593960178644020
+    second: B-C-D-E_Gym_01_86
+  - first:
+      213: -1478583682270093039
+    second: B-C-D-E_Gym_01_87
+  - first:
+      213: 4774378343416797288
+    second: B-C-D-E_Gym_01_88
+  - first:
+      213: -2377019261725824978
+    second: B-C-D-E_Gym_01_89
+  - first:
+      213: 782692513095808845
+    second: B-C-D-E_Gym_01_90
+  - first:
+      213: -5451590466710590843
+    second: B-C-D-E_Gym_01_91
+  - first:
+      213: 6389152982967556226
+    second: B-C-D-E_Gym_01_92
+  - first:
+      213: -8873703943139160577
+    second: B-C-D-E_Gym_01_93
+  - first:
+      213: -7635100884565212947
+    second: B-C-D-E_Gym_01_94
+  - first:
+      213: -6106146647111873787
+    second: B-C-D-E_Gym_01_95
+  - first:
+      213: -8383654563435294390
+    second: B-C-D-E_Gym_01_96
+  - first:
+      213: -7054068306818909392
+    second: B-C-D-E_Gym_01_97
+  - first:
+      213: 8197726898683069692
+    second: B-C-D-E_Gym_01_98
+  - first:
+      213: 7321260144168036607
+    second: B-C-D-E_Gym_01_99
+  - first:
+      213: 3455949132585884958
+    second: B-C-D-E_Gym_01_100
+  - first:
+      213: 6032251229691744489
+    second: B-C-D-E_Gym_01_101
+  - first:
+      213: 209176993614461455
+    second: B-C-D-E_Gym_01_102
+  - first:
+      213: -5268812801844663508
+    second: B-C-D-E_Gym_01_103
+  - first:
+      213: 9210296980722324873
+    second: B-C-D-E_Gym_01_104
+  - first:
+      213: 7706234441687180049
+    second: B-C-D-E_Gym_01_105
+  - first:
+      213: 6970856292417791991
+    second: B-C-D-E_Gym_01_106
+  - first:
+      213: 611199333912430055
+    second: B-C-D-E_Gym_01_107
+  - first:
+      213: 969400035112140805
+    second: B-C-D-E_Gym_01_108
+  - first:
+      213: -5534959821134459521
+    second: B-C-D-E_Gym_01_109
+  - first:
+      213: 4027334173469933878
+    second: B-C-D-E_Gym_01_110
+  - first:
+      213: -1932277536798929359
+    second: B-C-D-E_Gym_01_111
+  - first:
+      213: -6771588250908610017
+    second: B-C-D-E_Gym_01_112
+  - first:
+      213: -6950082094066466424
+    second: B-C-D-E_Gym_01_113
+  - first:
+      213: 2837470053896665734
+    second: B-C-D-E_Gym_01_114
+  - first:
+      213: -8678505667701178112
+    second: B-C-D-E_Gym_01_115
+  - first:
+      213: 7899445036138590866
+    second: B-C-D-E_Gym_01_116
+  - first:
+      213: -5084331025283893301
+    second: B-C-D-E_Gym_01_117
+  - first:
+      213: -4784009770222015705
+    second: B-C-D-E_Gym_01_118
+  - first:
+      213: 1726626537792375602
+    second: B-C-D-E_Gym_01_119
+  - first:
+      213: -2979480306614273208
+    second: B-C-D-E_Gym_01_120
+  - first:
+      213: 1832071782031942412
+    second: B-C-D-E_Gym_01_121
+  - first:
+      213: 1242932246222293911
+    second: B-C-D-E_Gym_01_122
+  - first:
+      213: 1365305855129835504
+    second: B-C-D-E_Gym_01_123
+  - first:
+      213: -4551786386344465002
+    second: B-C-D-E_Gym_01_124
+  - first:
+      213: 3612041696283797103
+    second: B-C-D-E_Gym_01_125
+  - first:
+      213: -9168622612779795454
+    second: B-C-D-E_Gym_01_126
+  - first:
+      213: -6911019546515225668
+    second: B-C-D-E_Gym_01_127
+  - first:
+      213: 5718435972153222876
+    second: B-C-D-E_Gym_01_128
+  - first:
+      213: 6656311911047065163
+    second: B-C-D-E_Gym_01_129
+  - first:
+      213: 2269279495686222105
+    second: B-C-D-E_Gym_01_130
+  - first:
+      213: 595110035141783840
+    second: B-C-D-E_Gym_01_131
+  - first:
+      213: 6089744380379907659
+    second: B-C-D-E_Gym_01_132
+  - first:
+      213: 8443325371004029790
+    second: B-C-D-E_Gym_01_133
+  - first:
+      213: -8615201229758807989
+    second: B-C-D-E_Gym_01_134
+  - first:
+      213: -5662663980974994868
+    second: B-C-D-E_Gym_01_135
+  - first:
+      213: 7323295087259615611
+    second: B-C-D-E_Gym_01_136
+  - first:
+      213: 3073540866963863296
+    second: B-C-D-E_Gym_01_137
+  - first:
+      213: 4987145486089687378
+    second: B-C-D-E_Gym_01_138
+  - first:
+      213: 2236971076558824265
+    second: B-C-D-E_Gym_01_139
+  - first:
+      213: 1818860823730243367
+    second: B-C-D-E_Gym_01_140
+  - first:
+      213: 7208726969975539740
+    second: B-C-D-E_Gym_01_141
+  - first:
+      213: -1428648633922214780
+    second: B-C-D-E_Gym_01_142
+  - first:
+      213: -3278909079376520686
+    second: B-C-D-E_Gym_01_143
+  - first:
+      213: 5104410438951078687
+    second: B-C-D-E_Gym_01_144
+  - first:
+      213: 9034149673319434995
+    second: B-C-D-E_Gym_01_145
+  - first:
+      213: -1498988156333174544
+    second: B-C-D-E_Gym_01_146
+  - first:
+      213: 4758881081950355353
+    second: B-C-D-E_Gym_01_147
+  - first:
+      213: -2443360768930813148
+    second: B-C-D-E_Gym_01_148
+  - first:
+      213: 7310611895810239596
+    second: B-C-D-E_Gym_01_149
+  - first:
+      213: 7782560647606732148
+    second: B-C-D-E_Gym_01_150
+  - first:
+      213: 395212948039338430
+    second: B-C-D-E_Gym_01_151
+  - first:
+      213: 6679915893586341291
+    second: B-C-D-E_Gym_01_152
+  - first:
+      213: -807807340664494534
+    second: B-C-D-E_Gym_01_153
+  - first:
+      213: -6095445933675346583
+    second: B-C-D-E_Gym_01_154
+  - first:
+      213: -5019526909490701423
+    second: B-C-D-E_Gym_01_155
+  - first:
+      213: 1809852773403600617
+    second: B-C-D-E_Gym_01_156
+  - first:
+      213: -4053317777845241836
+    second: B-C-D-E_Gym_01_157
+  - first:
+      213: 4794324113457431447
+    second: B-C-D-E_Gym_01_158
+  - first:
+      213: 1957582066414568852
+    second: B-C-D-E_Gym_01_159
+  - first:
+      213: -6542914580127915697
+    second: B-C-D-E_Gym_01_160
+  - first:
+      213: 3892815978496733257
+    second: B-C-D-E_Gym_01_161
+  - first:
+      213: -2246274649057436754
+    second: B-C-D-E_Gym_01_162
+  - first:
+      213: 6974803160554129034
+    second: B-C-D-E_Gym_01_163
+  - first:
+      213: 5585925649965161262
+    second: B-C-D-E_Gym_01_164
+  - first:
+      213: 5862156181497638859
+    second: B-C-D-E_Gym_01_165
+  - first:
+      213: -2281750379407990945
+    second: B-C-D-E_Gym_01_166
+  - first:
+      213: -4450322031165314470
+    second: B-C-D-E_Gym_01_167
+  - first:
+      213: 5996686868454324479
+    second: B-C-D-E_Gym_01_168
+  - first:
+      213: -5475917444044932356
+    second: B-C-D-E_Gym_01_169
+  - first:
+      213: -2964075496179845411
+    second: B-C-D-E_Gym_01_170
+  - first:
+      213: -5187044622532316158
+    second: B-C-D-E_Gym_01_171
+  - first:
+      213: -8367414630949567869
+    second: B-C-D-E_Gym_01_172
+  - first:
+      213: 1167566628746554819
+    second: B-C-D-E_Gym_01_173
+  - first:
+      213: 4011845019901991867
+    second: B-C-D-E_Gym_01_174
+  - first:
+      213: -1068773230876232858
+    second: B-C-D-E_Gym_01_175
+  - first:
+      213: -300215158395914397
+    second: B-C-D-E_Gym_01_176
+  - first:
+      213: -7689623023831779669
+    second: B-C-D-E_Gym_01_177
+  - first:
+      213: -8927037591010741406
+    second: B-C-D-E_Gym_01_178
+  - first:
+      213: 4820942721571676634
+    second: B-C-D-E_Gym_01_179
+  - first:
+      213: 8673661387765522502
+    second: B-C-D-E_Gym_01_180
+  - first:
+      213: 6137705487473839551
+    second: B-C-D-E_Gym_01_181
+  - first:
+      213: -8898907188287022141
+    second: B-C-D-E_Gym_01_182
+  - first:
+      213: -4103663684302634088
+    second: B-C-D-E_Gym_01_183
+  - first:
+      213: 4519639369932542991
+    second: B-C-D-E_Gym_01_184
+  - first:
+      213: -5534518293108548691
+    second: B-C-D-E_Gym_01_185
+  - first:
+      213: 6786625217116717302
+    second: B-C-D-E_Gym_01_186
+  - first:
+      213: -4065064306691480566
+    second: B-C-D-E_Gym_01_187
+  - first:
+      213: 3362537994962172575
+    second: B-C-D-E_Gym_01_188
+  - first:
+      213: -890893480798251578
+    second: B-C-D-E_Gym_01_189
+  - first:
+      213: 4647560680845546855
+    second: B-C-D-E_Gym_01_190
+  - first:
+      213: -1163401611321289437
+    second: B-C-D-E_Gym_01_191
+  - first:
+      213: -6763246080981687001
+    second: B-C-D-E_Gym_01_192
+  - first:
+      213: -7373157096874333589
+    second: B-C-D-E_Gym_01_193
+  - first:
+      213: 7957833734628353663
+    second: B-C-D-E_Gym_01_194
+  - first:
+      213: 8128353417143088400
+    second: B-C-D-E_Gym_01_195
+  - first:
+      213: 3254435049107631951
+    second: B-C-D-E_Gym_01_196
+  - first:
+      213: -4422341423246163945
+    second: B-C-D-E_Gym_01_197
+  - first:
+      213: 357927746109372835
+    second: B-C-D-E_Gym_01_198
+  - first:
+      213: 6177104349655655367
+    second: B-C-D-E_Gym_01_199
+  - first:
+      213: 1675630488797997361
+    second: B-C-D-E_Gym_01_200
+  - first:
+      213: 3888765018615028099
+    second: B-C-D-E_Gym_01_201
+  - first:
+      213: 8501257406444291488
+    second: B-C-D-E_Gym_01_202
+  - first:
+      213: 6258893731493548039
+    second: B-C-D-E_Gym_01_203
+  - first:
+      213: 6975038931469519250
+    second: B-C-D-E_Gym_01_204
+  - first:
+      213: 5580928374328433360
+    second: B-C-D-E_Gym_01_205
+  - first:
+      213: 4617631188271394238
+    second: B-C-D-E_Gym_01_206
+  - first:
+      213: 144952304210798582
+    second: B-C-D-E_Gym_01_207
+  - first:
+      213: 4351154623347175223
+    second: B-C-D-E_Gym_01_208
+  - first:
+      213: -5889803249608849718
+    second: B-C-D-E_Gym_01_209
+  - first:
+      213: 1512674602645500006
+    second: B-C-D-E_Gym_01_210
+  - first:
+      213: -5433725040033891485
+    second: B-C-D-E_Gym_01_211
+  - first:
+      213: 3741022962339673404
+    second: B-C-D-E_Gym_01_212
+  - first:
+      213: 2160600176568404708
+    second: B-C-D-E_Gym_01_213
+  - first:
+      213: -7253537313912386576
+    second: B-C-D-E_Gym_01_214
+  - first:
+      213: 6276091371243063916
+    second: B-C-D-E_Gym_01_215
+  - first:
+      213: -3732498772288241354
+    second: B-C-D-E_Gym_01_216
+  - first:
+      213: 9045825600870135722
+    second: B-C-D-E_Gym_01_217
+  - first:
+      213: 7489970245671963214
+    second: B-C-D-E_Gym_01_218
+  - first:
+      213: 3751438407248844005
+    second: B-C-D-E_Gym_01_219
+  - first:
+      213: -2986296730971836156
+    second: B-C-D-E_Gym_01_220
+  - first:
+      213: -7935653116108528542
+    second: B-C-D-E_Gym_01_221
+  - first:
+      213: 4556587953672709705
+    second: B-C-D-E_Gym_01_222
+  - first:
+      213: 2946472953241178815
+    second: B-C-D-E_Gym_01_223
+  - first:
+      213: -1303569488528750447
+    second: B-C-D-E_Gym_01_224
+  - first:
+      213: -2327829274941376166
+    second: B-C-D-E_Gym_01_225
+  - first:
+      213: 367389961850206175
+    second: B-C-D-E_Gym_01_226
+  - first:
+      213: -4093257812224873172
+    second: B-C-D-E_Gym_01_227
+  - first:
+      213: -4484003469396099035
+    second: B-C-D-E_Gym_01_228
+  - first:
+      213: 1921929619763351394
+    second: B-C-D-E_Gym_01_229
+  - first:
+      213: -8078868335568210270
+    second: B-C-D-E_Gym_01_230
+  - first:
+      213: 4322308500516531270
+    second: B-C-D-E_Gym_01_231
+  - first:
+      213: 2143946099014071510
+    second: B-C-D-E_Gym_01_232
+  - first:
+      213: -7933451140046231546
+    second: B-C-D-E_Gym_01_233
+  - first:
+      213: -7851384158817743602
+    second: B-C-D-E_Gym_01_234
+  - first:
+      213: 7995800092803529743
+    second: B-C-D-E_Gym_01_235
+  - first:
+      213: -3826362871162100838
+    second: B-C-D-E_Gym_01_236
+  - first:
+      213: 6733611773942863589
+    second: B-C-D-E_Gym_01_237
+  - first:
+      213: 1369956824018608237
+    second: B-C-D-E_Gym_01_238
+  - first:
+      213: -2194976480718964854
+    second: B-C-D-E_Gym_01_239
+  - first:
+      213: 3604687880422359262
+    second: B-C-D-E_Gym_01_240
+  - first:
+      213: -8017757496711898162
+    second: B-C-D-E_Gym_01_241
+  - first:
+      213: -1157752343475741964
+    second: B-C-D-E_Gym_01_242
+  - first:
+      213: 4230559432435303801
+    second: B-C-D-E_Gym_01_243
+  - first:
+      213: 231054543391500767
+    second: B-C-D-E_Gym_01_244
+  - first:
+      213: -3503995559603297906
+    second: B-C-D-E_Gym_01_245
+  - first:
+      213: 2275209438171750249
+    second: B-C-D-E_Gym_01_246
+  - first:
+      213: -8642092943766958928
+    second: B-C-D-E_Gym_01_247
+  - first:
+      213: 7963033913073888282
+    second: B-C-D-E_Gym_01_248
+  - first:
+      213: -346574331667020295
+    second: B-C-D-E_Gym_01_249
+  - first:
+      213: -4927747467168985647
+    second: B-C-D-E_Gym_01_250
+  - first:
+      213: 275227353711999739
+    second: B-C-D-E_Gym_01_251
+  - first:
+      213: -3741526001666394410
+    second: B-C-D-E_Gym_01_252
+  - first:
+      213: -7577384531383107175
+    second: B-C-D-E_Gym_01_253
+  - first:
+      213: -1122962625501624405
+    second: B-C-D-E_Gym_01_254
+  - first:
+      213: -1789343036035412644
+    second: B-C-D-E_Gym_01_255
+  - first:
+      213: -1955594758935526996
+    second: B-C-D-E_Gym_01_256
+  - first:
+      213: -7910534385972713267
+    second: B-C-D-E_Gym_01_257
+  - first:
+      213: 3036174489355669826
+    second: B-C-D-E_Gym_01_258
+  - first:
+      213: 6137932426434803432
+    second: B-C-D-E_Gym_01_259
+  - first:
+      213: 5209306863352062034
+    second: B-C-D-E_Gym_01_260
+  - first:
+      213: -7909744662701899205
+    second: B-C-D-E_Gym_01_261
+  - first:
+      213: -4862945750355555983
+    second: B-C-D-E_Gym_01_262
+  - first:
+      213: -6308816799287058976
+    second: B-C-D-E_Gym_01_263
+  - first:
+      213: -7090110472811207436
+    second: B-C-D-E_Gym_01_264
+  - first:
+      213: -5929752735718924744
+    second: B-C-D-E_Gym_01_265
+  - first:
+      213: 4265844796293442705
+    second: B-C-D-E_Gym_01_266
+  - first:
+      213: 239991460316708444
+    second: B-C-D-E_Gym_01_267
+  - first:
+      213: -491538238448464886
+    second: B-C-D-E_Gym_01_268
+  - first:
+      213: -1798306416286941576
+    second: B-C-D-E_Gym_01_269
+  - first:
+      213: -144097638626463071
+    second: B-C-D-E_Gym_01_270
+  - first:
+      213: -3841247528267689849
+    second: B-C-D-E_Gym_01_271
+  - first:
+      213: -8044025428185862428
+    second: B-C-D-E_Gym_01_272
+  - first:
+      213: 7261745059792752223
+    second: B-C-D-E_Gym_01_273
+  - first:
+      213: 3580729249838610256
+    second: B-C-D-E_Gym_01_274
+  - first:
+      213: -3394119899504934615
+    second: B-C-D-E_Gym_01_275
+  - first:
+      213: -277932588099330567
+    second: B-C-D-E_Gym_01_276
+  - first:
+      213: 5745687447429438217
+    second: B-C-D-E_Gym_01_277
+  - first:
+      213: -3145799271254812569
+    second: B-C-D-E_Gym_01_278
+  - first:
+      213: 8279332210098332501
+    second: B-C-D-E_Gym_01_279
+  - first:
+      213: 7663470377263328883
+    second: B-C-D-E_Gym_01_280
+  - first:
+      213: 5627038439311745861
+    second: B-C-D-E_Gym_01_281
+  - first:
+      213: -818874442305824355
+    second: B-C-D-E_Gym_01_282
+  - first:
+      213: -7850130236355667480
+    second: B-C-D-E_Gym_01_283
+  - first:
+      213: -1126464895981095689
+    second: B-C-D-E_Gym_01_284
+  - first:
+      213: -7900424823220354231
+    second: B-C-D-E_Gym_01_285
+  - first:
+      213: -3867355587748314146
+    second: B-C-D-E_Gym_01_286
+  - first:
+      213: -4561566292024535410
+    second: B-C-D-E_Gym_01_287
+  - first:
+      213: -2879677127608451331
+    second: B-C-D-E_Gym_01_288
+  - first:
+      213: -7323319273320905434
+    second: B-C-D-E_Gym_01_289
+  - first:
+      213: 1136491376624183367
+    second: B-C-D-E_Gym_01_290
+  - first:
+      213: 2906161781056148173
+    second: B-C-D-E_Gym_01_291
+  - first:
+      213: -1941978371956470018
+    second: B-C-D-E_Gym_01_292
+  - first:
+      213: 3106152094804825840
+    second: B-C-D-E_Gym_01_293
+  - first:
+      213: 8293515564758381965
+    second: B-C-D-E_Gym_01_294
+  - first:
+      213: -3298090266491794716
+    second: B-C-D-E_Gym_01_295
+  - first:
+      213: -2038483592038564111
+    second: B-C-D-E_Gym_01_296
+  - first:
+      213: -3033044532181400857
+    second: B-C-D-E_Gym_01_297
+  - first:
+      213: -4080763649260172420
+    second: B-C-D-E_Gym_01_298
+  - first:
+      213: -7708728531361119554
+    second: B-C-D-E_Gym_01_299
+  - first:
+      213: -2497264069332209378
+    second: B-C-D-E_Gym_01_300
+  - first:
+      213: -6188995857490252148
+    second: B-C-D-E_Gym_01_301
+  - first:
+      213: 6402837099325411076
+    second: B-C-D-E_Gym_01_302
+  - first:
+      213: -794688036045814926
+    second: B-C-D-E_Gym_01_303
+  - first:
+      213: 1816840610370571636
+    second: B-C-D-E_Gym_01_304
+  - first:
+      213: 5860413336356977591
+    second: B-C-D-E_Gym_01_305
+  - first:
+      213: -8804217802914861699
+    second: B-C-D-E_Gym_01_306
+  - first:
+      213: 1311649844656787699
+    second: B-C-D-E_Gym_01_307
+  - first:
+      213: -6716087082346373834
+    second: B-C-D-E_Gym_01_308
+  - first:
+      213: 1761661905926136546
+    second: B-C-D-E_Gym_01_309
+  - first:
+      213: -6825466094427502673
+    second: B-C-D-E_Gym_01_310
+  - first:
+      213: -5497308541132484693
+    second: B-C-D-E_Gym_01_311
+  - first:
+      213: 2370831088751948262
+    second: B-C-D-E_Gym_01_312
+  - first:
+      213: -4641424174451026108
+    second: B-C-D-E_Gym_01_313
+  - first:
+      213: 5328723178201647607
+    second: B-C-D-E_Gym_01_314
+  - first:
+      213: -5875059693264231396
+    second: B-C-D-E_Gym_01_315
+  - first:
+      213: 7018482294251496657
+    second: B-C-D-E_Gym_01_316
+  - first:
+      213: 9211448848681812535
+    second: B-C-D-E_Gym_01_317
+  - first:
+      213: 8367927702061766432
+    second: B-C-D-E_Gym_01_318
+  - first:
+      213: 1445021169433468356
+    second: B-C-D-E_Gym_01_319
+  - first:
+      213: 7518055311704500911
+    second: B-C-D-E_Gym_01_320
+  - first:
+      213: -8747222027284812239
+    second: B-C-D-E_Gym_01_321
+  - first:
+      213: -2044180593813215930
+    second: B-C-D-E_Gym_01_322
+  - first:
+      213: -9111131983215069654
+    second: B-C-D-E_Gym_01_323
+  - first:
+      213: 2731672509093107170
+    second: B-C-D-E_Gym_01_324
+  - first:
+      213: -7038485698379474318
+    second: B-C-D-E_Gym_01_325
+  - first:
+      213: -3464645519919467374
+    second: B-C-D-E_Gym_01_326
+  - first:
+      213: 4348851358703137087
+    second: B-C-D-E_Gym_01_327
+  - first:
+      213: -9189383322833071451
+    second: B-C-D-E_Gym_01_328
+  - first:
+      213: 5656968470636353211
+    second: B-C-D-E_Gym_01_329
+  - first:
+      213: -9119721500957960364
+    second: B-C-D-E_Gym_01_330
+  - first:
+      213: 8826428794349572675
+    second: B-C-D-E_Gym_01_331
+  - first:
+      213: -5227882449994679248
+    second: B-C-D-E_Gym_01_332
+  - first:
+      213: -1552855086930689665
+    second: B-C-D-E_Gym_01_333
+  - first:
+      213: -3947366084564894852
+    second: B-C-D-E_Gym_01_334
+  - first:
+      213: -1915133575264611508
+    second: B-C-D-E_Gym_01_335
+  - first:
+      213: -809204473793291370
+    second: B-C-D-E_Gym_01_336
+  - first:
+      213: 460553692763657379
+    second: B-C-D-E_Gym_01_337
+  - first:
+      213: 6486838433301407307
+    second: B-C-D-E_Gym_01_338
+  - first:
+      213: -2288548181833399808
+    second: B-C-D-E_Gym_01_339
+  - first:
+      213: -1606157005893242291
+    second: B-C-D-E_Gym_01_340
+  - first:
+      213: -839913158969973579
+    second: B-C-D-E_Gym_01_341
+  - first:
+      213: -6713731911973411959
+    second: B-C-D-E_Gym_01_342
+  - first:
+      213: -9150274165180580862
+    second: B-C-D-E_Gym_01_343
+  - first:
+      213: -2834269238543298668
+    second: B-C-D-E_Gym_01_344
+  - first:
+      213: -4331610275279426203
+    second: B-C-D-E_Gym_01_345
+  - first:
+      213: -5786484498265832162
+    second: B-C-D-E_Gym_01_346
+  - first:
+      213: -8142051643187281394
+    second: B-C-D-E_Gym_01_347
+  - first:
+      213: 7911384249037249456
+    second: B-C-D-E_Gym_01_348
+  - first:
+      213: -6480054070152279576
+    second: B-C-D-E_Gym_01_349
+  - first:
+      213: 2786364736305821605
+    second: B-C-D-E_Gym_01_350
+  - first:
+      213: -4291961590993421507
+    second: B-C-D-E_Gym_01_351
+  - first:
+      213: 4368918047831366065
+    second: B-C-D-E_Gym_01_352
+  - first:
+      213: 3520272462326527904
+    second: B-C-D-E_Gym_01_353
+  - first:
+      213: 6032648846323492723
+    second: B-C-D-E_Gym_01_354
+  - first:
+      213: -6051020693451889144
+    second: B-C-D-E_Gym_01_355
+  - first:
+      213: -7657346737198175193
+    second: B-C-D-E_Gym_01_356
+  - first:
+      213: -2451654152902141648
+    second: B-C-D-E_Gym_01_357
+  - first:
+      213: -5859132193449637024
+    second: B-C-D-E_Gym_01_358
+  - first:
+      213: 5725804946723487872
+    second: B-C-D-E_Gym_01_359
+  - first:
+      213: -1845935936229574928
+    second: B-C-D-E_Gym_01_360
+  - first:
+      213: -7789939403338437986
+    second: B-C-D-E_Gym_01_361
+  - first:
+      213: 8312619810226192545
+    second: B-C-D-E_Gym_01_362
+  - first:
+      213: 4460196666962607459
+    second: B-C-D-E_Gym_01_363
+  - first:
+      213: 4735290866543970251
+    second: B-C-D-E_Gym_01_364
+  - first:
+      213: 6748117328047313851
+    second: B-C-D-E_Gym_01_365
+  - first:
+      213: 6525790024406866783
+    second: B-C-D-E_Gym_01_366
+  - first:
+      213: -117694610713491919
+    second: B-C-D-E_Gym_01_367
+  - first:
+      213: -7886992345771270914
+    second: B-C-D-E_Gym_01_368
+  - first:
+      213: -5439785396894098781
+    second: B-C-D-E_Gym_01_369
+  - first:
+      213: -5648375471849297166
+    second: B-C-D-E_Gym_01_370
+  - first:
+      213: 751567386450320813
+    second: B-C-D-E_Gym_01_371
+  - first:
+      213: 7437848468800344383
+    second: B-C-D-E_Gym_01_372
+  - first:
+      213: 2558817563639739537
+    second: B-C-D-E_Gym_01_373
+  - first:
+      213: -1748162694131395669
+    second: B-C-D-E_Gym_01_374
+  - first:
+      213: 6994792131240983355
+    second: B-C-D-E_Gym_01_375
+  - first:
+      213: -6226254084595219015
+    second: B-C-D-E_Gym_01_376
+  - first:
+      213: -5553866746025784113
+    second: B-C-D-E_Gym_01_377
+  - first:
+      213: 4666421077157966419
+    second: B-C-D-E_Gym_01_378
+  - first:
+      213: -8398401775275869177
+    second: B-C-D-E_Gym_01_379
+  - first:
+      213: -2487798681794328087
+    second: B-C-D-E_Gym_01_380
+  - first:
+      213: -2585504060789822231
+    second: B-C-D-E_Gym_01_381
+  - first:
+      213: -8694720719833702561
+    second: B-C-D-E_Gym_01_382
+  - first:
+      213: -2931708244372339933
+    second: B-C-D-E_Gym_01_383
+  - first:
+      213: 3362824892766623040
+    second: B-C-D-E_Gym_01_384
+  - first:
+      213: 5857261363097954771
+    second: B-C-D-E_Gym_01_385
+  - first:
+      213: 6615119894937200668
+    second: B-C-D-E_Gym_01_386
+  - first:
+      213: -9217908234025146218
+    second: B-C-D-E_Gym_01_387
+  - first:
+      213: -5466696302632138084
+    second: B-C-D-E_Gym_01_388
+  - first:
+      213: 8085311594376973272
+    second: B-C-D-E_Gym_01_389
+  - first:
+      213: 3520674351928447211
+    second: B-C-D-E_Gym_01_390
+  - first:
+      213: 6860012334258194741
+    second: B-C-D-E_Gym_01_391
+  - first:
+      213: -191083339849311566
+    second: B-C-D-E_Gym_01_392
+  - first:
+      213: 8673152652280031815
+    second: B-C-D-E_Gym_01_393
+  - first:
+      213: 2533145099722417729
+    second: B-C-D-E_Gym_01_394
+  - first:
+      213: 3852586848059282658
+    second: B-C-D-E_Gym_01_395
+  - first:
+      213: 4312171099490982301
+    second: B-C-D-E_Gym_01_396
+  - first:
+      213: -1156034953257553156
+    second: B-C-D-E_Gym_01_397
+  - first:
+      213: 5259826073257092092
+    second: B-C-D-E_Gym_01_398
+  - first:
+      213: -5243404821538392147
+    second: B-C-D-E_Gym_01_399
+  - first:
+      213: -3774376477198608556
+    second: B-C-D-E_Gym_01_400
+  - first:
+      213: -4057109321141451017
+    second: B-C-D-E_Gym_01_401
+  - first:
+      213: -2230642699269112218
+    second: B-C-D-E_Gym_01_402
+  - first:
+      213: 7588579679009295285
+    second: B-C-D-E_Gym_01_403
+  - first:
+      213: -2992616572757274457
+    second: B-C-D-E_Gym_01_404
+  - first:
+      213: 688104470721631377
+    second: B-C-D-E_Gym_01_405
+  - first:
+      213: 8542043190897203367
+    second: B-C-D-E_Gym_01_406
+  - first:
+      213: -3757924037100960686
+    second: B-C-D-E_Gym_01_407
+  - first:
+      213: 237936798586206141
+    second: B-C-D-E_Gym_01_408
+  - first:
+      213: -8034523518171454600
+    second: B-C-D-E_Gym_01_409
+  - first:
+      213: 5907756472836082801
+    second: B-C-D-E_Gym_01_410
+  - first:
+      213: 6654687603245079209
+    second: B-C-D-E_Gym_01_411
+  - first:
+      213: 7469793352785663126
+    second: B-C-D-E_Gym_01_412
+  - first:
+      213: -8106440288807256894
+    second: B-C-D-E_Gym_01_413
+  - first:
+      213: -973806381526372339
+    second: B-C-D-E_Gym_01_414
+  - first:
+      213: 7301240311070184593
+    second: B-C-D-E_Gym_01_415
+  - first:
+      213: -4115508097417291510
+    second: B-C-D-E_Gym_01_416
+  - first:
+      213: 7522392576717047635
+    second: B-C-D-E_Gym_01_417
+  - first:
+      213: 5768853151387365480
+    second: B-C-D-E_Gym_01_418
+  - first:
+      213: 5732910331458735283
+    second: B-C-D-E_Gym_01_419
+  - first:
+      213: 6139080975731382657
+    second: B-C-D-E_Gym_01_420
+  - first:
+      213: -8159802352852942601
+    second: B-C-D-E_Gym_01_421
+  - first:
+      213: -280264225541992506
+    second: B-C-D-E_Gym_01_422
+  - first:
+      213: -3767652680278692327
+    second: B-C-D-E_Gym_01_423
+  - first:
+      213: -4923143929311735523
+    second: B-C-D-E_Gym_01_424
+  - first:
+      213: 4101583058312670033
+    second: B-C-D-E_Gym_01_425
+  - first:
+      213: -817848947188637126
+    second: B-C-D-E_Gym_01_426
+  - first:
+      213: 2955182072945475431
+    second: B-C-D-E_Gym_01_427
+  - first:
+      213: -4324295037575625790
+    second: B-C-D-E_Gym_01_428
+  - first:
+      213: 6610011935302230773
+    second: B-C-D-E_Gym_01_429
+  - first:
+      213: -4696609406015972417
+    second: B-C-D-E_Gym_01_430
+  - first:
+      213: 3897031643261204796
+    second: B-C-D-E_Gym_01_431
+  - first:
+      213: 4098170661880959876
+    second: B-C-D-E_Gym_01_432
+  - first:
+      213: 2667092686775164762
+    second: B-C-D-E_Gym_01_433
+  - first:
+      213: 4279328171973918946
+    second: B-C-D-E_Gym_01_434
+  - first:
+      213: 835194017783366938
+    second: B-C-D-E_Gym_01_435
+  - first:
+      213: -5393619864605103476
+    second: B-C-D-E_Gym_01_436
+  - first:
+      213: 1559119839513759609
+    second: B-C-D-E_Gym_01_437
+  - first:
+      213: -8919404008782245411
+    second: B-C-D-E_Gym_01_438
+  - first:
+      213: -7299437714152710129
+    second: B-C-D-E_Gym_01_439
+  - first:
+      213: -9194387022996701130
+    second: B-C-D-E_Gym_01_440
+  - first:
+      213: -1143003679003012923
+    second: B-C-D-E_Gym_01_441
+  - first:
+      213: -5181280058822376375
+    second: B-C-D-E_Gym_01_442
+  - first:
+      213: -3955163160225282579
+    second: B-C-D-E_Gym_01_443
+  - first:
+      213: 3118526148019080379
+    second: B-C-D-E_Gym_01_444
+  - first:
+      213: 7676509236076626925
+    second: B-C-D-E_Gym_01_445
+  - first:
+      213: 5320907163785085407
+    second: B-C-D-E_Gym_01_446
+  - first:
+      213: 7715657307804005127
+    second: B-C-D-E_Gym_01_447
+  - first:
+      213: 8608156681105581579
+    second: B-C-D-E_Gym_01_448
+  - first:
+      213: 6131463906463453452
+    second: B-C-D-E_Gym_01_449
+  - first:
+      213: 5098965130882500250
+    second: B-C-D-E_Gym_01_450
+  - first:
+      213: 6731683730599815578
+    second: B-C-D-E_Gym_01_451
+  - first:
+      213: 7504016100776772927
+    second: B-C-D-E_Gym_01_452
+  - first:
+      213: 4330354253404654547
+    second: B-C-D-E_Gym_01_453
+  - first:
+      213: 3800401052423811206
+    second: B-C-D-E_Gym_01_454
+  - first:
+      213: -3644390963317471799
+    second: B-C-D-E_Gym_01_455
+  - first:
+      213: 836893588765123502
+    second: B-C-D-E_Gym_01_456
+  - first:
+      213: 849151195497721354
+    second: B-C-D-E_Gym_01_457
+  - first:
+      213: 2114138078070862753
+    second: B-C-D-E_Gym_01_458
+  - first:
+      213: 4044084475975874300
+    second: B-C-D-E_Gym_01_459
+  - first:
+      213: 7537203126999915613
+    second: B-C-D-E_Gym_01_460
+  - first:
+      213: 8173699023944594608
+    second: B-C-D-E_Gym_01_461
+  - first:
+      213: 7961909824421846130
+    second: B-C-D-E_Gym_01_462
+  - first:
+      213: 3735035302496961016
+    second: B-C-D-E_Gym_01_463
+  - first:
+      213: -1849520772470512559
+    second: B-C-D-E_Gym_01_464
+  - first:
+      213: 2078649911690072864
+    second: B-C-D-E_Gym_01_465
+  - first:
+      213: -3754838061121159757
+    second: B-C-D-E_Gym_01_466
+  - first:
+      213: 3011855670058281636
+    second: B-C-D-E_Gym_01_467
+  - first:
+      213: 1724739389394430130
+    second: B-C-D-E_Gym_01_468
+  - first:
+      213: -9072066264202618469
+    second: B-C-D-E_Gym_01_469
+  - first:
+      213: -5546633295253484852
+    second: B-C-D-E_Gym_01_470
+  - first:
+      213: -7543795926728745396
+    second: B-C-D-E_Gym_01_471
+  - first:
+      213: 2315452799401207810
+    second: B-C-D-E_Gym_01_472
+  - first:
+      213: 191510731003066297
+    second: B-C-D-E_Gym_01_473
+  - first:
+      213: 3604819569454407062
+    second: B-C-D-E_Gym_01_474
+  - first:
+      213: 2313330403025371237
+    second: B-C-D-E_Gym_01_475
+  - first:
+      213: -7125876306070354586
+    second: B-C-D-E_Gym_01_476
+  - first:
+      213: 7768062247050691438
+    second: B-C-D-E_Gym_01_477
+  - first:
+      213: -7600957057392514802
+    second: B-C-D-E_Gym_01_478
+  - first:
+      213: 6019690672716552589
+    second: B-C-D-E_Gym_01_479
+  - first:
+      213: -6002538982201417521
+    second: B-C-D-E_Gym_01_480
+  - first:
+      213: 5470975331725549916
+    second: B-C-D-E_Gym_01_481
+  - first:
+      213: -7719839444305956448
+    second: B-C-D-E_Gym_01_482
+  - first:
+      213: 7645235249042349137
+    second: B-C-D-E_Gym_01_483
+  - first:
+      213: -7260491730875300357
+    second: B-C-D-E_Gym_01_484
+  - first:
+      213: -6308159959616465816
+    second: B-C-D-E_Gym_01_485
+  - first:
+      213: -4237662506791354844
+    second: B-C-D-E_Gym_01_486
+  - first:
+      213: 4302986431987642300
+    second: B-C-D-E_Gym_01_487
+  - first:
+      213: -6844343148917170111
+    second: B-C-D-E_Gym_01_488
+  - first:
+      213: 1779319466043087346
+    second: B-C-D-E_Gym_01_489
+  - first:
+      213: 6377037827928652672
+    second: B-C-D-E_Gym_01_490
+  - first:
+      213: 5712865716445870065
+    second: B-C-D-E_Gym_01_491
+  - first:
+      213: 6261443660805457187
+    second: B-C-D-E_Gym_01_492
+  - first:
+      213: 2014378765220849452
+    second: B-C-D-E_Gym_01_493
+  - first:
+      213: 1114840372098294485
+    second: B-C-D-E_Gym_01_494
+  - first:
+      213: -4875952143814394730
+    second: B-C-D-E_Gym_01_495
+  - first:
+      213: 5374275702949782010
+    second: B-C-D-E_Gym_01_496
+  - first:
+      213: -7924422274088624272
+    second: B-C-D-E_Gym_01_497
+  - first:
+      213: 6312052469502031581
+    second: B-C-D-E_Gym_01_498
+  - first:
+      213: 3584680174234372787
+    second: B-C-D-E_Gym_01_499
+  - first:
+      213: -6507258972605432196
+    second: B-C-D-E_Gym_01_500
+  - first:
+      213: -7903462386198365012
+    second: B-C-D-E_Gym_01_501
+  - first:
+      213: 6201185008711997195
+    second: B-C-D-E_Gym_01_502
+  - first:
+      213: 618760170145008698
+    second: B-C-D-E_Gym_01_503
+  - first:
+      213: 1815693006086048896
+    second: B-C-D-E_Gym_01_504
+  - first:
+      213: -4258938076567481534
+    second: B-C-D-E_Gym_01_505
+  - first:
+      213: -3919464639308723315
+    second: B-C-D-E_Gym_01_506
+  - first:
+      213: -3755325721663189936
+    second: B-C-D-E_Gym_01_507
+  - first:
+      213: 164515688325137667
+    second: B-C-D-E_Gym_01_508
+  - first:
+      213: -6930512713872045689
+    second: B-C-D-E_Gym_01_509
+  - first:
+      213: -8293463340604378058
+    second: B-C-D-E_Gym_01_510
+  - first:
+      213: 7788224227869517122
+    second: B-C-D-E_Gym_01_511
+  - first:
+      213: -166786152076592866
+    second: B-C-D-E_Gym_01_512
+  - first:
+      213: -6492057030492553446
+    second: B-C-D-E_Gym_01_513
+  - first:
+      213: -5695695411986388233
+    second: B-C-D-E_Gym_01_514
+  - first:
+      213: 4614100913274051748
+    second: B-C-D-E_Gym_01_515
+  - first:
+      213: 7021900710103275294
+    second: B-C-D-E_Gym_01_516
+  - first:
+      213: -2167219819392838679
+    second: B-C-D-E_Gym_01_517
+  - first:
+      213: 9185074082132924381
+    second: B-C-D-E_Gym_01_518
+  - first:
+      213: 115267193510178169
+    second: B-C-D-E_Gym_01_519
+  - first:
+      213: 3692859808327521899
+    second: B-C-D-E_Gym_01_520
+  - first:
+      213: 5265764330776462188
+    second: B-C-D-E_Gym_01_521
+  - first:
+      213: -1449024545970128030
+    second: B-C-D-E_Gym_01_522
+  - first:
+      213: 6175996414626673941
+    second: B-C-D-E_Gym_01_523
+  - first:
+      213: -7477714357707903521
+    second: B-C-D-E_Gym_01_524
+  - first:
+      213: 2647643846179977594
+    second: B-C-D-E_Gym_01_525
+  - first:
+      213: -1212710498322392245
+    second: B-C-D-E_Gym_01_526
+  - first:
+      213: 7397315670807410041
+    second: B-C-D-E_Gym_01_527
+  - first:
+      213: 2661592664795429909
+    second: B-C-D-E_Gym_01_528
+  - first:
+      213: -3064495883587312749
+    second: B-C-D-E_Gym_01_529
+  - first:
+      213: 4716265239992142365
+    second: B-C-D-E_Gym_01_530
+  - first:
+      213: -7668385367207793005
+    second: B-C-D-E_Gym_01_531
+  - first:
+      213: 8785718875481082618
+    second: B-C-D-E_Gym_01_532
+  - first:
+      213: 1243820892796209977
+    second: B-C-D-E_Gym_01_533
+  - first:
+      213: -6098665815669740563
+    second: B-C-D-E_Gym_01_534
+  - first:
+      213: -3871502689886055771
+    second: B-C-D-E_Gym_01_535
+  - first:
+      213: -6993714140297393555
+    second: B-C-D-E_Gym_01_536
+  - first:
+      213: 7445547767393212353
+    second: B-C-D-E_Gym_01_537
+  - first:
+      213: 7328145416108088166
+    second: B-C-D-E_Gym_01_538
+  - first:
+      213: 5565739029784466650
+    second: B-C-D-E_Gym_01_539
+  - first:
+      213: 1217233748516565942
+    second: B-C-D-E_Gym_01_540
+  - first:
+      213: 115522014489282937
+    second: B-C-D-E_Gym_01_541
+  - first:
+      213: -4523439520874282400
+    second: B-C-D-E_Gym_01_542
+  - first:
+      213: -2094618745906555421
+    second: B-C-D-E_Gym_01_543
+  - first:
+      213: 4077819630110429120
+    second: B-C-D-E_Gym_01_544
+  - first:
+      213: -3623543094582182015
+    second: B-C-D-E_Gym_01_545
+  - first:
+      213: -490909816510233133
+    second: B-C-D-E_Gym_01_546
+  - first:
+      213: 1218509152552163641
+    second: B-C-D-E_Gym_01_547
+  - first:
+      213: 8765437636214719325
+    second: B-C-D-E_Gym_01_548
+  - first:
+      213: -1726580315920890033
+    second: B-C-D-E_Gym_01_549
+  - first:
+      213: -2978545288197476087
+    second: B-C-D-E_Gym_01_550
+  - first:
+      213: -1997641907680889851
+    second: B-C-D-E_Gym_01_551
+  - first:
+      213: 5323232446129663482
+    second: B-C-D-E_Gym_01_552
+  - first:
+      213: 3970029562382166489
+    second: B-C-D-E_Gym_01_553
+  - first:
+      213: -6743026514562847925
+    second: B-C-D-E_Gym_01_554
+  - first:
+      213: -3275547590136276086
+    second: B-C-D-E_Gym_01_555
+  - first:
+      213: 1068864730176202889
+    second: B-C-D-E_Gym_01_556
+  - first:
+      213: 3597709182672715842
+    second: B-C-D-E_Gym_01_557
+  - first:
+      213: -4079932681635164058
+    second: B-C-D-E_Gym_01_558
+  - first:
+      213: 4562792323269095199
+    second: B-C-D-E_Gym_01_559
+  - first:
+      213: 7356865043744749408
+    second: B-C-D-E_Gym_01_560
+  - first:
+      213: -4515285186080608705
+    second: B-C-D-E_Gym_01_561
+  - first:
+      213: 2670143945517606296
+    second: B-C-D-E_Gym_01_562
+  - first:
+      213: 526148300257851643
+    second: B-C-D-E_Gym_01_563
+  - first:
+      213: 824437333317049917
+    second: B-C-D-E_Gym_01_564
+  - first:
+      213: -7931118956257253330
+    second: B-C-D-E_Gym_01_565
+  - first:
+      213: 727097845166278479
+    second: B-C-D-E_Gym_01_566
+  - first:
+      213: -1317419698279562982
+    second: B-C-D-E_Gym_01_567
+  - first:
+      213: 1571614496307137811
+    second: B-C-D-E_Gym_01_568
+  - first:
+      213: 5030569993709650646
+    second: B-C-D-E_Gym_01_569
+  - first:
+      213: 2093582452159342206
+    second: B-C-D-E_Gym_01_570
+  - first:
+      213: 1173593293309343354
+    second: B-C-D-E_Gym_01_571
+  - first:
+      213: -4878607291505694574
+    second: B-C-D-E_Gym_01_572
+  - first:
+      213: -1112673034341229307
+    second: B-C-D-E_Gym_01_573
+  - first:
+      213: 3267943832920180177
+    second: B-C-D-E_Gym_01_574
+  - first:
+      213: -2543322390291764572
+    second: B-C-D-E_Gym_01_575
+  - first:
+      213: -4866372342770990020
+    second: B-C-D-E_Gym_01_576
+  - first:
+      213: 6328709856993540829
+    second: B-C-D-E_Gym_01_577
+  - first:
+      213: -494489985625197411
+    second: B-C-D-E_Gym_01_578
+  - first:
+      213: -5010061224832633272
+    second: B-C-D-E_Gym_01_579
+  - first:
+      213: -429979180519734
+    second: B-C-D-E_Gym_01_580
+  - first:
+      213: -6962720004158031286
+    second: B-C-D-E_Gym_01_581
+  - first:
+      213: -7224298630809064837
+    second: B-C-D-E_Gym_01_582
+  - first:
+      213: 3409806784206982813
+    second: B-C-D-E_Gym_01_583
+  - first:
+      213: 1377315278713491531
+    second: B-C-D-E_Gym_01_584
+  - first:
+      213: -8166765383233269099
+    second: B-C-D-E_Gym_01_585
+  - first:
+      213: -7461771497139233722
+    second: B-C-D-E_Gym_01_586
+  - first:
+      213: 8804358668703735053
+    second: B-C-D-E_Gym_01_587
+  - first:
+      213: 319034842566427972
+    second: B-C-D-E_Gym_01_588
+  - first:
+      213: 8750937661749519395
+    second: B-C-D-E_Gym_01_589
+  - first:
+      213: -277979796037979952
+    second: B-C-D-E_Gym_01_590
+  - first:
+      213: 2514298888770001324
+    second: B-C-D-E_Gym_01_591
+  - first:
+      213: 591524521291031382
+    second: B-C-D-E_Gym_01_592
+  - first:
+      213: 3478924057045476581
+    second: B-C-D-E_Gym_01_593
+  - first:
+      213: -8416526146874740994
+    second: B-C-D-E_Gym_01_594
+  - first:
+      213: 197674484601671630
+    second: B-C-D-E_Gym_01_595
+  - first:
+      213: 8952832583026027159
+    second: B-C-D-E_Gym_01_596
+  - first:
+      213: -8000272718001593535
+    second: B-C-D-E_Gym_01_597
+  - first:
+      213: -6971619021094517499
+    second: B-C-D-E_Gym_01_598
+  - first:
+      213: -6840964340937522299
+    second: B-C-D-E_Gym_01_599
+  - first:
+      213: -6838641615712051545
+    second: B-C-D-E_Gym_01_600
+  - first:
+      213: 4671834240909895205
+    second: B-C-D-E_Gym_01_601
+  - first:
+      213: 6058107089440907891
+    second: B-C-D-E_Gym_01_602
+  - first:
+      213: 453211924455817883
+    second: B-C-D-E_Gym_01_603
+  - first:
+      213: 2362559798413745568
+    second: B-C-D-E_Gym_01_604
+  - first:
+      213: 1373266265037317242
+    second: B-C-D-E_Gym_01_605
+  - first:
+      213: -2083024522207568435
+    second: B-C-D-E_Gym_01_606
+  - first:
+      213: -1567637534174223811
+    second: B-C-D-E_Gym_01_607
+  - first:
+      213: 7770729060543602922
+    second: B-C-D-E_Gym_01_608
+  - first:
+      213: -3775769456502573306
+    second: B-C-D-E_Gym_01_609
+  - first:
+      213: -2671060780918801313
+    second: B-C-D-E_Gym_01_610
+  - first:
+      213: 5304836511560052651
+    second: B-C-D-E_Gym_01_611
+  - first:
+      213: 2884423817258755058
+    second: B-C-D-E_Gym_01_612
+  - first:
+      213: 3279027219485084170
+    second: B-C-D-E_Gym_01_613
+  - first:
+      213: 7254136176528696921
+    second: B-C-D-E_Gym_01_614
+  - first:
+      213: -2853173613743528248
+    second: B-C-D-E_Gym_01_615
+  - first:
+      213: -937823630119995122
+    second: B-C-D-E_Gym_01_616
+  - first:
+      213: -7729242004466242120
+    second: B-C-D-E_Gym_01_617
+  - first:
+      213: -7535715131595803968
+    second: B-C-D-E_Gym_01_618
+  - first:
+      213: -483184610898020385
+    second: B-C-D-E_Gym_01_619
+  - first:
+      213: 7272059089846713821
+    second: B-C-D-E_Gym_01_620
+  - first:
+      213: -6351115826928602614
+    second: B-C-D-E_Gym_01_621
+  - first:
+      213: 9181848438134035697
+    second: B-C-D-E_Gym_01_622
+  - first:
+      213: 1892724537014317964
+    second: B-C-D-E_Gym_01_623
+  - first:
+      213: -1800125302223766439
+    second: B-C-D-E_Gym_01_624
+  - first:
+      213: -1031320315460557422
+    second: B-C-D-E_Gym_01_625
+  - first:
+      213: -5910236418866941923
+    second: B-C-D-E_Gym_01_626
+  - first:
+      213: -3562301620102457260
+    second: B-C-D-E_Gym_01_627
+  - first:
+      213: -1233538897275682216
+    second: B-C-D-E_Gym_01_628
+  - first:
+      213: 2298206765479546677
+    second: B-C-D-E_Gym_01_629
+  - first:
+      213: 1115178039934329365
+    second: B-C-D-E_Gym_01_630
+  - first:
+      213: 2541472472713436893
+    second: B-C-D-E_Gym_01_631
+  - first:
+      213: -1453384202695726336
+    second: B-C-D-E_Gym_01_632
+  - first:
+      213: 3701646128554874758
+    second: B-C-D-E_Gym_01_633
+  - first:
+      213: 4770281128624525943
+    second: B-C-D-E_Gym_01_634
+  - first:
+      213: -8323447879664758469
+    second: B-C-D-E_Gym_01_635
+  - first:
+      213: 3627375482952971432
+    second: B-C-D-E_Gym_01_636
+  - first:
+      213: -197458721557762223
+    second: B-C-D-E_Gym_01_637
+  - first:
+      213: -2021839907311143911
+    second: B-C-D-E_Gym_01_638
+  - first:
+      213: -5919665768384856765
+    second: B-C-D-E_Gym_01_639
+  - first:
+      213: 5813015726102817776
+    second: B-C-D-E_Gym_01_640
+  - first:
+      213: 7986177538781741797
+    second: B-C-D-E_Gym_01_641
+  - first:
+      213: 2427085079691899089
+    second: B-C-D-E_Gym_01_642
+  - first:
+      213: 5718121524678432866
+    second: B-C-D-E_Gym_01_643
+  - first:
+      213: -2283034113114088183
+    second: B-C-D-E_Gym_01_644
+  - first:
+      213: 7779460971571557110
+    second: B-C-D-E_Gym_01_645
+  - first:
+      213: -8830302080449097598
+    second: B-C-D-E_Gym_01_646
+  - first:
+      213: -8253638499258136784
+    second: B-C-D-E_Gym_01_647
+  - first:
+      213: -375678466015760731
+    second: B-C-D-E_Gym_01_648
+  - first:
+      213: -850895358585943237
+    second: B-C-D-E_Gym_01_649
+  - first:
+      213: -5771876768156585219
+    second: B-C-D-E_Gym_01_650
+  - first:
+      213: -1892754096639511932
+    second: B-C-D-E_Gym_01_651
+  - first:
+      213: 9157057685036825455
+    second: B-C-D-E_Gym_01_652
+  - first:
+      213: 6004349327309088958
+    second: B-C-D-E_Gym_01_653
+  - first:
+      213: 7941993240976242503
+    second: B-C-D-E_Gym_01_654
+  - first:
+      213: -2388207351969941225
+    second: B-C-D-E_Gym_01_655
+  - first:
+      213: 3724316347631929498
+    second: B-C-D-E_Gym_01_656
+  - first:
+      213: -8778241913040256903
+    second: B-C-D-E_Gym_01_657
+  - first:
+      213: -6043704709455352469
+    second: B-C-D-E_Gym_01_658
+  - first:
+      213: -6219081000349130354
+    second: B-C-D-E_Gym_01_659
+  - first:
+      213: 6770220502390858684
+    second: B-C-D-E_Gym_01_660
+  - first:
+      213: -6693278412110655679
+    second: B-C-D-E_Gym_01_661
+  - first:
+      213: -6822310865907527080
+    second: B-C-D-E_Gym_01_662
+  - first:
+      213: 8471007179632413884
+    second: B-C-D-E_Gym_01_663
+  - first:
+      213: 4464566097853081677
+    second: B-C-D-E_Gym_01_664
+  - first:
+      213: -653465594804000767
+    second: B-C-D-E_Gym_01_665
+  - first:
+      213: -7468523191756108500
+    second: B-C-D-E_Gym_01_666
+  - first:
+      213: -6047183990580235949
+    second: B-C-D-E_Gym_01_667
+  - first:
+      213: -3475591996087430246
+    second: B-C-D-E_Gym_01_668
+  - first:
+      213: -1434015995663624528
+    second: B-C-D-E_Gym_01_669
+  - first:
+      213: -4249774443037575583
+    second: B-C-D-E_Gym_01_670
+  - first:
+      213: -6287788577088293214
+    second: B-C-D-E_Gym_01_671
+  - first:
+      213: -1463247216902231420
+    second: B-C-D-E_Gym_01_672
+  - first:
+      213: -6759558357178880511
+    second: B-C-D-E_Gym_01_673
+  - first:
+      213: 523114546220651372
+    second: B-C-D-E_Gym_01_674
+  - first:
+      213: 4945883413867508140
+    second: B-C-D-E_Gym_01_675
+  - first:
+      213: 3944036074289269134
+    second: B-C-D-E_Gym_01_676
+  - first:
+      213: 4498879557717809597
+    second: B-C-D-E_Gym_01_677
+  - first:
+      213: -4253077934761155066
+    second: B-C-D-E_Gym_01_0
+  - first:
+      213: -4131702614855671682
+    second: B-C-D-E_Gym_01_1
+  - first:
+      213: 7432887332017979449
+    second: B-C-D-E_Gym_01_2
+  - first:
+      213: -3984473929679552608
+    second: B-C-D-E_Gym_01_3
+  - first:
+      213: -4422407443071003525
+    second: B-C-D-E_Gym_01_4
+  - first:
+      213: 199876561563081863
+    second: B-C-D-E_Gym_01_5
+  - first:
+      213: -6985965737503527085
+    second: B-C-D-E_Gym_01_6
+  - first:
+      213: 7670700080092549472
+    second: B-C-D-E_Gym_01_7
+  - first:
+      213: 201002347136350120
+    second: B-C-D-E_Gym_01_8
+  - first:
+      213: -8309743172381455373
+    second: B-C-D-E_Gym_01_9
+  - first:
+      213: 1698726787794201995
+    second: B-C-D-E_Gym_01_10
+  - first:
+      213: 7132218986320604780
+    second: B-C-D-E_Gym_01_11
+  - first:
+      213: 9105385061029745964
+    second: B-C-D-E_Gym_01_12
+  - first:
+      213: -4647241355080798708
+    second: B-C-D-E_Gym_01_13
+  - first:
+      213: 347545039614448780
+    second: B-C-D-E_Gym_01_14
+  - first:
+      213: -1809943606832695747
+    second: B-C-D-E_Gym_01_15
+  - first:
+      213: -7806484919665526622
+    second: B-C-D-E_Gym_01_16
+  - first:
+      213: 2976711186100889795
+    second: B-C-D-E_Gym_01_17
+  - first:
+      213: 2659677794281806521
+    second: B-C-D-E_Gym_01_18
+  - first:
+      213: -5778472923185392738
+    second: B-C-D-E_Gym_01_19
+  - first:
+      213: 3200171914493785568
+    second: B-C-D-E_Gym_01_20
+  - first:
+      213: 844491873843316176
+    second: B-C-D-E_Gym_01_21
+  - first:
+      213: 8730897364780088375
+    second: B-C-D-E_Gym_01_22
+  - first:
+      213: 3166446848522769222
+    second: B-C-D-E_Gym_01_23
+  - first:
+      213: -226820871767685547
+    second: B-C-D-E_Gym_01_24
+  - first:
+      213: 7234007352963018135
+    second: B-C-D-E_Gym_01_25
+  - first:
+      213: -6159052807777374885
+    second: B-C-D-E_Gym_01_26
+  - first:
+      213: 2463735375475429686
+    second: B-C-D-E_Gym_01_27
+  - first:
+      213: -7906899143842570168
+    second: B-C-D-E_Gym_01_28
+  - first:
+      213: 2999317251855329864
+    second: B-C-D-E_Gym_01_29
+  - first:
+      213: -4432726273121469982
+    second: B-C-D-E_Gym_01_30
+  - first:
+      213: 8194389343191448141
+    second: B-C-D-E_Gym_01_31
+  - first:
+      213: -2556518018536986326
+    second: B-C-D-E_Gym_01_32
+  - first:
+      213: 5526254439430535005
+    second: B-C-D-E_Gym_01_33
+  - first:
+      213: -6289733517199208279
+    second: B-C-D-E_Gym_01_34
+  - first:
+      213: 566662549600884428
+    second: B-C-D-E_Gym_01_35
+  - first:
+      213: 3592222708154112549
+    second: B-C-D-E_Gym_01_36
+  - first:
+      213: 3181451930340073876
+    second: B-C-D-E_Gym_01_37
+  - first:
+      213: 6040921488139817115
+    second: B-C-D-E_Gym_01_38
+  - first:
+      213: -1137255747011921324
+    second: B-C-D-E_Gym_01_39
+  - first:
+      213: -1590641266421931546
+    second: B-C-D-E_Gym_01_40
+  - first:
+      213: 5695915336574333568
+    second: B-C-D-E_Gym_01_41
+  - first:
+      213: -152945675085507962
+    second: B-C-D-E_Gym_01_42
+  - first:
+      213: -2130153094312927171
+    second: B-C-D-E_Gym_01_43
+  - first:
+      213: -8186801979062964995
+    second: B-C-D-E_Gym_01_44
+  - first:
+      213: 7687076081002732064
+    second: B-C-D-E_Gym_01_45
+  - first:
+      213: -7076588271967881996
+    second: B-C-D-E_Gym_01_46
+  - first:
+      213: 7672519069094767893
+    second: B-C-D-E_Gym_01_47
+  - first:
+      213: -5985836979564264413
+    second: B-C-D-E_Gym_01_48
+  - first:
+      213: 7717560532245039468
+    second: B-C-D-E_Gym_01_49
+  - first:
+      213: -68242612192211497
+    second: B-C-D-E_Gym_01_50
+  - first:
+      213: -5150622289186381761
+    second: B-C-D-E_Gym_01_51
+  - first:
+      213: -4969919216512320967
+    second: B-C-D-E_Gym_01_52
+  - first:
+      213: -7884682374398212408
+    second: B-C-D-E_Gym_01_53
+  - first:
+      213: -7082478491033030626
+    second: B-C-D-E_Gym_01_54
+  - first:
+      213: 7331976517390133052
+    second: B-C-D-E_Gym_01_55
+  - first:
+      213: -3137243976906754979
+    second: B-C-D-E_Gym_01_56
+  - first:
+      213: -3379062012131829348
+    second: B-C-D-E_Gym_01_57
+  - first:
+      213: -6114583960808984767
+    second: B-C-D-E_Gym_01_58
+  - first:
+      213: 5469905528647067700
+    second: B-C-D-E_Gym_01_59
+  - first:
+      213: -4566619879723607357
+    second: B-C-D-E_Gym_01_60
+  - first:
+      213: 4908281464429179532
+    second: B-C-D-E_Gym_01_61
+  - first:
+      213: -2055641155332716082
+    second: B-C-D-E_Gym_01_62
+  - first:
+      213: 1777072419228040206
+    second: B-C-D-E_Gym_01_63
+  - first:
+      213: 9033943692716879912
+    second: B-C-D-E_Gym_01_64
+  - first:
+      213: -3369145421387442651
+    second: B-C-D-E_Gym_01_65
+  - first:
+      213: -7160371509475605955
+    second: B-C-D-E_Gym_01_66
+  - first:
+      213: 2503529469287450749
+    second: B-C-D-E_Gym_01_67
+  - first:
+      213: 6072276968357708702
+    second: B-C-D-E_Gym_01_68
+  - first:
+      213: -8096568926418152950
+    second: B-C-D-E_Gym_01_69
+  - first:
+      213: 4297077708262832107
+    second: B-C-D-E_Gym_01_70
+  - first:
+      213: 5904542804173889443
+    second: B-C-D-E_Gym_01_71
+  - first:
+      213: -1219611377719113010
+    second: B-C-D-E_Gym_01_72
+  - first:
+      213: -1871485771228331754
+    second: B-C-D-E_Gym_01_73
+  - first:
+      213: -3705658666779777257
+    second: B-C-D-E_Gym_01_74
+  - first:
+      213: 949440240154391356
+    second: B-C-D-E_Gym_01_75
+  - first:
+      213: 5669975271537719865
+    second: B-C-D-E_Gym_01_76
+  - first:
+      213: -8244604304049639290
+    second: B-C-D-E_Gym_01_77
+  - first:
+      213: -3896926634894525516
+    second: B-C-D-E_Gym_01_78
+  - first:
+      213: -17490708269533314
+    second: B-C-D-E_Gym_01_79
+  - first:
+      213: 8624235485113101818
+    second: B-C-D-E_Gym_01_80
+  - first:
+      213: 3128892443308402127
+    second: B-C-D-E_Gym_01_81
+  - first:
+      213: -6969542334175307604
+    second: B-C-D-E_Gym_01_82
+  - first:
+      213: 1241294690508334610
+    second: B-C-D-E_Gym_01_83
+  - first:
+      213: -7461833489651746308
+    second: B-C-D-E_Gym_01_84
+  - first:
+      213: -2404891545005254432
+    second: B-C-D-E_Gym_01_85
+  - first:
+      213: 1014925973081996287
+    second: B-C-D-E_Gym_01_86
+  - first:
+      213: -8263425028831671343
+    second: B-C-D-E_Gym_01_87
+  - first:
+      213: -1953026837171810477
+    second: B-C-D-E_Gym_01_88
+  - first:
+      213: 657691662382302341
+    second: B-C-D-E_Gym_01_89
+  - first:
+      213: -3003169939034552402
+    second: B-C-D-E_Gym_01_90
+  - first:
+      213: -4310834301772686815
+    second: B-C-D-E_Gym_01_91
+  - first:
+      213: 3383775593728954040
+    second: B-C-D-E_Gym_01_92
+  - first:
+      213: 6864799194099568442
+    second: B-C-D-E_Gym_01_93
+  - first:
+      213: 7216755732829519382
+    second: B-C-D-E_Gym_01_94
+  - first:
+      213: 9097829894324200928
+    second: B-C-D-E_Gym_01_95
+  - first:
+      213: 553284274074499219
+    second: B-C-D-E_Gym_01_96
+  - first:
+      213: 695972241170201221
+    second: B-C-D-E_Gym_01_97
+  - first:
+      213: -3655975485596407979
+    second: B-C-D-E_Gym_01_98
+  - first:
+      213: -9130735146453428216
+    second: B-C-D-E_Gym_01_99
+  - first:
+      213: 406931353643722270
+    second: B-C-D-E_Gym_01_100
+  - first:
+      213: 2239184624425173469
+    second: B-C-D-E_Gym_01_101
+  - first:
+      213: 5897937599610789978
+    second: B-C-D-E_Gym_01_102
+  - first:
+      213: -527297451477062055
+    second: B-C-D-E_Gym_01_103
+  - first:
+      213: -7090782391054444193
+    second: B-C-D-E_Gym_01_104
+  - first:
+      213: 7257343575202713653
+    second: B-C-D-E_Gym_01_105
+  - first:
+      213: 2777873777594747972
+    second: B-C-D-E_Gym_01_106
+  - first:
+      213: 2468702224473839798
+    second: B-C-D-E_Gym_01_107
+  - first:
+      213: -4682056114927673764
+    second: B-C-D-E_Gym_01_108
+  - first:
+      213: 2770087101732337220
+    second: B-C-D-E_Gym_01_109
+  - first:
+      213: -5041286360735626505
+    second: B-C-D-E_Gym_01_110
+  - first:
+      213: -4520178428258144018
+    second: B-C-D-E_Gym_01_111
+  - first:
+      213: 1792397876539688571
+    second: B-C-D-E_Gym_01_112
+  - first:
+      213: -4136530655201432872
+    second: B-C-D-E_Gym_01_113
+  - first:
+      213: 1182916476612699414
+    second: B-C-D-E_Gym_01_114
+  - first:
+      213: 3684972100142569420
+    second: B-C-D-E_Gym_01_115
+  - first:
+      213: 7616826932344567503
+    second: B-C-D-E_Gym_01_116
+  - first:
+      213: 4353257392602366771
+    second: B-C-D-E_Gym_01_117
+  - first:
+      213: 8192192557054782193
+    second: B-C-D-E_Gym_01_118
+  - first:
+      213: 4821068904633830467
+    second: B-C-D-E_Gym_01_119
+  - first:
+      213: 6716811203767492169
+    second: B-C-D-E_Gym_01_120
+  - first:
+      213: 2629427690647199162
+    second: B-C-D-E_Gym_01_121
+  - first:
+      213: 8380135997045999508
+    second: B-C-D-E_Gym_01_122
+  - first:
+      213: -4637086160810188280
+    second: B-C-D-E_Gym_01_123
+  - first:
+      213: 1324697328106289854
+    second: B-C-D-E_Gym_01_124
+  - first:
+      213: 169537669508780043
+    second: B-C-D-E_Gym_01_125
+  - first:
+      213: 6399382126549551254
+    second: B-C-D-E_Gym_01_126
+  - first:
+      213: 3327230448156909558
+    second: B-C-D-E_Gym_01_127
+  - first:
+      213: 372781427226794188
+    second: B-C-D-E_Gym_01_128
+  - first:
+      213: -3550510458147787381
+    second: B-C-D-E_Gym_01_129
+  - first:
+      213: 4378913676848039723
+    second: B-C-D-E_Gym_01_130
+  - first:
+      213: 360168722637686803
+    second: B-C-D-E_Gym_01_131
+  - first:
+      213: 4774408097204503164
+    second: B-C-D-E_Gym_01_132
+  - first:
+      213: 6223276456005912512
+    second: B-C-D-E_Gym_01_133
+  - first:
+      213: 8257112849887285372
+    second: B-C-D-E_Gym_01_134
+  - first:
+      213: 3828802232288780059
+    second: B-C-D-E_Gym_01_135
+  - first:
+      213: -4517480156325240607
+    second: B-C-D-E_Gym_01_136
+  - first:
+      213: 2550315973693017983
+    second: B-C-D-E_Gym_01_137
+  - first:
+      213: 1039878132441774112
+    second: B-C-D-E_Gym_01_138
+  - first:
+      213: 1903602518952564478
+    second: B-C-D-E_Gym_01_139
+  - first:
+      213: -5668198578043439900
+    second: B-C-D-E_Gym_01_140
+  - first:
+      213: 138136108563958821
+    second: B-C-D-E_Gym_01_141
+  - first:
+      213: 4160111517295019229
+    second: B-C-D-E_Gym_01_142
+  - first:
+      213: 4442351289014269079
+    second: B-C-D-E_Gym_01_143
+  - first:
+      213: 1139222577139925677
+    second: B-C-D-E_Gym_01_144
+  - first:
+      213: 1640712647104408195
+    second: B-C-D-E_Gym_01_145
+  - first:
+      213: -3042416369763435010
+    second: B-C-D-E_Gym_01_146
+  - first:
+      213: 3538313854483624264
+    second: B-C-D-E_Gym_01_147
+  - first:
+      213: 3633379422869003473
+    second: B-C-D-E_Gym_01_148
+  - first:
+      213: 4051572138710887032
+    second: B-C-D-E_Gym_01_149
+  - first:
+      213: -3295617343167116188
+    second: B-C-D-E_Gym_01_150
+  - first:
+      213: -5480850916410395996
+    second: B-C-D-E_Gym_01_151
+  - first:
+      213: 8057431334723906642
+    second: B-C-D-E_Gym_01_152
+  - first:
+      213: 5644004563905862899
+    second: B-C-D-E_Gym_01_153
+  - first:
+      213: 6772662046849518000
+    second: B-C-D-E_Gym_01_154
+  - first:
+      213: -8993453142794774006
+    second: B-C-D-E_Gym_01_155
+  - first:
+      213: -7110579057394443277
+    second: B-C-D-E_Gym_01_156
+  - first:
+      213: -8663751978918556423
+    second: B-C-D-E_Gym_01_157
+  - first:
+      213: -5788654717497817563
+    second: B-C-D-E_Gym_01_158
+  - first:
+      213: 6502689012746635990
+    second: B-C-D-E_Gym_01_159
+  - first:
+      213: -2566300352272970436
+    second: B-C-D-E_Gym_01_160
+  - first:
+      213: -6550219669000764305
+    second: B-C-D-E_Gym_01_161
+  - first:
+      213: 8095945972239120487
+    second: B-C-D-E_Gym_01_162
+  - first:
+      213: 2816780537667803648
+    second: B-C-D-E_Gym_01_163
+  - first:
+      213: -5534571290057480140
+    second: B-C-D-E_Gym_01_164
+  - first:
+      213: -5120202434156419748
+    second: B-C-D-E_Gym_01_165
+  - first:
+      213: 2603262861096859784
+    second: B-C-D-E_Gym_01_166
+  - first:
+      213: -6969080149035861486
+    second: B-C-D-E_Gym_01_167
+  - first:
+      213: 3394771188664572392
+    second: B-C-D-E_Gym_01_168
+  - first:
+      213: -5603011019731806185
+    second: B-C-D-E_Gym_01_169
+  - first:
+      213: 8057093119688509251
+    second: B-C-D-E_Gym_01_170
+  - first:
+      213: -5437021608955773453
+    second: B-C-D-E_Gym_01_171
+  - first:
+      213: 3235824574566675048
+    second: B-C-D-E_Gym_01_172
+  - first:
+      213: -5848261639631860489
+    second: B-C-D-E_Gym_01_173
+  - first:
+      213: -6579276174813783086
+    second: B-C-D-E_Gym_01_174
+  - first:
+      213: -575649251161247618
+    second: B-C-D-E_Gym_01_175
+  - first:
+      213: -742536603679832952
+    second: B-C-D-E_Gym_01_176
+  - first:
+      213: -2634898457678588637
+    second: B-C-D-E_Gym_01_177
+  - first:
+      213: -4246863819068698887
+    second: B-C-D-E_Gym_01_178
+  - first:
+      213: -5721553378897450831
+    second: B-C-D-E_Gym_01_179
+  - first:
+      213: 3642063509759327626
+    second: B-C-D-E_Gym_01_180
+  - first:
+      213: -5981809030892027031
+    second: B-C-D-E_Gym_01_181
+  - first:
+      213: 7238700826894759823
+    second: B-C-D-E_Gym_01_182
+  - first:
+      213: -7750313077442621010
+    second: B-C-D-E_Gym_01_183
+  - first:
+      213: 2096193885074152902
+    second: B-C-D-E_Gym_01_184
+  - first:
+      213: -6494803831187395531
+    second: B-C-D-E_Gym_01_185
+  - first:
+      213: 7327642742097218293
+    second: B-C-D-E_Gym_01_186
+  - first:
+      213: -8481552077305744344
+    second: B-C-D-E_Gym_01_187
+  - first:
+      213: 2276282744744310523
+    second: B-C-D-E_Gym_01_188
+  - first:
+      213: 4185944096982432486
+    second: B-C-D-E_Gym_01_189
+  - first:
+      213: -9093734459551397628
+    second: B-C-D-E_Gym_01_190
+  - first:
+      213: 7507018757203525138
+    second: B-C-D-E_Gym_01_191
+  - first:
+      213: 2983328886024288623
+    second: B-C-D-E_Gym_01_192
+  - first:
+      213: 4667405136357579474
+    second: B-C-D-E_Gym_01_193
+  - first:
+      213: 763708211495959906
+    second: B-C-D-E_Gym_01_194
+  - first:
+      213: -3726444765108364152
+    second: B-C-D-E_Gym_01_195
+  - first:
+      213: 7585544986868370053
+    second: B-C-D-E_Gym_01_196
+  - first:
+      213: -317037045394812873
+    second: B-C-D-E_Gym_01_197
+  - first:
+      213: 1246162705109885922
+    second: B-C-D-E_Gym_01_198
+  - first:
+      213: -6173501621173284662
+    second: B-C-D-E_Gym_01_199
+  - first:
+      213: 4969200390865633038
+    second: B-C-D-E_Gym_01_200
+  - first:
+      213: 8646806221889128676
+    second: B-C-D-E_Gym_01_201
+  - first:
+      213: -4095964810623238972
+    second: B-C-D-E_Gym_01_202
+  - first:
+      213: 8673481345946104016
+    second: B-C-D-E_Gym_01_203
+  - first:
+      213: -7980958713700999412
+    second: B-C-D-E_Gym_01_204
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066280f6280af4c0800000000000000
+      internalID: -4253077934761155066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a9fbcc5e39a6c0800000000000000
+      internalID: -4131702614855671682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ce68b5abe62760800000000000000
+      internalID: 7432887332017979449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af35a4521e44b8c0800000000000000
+      internalID: -3984473929679552608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7495b78cd370a2c0800000000000000
+      internalID: -4422407443071003525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd4ea7caa16c200800000000000000
+      internalID: 199876561563081863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6d0bcc2ddc0f90800000000000000
+      internalID: -6985965737503527085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611a7ce41dc37a60800000000000000
+      internalID: 7670700080092549472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f41cd19a1ac200800000000000000
+      internalID: 201002347136350120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc9739c9cddac80800000000000000
+      internalID: -8309743172381455373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de9e46307139710800000000000000
+      internalID: 1698726787794201995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eafe3416bbaf260800000000000000
+      internalID: 7132218986320604780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2593d97873dc5e70800000000000000
+      internalID: 9105385061029745964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e67e41c9ea18fb0800000000000000
+      internalID: -4647241355080798708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c841ba54f5ab2d400800000000000000
+      internalID: 347545039614448780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d367f3b01e9c1e6e0800000000000000
+      internalID: -1809943606832695747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a874ea735bc9a390800000000000000
+      internalID: -7806484919665526622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a97e6d076f4920800000000000000
+      internalID: 2976711186100889795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba5921ccd219e420800000000000000
+      internalID: 2659677794281806521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935255fd7dbecfa0800000000000000
+      internalID: -5778472923185392738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57597a66b496c20800000000000000
+      internalID: 3200171914493785568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5822c82ec38bb00800000000000000
+      internalID: 844491873843316176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c7c1e15e06a2970800000000000000
+      internalID: 8730897364780088375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643da56d1aa71fb20800000000000000
+      internalID: 3166446848522769222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55684ae6e9b2adcf0800000000000000
+      internalID: -226820871767685547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dacef2c5b546460800000000000000
+      internalID: 7234007352963018135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dae877a16a68aa0800000000000000
+      internalID: -6159052807777374885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d6c34542f03220800000000000000
+      internalID: 2463735375475429686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406c680f1d054290800000000000000
+      internalID: -7906899143842570168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa9854627bf9920800000000000000
+      internalID: 2999317251855329864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9bd00b0facb72c0800000000000000
+      internalID: -4432726273121469982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a3c2021b158b170800000000000000
+      internalID: 8194389343191448141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a73b386c658cd0800000000000000
+      internalID: -2556518018536986326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bea0222331bc40800000000000000
+      internalID: 5526254439430535005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a01977c0b066b8a0800000000000000
+      internalID: -6289733517199208279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65a7826903dd700800000000000000
+      internalID: 566662549600884428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1e9945832ad130800000000000000
+      internalID: 3592222708154112549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a6e1bca9c62c20800000000000000
+      internalID: 3181451930340073876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901998561aa5d350800000000000000
+      internalID: 6040921488139817115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a359c6ce7a730f0800000000000000
+      internalID: -1137255747011921324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e7dd1238ece9e0800000000000000
+      internalID: -1590641266421931546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082763302d4fb0f40800000000000000
+      internalID: 5695915336574333568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682989608b0a0edf0800000000000000
+      internalID: -152945675085507962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d306748fb0d2072e0800000000000000
+      internalID: -2130153094312927171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcac7fb9f2a26e80800000000000000
+      internalID: -8186801979062964995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad191c7fafdaa60800000000000000
+      internalID: 7687076081002732064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b8a3c578eacd90800000000000000
+      internalID: -7076588271967881996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dedcd41734a7a60800000000000000
+      internalID: 7672519069094767893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ccad3bf80eeca0800000000000000
+      internalID: -5985836979564264413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c694a092a684a1b60800000000000000
+      internalID: 7717560532245039468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0dbda4bd8d0ff0800000000000000
+      internalID: -68242612192211497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3026d031505588b0800000000000000
+      internalID: -5150622289186381761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3569edcc470bb0800000000000000
+      internalID: -4969919216512320967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c60633c72bf39290800000000000000
+      internalID: -7884682374398212408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b1a4465bf5bd90800000000000000
+      internalID: -7082478491033030626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376b8ccbc960c560800000000000000
+      internalID: 7331976517390133052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543dbe89354674d0800000000000000
+      internalID: -3137243976906754979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999dd4c0092b11d0800000000000000
+      internalID: -3379062012131829348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fedaab842a42ba0800000000000000
+      internalID: -6114583960808984767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43824f5f81209eb40800000000000000
+      internalID: 5469905528647067700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca56d41a6b10a0c0800000000000000
+      internalID: -4566619879723607357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827fe89cf7bd1440800000000000000
+      internalID: 4908281464429179532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec948bea245e873e0800000000000000
+      internalID: -2055641155332716082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3b3033fd69a810800000000000000
+      internalID: 1777072419228040206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203545bce30f5d70800000000000000
+      internalID: 9033943692716879912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265199f6146e31d0800000000000000
+      internalID: -3369145421387442651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3201e5ac0041ac90800000000000000
+      internalID: -7160371509475605955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78c99db9c25eb220800000000000000
+      internalID: 2503529469287450749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934fbcfabf054450800000000000000
+      internalID: 6072276968357708702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a025169757533af80800000000000000
+      internalID: -8096568926418152950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77145a86942ab30800000000000000
+      internalID: 4297077708262832107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9fd3956621f150800000000000000
+      internalID: 5904542804173889443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca070be9e1131fe0800000000000000
+      internalID: -1219611377719113010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ccbb4b952706e0800000000000000
+      internalID: -1871485771228331754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176eb3731bd29cc0800000000000000
+      internalID: -3705658666779777257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c333dd93ed61d2d00800000000000000
+      internalID: 949440240154391356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3149f77ccfae40800000000000000
+      internalID: 5669975271537719865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f6773118459d80800000000000000
+      internalID: -8244604304049639290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7a535fd55be9c0800000000000000
+      internalID: -3896926634894525516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7779b22b4cd1cff0800000000000000
+      internalID: -17490708269533314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2c750b707fa770800000000000000
+      internalID: 8624235485113101818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc52dcf791f0c6b20800000000000000
+      internalID: 3128892443308402127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81f6c5c26374f90800000000000000
+      internalID: -6969542334175307604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e351c1f6f93110800000000000000
+      internalID: 1241294690508334610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b134c9fd327890800000000000000
+      internalID: -7461833489651746308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e81f98a1eb10aed0800000000000000
+      internalID: -2404891545005254432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbed29bcdb51e00800000000000000
+      internalID: 1014925973081996287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db8a60c7ba625d80800000000000000
+      internalID: -8263425028831671343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc19d607475e4e0800000000000000
+      internalID: -1953026837171810477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58488041517902900800000000000000
+      internalID: 657691662382302341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c6b71ad89256d0800000000000000
+      internalID: -3003169939034552402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1545da07dc24c0800000000000000
+      internalID: -4310834301772686815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec9d779f595fe20800000000000000
+      internalID: 3383775593728954040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f41baee7aa44f50800000000000000
+      internalID: 6864799194099568442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e311e5a11172460800000000000000
+      internalID: 7216755732829519382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5af16261cf14e70800000000000000
+      internalID: 9097829894324200928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983508ad19ada700800000000000000
+      internalID: 553284274074499219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7b70e01798a900800000000000000
+      internalID: 695972241170201221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576d718aad534dc0800000000000000
+      internalID: -3655975485596407979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081871d2cc194180800000000000000
+      internalID: -9130735146453428216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1627edf8e5b5a500800000000000000
+      internalID: 406931353643722270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1016d5d8e231f10800000000000000
+      internalID: 2239184624425173469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a83c8ffea9d150800000000000000
+      internalID: 5897937599610789978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eadb9f2c9aea8f0800000000000000
+      internalID: -527297451477062055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59da91ebfa789d90800000000000000
+      internalID: -7090782391054444193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dbe4d78347b460800000000000000
+      internalID: 7257343575202713653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4860ab7dfc8620800000000000000
+      internalID: 2777873777594747972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8daf9e797924220800000000000000
+      internalID: 2468702224473839798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5a4325cef50fb0800000000000000
+      internalID: -4682056114927673764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b5afda83517620800000000000000
+      internalID: 2770087101732337220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fac459c3c0c90ab0800000000000000
+      internalID: -5041286360735626505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee03a4e1ba91541c0800000000000000
+      internalID: -4520178428258144018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7600574f50efd810800000000000000
+      internalID: 1792397876539688571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da643e09471896c0800000000000000
+      internalID: -4136530655201432872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e473a4409a6010800000000000000
+      internalID: 1182916476612699414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7193ce996a32330800000000000000
+      internalID: 3684972100142569420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b6024db764b960800000000000000
+      internalID: 7616826932344567503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33348e5b880e96c30800000000000000
+      internalID: 4353257392602366771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa69def9b380b170800000000000000
+      internalID: 8192192557054782193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c816a20a0e7e240800000000000000
+      internalID: 4821068904633830467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94edcefd338e63d50800000000000000
+      internalID: 6716811203767492169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1a97ad8a9d7420800000000000000
+      internalID: 2629427690647199162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49704691a493c4470800000000000000
+      internalID: 8380135997045999508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802670084b2c5afb0800000000000000
+      internalID: -4637086160810188280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3fac8335426210800000000000000
+      internalID: 1324697328106289854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005e17bc915a5200800000000000000
+      internalID: 169537669508780043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69848f2832c2fc850800000000000000
+      internalID: 6399382126549551254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9144d672bc2e20800000000000000
+      internalID: 3327230448156909558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc857b4abb26c2500800000000000000
+      internalID: 372781427226794188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8daacabc8d0abec0800000000000000
+      internalID: -3550510458147787381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2780a2e9c605cc30800000000000000
+      internalID: 4378913676848039723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31886048b839ff400800000000000000
+      internalID: 360168722637686803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728f965eda124240800000000000000
+      internalID: 4774408097204503164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c843e6f48d5650800000000000000
+      internalID: 6223276456005912512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7058df8368279270800000000000000
+      internalID: 8257112849887285372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9bca2853a22530800000000000000
+      internalID: 3828802232288780059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ab528bbfae41c0800000000000000
+      internalID: -4517480156325240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0afcadda846320800000000000000
+      internalID: 2550315973693017983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02873e5e6a36e6e00800000000000000
+      internalID: 1039878132441774112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d4bfb764fa6a10800000000000000
+      internalID: 1903602518952564478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b857bc638651b0800000000000000
+      internalID: -5668198578043439900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0c911f02cae100800000000000000
+      internalID: 138136108563958821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4816e326fabb930800000000000000
+      internalID: 4160111517295019229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b135f5f666ad30800000000000000
+      internalID: 4442351289014269079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c786e5e45fcf00800000000000000
+      internalID: 1139222577139925677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a262da57bf4c610800000000000000
+      internalID: 1640712647104408195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdba6d5e6a27c5d0800000000000000
+      internalID: -3042416369763435010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841f65034bd9a1130800000000000000
+      internalID: 3538313854483624264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc125aa55b5c6230800000000000000
+      internalID: 3633379422869003473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6bbdd4631a3830800000000000000
+      internalID: 4051572138710887032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c48e0cc7d9342d0800000000000000
+      internalID: -3295617343167116188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2fb7c512b10f3b0800000000000000
+      internalID: -5480850916410395996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce15cdb1fb1df60800000000000000
+      internalID: 8057431334723906642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcda466f38835e40800000000000000
+      internalID: 5644004563905862899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94c3e9f345dfd50800000000000000
+      internalID: 6772662046849518000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad8971406d03380800000000000000
+      internalID: -8993453142794774006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1ca05506225d90800000000000000
+      internalID: -7110579057394443277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc87a4a7b24c780800000000000000
+      internalID: -8663751978918556423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526472c34319aafa0800000000000000
+      internalID: -5788654717497817563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da499154313e3a50800000000000000
+      internalID: 6502689012746635990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d4fcb2d6ba26cd0800000000000000
+      internalID: -2566300352272970436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ce646ae1f815a0800000000000000
+      internalID: -6550219669000764305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683114b7f39a5070800000000000000
+      internalID: 8095945972239120487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_163
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5ced99f6371720800000000000000
+      internalID: 2816780537667803648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4386c003cb04133b0800000000000000
+      internalID: -5534571290057480140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55240e930361f8b0800000000000000
+      internalID: -5120202434156419748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88835ac87c5a02420800000000000000
+      internalID: 2603262861096859784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21abd79378ad84f90800000000000000
+      internalID: -6969080149035861486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9151ae866ac1f20800000000000000
+      internalID: 3394771188664572392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185940e92b1e32b0800000000000000
+      internalID: -5603011019731806185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470749018b80df60800000000000000
+      internalID: 8057093119688509251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd711a37a1db84b0800000000000000
+      internalID: -5437021608955773453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b6827e45f7ec20800000000000000
+      internalID: 3235824574566675048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0330360dc6dea0800000000000000
+      internalID: -5848261639631860489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db98017d27b1b4a0800000000000000
+      internalID: -6579276174813783086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7070555e02e208f0800000000000000
+      internalID: -575649251161247618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88440f0a4eaf1b5f0800000000000000
+      internalID: -742536603679832952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d7d220d5fe6bd0800000000000000
+      internalID: -2634898457678588637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe83fe7bdb1015c0800000000000000
+      internalID: -4246863819068698887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a1671485f890b0800000000000000
+      internalID: -5721553378897450831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfd9437753b8230800000000000000
+      internalID: 3642063509759327626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963057f11685cfca0800000000000000
+      internalID: -5981809030892027031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87736ebc08057460800000000000000
+      internalID: 7238700826894759823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d7f8a15b517490800000000000000
+      internalID: -7750313077442621010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd03c7b3d271d10800000000000000
+      internalID: 2096193885074152902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53caa349352ddd5a0800000000000000
+      internalID: -6494803831187395531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8cab104401b560800000000000000
+      internalID: 7327642742097218293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824f638a2597b4a80800000000000000
+      internalID: -8481552077305744344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f5d8981bf69f10800000000000000
+      internalID: 2276282744744310523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf7466af5771a30800000000000000
+      internalID: 4185944096982432486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c5b090b09cc180800000000000000
+      internalID: -9093734459551397628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e7f4929c94e2860800000000000000
+      internalID: 7507018757203525138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b3a3c0d9e66920800000000000000
+      internalID: 2983328886024288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5d671e34f5c040800000000000000
+      internalID: 4667405136357579474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df342729c399a00800000000000000
+      internalID: 763708211495959906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c1a9cca32094cc0800000000000000
+      internalID: -3726444765108364152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac802c9f4454960800000000000000
+      internalID: 7585544986868370053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305a98ac78a99bf0800000000000000
+      internalID: -317037045394812873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32a6ab0624b4110800000000000000
+      internalID: 1246162705109885922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01ba1fbf0535aa0800000000000000
+      internalID: -6173501621173284662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f37437d6526f440800000000000000
+      internalID: 4969200390865633038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c6513270aff770800000000000000
+      internalID: 8646806221889128676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3d42c4b53827c0800000000000000
+      internalID: -4095964810623238972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0381f74556e5870800000000000000
+      internalID: 8673481345946104016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Gym_01_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1bc6b550fd3190800000000000000
+      internalID: -7980958713700999412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

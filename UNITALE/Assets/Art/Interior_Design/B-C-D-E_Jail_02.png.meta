@@ -1,0 +1,6164 @@
+fileFormatVersion: 2
+guid: 31443dd9db7d5c64b92ce0f89f19bbb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7550283424543159820
+    second: B-C-D-E_Jail_02_0
+  - first:
+      213: -2365665417668880943
+    second: B-C-D-E_Jail_02_1
+  - first:
+      213: 8886872823673120709
+    second: B-C-D-E_Jail_02_2
+  - first:
+      213: 3390999968536736581
+    second: B-C-D-E_Jail_02_3
+  - first:
+      213: -8082704944106663846
+    second: B-C-D-E_Jail_02_4
+  - first:
+      213: 3744980837473291019
+    second: B-C-D-E_Jail_02_5
+  - first:
+      213: 1810223940500658639
+    second: B-C-D-E_Jail_02_6
+  - first:
+      213: 1772618858284449456
+    second: B-C-D-E_Jail_02_7
+  - first:
+      213: 5910063708752991784
+    second: B-C-D-E_Jail_02_8
+  - first:
+      213: -1863660246041985679
+    second: B-C-D-E_Jail_02_9
+  - first:
+      213: 8053008473652047343
+    second: B-C-D-E_Jail_02_10
+  - first:
+      213: 1794508008720430167
+    second: B-C-D-E_Jail_02_11
+  - first:
+      213: 9007221126223075255
+    second: B-C-D-E_Jail_02_12
+  - first:
+      213: -6658521037226539487
+    second: B-C-D-E_Jail_02_13
+  - first:
+      213: -8730712332438517688
+    second: B-C-D-E_Jail_02_14
+  - first:
+      213: -4996447295018050360
+    second: B-C-D-E_Jail_02_15
+  - first:
+      213: -2621066536426474580
+    second: B-C-D-E_Jail_02_16
+  - first:
+      213: -5615762106448073209
+    second: B-C-D-E_Jail_02_17
+  - first:
+      213: -1136952070088786746
+    second: B-C-D-E_Jail_02_18
+  - first:
+      213: 880001763989980595
+    second: B-C-D-E_Jail_02_19
+  - first:
+      213: -7938417579625157910
+    second: B-C-D-E_Jail_02_20
+  - first:
+      213: -8026415273264212330
+    second: B-C-D-E_Jail_02_21
+  - first:
+      213: -789188010225827156
+    second: B-C-D-E_Jail_02_22
+  - first:
+      213: 7227256467785978998
+    second: B-C-D-E_Jail_02_23
+  - first:
+      213: -1618311451336793993
+    second: B-C-D-E_Jail_02_24
+  - first:
+      213: -7553351212443201779
+    second: B-C-D-E_Jail_02_25
+  - first:
+      213: 2024868071636914794
+    second: B-C-D-E_Jail_02_26
+  - first:
+      213: -348995048438342358
+    second: B-C-D-E_Jail_02_27
+  - first:
+      213: -4432156527783861198
+    second: B-C-D-E_Jail_02_28
+  - first:
+      213: 9136116483722755783
+    second: B-C-D-E_Jail_02_29
+  - first:
+      213: -8826034864043200660
+    second: B-C-D-E_Jail_02_30
+  - first:
+      213: 1218265143278442582
+    second: B-C-D-E_Jail_02_31
+  - first:
+      213: 3646432110950652443
+    second: B-C-D-E_Jail_02_32
+  - first:
+      213: 5780976289600933565
+    second: B-C-D-E_Jail_02_33
+  - first:
+      213: 7914432121602450754
+    second: B-C-D-E_Jail_02_34
+  - first:
+      213: 9206708220271997869
+    second: B-C-D-E_Jail_02_35
+  - first:
+      213: 3905474913838106484
+    second: B-C-D-E_Jail_02_36
+  - first:
+      213: -374429297585332015
+    second: B-C-D-E_Jail_02_37
+  - first:
+      213: 2022241628702170997
+    second: B-C-D-E_Jail_02_38
+  - first:
+      213: 987821704732203285
+    second: B-C-D-E_Jail_02_39
+  - first:
+      213: -8865054103945895256
+    second: B-C-D-E_Jail_02_40
+  - first:
+      213: -5589573099734831170
+    second: B-C-D-E_Jail_02_41
+  - first:
+      213: 7330334332738861343
+    second: B-C-D-E_Jail_02_42
+  - first:
+      213: 3943937107841925135
+    second: B-C-D-E_Jail_02_43
+  - first:
+      213: -6863538799164797067
+    second: B-C-D-E_Jail_02_44
+  - first:
+      213: -3376144385288703018
+    second: B-C-D-E_Jail_02_45
+  - first:
+      213: 2001794475608599138
+    second: B-C-D-E_Jail_02_46
+  - first:
+      213: -5746073697740839679
+    second: B-C-D-E_Jail_02_47
+  - first:
+      213: -3220838468932122788
+    second: B-C-D-E_Jail_02_48
+  - first:
+      213: -488820043195234048
+    second: B-C-D-E_Jail_02_49
+  - first:
+      213: -7567046861293765920
+    second: B-C-D-E_Jail_02_50
+  - first:
+      213: 710688488353387459
+    second: B-C-D-E_Jail_02_51
+  - first:
+      213: 1682688309790512736
+    second: B-C-D-E_Jail_02_52
+  - first:
+      213: -7326906541154568711
+    second: B-C-D-E_Jail_02_53
+  - first:
+      213: -3539706821774280102
+    second: B-C-D-E_Jail_02_54
+  - first:
+      213: -2087719646013406879
+    second: B-C-D-E_Jail_02_55
+  - first:
+      213: 807783380400215179
+    second: B-C-D-E_Jail_02_56
+  - first:
+      213: 5497524150677243225
+    second: B-C-D-E_Jail_02_57
+  - first:
+      213: 3618525611805688138
+    second: B-C-D-E_Jail_02_58
+  - first:
+      213: -6719607424581473871
+    second: B-C-D-E_Jail_02_59
+  - first:
+      213: 5186169824833940512
+    second: B-C-D-E_Jail_02_60
+  - first:
+      213: 4288651106906170876
+    second: B-C-D-E_Jail_02_61
+  - first:
+      213: -6795053952535685660
+    second: B-C-D-E_Jail_02_62
+  - first:
+      213: 7502241175727157619
+    second: B-C-D-E_Jail_02_63
+  - first:
+      213: 2957872571146304530
+    second: B-C-D-E_Jail_02_64
+  - first:
+      213: -6088147440397735689
+    second: B-C-D-E_Jail_02_65
+  - first:
+      213: 5213556324112287692
+    second: B-C-D-E_Jail_02_66
+  - first:
+      213: 1082009821263286059
+    second: B-C-D-E_Jail_02_67
+  - first:
+      213: 8563445052061586207
+    second: B-C-D-E_Jail_02_68
+  - first:
+      213: -5674981527686441145
+    second: B-C-D-E_Jail_02_69
+  - first:
+      213: -8712909432763648927
+    second: B-C-D-E_Jail_02_70
+  - first:
+      213: -4770741985046608967
+    second: B-C-D-E_Jail_02_71
+  - first:
+      213: -8176776487795068056
+    second: B-C-D-E_Jail_02_72
+  - first:
+      213: 9045401219107110529
+    second: B-C-D-E_Jail_02_73
+  - first:
+      213: 8350303654316380063
+    second: B-C-D-E_Jail_02_74
+  - first:
+      213: -1387773231702272812
+    second: B-C-D-E_Jail_02_75
+  - first:
+      213: 6413234037567357796
+    second: B-C-D-E_Jail_02_76
+  - first:
+      213: 9173257973167922474
+    second: B-C-D-E_Jail_02_77
+  - first:
+      213: -8118072997745315898
+    second: B-C-D-E_Jail_02_78
+  - first:
+      213: -7435375822584285515
+    second: B-C-D-E_Jail_02_79
+  - first:
+      213: 6741575414327295610
+    second: B-C-D-E_Jail_02_80
+  - first:
+      213: -2416877783726105454
+    second: B-C-D-E_Jail_02_81
+  - first:
+      213: -524714137917253149
+    second: B-C-D-E_Jail_02_82
+  - first:
+      213: 987661576637226704
+    second: B-C-D-E_Jail_02_83
+  - first:
+      213: -4613261974708462097
+    second: B-C-D-E_Jail_02_84
+  - first:
+      213: -4965042954401738932
+    second: B-C-D-E_Jail_02_85
+  - first:
+      213: 8744809015743277655
+    second: B-C-D-E_Jail_02_86
+  - first:
+      213: 1772725425482067917
+    second: B-C-D-E_Jail_02_87
+  - first:
+      213: -8894008095676573080
+    second: B-C-D-E_Jail_02_88
+  - first:
+      213: -7910475644722597012
+    second: B-C-D-E_Jail_02_89
+  - first:
+      213: 3584100499482301766
+    second: B-C-D-E_Jail_02_90
+  - first:
+      213: -7345135427879323183
+    second: B-C-D-E_Jail_02_91
+  - first:
+      213: -4290452024713338137
+    second: B-C-D-E_Jail_02_92
+  - first:
+      213: 1229688435903515276
+    second: B-C-D-E_Jail_02_93
+  - first:
+      213: -5534933097537807194
+    second: B-C-D-E_Jail_02_94
+  - first:
+      213: -8238302809594965383
+    second: B-C-D-E_Jail_02_95
+  - first:
+      213: 2488148025031707544
+    second: B-C-D-E_Jail_02_96
+  - first:
+      213: -3071923329119579962
+    second: B-C-D-E_Jail_02_97
+  - first:
+      213: -3021802024978862634
+    second: B-C-D-E_Jail_02_98
+  - first:
+      213: 727877165355834973
+    second: B-C-D-E_Jail_02_99
+  - first:
+      213: -3171597033261821863
+    second: B-C-D-E_Jail_02_100
+  - first:
+      213: 7933868025894895147
+    second: B-C-D-E_Jail_02_101
+  - first:
+      213: 7933057011938581658
+    second: B-C-D-E_Jail_02_102
+  - first:
+      213: 2854727694439039933
+    second: B-C-D-E_Jail_02_103
+  - first:
+      213: -7566348175723984247
+    second: B-C-D-E_Jail_02_104
+  - first:
+      213: -6138910848509707102
+    second: B-C-D-E_Jail_02_105
+  - first:
+      213: 3071135297489239810
+    second: B-C-D-E_Jail_02_106
+  - first:
+      213: 7510147463965834774
+    second: B-C-D-E_Jail_02_107
+  - first:
+      213: 5656376397778932982
+    second: B-C-D-E_Jail_02_108
+  - first:
+      213: -2946349652050242071
+    second: B-C-D-E_Jail_02_109
+  - first:
+      213: 4022331027281022292
+    second: B-C-D-E_Jail_02_110
+  - first:
+      213: 6028565724518772750
+    second: B-C-D-E_Jail_02_111
+  - first:
+      213: 3797691878689859222
+    second: B-C-D-E_Jail_02_112
+  - first:
+      213: 8510029965129848568
+    second: B-C-D-E_Jail_02_113
+  - first:
+      213: 8774165700482259182
+    second: B-C-D-E_Jail_02_114
+  - first:
+      213: -638740205838156114
+    second: B-C-D-E_Jail_02_115
+  - first:
+      213: 2709415628275203689
+    second: B-C-D-E_Jail_02_116
+  - first:
+      213: 1449508761407168767
+    second: B-C-D-E_Jail_02_117
+  - first:
+      213: -8838487118222599074
+    second: B-C-D-E_Jail_02_118
+  - first:
+      213: -3763241863277212680
+    second: B-C-D-E_Jail_02_119
+  - first:
+      213: -7403327788227988895
+    second: B-C-D-E_Jail_02_120
+  - first:
+      213: -3389262742466507491
+    second: B-C-D-E_Jail_02_121
+  - first:
+      213: -4745356909047028022
+    second: B-C-D-E_Jail_02_122
+  - first:
+      213: -2594559701909017248
+    second: B-C-D-E_Jail_02_123
+  - first:
+      213: -8177213124641257903
+    second: B-C-D-E_Jail_02_124
+  - first:
+      213: 664449872214328953
+    second: B-C-D-E_Jail_02_125
+  - first:
+      213: -4615213225079269787
+    second: B-C-D-E_Jail_02_126
+  - first:
+      213: 8406457569703170476
+    second: B-C-D-E_Jail_02_127
+  - first:
+      213: 5560519994146330612
+    second: B-C-D-E_Jail_02_128
+  - first:
+      213: 3967392683214899848
+    second: B-C-D-E_Jail_02_129
+  - first:
+      213: -5830987844881196990
+    second: B-C-D-E_Jail_02_130
+  - first:
+      213: -4657865657722041971
+    second: B-C-D-E_Jail_02_131
+  - first:
+      213: 6353503113311731512
+    second: B-C-D-E_Jail_02_132
+  - first:
+      213: -5410706010824741110
+    second: B-C-D-E_Jail_02_133
+  - first:
+      213: 5534265290865496514
+    second: B-C-D-E_Jail_02_134
+  - first:
+      213: -25939464781868880
+    second: B-C-D-E_Jail_02_135
+  - first:
+      213: 2022198241918373339
+    second: B-C-D-E_Jail_02_136
+  - first:
+      213: -4601147682162103942
+    second: B-C-D-E_Jail_02_137
+  - first:
+      213: -385705438979794237
+    second: B-C-D-E_Jail_02_138
+  - first:
+      213: -5282718603573254840
+    second: B-C-D-E_Jail_02_139
+  - first:
+      213: 6085385538762916269
+    second: B-C-D-E_Jail_02_140
+  - first:
+      213: 3143451313255097954
+    second: B-C-D-E_Jail_02_141
+  - first:
+      213: 5005113098560950966
+    second: B-C-D-E_Jail_02_142
+  - first:
+      213: 8894626419582628484
+    second: B-C-D-E_Jail_02_143
+  - first:
+      213: 1958642648631854601
+    second: B-C-D-E_Jail_02_144
+  - first:
+      213: 8152220906596802972
+    second: B-C-D-E_Jail_02_145
+  - first:
+      213: -3580261822572354410
+    second: B-C-D-E_Jail_02_146
+  - first:
+      213: -6364605823500084477
+    second: B-C-D-E_Jail_02_147
+  - first:
+      213: -130966511842307576
+    second: B-C-D-E_Jail_02_148
+  - first:
+      213: 7719387988102620680
+    second: B-C-D-E_Jail_02_149
+  - first:
+      213: 9211688347789559958
+    second: B-C-D-E_Jail_02_150
+  - first:
+      213: 2179454481318642952
+    second: B-C-D-E_Jail_02_151
+  - first:
+      213: -2181732588470737617
+    second: B-C-D-E_Jail_02_152
+  - first:
+      213: -7898697167945843268
+    second: B-C-D-E_Jail_02_153
+  - first:
+      213: 3240036142294709842
+    second: B-C-D-E_Jail_02_154
+  - first:
+      213: 8625066513458560337
+    second: B-C-D-E_Jail_02_155
+  - first:
+      213: -8700320724456146588
+    second: B-C-D-E_Jail_02_156
+  - first:
+      213: -5477734825816833617
+    second: B-C-D-E_Jail_02_157
+  - first:
+      213: -991917047763374950
+    second: B-C-D-E_Jail_02_158
+  - first:
+      213: -4730947563008587998
+    second: B-C-D-E_Jail_02_159
+  - first:
+      213: 2832707679562464705
+    second: B-C-D-E_Jail_02_160
+  - first:
+      213: -1874150498304548093
+    second: B-C-D-E_Jail_02_161
+  - first:
+      213: -1212582502777855085
+    second: B-C-D-E_Jail_02_162
+  - first:
+      213: -7001276397667809708
+    second: B-C-D-E_Jail_02_163
+  - first:
+      213: -8860459955675463424
+    second: B-C-D-E_Jail_02_164
+  - first:
+      213: -4616295882965266875
+    second: B-C-D-E_Jail_02_165
+  - first:
+      213: -7964007717089111437
+    second: B-C-D-E_Jail_02_166
+  - first:
+      213: 1559413188618866253
+    second: B-C-D-E_Jail_02_167
+  - first:
+      213: -7030753059495914600
+    second: B-C-D-E_Jail_02_168
+  - first:
+      213: -2284638447983563350
+    second: B-C-D-E_Jail_02_169
+  - first:
+      213: 1177626489278252109
+    second: B-C-D-E_Jail_02_170
+  - first:
+      213: -2544487082783377164
+    second: B-C-D-E_Jail_02_171
+  - first:
+      213: 7329617501360242584
+    second: B-C-D-E_Jail_02_172
+  - first:
+      213: 6072266784657934521
+    second: B-C-D-E_Jail_02_173
+  - first:
+      213: -8924094272701728733
+    second: B-C-D-E_Jail_02_174
+  - first:
+      213: -7158331926796354897
+    second: B-C-D-E_Jail_02_175
+  - first:
+      213: -1285224195675493608
+    second: B-C-D-E_Jail_02_176
+  - first:
+      213: 8508769980313585738
+    second: B-C-D-E_Jail_02_177
+  - first:
+      213: -7734736502477839414
+    second: B-C-D-E_Jail_02_178
+  - first:
+      213: 3390147294711110847
+    second: B-C-D-E_Jail_02_179
+  - first:
+      213: 378797203802463445
+    second: B-C-D-E_Jail_02_180
+  - first:
+      213: 1778279292522325372
+    second: B-C-D-E_Jail_02_181
+  - first:
+      213: -4224548063368570240
+    second: B-C-D-E_Jail_02_182
+  - first:
+      213: -291029566314893927
+    second: B-C-D-E_Jail_02_183
+  - first:
+      213: 7885475623756927530
+    second: B-C-D-E_Jail_02_184
+  - first:
+      213: 3335927712561788741
+    second: B-C-D-E_Jail_02_185
+  - first:
+      213: 6065894981496899100
+    second: B-C-D-E_Jail_02_186
+  - first:
+      213: 6041143782300673850
+    second: B-C-D-E_Jail_02_187
+  - first:
+      213: -8055417147196356992
+    second: B-C-D-E_Jail_02_188
+  - first:
+      213: -1573998921254874300
+    second: B-C-D-E_Jail_02_189
+  - first:
+      213: 3138162375092291980
+    second: B-C-D-E_Jail_02_190
+  - first:
+      213: 2615551692731356378
+    second: B-C-D-E_Jail_02_191
+  - first:
+      213: -4804100885844005167
+    second: B-C-D-E_Jail_02_192
+  - first:
+      213: 3022731068515366838
+    second: B-C-D-E_Jail_02_193
+  - first:
+      213: -7477930403596970042
+    second: B-C-D-E_Jail_02_194
+  - first:
+      213: 3265047218811698313
+    second: B-C-D-E_Jail_02_195
+  - first:
+      213: -1695412230662613638
+    second: B-C-D-E_Jail_02_196
+  - first:
+      213: 8711850314409990267
+    second: B-C-D-E_Jail_02_197
+  - first:
+      213: 9184547314085592584
+    second: B-C-D-E_Jail_02_198
+  - first:
+      213: -7353700574789566923
+    second: B-C-D-E_Jail_02_199
+  - first:
+      213: -2947173988485306623
+    second: B-C-D-E_Jail_02_200
+  - first:
+      213: 5393260776086778592
+    second: B-C-D-E_Jail_02_201
+  - first:
+      213: -4538419379638011652
+    second: B-C-D-E_Jail_02_202
+  - first:
+      213: 7586085975263994716
+    second: B-C-D-E_Jail_02_203
+  - first:
+      213: -8551517542401783762
+    second: B-C-D-E_Jail_02_204
+  - first:
+      213: -1115856331884310693
+    second: B-C-D-E_Jail_02_205
+  - first:
+      213: -8936215835246550347
+    second: B-C-D-E_Jail_02_206
+  - first:
+      213: 941570227972194998
+    second: B-C-D-E_Jail_02_207
+  - first:
+      213: 685553200737174944
+    second: B-C-D-E_Jail_02_208
+  - first:
+      213: 2188170365079928472
+    second: B-C-D-E_Jail_02_209
+  - first:
+      213: 8440778118456069560
+    second: B-C-D-E_Jail_02_210
+  - first:
+      213: 2509291294560942594
+    second: B-C-D-E_Jail_02_211
+  - first:
+      213: 7551098572099682820
+    second: B-C-D-E_Jail_02_212
+  - first:
+      213: 5578760447480581699
+    second: B-C-D-E_Jail_02_213
+  - first:
+      213: 3109190649209546312
+    second: B-C-D-E_Jail_02_214
+  - first:
+      213: 3713311356730197514
+    second: B-C-D-E_Jail_02_215
+  - first:
+      213: -3103913995344608334
+    second: B-C-D-E_Jail_02_216
+  - first:
+      213: -4126811069098486192
+    second: B-C-D-E_Jail_02_217
+  - first:
+      213: 7604705069941523999
+    second: B-C-D-E_Jail_02_218
+  - first:
+      213: -9024204985367250728
+    second: B-C-D-E_Jail_02_219
+  - first:
+      213: 491406303093660802
+    second: B-C-D-E_Jail_02_220
+  - first:
+      213: -7425185333961935714
+    second: B-C-D-E_Jail_02_221
+  - first:
+      213: -3353289146135159532
+    second: B-C-D-E_Jail_02_222
+  - first:
+      213: 1190244966716313644
+    second: B-C-D-E_Jail_02_223
+  - first:
+      213: 4880727767408670760
+    second: B-C-D-E_Jail_02_0
+  - first:
+      213: -4296702461583625897
+    second: B-C-D-E_Jail_02_1
+  - first:
+      213: 8483030070158900664
+    second: B-C-D-E_Jail_02_2
+  - first:
+      213: 337959581596809404
+    second: B-C-D-E_Jail_02_3
+  - first:
+      213: 635550175725933128
+    second: B-C-D-E_Jail_02_4
+  - first:
+      213: -7201453218598296326
+    second: B-C-D-E_Jail_02_5
+  - first:
+      213: 2730594172544600127
+    second: B-C-D-E_Jail_02_6
+  - first:
+      213: 8726847279609181617
+    second: B-C-D-E_Jail_02_7
+  - first:
+      213: -5129473172617199462
+    second: B-C-D-E_Jail_02_8
+  - first:
+      213: -4943159424471451932
+    second: B-C-D-E_Jail_02_9
+  - first:
+      213: 6020929134036655287
+    second: B-C-D-E_Jail_02_10
+  - first:
+      213: -1870516585860196569
+    second: B-C-D-E_Jail_02_11
+  - first:
+      213: 2567589837192059896
+    second: B-C-D-E_Jail_02_12
+  - first:
+      213: 906247891354810018
+    second: B-C-D-E_Jail_02_13
+  - first:
+      213: -7970296148595584109
+    second: B-C-D-E_Jail_02_14
+  - first:
+      213: 563559617187722190
+    second: B-C-D-E_Jail_02_15
+  - first:
+      213: 1283682480867705866
+    second: B-C-D-E_Jail_02_16
+  - first:
+      213: 686173871276740216
+    second: B-C-D-E_Jail_02_17
+  - first:
+      213: 4437704853961053427
+    second: B-C-D-E_Jail_02_18
+  - first:
+      213: 5816799255821274629
+    second: B-C-D-E_Jail_02_19
+  - first:
+      213: -5017338712829411334
+    second: B-C-D-E_Jail_02_20
+  - first:
+      213: -7416531601879241869
+    second: B-C-D-E_Jail_02_21
+  - first:
+      213: 740273263610794763
+    second: B-C-D-E_Jail_02_22
+  - first:
+      213: -947802999302662620
+    second: B-C-D-E_Jail_02_23
+  - first:
+      213: 6841922693251896629
+    second: B-C-D-E_Jail_02_24
+  - first:
+      213: 6475413799288918048
+    second: B-C-D-E_Jail_02_25
+  - first:
+      213: 2241103556414086838
+    second: B-C-D-E_Jail_02_26
+  - first:
+      213: -9189222520747837471
+    second: B-C-D-E_Jail_02_27
+  - first:
+      213: -7880140928004229543
+    second: B-C-D-E_Jail_02_28
+  - first:
+      213: 6278215573850770288
+    second: B-C-D-E_Jail_02_29
+  - first:
+      213: -8818866495676034234
+    second: B-C-D-E_Jail_02_30
+  - first:
+      213: 3863167331537035249
+    second: B-C-D-E_Jail_02_31
+  - first:
+      213: 3802529521907720736
+    second: B-C-D-E_Jail_02_32
+  - first:
+      213: 2018337817619895904
+    second: B-C-D-E_Jail_02_33
+  - first:
+      213: -8369737490121004799
+    second: B-C-D-E_Jail_02_34
+  - first:
+      213: -8598754962954252838
+    second: B-C-D-E_Jail_02_35
+  - first:
+      213: 8887012074731317220
+    second: B-C-D-E_Jail_02_36
+  - first:
+      213: -7585844821966586555
+    second: B-C-D-E_Jail_02_37
+  - first:
+      213: -5687539481385006337
+    second: B-C-D-E_Jail_02_38
+  - first:
+      213: 3524723372963824555
+    second: B-C-D-E_Jail_02_39
+  - first:
+      213: 2521980440157667564
+    second: B-C-D-E_Jail_02_40
+  - first:
+      213: 2966795848692591603
+    second: B-C-D-E_Jail_02_41
+  - first:
+      213: -2740823222531146075
+    second: B-C-D-E_Jail_02_42
+  - first:
+      213: 8573456495406073213
+    second: B-C-D-E_Jail_02_43
+  - first:
+      213: -1717982759220015759
+    second: B-C-D-E_Jail_02_44
+  - first:
+      213: 7471856347864531647
+    second: B-C-D-E_Jail_02_45
+  - first:
+      213: 6374950158491415729
+    second: B-C-D-E_Jail_02_46
+  - first:
+      213: 1375892596833019625
+    second: B-C-D-E_Jail_02_47
+  - first:
+      213: -8128172053463955382
+    second: B-C-D-E_Jail_02_48
+  - first:
+      213: 1729650119141239350
+    second: B-C-D-E_Jail_02_49
+  - first:
+      213: 7689338779541729835
+    second: B-C-D-E_Jail_02_50
+  - first:
+      213: 6708174742620083179
+    second: B-C-D-E_Jail_02_51
+  - first:
+      213: -6978805478314406085
+    second: B-C-D-E_Jail_02_52
+  - first:
+      213: 2953512072667331939
+    second: B-C-D-E_Jail_02_53
+  - first:
+      213: 320166761038494626
+    second: B-C-D-E_Jail_02_54
+  - first:
+      213: 7591921822162808819
+    second: B-C-D-E_Jail_02_55
+  - first:
+      213: -4075280572344425899
+    second: B-C-D-E_Jail_02_56
+  - first:
+      213: 6859536008247913121
+    second: B-C-D-E_Jail_02_57
+  - first:
+      213: -7651238911568579193
+    second: B-C-D-E_Jail_02_58
+  - first:
+      213: -5141064980914748999
+    second: B-C-D-E_Jail_02_59
+  - first:
+      213: -2207778339649818276
+    second: B-C-D-E_Jail_02_60
+  - first:
+      213: -4126182636188875066
+    second: B-C-D-E_Jail_02_61
+  - first:
+      213: 9103219945387754929
+    second: B-C-D-E_Jail_02_62
+  - first:
+      213: -2391578901731314566
+    second: B-C-D-E_Jail_02_63
+  - first:
+      213: 916853857336180124
+    second: B-C-D-E_Jail_02_64
+  - first:
+      213: 5413697450580584456
+    second: B-C-D-E_Jail_02_65
+  - first:
+      213: 8389431558057605983
+    second: B-C-D-E_Jail_02_66
+  - first:
+      213: -4296712002357808716
+    second: B-C-D-E_Jail_02_67
+  - first:
+      213: -27186024144929276
+    second: B-C-D-E_Jail_02_68
+  - first:
+      213: 4471808509422205513
+    second: B-C-D-E_Jail_02_69
+  - first:
+      213: -3082084513409626746
+    second: B-C-D-E_Jail_02_70
+  - first:
+      213: 8520493182404386237
+    second: B-C-D-E_Jail_02_71
+  - first:
+      213: 1576389550972795299
+    second: B-C-D-E_Jail_02_72
+  - first:
+      213: -3702304871371284815
+    second: B-C-D-E_Jail_02_73
+  - first:
+      213: 4888785215823157955
+    second: B-C-D-E_Jail_02_74
+  - first:
+      213: 5790486746228111853
+    second: B-C-D-E_Jail_02_75
+  - first:
+      213: -7961515241461234598
+    second: B-C-D-E_Jail_02_76
+  - first:
+      213: 574149203754243584
+    second: B-C-D-E_Jail_02_77
+  - first:
+      213: -4549367265573757118
+    second: B-C-D-E_Jail_02_78
+  - first:
+      213: -8847721850787455463
+    second: B-C-D-E_Jail_02_79
+  - first:
+      213: -5884216374655208586
+    second: B-C-D-E_Jail_02_80
+  - first:
+      213: 794353233653697201
+    second: B-C-D-E_Jail_02_81
+  - first:
+      213: 2441869327600432018
+    second: B-C-D-E_Jail_02_82
+  - first:
+      213: -8708141560712557908
+    second: B-C-D-E_Jail_02_83
+  - first:
+      213: -659377033101202910
+    second: B-C-D-E_Jail_02_84
+  - first:
+      213: -3454851874346607959
+    second: B-C-D-E_Jail_02_85
+  - first:
+      213: -2050343334216287949
+    second: B-C-D-E_Jail_02_86
+  - first:
+      213: 9030054717834927358
+    second: B-C-D-E_Jail_02_87
+  - first:
+      213: -2011719971598524784
+    second: B-C-D-E_Jail_02_88
+  - first:
+      213: 1925018784231055236
+    second: B-C-D-E_Jail_02_89
+  - first:
+      213: -1064857540088507852
+    second: B-C-D-E_Jail_02_90
+  - first:
+      213: -125806622072402369
+    second: B-C-D-E_Jail_02_91
+  - first:
+      213: 2020593293467229335
+    second: B-C-D-E_Jail_02_92
+  - first:
+      213: -4444468204796392272
+    second: B-C-D-E_Jail_02_93
+  - first:
+      213: 888996186075437775
+    second: B-C-D-E_Jail_02_94
+  - first:
+      213: -71494592651340265
+    second: B-C-D-E_Jail_02_95
+  - first:
+      213: 4410304315586829533
+    second: B-C-D-E_Jail_02_96
+  - first:
+      213: 5887299024437534687
+    second: B-C-D-E_Jail_02_97
+  - first:
+      213: -8698942411797482195
+    second: B-C-D-E_Jail_02_98
+  - first:
+      213: -4438050239238678776
+    second: B-C-D-E_Jail_02_99
+  - first:
+      213: 177310309840885966
+    second: B-C-D-E_Jail_02_100
+  - first:
+      213: 8306491446586052531
+    second: B-C-D-E_Jail_02_101
+  - first:
+      213: 2725428452565752542
+    second: B-C-D-E_Jail_02_102
+  - first:
+      213: 2773010759813781733
+    second: B-C-D-E_Jail_02_103
+  - first:
+      213: -1953388652568223808
+    second: B-C-D-E_Jail_02_104
+  - first:
+      213: -7166977291556606392
+    second: B-C-D-E_Jail_02_105
+  - first:
+      213: 6445305286459137643
+    second: B-C-D-E_Jail_02_106
+  - first:
+      213: -3443916366234970152
+    second: B-C-D-E_Jail_02_107
+  - first:
+      213: 51497878743990773
+    second: B-C-D-E_Jail_02_108
+  - first:
+      213: -3031830460880155640
+    second: B-C-D-E_Jail_02_109
+  - first:
+      213: -6036346976439173392
+    second: B-C-D-E_Jail_02_110
+  - first:
+      213: -4111643709625389143
+    second: B-C-D-E_Jail_02_111
+  - first:
+      213: -386933879760573574
+    second: B-C-D-E_Jail_02_112
+  - first:
+      213: 1639719687525552034
+    second: B-C-D-E_Jail_02_113
+  - first:
+      213: -2173940464448205022
+    second: B-C-D-E_Jail_02_114
+  - first:
+      213: -7050774678488552757
+    second: B-C-D-E_Jail_02_115
+  - first:
+      213: -1660870575184459155
+    second: B-C-D-E_Jail_02_116
+  - first:
+      213: 8334415912219237598
+    second: B-C-D-E_Jail_02_117
+  - first:
+      213: -3203111320071788734
+    second: B-C-D-E_Jail_02_118
+  - first:
+      213: -419202957980482892
+    second: B-C-D-E_Jail_02_119
+  - first:
+      213: -2091353880951346361
+    second: B-C-D-E_Jail_02_120
+  - first:
+      213: -7982981068544948956
+    second: B-C-D-E_Jail_02_121
+  - first:
+      213: -4461735215521785666
+    second: B-C-D-E_Jail_02_122
+  - first:
+      213: -1218302195681065685
+    second: B-C-D-E_Jail_02_123
+  - first:
+      213: -2622381030014329259
+    second: B-C-D-E_Jail_02_124
+  - first:
+      213: -6759313221695178666
+    second: B-C-D-E_Jail_02_125
+  - first:
+      213: 4147993954455310866
+    second: B-C-D-E_Jail_02_126
+  - first:
+      213: -4102688633842799356
+    second: B-C-D-E_Jail_02_127
+  - first:
+      213: -3960495875285955069
+    second: B-C-D-E_Jail_02_128
+  - first:
+      213: 3923988071539217947
+    second: B-C-D-E_Jail_02_129
+  - first:
+      213: 5927631198251535570
+    second: B-C-D-E_Jail_02_130
+  - first:
+      213: 4128121303391976082
+    second: B-C-D-E_Jail_02_131
+  - first:
+      213: -3025811626492652719
+    second: B-C-D-E_Jail_02_132
+  - first:
+      213: 8742910293228933
+    second: B-C-D-E_Jail_02_133
+  - first:
+      213: 7917370597845321773
+    second: B-C-D-E_Jail_02_134
+  - first:
+      213: 4924613673332684661
+    second: B-C-D-E_Jail_02_135
+  - first:
+      213: 8203650988706871159
+    second: B-C-D-E_Jail_02_136
+  - first:
+      213: -7882420226153683489
+    second: B-C-D-E_Jail_02_137
+  - first:
+      213: -8359959972449421115
+    second: B-C-D-E_Jail_02_138
+  - first:
+      213: 5816467568133887944
+    second: B-C-D-E_Jail_02_139
+  - first:
+      213: 3207399828527335
+    second: B-C-D-E_Jail_02_140
+  - first:
+      213: -7729022463723394394
+    second: B-C-D-E_Jail_02_141
+  - first:
+      213: -6779825152483564337
+    second: B-C-D-E_Jail_02_142
+  - first:
+      213: -8961634969576009140
+    second: B-C-D-E_Jail_02_143
+  - first:
+      213: 286451404982171264
+    second: B-C-D-E_Jail_02_144
+  - first:
+      213: 5803619985021536868
+    second: B-C-D-E_Jail_02_145
+  - first:
+      213: -782836890609897770
+    second: B-C-D-E_Jail_02_146
+  - first:
+      213: 6666040366711243258
+    second: B-C-D-E_Jail_02_147
+  - first:
+      213: -2489314685740645985
+    second: B-C-D-E_Jail_02_148
+  - first:
+      213: -6925006908957556317
+    second: B-C-D-E_Jail_02_149
+  - first:
+      213: 8920914939920972664
+    second: B-C-D-E_Jail_02_150
+  - first:
+      213: 1030546598388901909
+    second: B-C-D-E_Jail_02_151
+  - first:
+      213: -2802898342556745533
+    second: B-C-D-E_Jail_02_152
+  - first:
+      213: -8165473501650603578
+    second: B-C-D-E_Jail_02_153
+  - first:
+      213: -8545062211738864382
+    second: B-C-D-E_Jail_02_154
+  - first:
+      213: -3843164749393547846
+    second: B-C-D-E_Jail_02_155
+  - first:
+      213: 8970728970924860312
+    second: B-C-D-E_Jail_02_156
+  - first:
+      213: 3216738725559377509
+    second: B-C-D-E_Jail_02_157
+  - first:
+      213: 6271149687189529545
+    second: B-C-D-E_Jail_02_158
+  - first:
+      213: -4236780065769872983
+    second: B-C-D-E_Jail_02_159
+  - first:
+      213: -8441365112869275084
+    second: B-C-D-E_Jail_02_160
+  - first:
+      213: -746733325250347556
+    second: B-C-D-E_Jail_02_161
+  - first:
+      213: 8162189679160689091
+    second: B-C-D-E_Jail_02_162
+  - first:
+      213: -7581051979918319770
+    second: B-C-D-E_Jail_02_163
+  - first:
+      213: -83599150120673601
+    second: B-C-D-E_Jail_02_164
+  - first:
+      213: 1825757516281555908
+    second: B-C-D-E_Jail_02_165
+  - first:
+      213: -6339996363319264938
+    second: B-C-D-E_Jail_02_166
+  - first:
+      213: -8063485581364326748
+    second: B-C-D-E_Jail_02_167
+  - first:
+      213: -5765483492501978604
+    second: B-C-D-E_Jail_02_168
+  - first:
+      213: -8024287948230962006
+    second: B-C-D-E_Jail_02_169
+  - first:
+      213: -7255413699863311811
+    second: B-C-D-E_Jail_02_170
+  - first:
+      213: -3120430913702553539
+    second: B-C-D-E_Jail_02_171
+  - first:
+      213: 1359411359936945443
+    second: B-C-D-E_Jail_02_172
+  - first:
+      213: 3591923854263954313
+    second: B-C-D-E_Jail_02_173
+  - first:
+      213: 5363885669312540248
+    second: B-C-D-E_Jail_02_174
+  - first:
+      213: -5734570934433874670
+    second: B-C-D-E_Jail_02_175
+  - first:
+      213: 4546223862952304277
+    second: B-C-D-E_Jail_02_176
+  - first:
+      213: 229716063770391024
+    second: B-C-D-E_Jail_02_177
+  - first:
+      213: 1687601508983671712
+    second: B-C-D-E_Jail_02_178
+  - first:
+      213: -8140563027545596301
+    second: B-C-D-E_Jail_02_179
+  - first:
+      213: 7852587872863568108
+    second: B-C-D-E_Jail_02_180
+  - first:
+      213: 8772581662723140963
+    second: B-C-D-E_Jail_02_181
+  - first:
+      213: 6467928441679462306
+    second: B-C-D-E_Jail_02_182
+  - first:
+      213: -7591450171106743729
+    second: B-C-D-E_Jail_02_183
+  - first:
+      213: -8027834162674199628
+    second: B-C-D-E_Jail_02_184
+  - first:
+      213: -1830879539329970613
+    second: B-C-D-E_Jail_02_185
+  - first:
+      213: 6054768698473138806
+    second: B-C-D-E_Jail_02_186
+  - first:
+      213: -7294176965795210958
+    second: B-C-D-E_Jail_02_187
+  - first:
+      213: -6231792175447323348
+    second: B-C-D-E_Jail_02_188
+  - first:
+      213: 5703985125823700356
+    second: B-C-D-E_Jail_02_189
+  - first:
+      213: -2110646927719931992
+    second: B-C-D-E_Jail_02_190
+  - first:
+      213: 7061821869747885873
+    second: B-C-D-E_Jail_02_191
+  - first:
+      213: 8707812702630691324
+    second: B-C-D-E_Jail_02_192
+  - first:
+      213: -4866532449922051190
+    second: B-C-D-E_Jail_02_193
+  - first:
+      213: 1727474622523373792
+    second: B-C-D-E_Jail_02_194
+  - first:
+      213: -7497181676199111090
+    second: B-C-D-E_Jail_02_195
+  - first:
+      213: -1847918112037592704
+    second: B-C-D-E_Jail_02_196
+  - first:
+      213: 2627987944576648662
+    second: B-C-D-E_Jail_02_197
+  - first:
+      213: -999781404787944974
+    second: B-C-D-E_Jail_02_198
+  - first:
+      213: 3532509884759896639
+    second: B-C-D-E_Jail_02_199
+  - first:
+      213: -5448308182262519290
+    second: B-C-D-E_Jail_02_200
+  - first:
+      213: 6800413790127870975
+    second: B-C-D-E_Jail_02_201
+  - first:
+      213: 1119228803606113231
+    second: B-C-D-E_Jail_02_202
+  - first:
+      213: 1424548212676932629
+    second: B-C-D-E_Jail_02_203
+  - first:
+      213: -3813488739464468768
+    second: B-C-D-E_Jail_02_204
+  - first:
+      213: 613768481923433067
+    second: B-C-D-E_Jail_02_205
+  - first:
+      213: -8188015113850193890
+    second: B-C-D-E_Jail_02_206
+  - first:
+      213: -5323810644884214148
+    second: B-C-D-E_Jail_02_207
+  - first:
+      213: 5052824193793752045
+    second: B-C-D-E_Jail_02_208
+  - first:
+      213: 5301070266186577795
+    second: B-C-D-E_Jail_02_209
+  - first:
+      213: 3314973876735896991
+    second: B-C-D-E_Jail_02_210
+  - first:
+      213: 4726633601737819614
+    second: B-C-D-E_Jail_02_211
+  - first:
+      213: -1136665277297577463
+    second: B-C-D-E_Jail_02_212
+  - first:
+      213: -8166348171545371986
+    second: B-C-D-E_Jail_02_213
+  - first:
+      213: -5966706617493257696
+    second: B-C-D-E_Jail_02_214
+  - first:
+      213: 6730823416010243382
+    second: B-C-D-E_Jail_02_215
+  - first:
+      213: -9140529959325512290
+    second: B-C-D-E_Jail_02_216
+  - first:
+      213: 7204013718089912815
+    second: B-C-D-E_Jail_02_217
+  - first:
+      213: -6006920811051900152
+    second: B-C-D-E_Jail_02_218
+  - first:
+      213: 5476773858416214581
+    second: B-C-D-E_Jail_02_219
+  - first:
+      213: -1087894878507617019
+    second: B-C-D-E_Jail_02_220
+  - first:
+      213: 2077517710242350527
+    second: B-C-D-E_Jail_02_221
+  - first:
+      213: -4181043644778037043
+    second: B-C-D-E_Jail_02_222
+  - first:
+      213: 154471974771347713
+    second: B-C-D-E_Jail_02_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82877c59b04dbb340800000000000000
+      internalID: 4880727767408670760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f2c740eb0f54c0800000000000000
+      internalID: -4296702461583625897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd37ce57e6c9b570800000000000000
+      internalID: 8483030070158900664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87489e27ca0b400800000000000000
+      internalID: 337959581596809404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d41d748de1d800800000000000000
+      internalID: 635550175725933128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4eaded37c4f0c90800000000000000
+      internalID: -7201453218598296326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c540cee405e520800000000000000
+      internalID: 2730594172544600127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5703e2d5dfb1970800000000000000
+      internalID: 8726847279609181617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90814d935370d8b0800000000000000
+      internalID: -5129473172617199462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6314481be566bb0800000000000000
+      internalID: -4943159424471451932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc1e0ca523ae8350800000000000000
+      internalID: 6020929134036655287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727935953179a06e0800000000000000
+      internalID: -1870516585860196569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5cbe6a59e1a320800000000000000
+      internalID: 2567589837192059896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a676aad7a3a39c00800000000000000
+      internalID: 906247891354810018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393db4c91e1d36190800000000000000
+      internalID: -7970296148595584109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ba386c7a22d700800000000000000
+      internalID: 563559617187722190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0403844a6e80d110800000000000000
+      internalID: 1283682480867705866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eca9b1087c58900800000000000000
+      internalID: 686173871276740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4106e7d05e59d30800000000000000
+      internalID: 4437704853961053427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ecbfcba1c69b050800000000000000
+      internalID: 5816799255821274629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affbcff0605de5ab0800000000000000
+      internalID: -5017338712829411334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b67847dcf231990800000000000000
+      internalID: -7416531601879241869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039d327c9af54a00800000000000000
+      internalID: 740273263610794763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d38d913ab8d2f0800000000000000
+      internalID: -947802999302662620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53596ff707463fe50800000000000000
+      internalID: 6841922693251896629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205740da8a4dd950800000000000000
+      internalID: 6475413799288918048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be1de88fcff91f10800000000000000
+      internalID: 2241103556414086838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e73ec0ddc2597080800000000000000
+      internalID: -9189222520747837471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567a46a39d14a290800000000000000
+      internalID: -7880140928004229543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b43be0dc3b02750800000000000000
+      internalID: 6278215573850770288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d2a385a71d9580800000000000000
+      internalID: -8818866495676034234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9828583abc9530800000000000000
+      internalID: 3863167331537035249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022ee39147c45c430800000000000000
+      internalID: 3802529521907720736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06698ff2d83920c10800000000000000
+      internalID: 2018337817619895904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1096116f818b8db80800000000000000
+      internalID: -8369737490121004799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0c7a5be51ba880800000000000000
+      internalID: -8598754962954252838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a7f48562055b70800000000000000
+      internalID: 8887012074731317220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df171735aa9b690800000000000000
+      internalID: -7585844821966586555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa890eb9fcc111b0800000000000000
+      internalID: -5687539481385006337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38601ab355ae030800000000000000
+      internalID: 3524723372963824555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c41a29dfdff220800000000000000
+      internalID: 2521980440157667564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbec6a0b1d2c2920800000000000000
+      internalID: 2966795848692591603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb3e4fcc3a6f9d0800000000000000
+      internalID: -2740823222531146075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c1f922490bf670800000000000000
+      internalID: 8573456495406073213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d027268cf7828e0800000000000000
+      internalID: -1717982759220015759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28633c2cd51b760800000000000000
+      internalID: 7471856347864531647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b473b9a46f587850800000000000000
+      internalID: 6374950158491415729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6625be607281310800000000000000
+      internalID: 1375892596833019625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480600159ee23f80800000000000000
+      internalID: -8128172053463955382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a20298e93f00810800000000000000
+      internalID: 1729650119141239350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22783051e406ba60800000000000000
+      internalID: 7689338779541729835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31e111369381d50800000000000000
+      internalID: 6708174742620083179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f058c846d462f90800000000000000
+      internalID: -6978805478314406085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df92be49bfcf820800000000000000
+      internalID: 2953512072667331939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab369c09f5717400800000000000000
+      internalID: 320166761038494626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffec8c6caceb5960800000000000000
+      internalID: 7591921822162808819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522c5549e1b177c0800000000000000
+      internalID: -4075280572344425899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2e97f7a7f13f50800000000000000
+      internalID: 6859536008247913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785fe487fb651d590800000000000000
+      internalID: -7651238911568579193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1406d63a447a8b0800000000000000
+      internalID: -5141064980914748999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fe522c456c51e0800000000000000
+      internalID: -2207778339649818276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c39bf0cadcb6c0800000000000000
+      internalID: -4126182636188875066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b586153f42255e70800000000000000
+      internalID: 9103219945387754929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747cf5f8a76fced0800000000000000
+      internalID: -2391578901731314566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d387db9b159bc00800000000000000
+      internalID: 916853857336180124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082b47f521512b40800000000000000
+      internalID: 5413697450580584456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb97d8d8f3d6470800000000000000
+      internalID: 8389431558057605983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b13e45e2330f54c0800000000000000
+      internalID: -4296712002357808716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7cff747a6f9ff0800000000000000
+      internalID: -27186024144929276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94afdab852e0f0e30800000000000000
+      internalID: 4471808509422205513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8c72f67c3a35d0800000000000000
+      internalID: -3082084513409626746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd958e76fde3670800000000000000
+      internalID: 8520493182404386237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fe5dc1f570e510800000000000000
+      internalID: 1576389550972795299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be57bbc555ce9cc0800000000000000
+      internalID: -3702304871371284815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca125c704478d340800000000000000
+      internalID: 4888785215823157955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b8813401fb5050800000000000000
+      internalID: 5790486746228111853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5448ded114038190800000000000000
+      internalID: -7961515241461234598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00658d9a8a9c7f700800000000000000
+      internalID: 574149203754243584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f9fa653966dd0c0800000000000000
+      internalID: -4549367265573757118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1a5c9ad3963580800000000000000
+      internalID: -8847721850787455463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b3271260175ea0800000000000000
+      internalID: -5884216374655208586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8c1eae0c160b00800000000000000
+      internalID: 794353233653697201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293bb83473343e120800000000000000
+      internalID: 2441869327600432018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa89e36367762780800000000000000
+      internalID: -8708141560712557908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aa3f8f41c69d6f0800000000000000
+      internalID: -659377033101202910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5afd5686ed00d0800000000000000
+      internalID: -3454851874346607959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339b278c997bb83e0800000000000000
+      internalID: -2050343334216287949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc14ee2ce2315d70800000000000000
+      internalID: 9030054717834927358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9f49285fe414e0800000000000000
+      internalID: -2011719971598524784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdb04926a07ba10800000000000000
+      internalID: 1925018784231055236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d0aa85bdd831f0800000000000000
+      internalID: -1064857540088507852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8bf43b8b014ef0800000000000000
+      internalID: -125806622072402369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c96a415e69a0c10800000000000000
+      internalID: 2020593293467229335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc79d27b31252c0800000000000000
+      internalID: -4444468204796392272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca14b53259565c00800000000000000
+      internalID: 888996186075437775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d7a9fb00020ff0800000000000000
+      internalID: -71494592651340265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdce1886c843d30800000000000000
+      internalID: 4410304315586829533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5a1e3543e3b150800000000000000
+      internalID: 5887299024437534687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d253b3727f5274780800000000000000
+      internalID: -8698942411797482195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80757da32d0e862c0800000000000000
+      internalID: -4438050239238678776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8941199cee57200800000000000000
+      internalID: 177310309840885966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf059306f5964370800000000000000
+      internalID: 8306491446586052531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda9ce7dcbaa2d520800000000000000
+      internalID: 2725428452565752542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e859011896bb7620800000000000000
+      internalID: 2773010759813781733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5467be5b24e4e0800000000000000
+      internalID: -1953388652568223808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2a772028c98c90800000000000000
+      internalID: -7166977291556606392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e18546203527950800000000000000
+      internalID: 6445305286459137643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71962cf40c430d0800000000000000
+      internalID: -3443916366234970152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c8314c05f6b000800000000000000
+      internalID: 51497878743990773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c87085246cce5d0800000000000000
+      internalID: -3031830460880155640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef65828669a3ca0800000000000000
+      internalID: -6036346976439173392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2fcc94d180f6c0800000000000000
+      internalID: -4111643709625389143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bae49bfa551aaf0800000000000000
+      internalID: -386933879760573574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afcc224e5471c610800000000000000
+      internalID: 1639719687525552034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f87b56aac94d1e0800000000000000
+      internalID: -2173940464448205022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaee5959cd962e90800000000000000
+      internalID: -7050774678488552757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4b34f20763f8e0800000000000000
+      internalID: -1660870575184459155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcd0325d1bc9a370800000000000000
+      internalID: 8334415912219237598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a617a9334c83d0800000000000000
+      internalID: -3203111320071788734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c7c87121be2af0800000000000000
+      internalID: -419202957980482892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_120
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba24ac9b40af2e0800000000000000
+      internalID: -2091353880951346361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c5b88301c63190800000000000000
+      internalID: -7982981068544948956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb819f4f57bb412c0800000000000000
+      internalID: -4461735215521785666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250a5d9b98b71fe0800000000000000
+      internalID: -1218302195681065685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed540e85e6b9bd0800000000000000
+      internalID: -2622381030014329259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658f14fef681232a0800000000000000
+      internalID: -6759313221695178666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d6c94682a09930800000000000000
+      internalID: 4147993954455310866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d64cbac625017c0800000000000000
+      internalID: -4102688633842799356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4e2b2cfd7909c0800000000000000
+      internalID: -3960495875285955069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1617f26c5ec47630800000000000000
+      internalID: 3923988071539217947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4e4b3b2d234250800000000000000
+      internalID: 5927631198251535570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab66624780a4930800000000000000
+      internalID: 4128121303391976082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15398ad6b582206d0800000000000000
+      internalID: -3025811626492652719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db45e61af0f1000800000000000000
+      internalID: 8742910293228933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2841b75c9620ed60800000000000000
+      internalID: 7917370597845321773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b60f4b0eb75440800000000000000
+      internalID: 4924613673332684661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b7230c1939d170800000000000000
+      internalID: 8203650988706871159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd561c131940c9290800000000000000
+      internalID: -7882420226153683489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8faa1b2b47bfb80800000000000000
+      internalID: -8359959972449421115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7533eaf6e38b050800000000000000
+      internalID: 5816467568133887944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89e67fc156b0000800000000000000
+      internalID: 3207399828527335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa0c4f40ffcb490800000000000000
+      internalID: -7729022463723394394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc465f2e1f839e1a0800000000000000
+      internalID: -6779825152483564337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4214b7d970e1a380800000000000000
+      internalID: -8961634969576009140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_144
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bf5ff80ea9f300800000000000000
+      internalID: 286451404982171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0192a0a99a8050800000000000000
+      internalID: 5803619985021536868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2022eefdc225f0800000000000000
+      internalID: -782836890609897770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10d343568828c50800000000000000
+      internalID: 6666040366711243258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9104467b7d247dd0800000000000000
+      internalID: -2489314685740645985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_149
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1857418ee65ef90800000000000000
+      internalID: -6925006908957556317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf6717fd47dcb70800000000000000
+      internalID: 8920914939920972664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182571dbac3d4e00800000000000000
+      internalID: 1030546598388901909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cf5ececa1a19d0800000000000000
+      internalID: -2802898342556745533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1304fdc196eae80800000000000000
+      internalID: -8165473501650603578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f0bd2137d96980800000000000000
+      internalID: -8545062211738864382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd281bb5065aaac0800000000000000
+      internalID: -3843164749393547846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8932848587e6e7c70800000000000000
+      internalID: 8970728970924860312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e9530f3d624ac20800000000000000
+      internalID: 3216738725559377509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3eb3e1a69970750800000000000000
+      internalID: 6271149687189529545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a4544afee335c0800000000000000
+      internalID: -4236780065769872983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3d04772f3ada80800000000000000
+      internalID: -8441365112869275084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_161
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb18e3ff113a5f0800000000000000
+      internalID: -746733325250347556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18bbf944ce54170800000000000000
+      internalID: 8162189679160689091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5231f361bac690800000000000000
+      internalID: -7581051979918319770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5881140ff6def0800000000000000
+      internalID: -83599150120673601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_165
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb26fba9c4665910800000000000000
+      internalID: 1825757516281555908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593617f5eec308a0800000000000000
+      internalID: -6339996363319264938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_167
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8b4ff59eb81090800000000000000
+      internalID: -8063485581364326748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128a077f43ecffa0800000000000000
+      internalID: -5765483492501978604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4de3620a004a090800000000000000
+      internalID: -8024287948230962006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a05294ea79f4b90800000000000000
+      internalID: -7255413699863311811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389c92ed9002b4d0800000000000000
+      internalID: -3120430913702553539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1caced699dd210800000000000000
+      internalID: 1359411359936945443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba7a1f6b319d130800000000000000
+      internalID: 3591923854263954313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eae2fd899507a40800000000000000
+      internalID: 5363885669312540248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df9c14e16ba60b0800000000000000
+      internalID: -5734570934433874670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1da4348e671f30800000000000000
+      internalID: 4546223862952304277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f13c3cfa8d103300800000000000000
+      internalID: 229716063770391024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab826191a09b6710800000000000000
+      internalID: 1687601508983671712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e57779e09e60f80800000000000000
+      internalID: -8140563027545596301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c299c01ff9fc60800000000000000
+      internalID: 7852587872863568108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de7b90b887eb970800000000000000
+      internalID: 8772581662723140963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af33fe26a2b2c950800000000000000
+      internalID: 6467928441679462306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aaa156a40c5a690800000000000000
+      internalID: -7591450171106743729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b31f02cc57679090800000000000000
+      internalID: -8027834162674199628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ec4b762c86796e0800000000000000
+      internalID: -1830879539329970613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a45ad3d0cd60450800000000000000
+      internalID: 6054768698473138806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23990f022b0e5ca90800000000000000
+      internalID: -7294176965795210958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d476ca80a3489a0800000000000000
+      internalID: -6231792175447323348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d55dc3040a82f40800000000000000
+      internalID: 5703985125823700356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afdbfa4dc975b2e0800000000000000
+      internalID: -2110646927719931992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137586d4391a00260800000000000000
+      internalID: 7061821869747885873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1cfee548d58d870800000000000000
+      internalID: 8707812702630691324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831c72558a967cb0800000000000000
+      internalID: -4866532449922051190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f102440939f710800000000000000
+      internalID: 1727474622523373792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_195
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46959dbcf8a4f790800000000000000
+      internalID: -7497181676199111090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812dfd8440ea56e0800000000000000
+      internalID: -1847918112037592704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_197
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50086ac1d787420800000000000000
+      internalID: 2627987944576648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_198
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d2920c101022f0800000000000000
+      internalID: -999781404787944974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327bae260ff50130800000000000000
+      internalID: 3532509884759896639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a63691398b364b0800000000000000
+      internalID: -5448308182262519290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff35d3edf4cef5e50800000000000000
+      internalID: 6800413790127870975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbe35dbaac488f00800000000000000
+      internalID: 1119228803606113231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514b6064d0305c310800000000000000
+      internalID: 1424548212676932629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a4493234c31bc0800000000000000
+      internalID: -3813488739464468768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628063be2b848800800000000000000
+      internalID: 613768481923433067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18fd6bc2a35e5e80800000000000000
+      internalID: -8188015113850193890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eab3cdc660e16b0800000000000000
+      internalID: -5323810644884214148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb739f45dc3f1640800000000000000
+      internalID: 5052824193793752045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387bf61225f219940800000000000000
+      internalID: 5301070266186577795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_210
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dea8a6d27210e20800000000000000
+      internalID: 3314973876735896991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_211
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5020fc730689140800000000000000
+      internalID: 4726633601737819614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_212
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902382ed3f0c930f0800000000000000
+      internalID: -1136665277297577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_213
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa90eaea9d4bae80800000000000000
+      internalID: -8166348171545371986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228751c1fff13da0800000000000000
+      internalID: -5966706617493257696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfb254c30b86d50800000000000000
+      internalID: 6730823416010243382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d469b3e60562180800000000000000
+      internalID: -9140529959325512290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe15acfde4cc9f360800000000000000
+      internalID: 7204013718089912815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a95f295123aca0800000000000000
+      internalID: -6006920811051900152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324b0a9ec8610c40800000000000000
+      internalID: 5476773858416214581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50536953f5507e0f0800000000000000
+      internalID: -1087894878507617019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5049da953d4dc10800000000000000
+      internalID: 2077517710242350527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c99a05f2f9f5c0800000000000000
+      internalID: -4181043644778037043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Jail_02_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101dfff417bc42200800000000000000
+      internalID: 154471974771347713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

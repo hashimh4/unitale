@@ -1,0 +1,6353 @@
+fileFormatVersion: 2
+guid: a7d3733eaf0b7a24093af7eb7f35a8cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7631454936694143066
+    second: B-C-D-E_Living_Room_01_0
+  - first:
+      213: -7822845359533213
+    second: B-C-D-E_Living_Room_01_1
+  - first:
+      213: 3754159952448734833
+    second: B-C-D-E_Living_Room_01_2
+  - first:
+      213: -7739325359361205111
+    second: B-C-D-E_Living_Room_01_3
+  - first:
+      213: -6699452728230030765
+    second: B-C-D-E_Living_Room_01_4
+  - first:
+      213: 1231895022757512585
+    second: B-C-D-E_Living_Room_01_5
+  - first:
+      213: 8695185799549454995
+    second: B-C-D-E_Living_Room_01_6
+  - first:
+      213: 7544185764796102456
+    second: B-C-D-E_Living_Room_01_7
+  - first:
+      213: -6016959668774868443
+    second: B-C-D-E_Living_Room_01_8
+  - first:
+      213: 703437172938134529
+    second: B-C-D-E_Living_Room_01_9
+  - first:
+      213: 5994495108339021282
+    second: B-C-D-E_Living_Room_01_10
+  - first:
+      213: 5319887908111780988
+    second: B-C-D-E_Living_Room_01_11
+  - first:
+      213: -5222698746442415185
+    second: B-C-D-E_Living_Room_01_12
+  - first:
+      213: 8608761498254862889
+    second: B-C-D-E_Living_Room_01_13
+  - first:
+      213: 6699898280068532111
+    second: B-C-D-E_Living_Room_01_14
+  - first:
+      213: -3491646303607076468
+    second: B-C-D-E_Living_Room_01_15
+  - first:
+      213: 452311418269766426
+    second: B-C-D-E_Living_Room_01_16
+  - first:
+      213: 489991735527844510
+    second: B-C-D-E_Living_Room_01_17
+  - first:
+      213: -168629513514517101
+    second: B-C-D-E_Living_Room_01_18
+  - first:
+      213: 3713164445140899048
+    second: B-C-D-E_Living_Room_01_19
+  - first:
+      213: -11426744314829496
+    second: B-C-D-E_Living_Room_01_20
+  - first:
+      213: 5734613123187437000
+    second: B-C-D-E_Living_Room_01_21
+  - first:
+      213: -8713294376017414709
+    second: B-C-D-E_Living_Room_01_22
+  - first:
+      213: -7883235109460017480
+    second: B-C-D-E_Living_Room_01_23
+  - first:
+      213: 6417152192698104728
+    second: B-C-D-E_Living_Room_01_24
+  - first:
+      213: -835234213641477878
+    second: B-C-D-E_Living_Room_01_25
+  - first:
+      213: -5220227715509348781
+    second: B-C-D-E_Living_Room_01_26
+  - first:
+      213: 1381198273088345708
+    second: B-C-D-E_Living_Room_01_27
+  - first:
+      213: -6571861766182816866
+    second: B-C-D-E_Living_Room_01_28
+  - first:
+      213: 7728256313028185908
+    second: B-C-D-E_Living_Room_01_29
+  - first:
+      213: -8699667981387797023
+    second: B-C-D-E_Living_Room_01_30
+  - first:
+      213: -2096546939497016825
+    second: B-C-D-E_Living_Room_01_31
+  - first:
+      213: -6922372806560181368
+    second: B-C-D-E_Living_Room_01_32
+  - first:
+      213: -2124079252032016467
+    second: B-C-D-E_Living_Room_01_33
+  - first:
+      213: -8836232279565606309
+    second: B-C-D-E_Living_Room_01_34
+  - first:
+      213: 6033286628526309706
+    second: B-C-D-E_Living_Room_01_35
+  - first:
+      213: -4047076703468886300
+    second: B-C-D-E_Living_Room_01_36
+  - first:
+      213: 4178714195648009211
+    second: B-C-D-E_Living_Room_01_37
+  - first:
+      213: 586344592663767920
+    second: B-C-D-E_Living_Room_01_38
+  - first:
+      213: 8824327287064375668
+    second: B-C-D-E_Living_Room_01_39
+  - first:
+      213: -5597536714130627655
+    second: B-C-D-E_Living_Room_01_40
+  - first:
+      213: -3762672350332794534
+    second: B-C-D-E_Living_Room_01_41
+  - first:
+      213: 553375321173835622
+    second: B-C-D-E_Living_Room_01_42
+  - first:
+      213: 2496081469040289801
+    second: B-C-D-E_Living_Room_01_43
+  - first:
+      213: -5608260962608961604
+    second: B-C-D-E_Living_Room_01_44
+  - first:
+      213: -2601851886791218471
+    second: B-C-D-E_Living_Room_01_45
+  - first:
+      213: 8024166608160088783
+    second: B-C-D-E_Living_Room_01_46
+  - first:
+      213: -811126749829659469
+    second: B-C-D-E_Living_Room_01_47
+  - first:
+      213: 2394815135334028464
+    second: B-C-D-E_Living_Room_01_48
+  - first:
+      213: -3847548546899768866
+    second: B-C-D-E_Living_Room_01_49
+  - first:
+      213: 7182037818327131245
+    second: B-C-D-E_Living_Room_01_50
+  - first:
+      213: -5834226323536950208
+    second: B-C-D-E_Living_Room_01_51
+  - first:
+      213: -5742538198287007925
+    second: B-C-D-E_Living_Room_01_52
+  - first:
+      213: 8804945667975048470
+    second: B-C-D-E_Living_Room_01_53
+  - first:
+      213: -579260991988383592
+    second: B-C-D-E_Living_Room_01_54
+  - first:
+      213: 27598261254983034
+    second: B-C-D-E_Living_Room_01_55
+  - first:
+      213: 7939777953899670752
+    second: B-C-D-E_Living_Room_01_56
+  - first:
+      213: 6326252232655688201
+    second: B-C-D-E_Living_Room_01_57
+  - first:
+      213: -894287818408782559
+    second: B-C-D-E_Living_Room_01_58
+  - first:
+      213: 5420519833265585477
+    second: B-C-D-E_Living_Room_01_59
+  - first:
+      213: -2694401880815704524
+    second: B-C-D-E_Living_Room_01_60
+  - first:
+      213: -671301025228676249
+    second: B-C-D-E_Living_Room_01_61
+  - first:
+      213: 2542559108099004305
+    second: B-C-D-E_Living_Room_01_62
+  - first:
+      213: 548374823966943819
+    second: B-C-D-E_Living_Room_01_63
+  - first:
+      213: -76636545347749320
+    second: B-C-D-E_Living_Room_01_64
+  - first:
+      213: -1919161633057034509
+    second: B-C-D-E_Living_Room_01_65
+  - first:
+      213: 4345083282200747945
+    second: B-C-D-E_Living_Room_01_66
+  - first:
+      213: 7507385746401551719
+    second: B-C-D-E_Living_Room_01_67
+  - first:
+      213: 6596746309847393648
+    second: B-C-D-E_Living_Room_01_68
+  - first:
+      213: -7544323277251774053
+    second: B-C-D-E_Living_Room_01_69
+  - first:
+      213: 717225746135496596
+    second: B-C-D-E_Living_Room_01_70
+  - first:
+      213: -2231382085862034673
+    second: B-C-D-E_Living_Room_01_71
+  - first:
+      213: -4607513494507567317
+    second: B-C-D-E_Living_Room_01_72
+  - first:
+      213: 3201631465954362507
+    second: B-C-D-E_Living_Room_01_73
+  - first:
+      213: -5543454175054720176
+    second: B-C-D-E_Living_Room_01_74
+  - first:
+      213: -1986454513284700282
+    second: B-C-D-E_Living_Room_01_75
+  - first:
+      213: -7432968647900207321
+    second: B-C-D-E_Living_Room_01_76
+  - first:
+      213: 1102075094395409520
+    second: B-C-D-E_Living_Room_01_77
+  - first:
+      213: -355860168091013357
+    second: B-C-D-E_Living_Room_01_78
+  - first:
+      213: -1663549889079122535
+    second: B-C-D-E_Living_Room_01_79
+  - first:
+      213: -4389709399713188168
+    second: B-C-D-E_Living_Room_01_80
+  - first:
+      213: -8585492178643287024
+    second: B-C-D-E_Living_Room_01_81
+  - first:
+      213: -9196224807767177232
+    second: B-C-D-E_Living_Room_01_82
+  - first:
+      213: 4447875381313489918
+    second: B-C-D-E_Living_Room_01_83
+  - first:
+      213: 6813972038431953771
+    second: B-C-D-E_Living_Room_01_84
+  - first:
+      213: 2004199253075560845
+    second: B-C-D-E_Living_Room_01_85
+  - first:
+      213: -5409076991415937016
+    second: B-C-D-E_Living_Room_01_86
+  - first:
+      213: -7534298374083301171
+    second: B-C-D-E_Living_Room_01_87
+  - first:
+      213: 4527409550285935487
+    second: B-C-D-E_Living_Room_01_88
+  - first:
+      213: 4817467228408273046
+    second: B-C-D-E_Living_Room_01_89
+  - first:
+      213: -5141374000946329316
+    second: B-C-D-E_Living_Room_01_90
+  - first:
+      213: -3696191373667442185
+    second: B-C-D-E_Living_Room_01_91
+  - first:
+      213: 886519962425718007
+    second: B-C-D-E_Living_Room_01_92
+  - first:
+      213: 2456812838507258759
+    second: B-C-D-E_Living_Room_01_93
+  - first:
+      213: 5850136863269705686
+    second: B-C-D-E_Living_Room_01_94
+  - first:
+      213: -1035601929974881771
+    second: B-C-D-E_Living_Room_01_95
+  - first:
+      213: 3099238841184675482
+    second: B-C-D-E_Living_Room_01_96
+  - first:
+      213: 3804735299490802281
+    second: B-C-D-E_Living_Room_01_97
+  - first:
+      213: 4477736771263350402
+    second: B-C-D-E_Living_Room_01_98
+  - first:
+      213: 6082268370193704702
+    second: B-C-D-E_Living_Room_01_99
+  - first:
+      213: 2840534015082078066
+    second: B-C-D-E_Living_Room_01_100
+  - first:
+      213: -5504615449465421943
+    second: B-C-D-E_Living_Room_01_101
+  - first:
+      213: -516349809706249182
+    second: B-C-D-E_Living_Room_01_102
+  - first:
+      213: 5305895448921826742
+    second: B-C-D-E_Living_Room_01_103
+  - first:
+      213: -8016883805099529051
+    second: B-C-D-E_Living_Room_01_104
+  - first:
+      213: 5998605892855218702
+    second: B-C-D-E_Living_Room_01_105
+  - first:
+      213: 7781921848708356647
+    second: B-C-D-E_Living_Room_01_106
+  - first:
+      213: 6070302741356159114
+    second: B-C-D-E_Living_Room_01_107
+  - first:
+      213: 7239063036612276077
+    second: B-C-D-E_Living_Room_01_108
+  - first:
+      213: -6456341071065762693
+    second: B-C-D-E_Living_Room_01_109
+  - first:
+      213: -3987562470946057206
+    second: B-C-D-E_Living_Room_01_110
+  - first:
+      213: 7291249763554215178
+    second: B-C-D-E_Living_Room_01_111
+  - first:
+      213: -5335957472793951969
+    second: B-C-D-E_Living_Room_01_112
+  - first:
+      213: 6394094816627852808
+    second: B-C-D-E_Living_Room_01_113
+  - first:
+      213: -6246602939627186380
+    second: B-C-D-E_Living_Room_01_114
+  - first:
+      213: -6746651213753456780
+    second: B-C-D-E_Living_Room_01_115
+  - first:
+      213: 3358840385136551877
+    second: B-C-D-E_Living_Room_01_116
+  - first:
+      213: 894967631161114193
+    second: B-C-D-E_Living_Room_01_117
+  - first:
+      213: -3949004003976897080
+    second: B-C-D-E_Living_Room_01_118
+  - first:
+      213: -7202830052381108556
+    second: B-C-D-E_Living_Room_01_119
+  - first:
+      213: -6425440311274035750
+    second: B-C-D-E_Living_Room_01_120
+  - first:
+      213: 388375758400621213
+    second: B-C-D-E_Living_Room_01_121
+  - first:
+      213: 7948920749665478879
+    second: B-C-D-E_Living_Room_01_122
+  - first:
+      213: -5571793940951336848
+    second: B-C-D-E_Living_Room_01_123
+  - first:
+      213: -6596298223149057897
+    second: B-C-D-E_Living_Room_01_124
+  - first:
+      213: -3787754167487400723
+    second: B-C-D-E_Living_Room_01_125
+  - first:
+      213: -2091456017758705404
+    second: B-C-D-E_Living_Room_01_126
+  - first:
+      213: -7097862475226351358
+    second: B-C-D-E_Living_Room_01_127
+  - first:
+      213: 3457395429236618652
+    second: B-C-D-E_Living_Room_01_128
+  - first:
+      213: 566761778769631158
+    second: B-C-D-E_Living_Room_01_129
+  - first:
+      213: 7899762591515736213
+    second: B-C-D-E_Living_Room_01_130
+  - first:
+      213: 3628792685818060998
+    second: B-C-D-E_Living_Room_01_131
+  - first:
+      213: -5015238042554769794
+    second: B-C-D-E_Living_Room_01_132
+  - first:
+      213: -3449282639180163162
+    second: B-C-D-E_Living_Room_01_133
+  - first:
+      213: -2026291406408876424
+    second: B-C-D-E_Living_Room_01_134
+  - first:
+      213: 3234842163865755452
+    second: B-C-D-E_Living_Room_01_135
+  - first:
+      213: 7526139636522920669
+    second: B-C-D-E_Living_Room_01_136
+  - first:
+      213: 5967903270851436128
+    second: B-C-D-E_Living_Room_01_137
+  - first:
+      213: -4605673527692709409
+    second: B-C-D-E_Living_Room_01_138
+  - first:
+      213: 4682949127963604795
+    second: B-C-D-E_Living_Room_01_139
+  - first:
+      213: 4322717491853316680
+    second: B-C-D-E_Living_Room_01_140
+  - first:
+      213: 5233143511410529376
+    second: B-C-D-E_Living_Room_01_141
+  - first:
+      213: 1836036973812573011
+    second: B-C-D-E_Living_Room_01_142
+  - first:
+      213: -298737213023771864
+    second: B-C-D-E_Living_Room_01_143
+  - first:
+      213: -916522960606485499
+    second: B-C-D-E_Living_Room_01_144
+  - first:
+      213: 8486140534504295696
+    second: B-C-D-E_Living_Room_01_145
+  - first:
+      213: 8919966329498690547
+    second: B-C-D-E_Living_Room_01_146
+  - first:
+      213: -3844198343890731153
+    second: B-C-D-E_Living_Room_01_147
+  - first:
+      213: 2603570701198232423
+    second: B-C-D-E_Living_Room_01_148
+  - first:
+      213: 3524696528072761482
+    second: B-C-D-E_Living_Room_01_149
+  - first:
+      213: 4635237066752901073
+    second: B-C-D-E_Living_Room_01_150
+  - first:
+      213: 3585490303626293745
+    second: B-C-D-E_Living_Room_01_151
+  - first:
+      213: 7737528896053807567
+    second: B-C-D-E_Living_Room_01_152
+  - first:
+      213: 8996739529520540534
+    second: B-C-D-E_Living_Room_01_153
+  - first:
+      213: -3977203260200576258
+    second: B-C-D-E_Living_Room_01_154
+  - first:
+      213: 7573651300116949239
+    second: B-C-D-E_Living_Room_01_155
+  - first:
+      213: 1810118678522428627
+    second: B-C-D-E_Living_Room_01_156
+  - first:
+      213: -4167756015192442795
+    second: B-C-D-E_Living_Room_01_157
+  - first:
+      213: -5840644831521031290
+    second: B-C-D-E_Living_Room_01_158
+  - first:
+      213: -5759187725366476398
+    second: B-C-D-E_Living_Room_01_159
+  - first:
+      213: -6457080833128527675
+    second: B-C-D-E_Living_Room_01_160
+  - first:
+      213: 4656140884075623773
+    second: B-C-D-E_Living_Room_01_161
+  - first:
+      213: -7894573636788408138
+    second: B-C-D-E_Living_Room_01_162
+  - first:
+      213: 6880604873646549998
+    second: B-C-D-E_Living_Room_01_163
+  - first:
+      213: -60681803604488008
+    second: B-C-D-E_Living_Room_01_164
+  - first:
+      213: -5305908248365157670
+    second: B-C-D-E_Living_Room_01_165
+  - first:
+      213: 696744691733825080
+    second: B-C-D-E_Living_Room_01_166
+  - first:
+      213: -5970902719956115595
+    second: B-C-D-E_Living_Room_01_167
+  - first:
+      213: -829222323200668435
+    second: B-C-D-E_Living_Room_01_168
+  - first:
+      213: 7908377341389714468
+    second: B-C-D-E_Living_Room_01_169
+  - first:
+      213: 7700802898243394038
+    second: B-C-D-E_Living_Room_01_170
+  - first:
+      213: 5985051828049381725
+    second: B-C-D-E_Living_Room_01_171
+  - first:
+      213: 7503036185276081310
+    second: B-C-D-E_Living_Room_01_172
+  - first:
+      213: 638041736534579389
+    second: B-C-D-E_Living_Room_01_173
+  - first:
+      213: -1994060743051968019
+    second: B-C-D-E_Living_Room_01_174
+  - first:
+      213: 4985512179239439480
+    second: B-C-D-E_Living_Room_01_175
+  - first:
+      213: -1055765718553345450
+    second: B-C-D-E_Living_Room_01_176
+  - first:
+      213: 1544478625739117859
+    second: B-C-D-E_Living_Room_01_177
+  - first:
+      213: 258069627405608784
+    second: B-C-D-E_Living_Room_01_178
+  - first:
+      213: -9213734522914494085
+    second: B-C-D-E_Living_Room_01_179
+  - first:
+      213: -8354983586466470570
+    second: B-C-D-E_Living_Room_01_180
+  - first:
+      213: 8676043787411770662
+    second: B-C-D-E_Living_Room_01_181
+  - first:
+      213: -3133437025518235201
+    second: B-C-D-E_Living_Room_01_182
+  - first:
+      213: 469871447640050317
+    second: B-C-D-E_Living_Room_01_183
+  - first:
+      213: 5790245091186768164
+    second: B-C-D-E_Living_Room_01_184
+  - first:
+      213: 1717552048560484387
+    second: B-C-D-E_Living_Room_01_185
+  - first:
+      213: 48471681671002350
+    second: B-C-D-E_Living_Room_01_186
+  - first:
+      213: 5628553399883873340
+    second: B-C-D-E_Living_Room_01_187
+  - first:
+      213: 3929372347373014715
+    second: B-C-D-E_Living_Room_01_188
+  - first:
+      213: 5254636393581522262
+    second: B-C-D-E_Living_Room_01_189
+  - first:
+      213: -3070550804631420009
+    second: B-C-D-E_Living_Room_01_190
+  - first:
+      213: 4347335210156640413
+    second: B-C-D-E_Living_Room_01_191
+  - first:
+      213: 3228665532262516036
+    second: B-C-D-E_Living_Room_01_192
+  - first:
+      213: 5438325151991631861
+    second: B-C-D-E_Living_Room_01_193
+  - first:
+      213: -33833158093090903
+    second: B-C-D-E_Living_Room_01_194
+  - first:
+      213: -6439950020851119622
+    second: B-C-D-E_Living_Room_01_195
+  - first:
+      213: -3925548664928642551
+    second: B-C-D-E_Living_Room_01_196
+  - first:
+      213: 7052593879674389537
+    second: B-C-D-E_Living_Room_01_197
+  - first:
+      213: 7154849306263716463
+    second: B-C-D-E_Living_Room_01_198
+  - first:
+      213: 5379740050136553677
+    second: B-C-D-E_Living_Room_01_199
+  - first:
+      213: 8064042397085887611
+    second: B-C-D-E_Living_Room_01_200
+  - first:
+      213: -6409093633703073296
+    second: B-C-D-E_Living_Room_01_201
+  - first:
+      213: 6711489607619741489
+    second: B-C-D-E_Living_Room_01_202
+  - first:
+      213: 4986373185794339647
+    second: B-C-D-E_Living_Room_01_203
+  - first:
+      213: 2065197273678160034
+    second: B-C-D-E_Living_Room_01_204
+  - first:
+      213: -8104233305207346660
+    second: B-C-D-E_Living_Room_01_205
+  - first:
+      213: 5508352395295551207
+    second: B-C-D-E_Living_Room_01_206
+  - first:
+      213: -6470106679003652753
+    second: B-C-D-E_Living_Room_01_207
+  - first:
+      213: -1846691901335666115
+    second: B-C-D-E_Living_Room_01_208
+  - first:
+      213: -4099039628161149635
+    second: B-C-D-E_Living_Room_01_209
+  - first:
+      213: -4388742544936662378
+    second: B-C-D-E_Living_Room_01_210
+  - first:
+      213: 1329828338748946978
+    second: B-C-D-E_Living_Room_01_211
+  - first:
+      213: -3342899104376352033
+    second: B-C-D-E_Living_Room_01_212
+  - first:
+      213: -4221100058066709831
+    second: B-C-D-E_Living_Room_01_213
+  - first:
+      213: 2077011078724932586
+    second: B-C-D-E_Living_Room_01_214
+  - first:
+      213: -3395754222917814127
+    second: B-C-D-E_Living_Room_01_215
+  - first:
+      213: 8603945236341875302
+    second: B-C-D-E_Living_Room_01_216
+  - first:
+      213: 1148660794842186750
+    second: B-C-D-E_Living_Room_01_217
+  - first:
+      213: 851837030288686932
+    second: B-C-D-E_Living_Room_01_218
+  - first:
+      213: -2135665910490335071
+    second: B-C-D-E_Living_Room_01_219
+  - first:
+      213: 5056446724783663402
+    second: B-C-D-E_Living_Room_01_220
+  - first:
+      213: -7186795011057675088
+    second: B-C-D-E_Living_Room_01_221
+  - first:
+      213: 6155292640119765045
+    second: B-C-D-E_Living_Room_01_222
+  - first:
+      213: 1146230952718132022
+    second: B-C-D-E_Living_Room_01_223
+  - first:
+      213: 1016779039521396089
+    second: B-C-D-E_Living_Room_01_224
+  - first:
+      213: -6322328094945093616
+    second: B-C-D-E_Living_Room_01_225
+  - first:
+      213: -6843188992657013285
+    second: B-C-D-E_Living_Room_01_226
+  - first:
+      213: -5089530983008466431
+    second: B-C-D-E_Living_Room_01_227
+  - first:
+      213: -3284608291993295319
+    second: B-C-D-E_Living_Room_01_228
+  - first:
+      213: -6138439613691622033
+    second: B-C-D-E_Living_Room_01_229
+  - first:
+      213: -819667499212541694
+    second: B-C-D-E_Living_Room_01_230
+  - first:
+      213: 5155213268726397764
+    second: B-C-D-E_Living_Room_01_0
+  - first:
+      213: -2239174131732856647
+    second: B-C-D-E_Living_Room_01_1
+  - first:
+      213: 3730094611461527677
+    second: B-C-D-E_Living_Room_01_2
+  - first:
+      213: -4704674121728163952
+    second: B-C-D-E_Living_Room_01_3
+  - first:
+      213: -4821476179832381852
+    second: B-C-D-E_Living_Room_01_4
+  - first:
+      213: 5942451116977172521
+    second: B-C-D-E_Living_Room_01_5
+  - first:
+      213: 6994627054507753272
+    second: B-C-D-E_Living_Room_01_6
+  - first:
+      213: -572495353798326379
+    second: B-C-D-E_Living_Room_01_7
+  - first:
+      213: -5390799721431688230
+    second: B-C-D-E_Living_Room_01_8
+  - first:
+      213: 8369393179107964212
+    second: B-C-D-E_Living_Room_01_9
+  - first:
+      213: 4652752860344816306
+    second: B-C-D-E_Living_Room_01_10
+  - first:
+      213: 8606386656885281191
+    second: B-C-D-E_Living_Room_01_11
+  - first:
+      213: -153015801389921789
+    second: B-C-D-E_Living_Room_01_12
+  - first:
+      213: 6858772700009526388
+    second: B-C-D-E_Living_Room_01_13
+  - first:
+      213: 84588974606929585
+    second: B-C-D-E_Living_Room_01_14
+  - first:
+      213: -588127893044886724
+    second: B-C-D-E_Living_Room_01_15
+  - first:
+      213: -1939483856092484667
+    second: B-C-D-E_Living_Room_01_16
+  - first:
+      213: -683730757061838052
+    second: B-C-D-E_Living_Room_01_17
+  - first:
+      213: 5425649783264931939
+    second: B-C-D-E_Living_Room_01_18
+  - first:
+      213: 5770245280152902863
+    second: B-C-D-E_Living_Room_01_19
+  - first:
+      213: -2099993577222857498
+    second: B-C-D-E_Living_Room_01_20
+  - first:
+      213: -1007969030098678629
+    second: B-C-D-E_Living_Room_01_21
+  - first:
+      213: 3934100830795155835
+    second: B-C-D-E_Living_Room_01_22
+  - first:
+      213: -6742080991044998112
+    second: B-C-D-E_Living_Room_01_23
+  - first:
+      213: 5991033958974823167
+    second: B-C-D-E_Living_Room_01_24
+  - first:
+      213: 4040231184054111203
+    second: B-C-D-E_Living_Room_01_25
+  - first:
+      213: 5935524558400224847
+    second: B-C-D-E_Living_Room_01_26
+  - first:
+      213: -5910502028835127105
+    second: B-C-D-E_Living_Room_01_27
+  - first:
+      213: 1689189401141255147
+    second: B-C-D-E_Living_Room_01_28
+  - first:
+      213: 2147187370579505332
+    second: B-C-D-E_Living_Room_01_29
+  - first:
+      213: 125504145661763186
+    second: B-C-D-E_Living_Room_01_30
+  - first:
+      213: 7513350966344004645
+    second: B-C-D-E_Living_Room_01_31
+  - first:
+      213: 8725271436136598546
+    second: B-C-D-E_Living_Room_01_32
+  - first:
+      213: -4932413183120770590
+    second: B-C-D-E_Living_Room_01_33
+  - first:
+      213: -8046323591686796054
+    second: B-C-D-E_Living_Room_01_34
+  - first:
+      213: -9036932093497588362
+    second: B-C-D-E_Living_Room_01_35
+  - first:
+      213: 4159341109702172977
+    second: B-C-D-E_Living_Room_01_36
+  - first:
+      213: 1606537414825675253
+    second: B-C-D-E_Living_Room_01_37
+  - first:
+      213: 5220698166287914353
+    second: B-C-D-E_Living_Room_01_38
+  - first:
+      213: 5807390667227721525
+    second: B-C-D-E_Living_Room_01_39
+  - first:
+      213: 4359688992357363934
+    second: B-C-D-E_Living_Room_01_40
+  - first:
+      213: -1282198379125038328
+    second: B-C-D-E_Living_Room_01_41
+  - first:
+      213: -4476638037025116056
+    second: B-C-D-E_Living_Room_01_42
+  - first:
+      213: 8061121935266318070
+    second: B-C-D-E_Living_Room_01_43
+  - first:
+      213: 1200122646661839748
+    second: B-C-D-E_Living_Room_01_44
+  - first:
+      213: -1614710033076104122
+    second: B-C-D-E_Living_Room_01_45
+  - first:
+      213: -2492072136410526020
+    second: B-C-D-E_Living_Room_01_46
+  - first:
+      213: -25565675686699649
+    second: B-C-D-E_Living_Room_01_47
+  - first:
+      213: 9071240209863969293
+    second: B-C-D-E_Living_Room_01_48
+  - first:
+      213: 696547011452433564
+    second: B-C-D-E_Living_Room_01_49
+  - first:
+      213: 8890087036997669048
+    second: B-C-D-E_Living_Room_01_50
+  - first:
+      213: -2831118721608973172
+    second: B-C-D-E_Living_Room_01_51
+  - first:
+      213: -2004115837716094430
+    second: B-C-D-E_Living_Room_01_52
+  - first:
+      213: 3574678314396526731
+    second: B-C-D-E_Living_Room_01_53
+  - first:
+      213: -5901017392682558084
+    second: B-C-D-E_Living_Room_01_54
+  - first:
+      213: -9221624384510281944
+    second: B-C-D-E_Living_Room_01_55
+  - first:
+      213: -920056923352680291
+    second: B-C-D-E_Living_Room_01_56
+  - first:
+      213: -3405081632002602043
+    second: B-C-D-E_Living_Room_01_57
+  - first:
+      213: -2306348291639566887
+    second: B-C-D-E_Living_Room_01_58
+  - first:
+      213: 8090182640866871880
+    second: B-C-D-E_Living_Room_01_59
+  - first:
+      213: -7057556518496800601
+    second: B-C-D-E_Living_Room_01_60
+  - first:
+      213: 6834539085810492973
+    second: B-C-D-E_Living_Room_01_61
+  - first:
+      213: 9164924586975466968
+    second: B-C-D-E_Living_Room_01_62
+  - first:
+      213: -7235660701653007319
+    second: B-C-D-E_Living_Room_01_63
+  - first:
+      213: -936752851810475833
+    second: B-C-D-E_Living_Room_01_64
+  - first:
+      213: -2877202842653331289
+    second: B-C-D-E_Living_Room_01_65
+  - first:
+      213: -3577569055310322267
+    second: B-C-D-E_Living_Room_01_66
+  - first:
+      213: -3679981634430396461
+    second: B-C-D-E_Living_Room_01_67
+  - first:
+      213: -6313018575291103088
+    second: B-C-D-E_Living_Room_01_68
+  - first:
+      213: -920266464678579020
+    second: B-C-D-E_Living_Room_01_69
+  - first:
+      213: 5203843977737590364
+    second: B-C-D-E_Living_Room_01_70
+  - first:
+      213: 4993718341785880908
+    second: B-C-D-E_Living_Room_01_71
+  - first:
+      213: -781744234057423010
+    second: B-C-D-E_Living_Room_01_72
+  - first:
+      213: 1921124416831890323
+    second: B-C-D-E_Living_Room_01_73
+  - first:
+      213: 6901725184211759485
+    second: B-C-D-E_Living_Room_01_74
+  - first:
+      213: 6686801952714816180
+    second: B-C-D-E_Living_Room_01_75
+  - first:
+      213: -6330105287475869461
+    second: B-C-D-E_Living_Room_01_76
+  - first:
+      213: 1401859141069045541
+    second: B-C-D-E_Living_Room_01_77
+  - first:
+      213: 1188513094179236188
+    second: B-C-D-E_Living_Room_01_78
+  - first:
+      213: -2445109052864927508
+    second: B-C-D-E_Living_Room_01_79
+  - first:
+      213: -8806830887433317150
+    second: B-C-D-E_Living_Room_01_80
+  - first:
+      213: -7223488305776713986
+    second: B-C-D-E_Living_Room_01_81
+  - first:
+      213: 5717711352919729713
+    second: B-C-D-E_Living_Room_01_82
+  - first:
+      213: -2989521553113290193
+    second: B-C-D-E_Living_Room_01_83
+  - first:
+      213: 790253657882330162
+    second: B-C-D-E_Living_Room_01_84
+  - first:
+      213: 6692393304028103754
+    second: B-C-D-E_Living_Room_01_85
+  - first:
+      213: 8978042756547656721
+    second: B-C-D-E_Living_Room_01_86
+  - first:
+      213: 75422237998277882
+    second: B-C-D-E_Living_Room_01_87
+  - first:
+      213: 8935458650829789240
+    second: B-C-D-E_Living_Room_01_88
+  - first:
+      213: -48895798283783275
+    second: B-C-D-E_Living_Room_01_89
+  - first:
+      213: 826537561151551902
+    second: B-C-D-E_Living_Room_01_90
+  - first:
+      213: 2081553782532597062
+    second: B-C-D-E_Living_Room_01_91
+  - first:
+      213: 6145644634548840490
+    second: B-C-D-E_Living_Room_01_92
+  - first:
+      213: 5968293983775850961
+    second: B-C-D-E_Living_Room_01_93
+  - first:
+      213: -3372837161519199727
+    second: B-C-D-E_Living_Room_01_94
+  - first:
+      213: 6194133185384673154
+    second: B-C-D-E_Living_Room_01_95
+  - first:
+      213: -6951033998522134245
+    second: B-C-D-E_Living_Room_01_96
+  - first:
+      213: -6254520015689116331
+    second: B-C-D-E_Living_Room_01_97
+  - first:
+      213: 8509000396584326336
+    second: B-C-D-E_Living_Room_01_98
+  - first:
+      213: 2796494495998311479
+    second: B-C-D-E_Living_Room_01_99
+  - first:
+      213: 1972913185592154376
+    second: B-C-D-E_Living_Room_01_100
+  - first:
+      213: -83965363369547824
+    second: B-C-D-E_Living_Room_01_101
+  - first:
+      213: -709741053876532641
+    second: B-C-D-E_Living_Room_01_102
+  - first:
+      213: -4021810115748162199
+    second: B-C-D-E_Living_Room_01_103
+  - first:
+      213: -3963563813507849472
+    second: B-C-D-E_Living_Room_01_104
+  - first:
+      213: -8015143555188695250
+    second: B-C-D-E_Living_Room_01_105
+  - first:
+      213: -8843496790640843179
+    second: B-C-D-E_Living_Room_01_106
+  - first:
+      213: -4743853261936045708
+    second: B-C-D-E_Living_Room_01_107
+  - first:
+      213: -6474050378808998292
+    second: B-C-D-E_Living_Room_01_108
+  - first:
+      213: -6131333737739030664
+    second: B-C-D-E_Living_Room_01_109
+  - first:
+      213: -2999591003474935955
+    second: B-C-D-E_Living_Room_01_110
+  - first:
+      213: 6118046081543408205
+    second: B-C-D-E_Living_Room_01_111
+  - first:
+      213: 5994626241185628785
+    second: B-C-D-E_Living_Room_01_112
+  - first:
+      213: 869940972815125434
+    second: B-C-D-E_Living_Room_01_113
+  - first:
+      213: -8254565061676625293
+    second: B-C-D-E_Living_Room_01_114
+  - first:
+      213: 5693699037778841029
+    second: B-C-D-E_Living_Room_01_115
+  - first:
+      213: -2174426982486537365
+    second: B-C-D-E_Living_Room_01_116
+  - first:
+      213: 9144859081474441345
+    second: B-C-D-E_Living_Room_01_117
+  - first:
+      213: -5058574291180455613
+    second: B-C-D-E_Living_Room_01_118
+  - first:
+      213: 182509776797123178
+    second: B-C-D-E_Living_Room_01_119
+  - first:
+      213: -6010675636572082397
+    second: B-C-D-E_Living_Room_01_120
+  - first:
+      213: 4384671536846649692
+    second: B-C-D-E_Living_Room_01_121
+  - first:
+      213: 3235730829966866387
+    second: B-C-D-E_Living_Room_01_122
+  - first:
+      213: 4375421658229865463
+    second: B-C-D-E_Living_Room_01_123
+  - first:
+      213: -3807916780187844310
+    second: B-C-D-E_Living_Room_01_124
+  - first:
+      213: 8756406206456635287
+    second: B-C-D-E_Living_Room_01_125
+  - first:
+      213: 4888029669490766056
+    second: B-C-D-E_Living_Room_01_126
+  - first:
+      213: -7792159308164597662
+    second: B-C-D-E_Living_Room_01_127
+  - first:
+      213: 4072321174627132619
+    second: B-C-D-E_Living_Room_01_128
+  - first:
+      213: -6982563827470295215
+    second: B-C-D-E_Living_Room_01_129
+  - first:
+      213: -1536468270174903705
+    second: B-C-D-E_Living_Room_01_130
+  - first:
+      213: 7961912786221193736
+    second: B-C-D-E_Living_Room_01_131
+  - first:
+      213: 6001218188812786332
+    second: B-C-D-E_Living_Room_01_132
+  - first:
+      213: 7909678517219104992
+    second: B-C-D-E_Living_Room_01_133
+  - first:
+      213: -5985676795348235664
+    second: B-C-D-E_Living_Room_01_134
+  - first:
+      213: 4760308953616714558
+    second: B-C-D-E_Living_Room_01_135
+  - first:
+      213: -6306913214984803597
+    second: B-C-D-E_Living_Room_01_136
+  - first:
+      213: -4832727127789480381
+    second: B-C-D-E_Living_Room_01_137
+  - first:
+      213: -7889148715834501891
+    second: B-C-D-E_Living_Room_01_138
+  - first:
+      213: 2613530809381541204
+    second: B-C-D-E_Living_Room_01_139
+  - first:
+      213: 9058848852618425789
+    second: B-C-D-E_Living_Room_01_140
+  - first:
+      213: 2370088055392476738
+    second: B-C-D-E_Living_Room_01_141
+  - first:
+      213: 6715604180677172086
+    second: B-C-D-E_Living_Room_01_142
+  - first:
+      213: 3020224819621011398
+    second: B-C-D-E_Living_Room_01_143
+  - first:
+      213: 3325221261716663762
+    second: B-C-D-E_Living_Room_01_144
+  - first:
+      213: -5875421814102095906
+    second: B-C-D-E_Living_Room_01_145
+  - first:
+      213: -2742991814683327904
+    second: B-C-D-E_Living_Room_01_146
+  - first:
+      213: -2415988243069166909
+    second: B-C-D-E_Living_Room_01_147
+  - first:
+      213: 7438188921879139142
+    second: B-C-D-E_Living_Room_01_148
+  - first:
+      213: 4973265740996062126
+    second: B-C-D-E_Living_Room_01_149
+  - first:
+      213: 3744353070954948327
+    second: B-C-D-E_Living_Room_01_150
+  - first:
+      213: 1947734320720278325
+    second: B-C-D-E_Living_Room_01_151
+  - first:
+      213: -1378100223035710992
+    second: B-C-D-E_Living_Room_01_152
+  - first:
+      213: 5715913965985024660
+    second: B-C-D-E_Living_Room_01_153
+  - first:
+      213: 5592759289919671132
+    second: B-C-D-E_Living_Room_01_154
+  - first:
+      213: -1041706391647536935
+    second: B-C-D-E_Living_Room_01_155
+  - first:
+      213: 6095421141770961461
+    second: B-C-D-E_Living_Room_01_156
+  - first:
+      213: -1519428115975568293
+    second: B-C-D-E_Living_Room_01_157
+  - first:
+      213: -2779305752808756446
+    second: B-C-D-E_Living_Room_01_158
+  - first:
+      213: 4225612018868034854
+    second: B-C-D-E_Living_Room_01_159
+  - first:
+      213: -183869073983864383
+    second: B-C-D-E_Living_Room_01_160
+  - first:
+      213: -2839645807351828239
+    second: B-C-D-E_Living_Room_01_161
+  - first:
+      213: -4251663658611629944
+    second: B-C-D-E_Living_Room_01_162
+  - first:
+      213: 2488722935248113624
+    second: B-C-D-E_Living_Room_01_163
+  - first:
+      213: 6426225949574802350
+    second: B-C-D-E_Living_Room_01_164
+  - first:
+      213: -5794052138956097753
+    second: B-C-D-E_Living_Room_01_165
+  - first:
+      213: -7962810062606032577
+    second: B-C-D-E_Living_Room_01_166
+  - first:
+      213: 7231713534349595424
+    second: B-C-D-E_Living_Room_01_167
+  - first:
+      213: -7364968417475261490
+    second: B-C-D-E_Living_Room_01_168
+  - first:
+      213: -1153745025991210964
+    second: B-C-D-E_Living_Room_01_169
+  - first:
+      213: -3527898823681951509
+    second: B-C-D-E_Living_Room_01_170
+  - first:
+      213: 8502535348378704004
+    second: B-C-D-E_Living_Room_01_171
+  - first:
+      213: -187447523151509469
+    second: B-C-D-E_Living_Room_01_172
+  - first:
+      213: -2728805205220400986
+    second: B-C-D-E_Living_Room_01_173
+  - first:
+      213: 9112213884970716586
+    second: B-C-D-E_Living_Room_01_174
+  - first:
+      213: 2594588334188406469
+    second: B-C-D-E_Living_Room_01_175
+  - first:
+      213: 979251061157685916
+    second: B-C-D-E_Living_Room_01_176
+  - first:
+      213: -823936081712980587
+    second: B-C-D-E_Living_Room_01_177
+  - first:
+      213: -418831492367111721
+    second: B-C-D-E_Living_Room_01_178
+  - first:
+      213: -5421552013449879120
+    second: B-C-D-E_Living_Room_01_179
+  - first:
+      213: 2996339381556308792
+    second: B-C-D-E_Living_Room_01_180
+  - first:
+      213: -2527555665665599361
+    second: B-C-D-E_Living_Room_01_181
+  - first:
+      213: 5874189550650104595
+    second: B-C-D-E_Living_Room_01_182
+  - first:
+      213: 8950033851675559183
+    second: B-C-D-E_Living_Room_01_183
+  - first:
+      213: 5811475430180600496
+    second: B-C-D-E_Living_Room_01_184
+  - first:
+      213: -7193869774045585197
+    second: B-C-D-E_Living_Room_01_185
+  - first:
+      213: 6817073374172631550
+    second: B-C-D-E_Living_Room_01_186
+  - first:
+      213: 5873808361295238658
+    second: B-C-D-E_Living_Room_01_187
+  - first:
+      213: 588634094065345173
+    second: B-C-D-E_Living_Room_01_188
+  - first:
+      213: 5631950163560339559
+    second: B-C-D-E_Living_Room_01_189
+  - first:
+      213: 4077371911510680853
+    second: B-C-D-E_Living_Room_01_190
+  - first:
+      213: 8508790066601866077
+    second: B-C-D-E_Living_Room_01_191
+  - first:
+      213: -9108569799017751216
+    second: B-C-D-E_Living_Room_01_192
+  - first:
+      213: 2252577909082233426
+    second: B-C-D-E_Living_Room_01_193
+  - first:
+      213: 3474552916752763108
+    second: B-C-D-E_Living_Room_01_194
+  - first:
+      213: 1865318489653479298
+    second: B-C-D-E_Living_Room_01_195
+  - first:
+      213: 9127894721528621732
+    second: B-C-D-E_Living_Room_01_196
+  - first:
+      213: 3684450340914722821
+    second: B-C-D-E_Living_Room_01_197
+  - first:
+      213: 7717820248842870042
+    second: B-C-D-E_Living_Room_01_198
+  - first:
+      213: 239526028482861786
+    second: B-C-D-E_Living_Room_01_199
+  - first:
+      213: -1871060024675607758
+    second: B-C-D-E_Living_Room_01_200
+  - first:
+      213: -5528807647315000436
+    second: B-C-D-E_Living_Room_01_201
+  - first:
+      213: -4157108525276042458
+    second: B-C-D-E_Living_Room_01_202
+  - first:
+      213: 7301751973751584464
+    second: B-C-D-E_Living_Room_01_203
+  - first:
+      213: 3223965786360473159
+    second: B-C-D-E_Living_Room_01_204
+  - first:
+      213: 4769182146888228057
+    second: B-C-D-E_Living_Room_01_205
+  - first:
+      213: 6910456123615344898
+    second: B-C-D-E_Living_Room_01_206
+  - first:
+      213: -1315085178360542174
+    second: B-C-D-E_Living_Room_01_207
+  - first:
+      213: -2253193076449307459
+    second: B-C-D-E_Living_Room_01_208
+  - first:
+      213: -4468864021895860355
+    second: B-C-D-E_Living_Room_01_209
+  - first:
+      213: 2242191744144873274
+    second: B-C-D-E_Living_Room_01_210
+  - first:
+      213: 2751963396369501490
+    second: B-C-D-E_Living_Room_01_211
+  - first:
+      213: 7787812111962586430
+    second: B-C-D-E_Living_Room_01_212
+  - first:
+      213: -6195497144852990695
+    second: B-C-D-E_Living_Room_01_213
+  - first:
+      213: 9103904928727502085
+    second: B-C-D-E_Living_Room_01_214
+  - first:
+      213: 7023094802206160358
+    second: B-C-D-E_Living_Room_01_215
+  - first:
+      213: 8016820022608776541
+    second: B-C-D-E_Living_Room_01_216
+  - first:
+      213: -7539792216454474335
+    second: B-C-D-E_Living_Room_01_217
+  - first:
+      213: -604979114354694908
+    second: B-C-D-E_Living_Room_01_218
+  - first:
+      213: -3073734650919197941
+    second: B-C-D-E_Living_Room_01_219
+  - first:
+      213: -9148685416906529869
+    second: B-C-D-E_Living_Room_01_220
+  - first:
+      213: 5984274430398447168
+    second: B-C-D-E_Living_Room_01_221
+  - first:
+      213: 7358043743372757617
+    second: B-C-D-E_Living_Room_01_222
+  - first:
+      213: -7915849157591435671
+    second: B-C-D-E_Living_Room_01_223
+  - first:
+      213: -4394802856618358436
+    second: B-C-D-E_Living_Room_01_224
+  - first:
+      213: -7573695809871423889
+    second: B-C-D-E_Living_Room_01_225
+  - first:
+      213: -416574858310996899
+    second: B-C-D-E_Living_Room_01_226
+  - first:
+      213: 5429407041109989863
+    second: B-C-D-E_Living_Room_01_227
+  - first:
+      213: -7199378631868758503
+    second: B-C-D-E_Living_Room_01_228
+  - first:
+      213: 7495022617170060224
+    second: B-C-D-E_Living_Room_01_229
+  - first:
+      213: 9180921599351253552
+    second: B-C-D-E_Living_Room_01_230
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b31d7872ffa8740800000000000000
+      internalID: 5155213268726397764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c1d7adfadce0e0800000000000000
+      internalID: -2239174131732856647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7853c64945f3c330800000000000000
+      internalID: 3730094611461527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f7b6e00d3a5beb0800000000000000
+      internalID: -4704674121728163952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e5510b5fca61db0800000000000000
+      internalID: -4821476179832381852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9203c827ec3d77250800000000000000
+      internalID: 5942451116977172521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f75483f38e11160800000000000000
+      internalID: 6994627054507753272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970a4942861e08f0800000000000000
+      internalID: -572495353798326379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1acc07380035b0800000000000000
+      internalID: -5390799721431688230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435be42e0ce062470800000000000000
+      internalID: 8369393179107964212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2198c3316e19040800000000000000
+      internalID: 4652752860344816306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11f4bd017007770800000000000000
+      internalID: 8606386656885281191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac12970f060edf0800000000000000
+      internalID: -153015801389921789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f63b6e614f2f50800000000000000
+      internalID: 6858772700009526388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be4c5769358c2100800000000000000
+      internalID: 84588974606929585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338f8c1ccc86d7f0800000000000000
+      internalID: -588127893044886724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba00e65b19515e0800000000000000
+      internalID: -1939483856092484667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf15fbf76e286f0800000000000000
+      internalID: -683730757061838052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607e274bb7cb4b40800000000000000
+      internalID: 5425649783264931939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc536e9287041050800000000000000
+      internalID: 5770245280152902863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec970fb7f25bd2e0800000000000000
+      internalID: -2099993577222857498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8f50f189f202f0800000000000000
+      internalID: -1007969030098678629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794d12acdbb89630800000000000000
+      internalID: 3934100830795155835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c69d94f015f62a0800000000000000
+      internalID: -6742080991044998112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1ff1d4ad642350800000000000000
+      internalID: 5991033958974823167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb40081bd8c11830800000000000000
+      internalID: 4040231184054111203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7d0b53283f5250800000000000000
+      internalID: 5935524558400224847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb08e0f48bda9fda0800000000000000
+      internalID: -5910502028835127105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb11658fc4317710800000000000000
+      internalID: 1689189401141255147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b89989875ccd10800000000000000
+      internalID: 2147187370579505332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e12040b51edb100800000000000000
+      internalID: 125504145661763186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b5cd75e8c44860800000000000000
+      internalID: 7513350966344004645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc8c78424661970800000000000000
+      internalID: 8725271436136598546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f1aec75c8c8bb0800000000000000
+      internalID: -4932413183120770590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecc9a91357b55090800000000000000
+      internalID: -8046323591686796054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675cfb3042e569280800000000000000
+      internalID: -9036932093497588362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1312a7fb3b2f8b930800000000000000
+      internalID: 4159341109702172977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90f0954419b4610800000000000000
+      internalID: 1606537414825675253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175df116255a37840800000000000000
+      internalID: 5220698166287914353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe6000b0ff79050800000000000000
+      internalID: 5807390667227721525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed034a83a0ab08c30800000000000000
+      internalID: 4359688992357363934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803aba81e57b43ee0800000000000000
+      internalID: -1282198379125038328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860bd1f6c69cfd1c0800000000000000
+      internalID: -4476638037025116056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f688a2c0bbdedf60800000000000000
+      internalID: 8061121935266318070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3e294031b7a010800000000000000
+      internalID: 1200122646661839748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445d3fa7c56799e0800000000000000
+      internalID: -1614710033076104122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0a9278916a6dd0800000000000000
+      internalID: -2492072136410526020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5046472c25aff0800000000000000
+      internalID: -25565675686699649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a8e2dc8e483ed70800000000000000
+      internalID: 9071240209863969293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947bf201d1aaa900800000000000000
+      internalID: 696547011452433564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01d86fe0fef5b70800000000000000
+      internalID: 8890087036997669048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840a89c588d5b8d0800000000000000
+      internalID: -2831118721608973172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a23c8343ff24e0800000000000000
+      internalID: -2004115837716094430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a5ebccfecb9130800000000000000
+      internalID: 3574678314396526731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d11cf32ff5b1ea0800000000000000
+      internalID: -5901017392682558084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273f250b75360080800000000000000
+      internalID: -9221624384510281944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bc665a1d4b33f0800000000000000
+      internalID: -920056923352680291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb074deb48beb0d0800000000000000
+      internalID: -3405081632002602043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd9e74c2743effd0800000000000000
+      internalID: -2306348291639566887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac6ec8f3a164070800000000000000
+      internalID: 8090182640866871880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a071cc2db58e0e90800000000000000
+      internalID: -7057556518496800601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e14d661929de50800000000000000
+      internalID: 6834539085810492973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d59aef9a5a503f70800000000000000
+      internalID: 9164924586975466968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92408b29de4c59b90800000000000000
+      internalID: -7235660701653007319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a0819e3cfff2f0800000000000000
+      internalID: -936752851810475833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a077e8324f1218d0800000000000000
+      internalID: -2877202842653331289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56cc226ebe95ec0800000000000000
+      internalID: -3577569055310322267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d790db63341eecc0800000000000000
+      internalID: -3679981634430396461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c457bd07a368a0800000000000000
+      internalID: -6313018575291103088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f022b68e8a33f0800000000000000
+      internalID: -920266464678579020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56da9fc684c73840800000000000000
+      internalID: 5203843977737590364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49008ebf504d4540800000000000000
+      internalID: 4993718341785880908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572ccfc2cfa625f0800000000000000
+      internalID: -781744234057423010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39328928a7439aa10800000000000000
+      internalID: 1921124416831890323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713f46fc7ad7cf50800000000000000
+      internalID: 6901725184211759485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba74f2a2fa4ccc50800000000000000
+      internalID: 6686801952714816180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cd2587c2f628a0800000000000000
+      internalID: -6330105287475869461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ffd802677647310800000000000000
+      internalID: 1401859141069045541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592475bc527e7010800000000000000
+      internalID: 1188513094179236188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e4ea654a311ed0800000000000000
+      internalID: -2445109052864927508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4599de7f9d7c580800000000000000
+      internalID: -8806830887433317150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9df658a301cb90800000000000000
+      internalID: -7223488305776713986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136aff68e24695f40800000000000000
+      internalID: 5717711352919729713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aee429cf51386d0800000000000000
+      internalID: -2989521553113290193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348780d38b87fa00800000000000000
+      internalID: 790253657882330162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444ccf804820ec50800000000000000
+      internalID: 6692393304028103754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cba42c15a689c70800000000000000
+      internalID: 8978042756547656721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af46d083024fb0100800000000000000
+      internalID: 75422237998277882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83896e30d40210c70800000000000000
+      internalID: 8935458650829789240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5933940d789425ff0800000000000000
+      internalID: -48895798283783275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b4fd5883787b00800000000000000
+      internalID: 826537561151551902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e9bcf22a23ec10800000000000000
+      internalID: 2081553782532597062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28a11eeb37b94550800000000000000
+      internalID: 6145644634548840490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18f02c1c3a3d250800000000000000
+      internalID: 5968293983775850961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a496eb8764131d0800000000000000
+      internalID: -3372837161519199727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fef4e605bf5f550800000000000000
+      internalID: 6194133185384673154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11dc601867f88f90800000000000000
+      internalID: -6951033998522134245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55597400f2b7339a0800000000000000
+      internalID: -6254520015689116331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4111037ca061670800000000000000
+      internalID: 8509000396584326336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c705a7de42fc620800000000000000
+      internalID: 2796494495998311479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80997efd612316b10800000000000000
+      internalID: 1972913185592154376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ebe662f1b5def0800000000000000
+      internalID: -83965363369547824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8d29954e7626f0800000000000000
+      internalID: -709741053876532641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96512c81209af28c0800000000000000
+      internalID: -4021810115748162199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a54326b79ef8c0800000000000000
+      internalID: -3963563813507849472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5731176d74c090800000000000000
+      internalID: -8015143555188695250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ab851686954580800000000000000
+      internalID: -8843496790640843179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47159bf97927a2eb0800000000000000
+      internalID: -4743853261936045708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664b114b7d8726a0800000000000000
+      internalID: -6474050378808998292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f62b2637029eaa0800000000000000
+      internalID: -6131333737739030664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3b66ffdf4f56d0800000000000000
+      internalID: -2999591003474935955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8dd11f7aa7e450800000000000000
+      internalID: 6118046081543408205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ca133ec0313350800000000000000
+      internalID: 5994626241185628785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0434a4b6a21c00800000000000000
+      internalID: 869940972815125434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3721a6b9fc4e17d80800000000000000
+      internalID: -8254565061676625293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8accbb15140f40800000000000000
+      internalID: 5693699037778841029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_116
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8dd61e22e2d1e0800000000000000
+      internalID: -2174426982486537365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1800a4012e019ee70800000000000000
+      internalID: 9144859081474441345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f340db755cc9b0800000000000000
+      internalID: -5058574291180455613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62470ecca7688200800000000000000
+      internalID: 182509776797123178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa60eba5ac59ca0800000000000000
+      internalID: -6010675636572082397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b282288b79dc30800000000000000
+      internalID: 4384671536846649692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d774f4db00a7ec20800000000000000
+      internalID: 3235730829966866387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7751f0de98bc30800000000000000
+      internalID: 4375421658229865463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2187a61ddf872bc0800000000000000
+      internalID: -3807916780187844310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9fd42d01058970800000000000000
+      internalID: 8756406206456635287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e031952615c5d340800000000000000
+      internalID: 4888029669490766056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687893d460bcd390800000000000000
+      internalID: -7792159308164597662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a3f0488ac38830800000000000000
+      internalID: 4072321174627132619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1422b133f81f90800000000000000
+      internalID: -6982563827470295215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e093bf3e5daae0800000000000000
+      internalID: -1536468270174903705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ada5bbe756e7e60800000000000000
+      internalID: 7961912786221193736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9ccb952c984350800000000000000
+      internalID: 6001218188812786332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8126244b2d4cd60800000000000000
+      internalID: 7909678517219104992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a48f80baa9eeca0800000000000000
+      internalID: -5985676795348235664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b8f69a5c3001240800000000000000
+      internalID: 4760308953616714558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa2d9fa8d75978a0800000000000000
+      internalID: -6306913214984803597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d6bb3844beecb0800000000000000
+      internalID: -4832727127789480381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4947c9a0d148290800000000000000
+      internalID: -7889148715834501891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d9be8c60254420800000000000000
+      internalID: 2613530809381541204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b64e190f77bd70800000000000000
+      internalID: 9058848852618425789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9014778e34e020800000000000000
+      internalID: 2370088055392476738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1469eb6e923d50800000000000000
+      internalID: 6715604180677172086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf145bb87ef9e920800000000000000
+      internalID: 3020224819621011398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dda238ae1f852e20800000000000000
+      internalID: 3325221261716663762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70dd84dfe467ea0800000000000000
+      internalID: -5875421814102095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620fff3a7feee9d0800000000000000
+      internalID: -2742991814683327904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca975e4e7fa87ed0800000000000000
+      internalID: -2415988243069166909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6431adc4a61c93760800000000000000
+      internalID: 7438188921879139142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaba0b987d6940540800000000000000
+      internalID: 4973265740996062126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a9e3974d96f330800000000000000
+      internalID: 3744353070954948327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337e5f8b0eb70b10800000000000000
+      internalID: 1947734320720278325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e11d062100ece0800000000000000
+      internalID: -1378100223035710992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4b35c771035f40800000000000000
+      internalID: 5715913965985024660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8de541f87d9d40800000000000000
+      internalID: 5592759289919671132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d838955e8d1b81f0800000000000000
+      internalID: -1041706391647536935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320aa7cb39479450800000000000000
+      internalID: 6095421141770961461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540985cd28e9eae0800000000000000
+      internalID: -1519428115975568293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b62a9a42ced69d0800000000000000
+      internalID: -2779305752808756446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d104f2eb364aa30800000000000000
+      internalID: 4225612018868034854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c103082d04c27df0800000000000000
+      internalID: -183869073983864383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0fddcee2d8798d0800000000000000
+      internalID: -2839645807351828239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_162
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802404cd6e0ff4c0800000000000000
+      internalID: -4251663658611629944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc4d3e258b98220800000000000000
+      internalID: 2488722935248113624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabadca147a8e2950800000000000000
+      internalID: 6426225949574802350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_165
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727fd6f1744679fa0800000000000000
+      internalID: -5794052138956097753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312674df6a6e7190800000000000000
+      internalID: -7962810062606032577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023da4ce4253c5460800000000000000
+      internalID: 7231713534349595424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8a6ede306ac990800000000000000
+      internalID: -7364968417475261490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288b6cf2031dffe0800000000000000
+      internalID: -1153745025991210964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be83be226b26a0fc0800000000000000
+      internalID: -3527898823681951509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488905ad9d21ff570800000000000000
+      internalID: 8502535348378704004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280788887d066df0800000000000000
+      internalID: -187447523151509469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e999af16512ad0800000000000000
+      internalID: -2728805205220400986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadcf03ff36157e70800000000000000
+      internalID: 9112213884970716586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c62cadd754d10420800000000000000
+      internalID: 2594588334188406469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6a3ed6aff69d00800000000000000
+      internalID: 979251061157685916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dded3cf7ac094f0800000000000000
+      internalID: -823936081712980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_178
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d926bc0af2003af0800000000000000
+      internalID: -418831492367111721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_179
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1240b1b27c2c4b0800000000000000
+      internalID: -5421552013449879120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_180
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6d20dac2259920800000000000000
+      internalID: 2996339381556308792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_181
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d9fd73815cecd0800000000000000
+      internalID: -2527555665665599361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b9fc50640558150800000000000000
+      internalID: 5874189550650104595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c7d86e58e43c70800000000000000
+      internalID: 8950033851675559183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba33dcfc1286a050800000000000000
+      internalID: 5811475430180600496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0e7952e8d3a2c90800000000000000
+      internalID: -7193869774045585197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1555b8d1c1b9e50800000000000000
+      internalID: 6817073374172631550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d8b57595f38150800000000000000
+      internalID: 5873808361295238658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e27ff69f3b2800800000000000000
+      internalID: 588634094065345173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76897bb95d4b82e40800000000000000
+      internalID: 5631950163560339559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515efb2962cb59830800000000000000
+      internalID: 4077371911510680853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d533d2ceb7b451670800000000000000
+      internalID: 8508790066601866077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_192
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d12bde60cd79180800000000000000
+      internalID: -9108569799017751216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_193
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1db37ca3c24f10800000000000000
+      internalID: 2252577909082233426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_194
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e888540877183030800000000000000
+      internalID: 3474552916752763108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_195
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28783c09841f2e910800000000000000
+      internalID: 1865318489653479298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_196
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa60e733ebccae70800000000000000
+      internalID: 9127894721528621732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f9c2601cc12330800000000000000
+      internalID: 3684450340914722821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d989420a43b1b60800000000000000
+      internalID: 7717820248842870042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5e2267a7f25300800000000000000
+      internalID: 239526028482861786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd6c322d8a806e0800000000000000
+      internalID: -1871060024675607758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838356dcbab543b0800000000000000
+      internalID: -5528807647315000436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6c2252dbfe46c0800000000000000
+      internalID: -4157108525276042458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_203
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67879dbb8055560800000000000000
+      internalID: 7301751973751584464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74667082dc3ddbc20800000000000000
+      internalID: 3223965786360473159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_205
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5866f4e98f2240800000000000000
+      internalID: 4769182146888228057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_206
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f3043b3fd6ef50800000000000000
+      internalID: 6910456123615344898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_207
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c40767ff0efbde0800000000000000
+      internalID: -1315085178360542174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_208
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db49edbb5dc0bb0e0800000000000000
+      internalID: -2253193076449307459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_209
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7faf5169d76bf1c0800000000000000
+      internalID: -4468864021895860355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_210
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37911cf28ddd1f10800000000000000
+      internalID: 2242191744144873274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_211
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4b73e020f03620800000000000000
+      internalID: 2751963396369501490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_212
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db30faaddd31c60800000000000000
+      internalID: 7787812111962586430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91537120c2c250aa0800000000000000
+      internalID: -6195497144852990695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0bb15c41975e70800000000000000
+      internalID: 9103904928727502085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f36d338b077160800000000000000
+      internalID: 7023094802206160358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc5dbe557714f60800000000000000
+      internalID: 8016820022608776541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d9f93de64d5790800000000000000
+      internalID: -7539792216454474335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ab5863beaa97f0800000000000000
+      internalID: -604979114354694908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e62ece96e755d0800000000000000
+      internalID: -3073734650919197941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36d7bc517590180800000000000000
+      internalID: -9148685416906529869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e3a5e63e96c0350800000000000000
+      internalID: 5984274430398447168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac48dccc50d1660800000000000000
+      internalID: 7358043743372757617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_223
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966ff229121452290800000000000000
+      internalID: -7915849157591435671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_224
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59046926168203c0800000000000000
+      internalID: -4394802856618358436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_225
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66dfbfb9c3d4e690800000000000000
+      internalID: -7573695809871423889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_226
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca30c9f57083af0800000000000000
+      internalID: -416574858310996899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99d5a00f0295b40800000000000000
+      internalID: 5429407041109989863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_228
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916cceb374ba61c90800000000000000
+      internalID: -7199378631868758503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_229
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a0f72c5ba30860800000000000000
+      internalID: 7495022617170060224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Living_Room_01_230
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aea005d8f296f70800000000000000
+      internalID: 9180921599351253552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

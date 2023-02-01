@@ -1,0 +1,3710 @@
+fileFormatVersion: 2
+guid: 91ad2154edb20f04e8def6865a2df5fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5406812447883670113
+    second: A5_Walls_Floors_0
+  - first:
+      213: -6399461597463263663
+    second: A5_Walls_Floors_1
+  - first:
+      213: -5779918496933411230
+    second: A5_Walls_Floors_2
+  - first:
+      213: 8875817754118356994
+    second: A5_Walls_Floors_3
+  - first:
+      213: 7847356691288471925
+    second: A5_Walls_Floors_4
+  - first:
+      213: -1448712599453872738
+    second: A5_Walls_Floors_5
+  - first:
+      213: -7120562321642264650
+    second: A5_Walls_Floors_6
+  - first:
+      213: -8915429872367014157
+    second: A5_Walls_Floors_7
+  - first:
+      213: 5481140750995071927
+    second: A5_Walls_Floors_8
+  - first:
+      213: -3130600983110742363
+    second: A5_Walls_Floors_9
+  - first:
+      213: 4291833162204713706
+    second: A5_Walls_Floors_10
+  - first:
+      213: 793977020204322563
+    second: A5_Walls_Floors_11
+  - first:
+      213: 4655402393783301506
+    second: A5_Walls_Floors_12
+  - first:
+      213: -2338493454403481778
+    second: A5_Walls_Floors_13
+  - first:
+      213: -7799831017638124809
+    second: A5_Walls_Floors_14
+  - first:
+      213: -1726108021829765453
+    second: A5_Walls_Floors_15
+  - first:
+      213: 7631083108477982038
+    second: A5_Walls_Floors_16
+  - first:
+      213: 8428115886663591816
+    second: A5_Walls_Floors_17
+  - first:
+      213: 6983350376083770297
+    second: A5_Walls_Floors_18
+  - first:
+      213: -7266235144695490901
+    second: A5_Walls_Floors_19
+  - first:
+      213: -1995271933794898294
+    second: A5_Walls_Floors_20
+  - first:
+      213: 3863590911440827425
+    second: A5_Walls_Floors_21
+  - first:
+      213: -7376379214454935809
+    second: A5_Walls_Floors_22
+  - first:
+      213: -6320565581989484709
+    second: A5_Walls_Floors_23
+  - first:
+      213: 4193600615634404135
+    second: A5_Walls_Floors_24
+  - first:
+      213: -266146421978183831
+    second: A5_Walls_Floors_25
+  - first:
+      213: -6989107599390029893
+    second: A5_Walls_Floors_26
+  - first:
+      213: -1937666785250064557
+    second: A5_Walls_Floors_27
+  - first:
+      213: -9083208917876397254
+    second: A5_Walls_Floors_28
+  - first:
+      213: 193820528901394701
+    second: A5_Walls_Floors_29
+  - first:
+      213: -932321454164701579
+    second: A5_Walls_Floors_30
+  - first:
+      213: 8466993124256601222
+    second: A5_Walls_Floors_31
+  - first:
+      213: -1562320927557815403
+    second: A5_Walls_Floors_32
+  - first:
+      213: 934005137695248187
+    second: A5_Walls_Floors_33
+  - first:
+      213: 1423420332231111606
+    second: A5_Walls_Floors_34
+  - first:
+      213: 2578179928720053161
+    second: A5_Walls_Floors_35
+  - first:
+      213: -445240024937500850
+    second: A5_Walls_Floors_36
+  - first:
+      213: 3669745719654879312
+    second: A5_Walls_Floors_37
+  - first:
+      213: -1159398201189742982
+    second: A5_Walls_Floors_38
+  - first:
+      213: -4525942040843483724
+    second: A5_Walls_Floors_39
+  - first:
+      213: 831956975429102952
+    second: A5_Walls_Floors_40
+  - first:
+      213: 2617816711304003389
+    second: A5_Walls_Floors_41
+  - first:
+      213: 8766260670011575400
+    second: A5_Walls_Floors_42
+  - first:
+      213: -2022257910232718908
+    second: A5_Walls_Floors_43
+  - first:
+      213: 5444792651050344200
+    second: A5_Walls_Floors_44
+  - first:
+      213: -5151211092574366039
+    second: A5_Walls_Floors_45
+  - first:
+      213: 6946371644958542486
+    second: A5_Walls_Floors_46
+  - first:
+      213: 3371494720476961124
+    second: A5_Walls_Floors_47
+  - first:
+      213: 6612218431267062402
+    second: A5_Walls_Floors_48
+  - first:
+      213: -9040551134020958206
+    second: A5_Walls_Floors_49
+  - first:
+      213: 2525961865444753437
+    second: A5_Walls_Floors_50
+  - first:
+      213: -1864060247807664828
+    second: A5_Walls_Floors_51
+  - first:
+      213: 5136403070787513834
+    second: A5_Walls_Floors_52
+  - first:
+      213: -7836558278958518503
+    second: A5_Walls_Floors_53
+  - first:
+      213: -9010124836012895768
+    second: A5_Walls_Floors_54
+  - first:
+      213: 1922487048580376284
+    second: A5_Walls_Floors_55
+  - first:
+      213: 466382873135060366
+    second: A5_Walls_Floors_56
+  - first:
+      213: -7395206267188083998
+    second: A5_Walls_Floors_57
+  - first:
+      213: 3851658623700188565
+    second: A5_Walls_Floors_58
+  - first:
+      213: 584199529387976777
+    second: A5_Walls_Floors_59
+  - first:
+      213: -2019995462737035457
+    second: A5_Walls_Floors_60
+  - first:
+      213: -2550554533836291845
+    second: A5_Walls_Floors_61
+  - first:
+      213: 1542915624891860595
+    second: A5_Walls_Floors_62
+  - first:
+      213: 4498413323595101982
+    second: A5_Walls_Floors_63
+  - first:
+      213: -7145760446330090346
+    second: A5_Walls_Floors_64
+  - first:
+      213: 4760811677053078596
+    second: A5_Walls_Floors_65
+  - first:
+      213: 6561534814519904020
+    second: A5_Walls_Floors_66
+  - first:
+      213: -3817414937790611791
+    second: A5_Walls_Floors_67
+  - first:
+      213: 69305352202771416
+    second: A5_Walls_Floors_68
+  - first:
+      213: 7038437542152321028
+    second: A5_Walls_Floors_69
+  - first:
+      213: -5299142739530943358
+    second: A5_Walls_Floors_70
+  - first:
+      213: 1700515163544834372
+    second: A5_Walls_Floors_71
+  - first:
+      213: 1829118123559891882
+    second: A5_Walls_Floors_72
+  - first:
+      213: 2421923058868469165
+    second: A5_Walls_Floors_73
+  - first:
+      213: 1308769804720370339
+    second: A5_Walls_Floors_74
+  - first:
+      213: 1603733639482451336
+    second: A5_Walls_Floors_75
+  - first:
+      213: 823985105305109005
+    second: A5_Walls_Floors_76
+  - first:
+      213: 6027521769311296311
+    second: A5_Walls_Floors_77
+  - first:
+      213: -4741237602613774834
+    second: A5_Walls_Floors_78
+  - first:
+      213: 6837674001507680308
+    second: A5_Walls_Floors_79
+  - first:
+      213: 355237924074400867
+    second: A5_Walls_Floors_80
+  - first:
+      213: 315617998670161828
+    second: A5_Walls_Floors_81
+  - first:
+      213: 6409669668957765503
+    second: A5_Walls_Floors_82
+  - first:
+      213: -5365707794711381764
+    second: A5_Walls_Floors_83
+  - first:
+      213: 4403194070904910363
+    second: A5_Walls_Floors_84
+  - first:
+      213: 1900302060067102368
+    second: A5_Walls_Floors_85
+  - first:
+      213: -1538607360346408135
+    second: A5_Walls_Floors_86
+  - first:
+      213: 857741416558503845
+    second: A5_Walls_Floors_87
+  - first:
+      213: 4879975806984088075
+    second: A5_Walls_Floors_88
+  - first:
+      213: 1161847264384804787
+    second: A5_Walls_Floors_89
+  - first:
+      213: -5173235900179668781
+    second: A5_Walls_Floors_90
+  - first:
+      213: -548248133706449073
+    second: A5_Walls_Floors_91
+  - first:
+      213: -3841369167514449275
+    second: A5_Walls_Floors_92
+  - first:
+      213: 6159988508376529315
+    second: A5_Walls_Floors_93
+  - first:
+      213: 232647253051671084
+    second: A5_Walls_Floors_94
+  - first:
+      213: -8657746021031709731
+    second: A5_Walls_Floors_95
+  - first:
+      213: -9128064874329978322
+    second: A5_Walls_Floors_96
+  - first:
+      213: -7288377701824128141
+    second: A5_Walls_Floors_97
+  - first:
+      213: 4215214788863883933
+    second: A5_Walls_Floors_98
+  - first:
+      213: -4820759541044690542
+    second: A5_Walls_Floors_99
+  - first:
+      213: 8969737640242313886
+    second: A5_Walls_Floors_100
+  - first:
+      213: -5471683148327324874
+    second: A5_Walls_Floors_101
+  - first:
+      213: 4498342245564731780
+    second: A5_Walls_Floors_102
+  - first:
+      213: -8869978444581953298
+    second: A5_Walls_Floors_103
+  - first:
+      213: 5459088843054783681
+    second: A5_Walls_Floors_104
+  - first:
+      213: -6792437464255640607
+    second: A5_Walls_Floors_105
+  - first:
+      213: -1994825814961318660
+    second: A5_Walls_Floors_106
+  - first:
+      213: -4659239337205183194
+    second: A5_Walls_Floors_107
+  - first:
+      213: -3881820080451323939
+    second: A5_Walls_Floors_108
+  - first:
+      213: -1126621129622267158
+    second: A5_Walls_Floors_109
+  - first:
+      213: -7903925074848494809
+    second: A5_Walls_Floors_110
+  - first:
+      213: -4081301781527785748
+    second: A5_Walls_Floors_111
+  - first:
+      213: 1949860503161431852
+    second: A5_Walls_Floors_112
+  - first:
+      213: 2925202481986832651
+    second: A5_Walls_Floors_113
+  - first:
+      213: 456587985804628124
+    second: A5_Walls_Floors_114
+  - first:
+      213: 6826497330644492099
+    second: A5_Walls_Floors_115
+  - first:
+      213: -7009897813664590919
+    second: A5_Walls_Floors_116
+  - first:
+      213: -1412750657318864690
+    second: A5_Walls_Floors_117
+  - first:
+      213: -6337606295979805294
+    second: A5_Walls_Floors_118
+  - first:
+      213: 7310475285871038116
+    second: A5_Walls_Floors_119
+  - first:
+      213: 1324696872829825716
+    second: A5_Walls_Floors_120
+  - first:
+      213: -1545127274201639465
+    second: A5_Walls_Floors_121
+  - first:
+      213: -5626156427424099507
+    second: A5_Walls_Floors_122
+  - first:
+      213: -7889107574385110185
+    second: A5_Walls_Floors_123
+  - first:
+      213: -8825229622668561681
+    second: A5_Walls_Floors_124
+  - first:
+      213: -3332949248286878281
+    second: A5_Walls_Floors_125
+  - first:
+      213: -561553801611451614
+    second: A5_Walls_Floors_126
+  - first:
+      213: -904210092208846439
+    second: A5_Walls_Floors_127
+  - first:
+      213: -7742442143865826764
+    second: A5_Walls_Floors_128
+  - first:
+      213: -6628616759525174805
+    second: A5_Walls_Floors_129
+  - first:
+      213: 795298684942485586
+    second: A5_Walls_Floors_130
+  - first:
+      213: -5126099012553859293
+    second: A5_Walls_Floors_131
+  - first:
+      213: 1715584734158707716
+    second: A5_Walls_Floors_132
+  - first:
+      213: -7599700596846833851
+    second: A5_Walls_Floors_133
+  - first:
+      213: 3488744802072861567
+    second: A5_Walls_Floors_134
+  - first:
+      213: 8693589072655949239
+    second: A5_Walls_Floors_135
+  - first:
+      213: 1057417015415779747
+    second: A5_Walls_Floors_136
+  - first:
+      213: -5180449403931551960
+    second: A5_Walls_Floors_137
+  - first:
+      213: -2809815962260051118
+    second: A5_Walls_Floors_138
+  - first:
+      213: 3882493562180645670
+    second: A5_Walls_Floors_139
+  - first:
+      213: 5715781325650907230
+    second: A5_Walls_Floors_140
+  - first:
+      213: 4272059506636309198
+    second: A5_Walls_Floors_141
+  - first:
+      213: -655025252275797326
+    second: A5_Walls_Floors_142
+  - first:
+      213: -2017931226653657829
+    second: A5_Walls_Floors_143
+  - first:
+      213: 8189078006876976142
+    second: A5_Walls_Floors_144
+  - first:
+      213: -7740727820060545764
+    second: A5_Walls_Floors_145
+  - first:
+      213: 7607850022499428434
+    second: A5_Walls_Floors_146
+  - first:
+      213: 3765872514539246941
+    second: A5_Walls_Floors_147
+  - first:
+      213: 2255846949675491686
+    second: A5_Walls_Floors_148
+  - first:
+      213: -6638319869756572462
+    second: A5_Walls_Floors_149
+  - first:
+      213: 8684366135971778659
+    second: A5_Walls_Floors_150
+  - first:
+      213: 4837456548181319655
+    second: A5_Walls_Floors_151
+  - first:
+      213: -2033336784744209408
+    second: A5_Walls_Floors_152
+  - first:
+      213: 6513698406155545690
+    second: A5_Walls_Floors_153
+  - first:
+      213: -476166947804076708
+    second: A5_Walls_Floors_154
+  - first:
+      213: -1173560202028537035
+    second: A5_Walls_Floors_155
+  - first:
+      213: 7093619832852396015
+    second: A5_Walls_Floors_156
+  - first:
+      213: -897902439874546361
+    second: A5_Walls_Floors_157
+  - first:
+      213: 3261391654167735016
+    second: A5_Walls_Floors_158
+  - first:
+      213: -5184882894208014348
+    second: A5_Walls_Floors_159
+  - first:
+      213: 9050691159070456915
+    second: A5_Walls_Floors_160
+  - first:
+      213: -8332140494356196897
+    second: A5_Walls_Floors_161
+  - first:
+      213: 9004590355839066831
+    second: A5_Walls_Floors_162
+  - first:
+      213: 7627645520759116578
+    second: A5_Walls_Floors_163
+  - first:
+      213: -523081525409397564
+    second: A5_Walls_Floors_164
+  - first:
+      213: -7403046627811766768
+    second: A5_Walls_Floors_165
+  - first:
+      213: 9136729288479236996
+    second: A5_Walls_Floors_166
+  - first:
+      213: -906428394167505460
+    second: A5_Walls_Floors_167
+  - first:
+      213: -1377088284179293803
+    second: A5_Walls_Floors_168
+  - first:
+      213: 8498322707072168907
+    second: A5_Walls_Floors_169
+  - first:
+      213: -324565783186642161
+    second: A5_Walls_Floors_170
+  - first:
+      213: -5476828081192448429
+    second: A5_Walls_Floors_171
+  - first:
+      213: -6535850641616359110
+    second: A5_Walls_Floors_172
+  - first:
+      213: 1183109471052431226
+    second: A5_Walls_Floors_173
+  - first:
+      213: -2035807321925645146
+    second: A5_Walls_Floors_174
+  - first:
+      213: 6800370104346910786
+    second: A5_Walls_Floors_175
+  - first:
+      213: 2580609366815553122
+    second: A5_Walls_Floors_176
+  - first:
+      213: 2004998781718847915
+    second: A5_Walls_Floors_177
+  - first:
+      213: -2750553196392144896
+    second: A5_Walls_Floors_178
+  - first:
+      213: -4165491190654200755
+    second: A5_Walls_Floors_179
+  - first:
+      213: 7506205012815218292
+    second: A5_Walls_Floors_180
+  - first:
+      213: -5672255232262765319
+    second: A5_Walls_Floors_181
+  - first:
+      213: 2565522482946398270
+    second: A5_Walls_Floors_182
+  - first:
+      213: -7397682706846204832
+    second: A5_Walls_Floors_183
+  - first:
+      213: 245896250870226302
+    second: A5_Walls_Floors_184
+  - first:
+      213: -2887216172462962953
+    second: A5_Walls_Floors_185
+  - first:
+      213: 4508773637581569300
+    second: A5_Walls_Floors_186
+  - first:
+      213: 1762145618440577542
+    second: A5_Walls_Floors_187
+  - first:
+      213: 21491380521315216
+    second: A5_Walls_Floors_188
+  - first:
+      213: 8333988151726342777
+    second: A5_Walls_Floors_189
+  - first:
+      213: -2456075899894249917
+    second: A5_Walls_Floors_190
+  - first:
+      213: 5712159629895025059
+    second: A5_Walls_Floors_191
+  - first:
+      213: -3914989488582112702
+    second: A5_Walls_Floors_192
+  - first:
+      213: 4623410952616833080
+    second: A5_Walls_Floors_193
+  - first:
+      213: -2034857339015737968
+    second: A5_Walls_Floors_194
+  - first:
+      213: -1969869269589856507
+    second: A5_Walls_Floors_195
+  - first:
+      213: -3793499978415539292
+    second: A5_Walls_Floors_196
+  - first:
+      213: 8500634162896800692
+    second: A5_Walls_Floors_197
+  - first:
+      213: -1031814142213795908
+    second: A5_Walls_Floors_198
+  - first:
+      213: 507382878597142573
+    second: A5_Walls_Floors_199
+  - first:
+      213: -3664722137120792520
+    second: A5_Walls_Floors_200
+  - first:
+      213: 427905364813263812
+    second: A5_Walls_Floors_201
+  - first:
+      213: -793146786378187687
+    second: A5_Walls_Floors_202
+  - first:
+      213: 8052392142814215048
+    second: A5_Walls_Floors_203
+  - first:
+      213: 6428603445075262383
+    second: A5_Walls_Floors_204
+  - first:
+      213: 2662733272322226113
+    second: A5_Walls_Floors_205
+  - first:
+      213: -554964610921888198
+    second: A5_Walls_Floors_206
+  - first:
+      213: -2990076463898998351
+    second: A5_Walls_Floors_207
+  - first:
+      213: -1767741205814375173
+    second: A5_Walls_Floors_208
+  - first:
+      213: 2212448858621290923
+    second: A5_Walls_Floors_209
+  - first:
+      213: 3595099480330817027
+    second: A5_Walls_Floors_210
+  - first:
+      213: 8190033413936577343
+    second: A5_Walls_Floors_211
+  - first:
+      213: 1080727687854119506
+    second: A5_Walls_Floors_212
+  - first:
+      213: -8173533514109461728
+    second: A5_Walls_Floors_213
+  - first:
+      213: 5983229817034384454
+    second: A5_Walls_Floors_214
+  - first:
+      213: 8200811927901463246
+    second: A5_Walls_Floors_215
+  - first:
+      213: 8655551199688374521
+    second: A5_Walls_Floors_216
+  - first:
+      213: 2646490030480642569
+    second: A5_Walls_Floors_217
+  - first:
+      213: 1584012995836447518
+    second: A5_Walls_Floors_218
+  - first:
+      213: -1666360040539910190
+    second: A5_Walls_Floors_219
+  - first:
+      213: -3971027257913786470
+    second: A5_Walls_Floors_220
+  - first:
+      213: 1340036897871487020
+    second: A5_Walls_Floors_221
+  - first:
+      213: 4775910120034761314
+    second: A5_Walls_Floors_222
+  - first:
+      213: -801535907877618136
+    second: A5_Walls_Floors_223
+  - first:
+      213: -1988393909723135350
+    second: A5_Walls_Floors_224
+  - first:
+      213: 1460500265163072438
+    second: A5_Walls_Floors_225
+  - first:
+      213: -2291849016085783882
+    second: A5_Walls_Floors_226
+  - first:
+      213: 8461102066279091140
+    second: A5_Walls_Floors_227
+  - first:
+      213: -5495069092739301734
+    second: A5_Walls_Floors_228
+  - first:
+      213: 8150101311260478035
+    second: A5_Walls_Floors_229
+  - first:
+      213: 1343642034679075710
+    second: A5_Walls_Floors_230
+  - first:
+      213: 6391331280428643040
+    second: A5_Walls_Floors_231
+  - first:
+      213: 7279979987787737436
+    second: A5_Walls_Floors_232
+  - first:
+      213: -1504857576958459816
+    second: A5_Walls_Floors_233
+  - first:
+      213: 444898076674387358
+    second: A5_Walls_Floors_234
+  - first:
+      213: 5168071334192755266
+    second: A5_Walls_Floors_235
+  - first:
+      213: 7832475571575531513
+    second: A5_Walls_Floors_236
+  - first:
+      213: 1609986791358375457
+    second: A5_Walls_Floors_237
+  - first:
+      213: 8133492382824974993
+    second: A5_Walls_Floors_238
+  - first:
+      213: -8416239276918824468
+    second: A5_Walls_Floors_239
+  - first:
+      213: -4393967657466447537
+    second: A5_Walls_Floors_240
+  - first:
+      213: -3752211456121280753
+    second: A5_Walls_Floors_241
+  - first:
+      213: 8224222673574361647
+    second: A5_Walls_Floors_242
+  - first:
+      213: 4010178601918245977
+    second: A5_Walls_Floors_243
+  - first:
+      213: 5283337592771322480
+    second: A5_Walls_Floors_244
+  - first:
+      213: -4002430302708756465
+    second: A5_Walls_Floors_245
+  - first:
+      213: -2113126933152336234
+    second: A5_Walls_Floors_246
+  - first:
+      213: -724575686501096564
+    second: A5_Walls_Floors_247
+  - first:
+      213: -9205113328263751172
+    second: A5_Walls_Floors_248
+  - first:
+      213: -3933428290058505969
+    second: A5_Walls_Floors_249
+  - first:
+      213: -956054355287490989
+    second: A5_Walls_Floors_250
+  - first:
+      213: -158730906238299912
+    second: A5_Walls_Floors_251
+  - first:
+      213: -7826093690399058243
+    second: A5_Walls_Floors_252
+  - first:
+      213: -3124827319799743890
+    second: A5_Walls_Floors_253
+  - first:
+      213: -56824176519727017
+    second: A5_Walls_Floors_254
+  - first:
+      213: 8083066499650070470
+    second: A5_Walls_Floors_255
+  - first:
+      213: 2488463754753031868
+    second: A5_Walls_Floors_256
+  - first:
+      213: -4657559220391314843
+    second: A5_Walls_Floors_257
+  - first:
+      213: -1390219369757023900
+    second: A5_Walls_Floors_258
+  - first:
+      213: -8452376900340705578
+    second: A5_Walls_Floors_259
+  - first:
+      213: -1396179038505502952
+    second: A5_Walls_Floors_260
+  - first:
+      213: -1803185053721420142
+    second: A5_Walls_Floors_261
+  - first:
+      213: 7852365787031027242
+    second: A5_Walls_Floors_262
+  - first:
+      213: 5557672948351297703
+    second: A5_Walls_Floors_263
+  - first:
+      213: -9177468209763852389
+    second: A5_Walls_Floors_264
+  - first:
+      213: 2613133526806436353
+    second: A5_Walls_Floors_265
+  - first:
+      213: 1277519154082777915
+    second: A5_Walls_Floors_266
+  - first:
+      213: 2568371126949885558
+    second: A5_Walls_Floors_267
+  - first:
+      213: -8909251984705922801
+    second: A5_Walls_Floors_268
+  - first:
+      213: -5733802198626577075
+    second: A5_Walls_Floors_269
+  - first:
+      213: -6203868799244306122
+    second: A5_Walls_Floors_270
+  - first:
+      213: -3991101915669872444
+    second: A5_Walls_Floors_271
+  - first:
+      213: 2669482964462956320
+    second: A5_Walls_Floors_272
+  - first:
+      213: -9140092361634677229
+    second: A5_Walls_Floors_273
+  - first:
+      213: -8154548249531762731
+    second: A5_Walls_Floors_274
+  - first:
+      213: 5629883658183580643
+    second: A5_Walls_Floors_275
+  - first:
+      213: -1507461649613760290
+    second: A5_Walls_Floors_276
+  - first:
+      213: 468114042093788533
+    second: A5_Walls_Floors_277
+  - first:
+      213: -8813410268881737863
+    second: A5_Walls_Floors_278
+  - first:
+      213: 8841274323299528714
+    second: A5_Walls_Floors_279
+  - first:
+      213: 7932473889378706927
+    second: A5_Walls_Floors_280
+  - first:
+      213: 3446842159154827973
+    second: A5_Walls_Floors_281
+  - first:
+      213: -1166546257357604783
+    second: A5_Walls_Floors_282
+  - first:
+      213: -5625681693392183255
+    second: A5_Walls_Floors_283
+  - first:
+      213: 9083123562580626069
+    second: A5_Walls_Floors_284
+  - first:
+      213: 225016268089479052
+    second: A5_Walls_Floors_285
+  - first:
+      213: -6846991549650023305
+    second: A5_Walls_Floors_286
+  - first:
+      213: 646531656172588900
+    second: A5_Walls_Floors_287
+  - first:
+      213: -8324857888770346238
+    second: A5_Walls_Floors_288
+  - first:
+      213: 839327350502916365
+    second: A5_Walls_Floors_289
+  - first:
+      213: -5010007137397929616
+    second: A5_Walls_Floors_290
+  - first:
+      213: 5574187186642499119
+    second: A5_Walls_Floors_291
+  - first:
+      213: -9056739516523644847
+    second: A5_Walls_Floors_292
+  - first:
+      213: -8172715549595016860
+    second: A5_Walls_Floors_293
+  - first:
+      213: -3780344643837518475
+    second: A5_Walls_Floors_294
+  - first:
+      213: -8461817589120638055
+    second: A5_Walls_Floors_295
+  - first:
+      213: -7821575008862496424
+    second: A5_Walls_Floors_296
+  - first:
+      213: -1218890004920132313
+    second: A5_Walls_Floors_297
+  - first:
+      213: 6480500003215640970
+    second: A5_Walls_Floors_298
+  - first:
+      213: -6905325033060102060
+    second: A5_Walls_Floors_299
+  - first:
+      213: 5905334713016105790
+    second: A5_Walls_Floors_300
+  - first:
+      213: 7941286725802371720
+    second: A5_Walls_Floors_301
+  - first:
+      213: -4117385819106944654
+    second: A5_Walls_Floors_302
+  - first:
+      213: 4299916416850864137
+    second: A5_Walls_Floors_303
+  - first:
+      213: -5807377443044709463
+    second: A5_Walls_Floors_304
+  - first:
+      213: 2147070884238921620
+    second: A5_Walls_Floors_305
+  - first:
+      213: -8889832922517136895
+    second: A5_Walls_Floors_306
+  - first:
+      213: 8100361579302972261
+    second: A5_Walls_Floors_307
+  - first:
+      213: -5023741011937900271
+    second: A5_Walls_Floors_308
+  - first:
+      213: -6270748891690540935
+    second: A5_Walls_Floors_309
+  - first:
+      213: -7405790013450914180
+    second: A5_Walls_Floors_310
+  - first:
+      213: -3535092171951087514
+    second: A5_Walls_Floors_311
+  - first:
+      213: 6674166993293900844
+    second: A5_Walls_Floors_312
+  - first:
+      213: -3771590633407479158
+    second: A5_Walls_Floors_313
+  - first:
+      213: -6658348751955788043
+    second: A5_Walls_Floors_314
+  - first:
+      213: 5505912997192027682
+    second: A5_Walls_Floors_315
+  - first:
+      213: -2896800966998190015
+    second: A5_Walls_Floors_316
+  - first:
+      213: -2960993093895997689
+    second: A5_Walls_Floors_317
+  - first:
+      213: 1525007466053123406
+    second: A5_Walls_Floors_318
+  - first:
+      213: -1599424078431131626
+    second: A5_Walls_Floors_319
+  - first:
+      213: 3925790087478963107
+    second: A5_Walls_Floors_320
+  - first:
+      213: 3858570744518992337
+    second: A5_Walls_Floors_321
+  - first:
+      213: -5656751982683510387
+    second: A5_Walls_Floors_322
+  - first:
+      213: 2554736443768838510
+    second: A5_Walls_Floors_323
+  - first:
+      213: 3447462337774591117
+    second: A5_Walls_Floors_324
+  - first:
+      213: -7017475540779089643
+    second: A5_Walls_Floors_325
+  - first:
+      213: 1317977559141565213
+    second: A5_Walls_Floors_326
+  - first:
+      213: 5007347600705691237
+    second: A5_Walls_Floors_327
+  - first:
+      213: -1911910359833155774
+    second: A5_Walls_Floors_328
+  - first:
+      213: -3133957403047500794
+    second: A5_Walls_Floors_329
+  - first:
+      213: 347580897251818434
+    second: A5_Walls_Floors_330
+  - first:
+      213: -6038672895646562688
+    second: A5_Walls_Floors_331
+  - first:
+      213: -8199328984984651857
+    second: A5_Walls_Floors_332
+  - first:
+      213: -7269309427621941631
+    second: A5_Walls_Floors_333
+  - first:
+      213: 3845568584927310965
+    second: A5_Walls_Floors_334
+  - first:
+      213: 5514354310361141816
+    second: A5_Walls_Floors_335
+  - first:
+      213: 5132612821087041740
+    second: A5_Walls_Floors_336
+  - first:
+      213: 2034187536630867940
+    second: A5_Walls_Floors_337
+  - first:
+      213: -4521591005965723423
+    second: A5_Walls_Floors_338
+  - first:
+      213: 5531308222589471191
+    second: A5_Walls_Floors_339
+  - first:
+      213: 733699594204127923
+    second: A5_Walls_Floors_340
+  - first:
+      213: -4964036289682621803
+    second: A5_Walls_Floors_341
+  - first:
+      213: -8209318135263318966
+    second: A5_Walls_Floors_342
+  - first:
+      213: -8161312900797300168
+    second: A5_Walls_Floors_343
+  - first:
+      213: -2903749955927218228
+    second: A5_Walls_Floors_344
+  - first:
+      213: -2268918621003815175
+    second: A5_Walls_Floors_345
+  - first:
+      213: 591624177471958425
+    second: A5_Walls_Floors_346
+  - first:
+      213: 4021571934479891133
+    second: A5_Walls_Floors_347
+  - first:
+      213: 9031097986413107081
+    second: A5_Walls_Floors_348
+  - first:
+      213: -2973612635114085235
+    second: A5_Walls_Floors_349
+  - first:
+      213: 1723590594281723894
+    second: A5_Walls_Floors_350
+  - first:
+      213: -4731048407183172453
+    second: A5_Walls_Floors_351
+  - first:
+      213: 8374168382500894512
+    second: A5_Walls_Floors_352
+  - first:
+      213: 7077432771421782176
+    second: A5_Walls_Floors_353
+  - first:
+      213: 9147998355968376418
+    second: A5_Walls_Floors_354
+  - first:
+      213: -6635014003767262223
+    second: A5_Walls_Floors_355
+  - first:
+      213: -1036335157403817400
+    second: A5_Walls_Floors_356
+  - first:
+      213: -3700256441920475791
+    second: A5_Walls_Floors_357
+  - first:
+      213: 7430725258179887036
+    second: A5_Walls_Floors_358
+  - first:
+      213: 1867335300136977045
+    second: A5_Walls_Floors_359
+  - first:
+      213: -1698335340972664466
+    second: A5_Walls_Floors_360
+  - first:
+      213: 1575301868684223634
+    second: A5_Walls_Floors_361
+  - first:
+      213: -1206103231702595146
+    second: A5_Walls_Floors_362
+  - first:
+      213: 6237558937238593190
+    second: A5_Walls_Floors_363
+  - first:
+      213: 2971150711466652561
+    second: A5_Walls_Floors_364
+  - first:
+      213: -4371485789218308892
+    second: A5_Walls_Floors_365
+  - first:
+      213: -6165641521034304788
+    second: A5_Walls_Floors_366
+  - first:
+      213: 4954825394509211838
+    second: A5_Walls_Floors_367
+  - first:
+      213: 6576571487794008387
+    second: A5_Walls_Floors_368
+  - first:
+      213: -4808696495892531618
+    second: A5_Walls_Floors_369
+  - first:
+      213: 4858718253514356445
+    second: A5_Walls_Floors_370
+  - first:
+      213: 485751462038793172
+    second: A5_Walls_Floors_371
+  - first:
+      213: 4989376846606978648
+    second: A5_Walls_Floors_372
+  - first:
+      213: 473339344562182524
+    second: A5_Walls_Floors_373
+  - first:
+      213: -2338009035664554130
+    second: A5_Walls_Floors_0
+  - first:
+      213: -6355746713926528996
+    second: A5_Walls_Floors_1
+  - first:
+      213: 3301068292602288415
+    second: A5_Walls_Floors_2
+  - first:
+      213: -5379213224022591917
+    second: A5_Walls_Floors_3
+  - first:
+      213: 7429844205927621252
+    second: A5_Walls_Floors_4
+  - first:
+      213: 8932488714363947403
+    second: A5_Walls_Floors_5
+  - first:
+      213: -1253533167659085260
+    second: A5_Walls_Floors_6
+  - first:
+      213: 370561511852758688
+    second: A5_Walls_Floors_7
+  - first:
+      213: 8818667242811641280
+    second: A5_Walls_Floors_8
+  - first:
+      213: 6197332044927133352
+    second: A5_Walls_Floors_9
+  - first:
+      213: -962851242682286319
+    second: A5_Walls_Floors_10
+  - first:
+      213: -4172690188867221418
+    second: A5_Walls_Floors_11
+  - first:
+      213: -4460411674920498769
+    second: A5_Walls_Floors_12
+  - first:
+      213: -260869525693466357
+    second: A5_Walls_Floors_13
+  - first:
+      213: 4253545118948780696
+    second: A5_Walls_Floors_14
+  - first:
+      213: 2310763817347875413
+    second: A5_Walls_Floors_15
+  - first:
+      213: -6741766063707975332
+    second: A5_Walls_Floors_16
+  - first:
+      213: -5351261114568531530
+    second: A5_Walls_Floors_17
+  - first:
+      213: 390108369305797655
+    second: A5_Walls_Floors_18
+  - first:
+      213: -5431942733968602852
+    second: A5_Walls_Floors_19
+  - first:
+      213: 84532706063617958
+    second: A5_Walls_Floors_20
+  - first:
+      213: -1230891874010417772
+    second: A5_Walls_Floors_21
+  - first:
+      213: -9203811598737413391
+    second: A5_Walls_Floors_22
+  - first:
+      213: -577931710353579085
+    second: A5_Walls_Floors_23
+  - first:
+      213: 8160242348231986924
+    second: A5_Walls_Floors_24
+  - first:
+      213: 4358664755327003722
+    second: A5_Walls_Floors_25
+  - first:
+      213: 7492955790658675326
+    second: A5_Walls_Floors_26
+  - first:
+      213: 8715529343219937745
+    second: A5_Walls_Floors_27
+  - first:
+      213: -7938333383911597535
+    second: A5_Walls_Floors_28
+  - first:
+      213: -8287977733372193578
+    second: A5_Walls_Floors_29
+  - first:
+      213: -7836445462369926364
+    second: A5_Walls_Floors_30
+  - first:
+      213: -3866550044613362383
+    second: A5_Walls_Floors_31
+  - first:
+      213: -2515963798288741325
+    second: A5_Walls_Floors_32
+  - first:
+      213: -5262381984804738950
+    second: A5_Walls_Floors_33
+  - first:
+      213: 3883817388304057278
+    second: A5_Walls_Floors_34
+  - first:
+      213: 4879441308591898952
+    second: A5_Walls_Floors_35
+  - first:
+      213: 3696480327005089801
+    second: A5_Walls_Floors_36
+  - first:
+      213: 5900937892953898272
+    second: A5_Walls_Floors_37
+  - first:
+      213: -5507985133217823493
+    second: A5_Walls_Floors_38
+  - first:
+      213: -4177519551538791584
+    second: A5_Walls_Floors_39
+  - first:
+      213: -2917662446276603480
+    second: A5_Walls_Floors_40
+  - first:
+      213: -5484557242710340146
+    second: A5_Walls_Floors_41
+  - first:
+      213: -3513299701648474254
+    second: A5_Walls_Floors_42
+  - first:
+      213: 3539582115853761243
+    second: A5_Walls_Floors_43
+  - first:
+      213: -6814332076920074979
+    second: A5_Walls_Floors_44
+  - first:
+      213: -1421433432560702505
+    second: A5_Walls_Floors_45
+  - first:
+      213: -7439176984399857901
+    second: A5_Walls_Floors_46
+  - first:
+      213: 3815457349107082691
+    second: A5_Walls_Floors_47
+  - first:
+      213: -6780869764295991232
+    second: A5_Walls_Floors_48
+  - first:
+      213: -4948819821605224217
+    second: A5_Walls_Floors_49
+  - first:
+      213: 1068182186546076937
+    second: A5_Walls_Floors_50
+  - first:
+      213: 6362663062488994757
+    second: A5_Walls_Floors_51
+  - first:
+      213: -4583530499358370908
+    second: A5_Walls_Floors_52
+  - first:
+      213: 4914121843230472753
+    second: A5_Walls_Floors_53
+  - first:
+      213: -2324834874362106088
+    second: A5_Walls_Floors_54
+  - first:
+      213: -1182239383824107366
+    second: A5_Walls_Floors_55
+  - first:
+      213: -5328218244154487324
+    second: A5_Walls_Floors_56
+  - first:
+      213: 3524342907184878495
+    second: A5_Walls_Floors_57
+  - first:
+      213: -8098664527387258265
+    second: A5_Walls_Floors_58
+  - first:
+      213: 5478342562052981640
+    second: A5_Walls_Floors_59
+  - first:
+      213: 5749058750511592701
+    second: A5_Walls_Floors_60
+  - first:
+      213: 942081013511418450
+    second: A5_Walls_Floors_61
+  - first:
+      213: -8484638047924576895
+    second: A5_Walls_Floors_62
+  - first:
+      213: -2004775161339642526
+    second: A5_Walls_Floors_63
+  - first:
+      213: -7225648028022879616
+    second: A5_Walls_Floors_64
+  - first:
+      213: -7852328004904145951
+    second: A5_Walls_Floors_65
+  - first:
+      213: -8657057866335400616
+    second: A5_Walls_Floors_66
+  - first:
+      213: 4682098560901968819
+    second: A5_Walls_Floors_67
+  - first:
+      213: -6530219568162625248
+    second: A5_Walls_Floors_68
+  - first:
+      213: -8169932118821597440
+    second: A5_Walls_Floors_69
+  - first:
+      213: -5943164612175807946
+    second: A5_Walls_Floors_70
+  - first:
+      213: -8027746948698040717
+    second: A5_Walls_Floors_71
+  - first:
+      213: 5084908900657391403
+    second: A5_Walls_Floors_72
+  - first:
+      213: -2791968832511032791
+    second: A5_Walls_Floors_73
+  - first:
+      213: 1442664156198319196
+    second: A5_Walls_Floors_74
+  - first:
+      213: -4349384236153493733
+    second: A5_Walls_Floors_75
+  - first:
+      213: 1557063158065527926
+    second: A5_Walls_Floors_76
+  - first:
+      213: -8782356477097317692
+    second: A5_Walls_Floors_77
+  - first:
+      213: 3214826627746991402
+    second: A5_Walls_Floors_78
+  - first:
+      213: -210579868504490623
+    second: A5_Walls_Floors_79
+  - first:
+      213: 4352261674208443598
+    second: A5_Walls_Floors_80
+  - first:
+      213: 7455027012207243811
+    second: A5_Walls_Floors_81
+  - first:
+      213: 6493019985332568180
+    second: A5_Walls_Floors_82
+  - first:
+      213: 3510624113357917887
+    second: A5_Walls_Floors_83
+  - first:
+      213: -3815721929274467563
+    second: A5_Walls_Floors_84
+  - first:
+      213: -5264095845682244904
+    second: A5_Walls_Floors_85
+  - first:
+      213: 9101444859742155086
+    second: A5_Walls_Floors_86
+  - first:
+      213: 1334897507726105899
+    second: A5_Walls_Floors_87
+  - first:
+      213: -1947126814629873141
+    second: A5_Walls_Floors_88
+  - first:
+      213: -8836936577449641262
+    second: A5_Walls_Floors_89
+  - first:
+      213: -1546734764404433223
+    second: A5_Walls_Floors_90
+  - first:
+      213: -1875942950793891777
+    second: A5_Walls_Floors_91
+  - first:
+      213: 5303267016462804793
+    second: A5_Walls_Floors_92
+  - first:
+      213: -6225842889796832702
+    second: A5_Walls_Floors_93
+  - first:
+      213: -8451723931560437616
+    second: A5_Walls_Floors_94
+  - first:
+      213: 657808658442217300
+    second: A5_Walls_Floors_95
+  - first:
+      213: -7969009559175753644
+    second: A5_Walls_Floors_96
+  - first:
+      213: -6076920680454346312
+    second: A5_Walls_Floors_97
+  - first:
+      213: -582065394989964183
+    second: A5_Walls_Floors_98
+  - first:
+      213: 3911548443146620947
+    second: A5_Walls_Floors_99
+  - first:
+      213: -5072124295365222343
+    second: A5_Walls_Floors_100
+  - first:
+      213: -4533934941233027920
+    second: A5_Walls_Floors_101
+  - first:
+      213: 4973965811947006769
+    second: A5_Walls_Floors_102
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A5_Walls_Floors_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678f8b5b29bd8fd0800000000000000
+      internalID: -2338009035664554130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109d02b90adbc7a0800000000000000
+      internalID: -6355746713926528996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195ddf4f10cfcd20800000000000000
+      internalID: 3301068292602288415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356bc03b2123955b0800000000000000
+      internalID: -5379213224022591917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826fc6b0fb1c1760800000000000000
+      internalID: 7429844205927621252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8949dbc82396fb70800000000000000
+      internalID: 8932488714363947403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432928bb93e8a9ee0800000000000000
+      internalID: -1253533167659085260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65a615bbf742500800000000000000
+      internalID: 370561511852758688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd49205223326a70800000000000000
+      internalID: 8818667242811641280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e605f8a8510650800000000000000
+      internalID: 6197332044927133352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff06c65e343a2f0800000000000000
+      internalID: -962851242682286319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658cfce8160a716c0800000000000000
+      internalID: -4172690188867221418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9cb54c63f6912c0800000000000000
+      internalID: -4460411674920498769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f05c6c84316cf0800000000000000
+      internalID: -260869525693466357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae90bdfb0a70b30800000000000000
+      internalID: 4253545118948780696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55288dce27b711020800000000000000
+      internalID: 2310763817347875413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5117e50c7f6072a0800000000000000
+      internalID: -6741766063707975332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b128c55e508cb5b0800000000000000
+      internalID: -5351261114568531530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140168be71f96500800000000000000
+      internalID: 390108369305797655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198985fcdcdd94b0800000000000000
+      internalID: -5431942733968602852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af03dc5c025c2100800000000000000
+      internalID: 84532706063617958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b1b4bc5efaeee0800000000000000
+      internalID: -1230891874010417772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae2a56d1e754080800000000000000
+      internalID: -9203811598737413391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e0f3eb26caf7f0800000000000000
+      internalID: -577931710353579085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee877f4e210f3170800000000000000
+      internalID: 8160242348231986924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce74470861d7c30800000000000000
+      internalID: 4358664755327003722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72aaeb97935cf760800000000000000
+      internalID: 7492955790658675326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13e14c2c7c3f870800000000000000
+      internalID: 8715529343219937745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a135fa8df55d190800000000000000
+      internalID: -7938333383911597535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4d000c9203bfc80800000000000000
+      internalID: -8287977733372193578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42308b90f5a5f3390800000000000000
+      internalID: -7836445462369926364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dbc846831475ac0800000000000000
+      internalID: -3866550044613362383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc14f6140851dd0800000000000000
+      internalID: -2515963798288741325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786c43577348f6b0800000000000000
+      internalID: -5262381984804738950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3495a565716e530800000000000000
+      internalID: 3883817388304057278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ccfc840247b340800000000000000
+      internalID: 4879441308591898952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bb5ac5498c4330800000000000000
+      internalID: 3696480327005089801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db827cfb754e150800000000000000
+      internalID: 5900937892953898272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44b6234b4bf83b0800000000000000
+      internalID: -5507985133217823493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf740f9187606c0800000000000000
+      internalID: -4177519551538791584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19f2ba6716287d0800000000000000
+      internalID: -2917662446276603480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd44f50f30f2e3b0800000000000000
+      internalID: -5484557242710340146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb1cd19804e3fc0800000000000000
+      internalID: -3513299701648474254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaf9cc4e2f1f1130800000000000000
+      internalID: 3539582115853761243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d01a57411ae61a0800000000000000
+      internalID: -6814332076920074979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbea5cf2dd064ce0800000000000000
+      internalID: -1421433432560702505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b59772fbb2c890800000000000000
+      internalID: -7439176984399857901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c56e2d6e3a33f430800000000000000
+      internalID: 3815457349107082691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04063fe30e285e1a0800000000000000
+      internalID: -6780869764295991232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00fcb9792425bb0800000000000000
+      internalID: -4948819821605224217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d9a780a02f2de00800000000000000
+      internalID: 1068182186546076937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d7213858bc4850800000000000000
+      internalID: 6362663062488994757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35390ab470460c0800000000000000
+      internalID: -4583530499358370908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a7db0c7c7723440800000000000000
+      internalID: 4914121843230472753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe430dff68cbfd0800000000000000
+      internalID: -2324834874362106088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ffaf4b87d79fe0800000000000000
+      internalID: -1182239383824107366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed8a6facbd5e06b0800000000000000
+      internalID: -5328218244154487324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931c69833bf8e030800000000000000
+      internalID: 3524342907184878495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762960a5583cb9f80800000000000000
+      internalID: -8098664527387258265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8834211e88bf60c40800000000000000
+      internalID: 5478342562052981640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df438194972c8cf40800000000000000
+      internalID: 5749058750511592701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fcffb0b1f21d00800000000000000
+      internalID: 942081013511418450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d11b126a2804a80800000000000000
+      internalID: -8484638047924576895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df2ddcc9b9d24e0800000000000000
+      internalID: -2004775161339642526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac1b1d66759bb90800000000000000
+      internalID: -7225648028022879616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb26df684de60390800000000000000
+      internalID: -7852328004904145951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc315dcb3fbd780800000000000000
+      internalID: -8657057866335400616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3fde595d72af040800000000000000
+      internalID: 4682098560901968819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ac5eb6efff55a0800000000000000
+      internalID: -6530219568162625248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f859a26029e9e80800000000000000
+      internalID: -8169932118821597440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab6910643a58da0800000000000000
+      internalID: -5943164612175807946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3769028dea6b79090800000000000000
+      internalID: -8027746948698040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e7e244b9319640800000000000000
+      internalID: 5084908900657391403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c73aa32fe049d0800000000000000
+      internalID: -2791968832511032791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b360186f550410800000000000000
+      internalID: 1442664156198319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17236cc412e3a3c0800000000000000
+      internalID: -4349384236153493733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf75d41bccb9510800000000000000
+      internalID: 1557063158065527926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca63c3a05dce1680800000000000000
+      internalID: -8782356477097317692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8359f8cb5d9c20800000000000000
+      internalID: 3214826627746991402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df0fca9bed31df0800000000000000
+      internalID: -210579868504490623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbdb4fee6566c30800000000000000
+      internalID: 4352261674208443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322fd85b193957760800000000000000
+      internalID: 7455027012207243811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47082417647db1a50800000000000000
+      internalID: 6493019985332568180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8e90f70e38b030800000000000000
+      internalID: 3510624113357917887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b5de33f15db0bc0800000000000000
+      internalID: -3815721929274467563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2108ef7bc22f6b0800000000000000
+      internalID: -5264095845682244904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417cbfd0e3de4e70800000000000000
+      internalID: 9101444859742155086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d919fe532868210800000000000000
+      internalID: 1334897507726105899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a39597a7a6af4e0800000000000000
+      internalID: -1947126814629873141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da357eb005ec5580800000000000000
+      internalID: -8836936577449641262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1ded3de4e88ae0800000000000000
+      internalID: -1546734764404433223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30380f43df47f5e0800000000000000
+      internalID: -1875942950793891777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937af49e04df89940800000000000000
+      internalID: 5303267016462804793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b44ea0ec5999a0800000000000000
+      internalID: -6225842889796832702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0981ca70dd175ba80800000000000000
+      internalID: -8451723931560437616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ef985d71012900800000000000000
+      internalID: 657808658442217300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45013ad0704686190800000000000000
+      internalID: -7969009559175753644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92b4986d07aaba0800000000000000
+      internalID: -6076920680454346312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964639f6b961ce7f0800000000000000
+      internalID: -582065394989964183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109c73b59c984630800000000000000
+      internalID: 3911548443146620947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a02e93d13c99b0800000000000000
+      internalID: -5072124295365222343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e219513a3411c0800000000000000
+      internalID: -4533934941233027920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A5_Walls_Floors_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be9028d83170540800000000000000
+      internalID: 4973965811947006769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

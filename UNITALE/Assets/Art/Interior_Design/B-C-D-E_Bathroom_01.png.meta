@@ -1,0 +1,6758 @@
+fileFormatVersion: 2
+guid: a4d5d878de0663840ae310eee11872ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8561141048772573801
+    second: B-C-D-E_Bathroom_01_0
+  - first:
+      213: -5527419453367935015
+    second: B-C-D-E_Bathroom_01_1
+  - first:
+      213: 5827323891759121966
+    second: B-C-D-E_Bathroom_01_2
+  - first:
+      213: 6553079086379331819
+    second: B-C-D-E_Bathroom_01_3
+  - first:
+      213: -5951554987750627518
+    second: B-C-D-E_Bathroom_01_4
+  - first:
+      213: 4071797156447368328
+    second: B-C-D-E_Bathroom_01_5
+  - first:
+      213: -2884529323533318030
+    second: B-C-D-E_Bathroom_01_6
+  - first:
+      213: -975099198610776635
+    second: B-C-D-E_Bathroom_01_7
+  - first:
+      213: 2755587886076129803
+    second: B-C-D-E_Bathroom_01_8
+  - first:
+      213: -5057496588231500556
+    second: B-C-D-E_Bathroom_01_9
+  - first:
+      213: -7108166767156560059
+    second: B-C-D-E_Bathroom_01_10
+  - first:
+      213: -1386126544310696544
+    second: B-C-D-E_Bathroom_01_11
+  - first:
+      213: 4040654552738741319
+    second: B-C-D-E_Bathroom_01_12
+  - first:
+      213: 8323790881461689976
+    second: B-C-D-E_Bathroom_01_13
+  - first:
+      213: -1859079590696023567
+    second: B-C-D-E_Bathroom_01_14
+  - first:
+      213: 2455472435636515388
+    second: B-C-D-E_Bathroom_01_15
+  - first:
+      213: 5104810201699634641
+    second: B-C-D-E_Bathroom_01_16
+  - first:
+      213: -7842928316730367277
+    second: B-C-D-E_Bathroom_01_17
+  - first:
+      213: -2469037303178380904
+    second: B-C-D-E_Bathroom_01_18
+  - first:
+      213: -5486014797528311853
+    second: B-C-D-E_Bathroom_01_19
+  - first:
+      213: -4622418234191473144
+    second: B-C-D-E_Bathroom_01_20
+  - first:
+      213: -5041569698010705772
+    second: B-C-D-E_Bathroom_01_21
+  - first:
+      213: 3583215841019276822
+    second: B-C-D-E_Bathroom_01_22
+  - first:
+      213: -8735589050847325676
+    second: B-C-D-E_Bathroom_01_23
+  - first:
+      213: 2573534726427574410
+    second: B-C-D-E_Bathroom_01_24
+  - first:
+      213: -2800630937639600764
+    second: B-C-D-E_Bathroom_01_25
+  - first:
+      213: 3938962173058849639
+    second: B-C-D-E_Bathroom_01_26
+  - first:
+      213: -9126211853750563772
+    second: B-C-D-E_Bathroom_01_27
+  - first:
+      213: -440168654481016605
+    second: B-C-D-E_Bathroom_01_28
+  - first:
+      213: 5927338683511519713
+    second: B-C-D-E_Bathroom_01_29
+  - first:
+      213: -4844898874004454576
+    second: B-C-D-E_Bathroom_01_30
+  - first:
+      213: -2850943754138157435
+    second: B-C-D-E_Bathroom_01_31
+  - first:
+      213: 9148826316347887461
+    second: B-C-D-E_Bathroom_01_32
+  - first:
+      213: -7251820260405176928
+    second: B-C-D-E_Bathroom_01_33
+  - first:
+      213: 5779974571794160104
+    second: B-C-D-E_Bathroom_01_34
+  - first:
+      213: -5787691219561917507
+    second: B-C-D-E_Bathroom_01_35
+  - first:
+      213: 917779926876506910
+    second: B-C-D-E_Bathroom_01_36
+  - first:
+      213: 3742263719345434806
+    second: B-C-D-E_Bathroom_01_37
+  - first:
+      213: -4752602665086760212
+    second: B-C-D-E_Bathroom_01_38
+  - first:
+      213: -1043564131975987037
+    second: B-C-D-E_Bathroom_01_39
+  - first:
+      213: 6548430334001419606
+    second: B-C-D-E_Bathroom_01_40
+  - first:
+      213: -8809868756661951095
+    second: B-C-D-E_Bathroom_01_41
+  - first:
+      213: 537513685224753532
+    second: B-C-D-E_Bathroom_01_42
+  - first:
+      213: 8631777926051061671
+    second: B-C-D-E_Bathroom_01_43
+  - first:
+      213: -8544256467249080033
+    second: B-C-D-E_Bathroom_01_44
+  - first:
+      213: -3684082376622827010
+    second: B-C-D-E_Bathroom_01_45
+  - first:
+      213: -9114707538573581176
+    second: B-C-D-E_Bathroom_01_46
+  - first:
+      213: -6168347201879433668
+    second: B-C-D-E_Bathroom_01_47
+  - first:
+      213: 4056275454909480646
+    second: B-C-D-E_Bathroom_01_48
+  - first:
+      213: -4422801946755784502
+    second: B-C-D-E_Bathroom_01_49
+  - first:
+      213: 7433301556075390914
+    second: B-C-D-E_Bathroom_01_50
+  - first:
+      213: -3384243306164137460
+    second: B-C-D-E_Bathroom_01_51
+  - first:
+      213: 8334369977704198560
+    second: B-C-D-E_Bathroom_01_52
+  - first:
+      213: 862952505712418163
+    second: B-C-D-E_Bathroom_01_53
+  - first:
+      213: 8273090757330842659
+    second: B-C-D-E_Bathroom_01_54
+  - first:
+      213: 5145900303667023394
+    second: B-C-D-E_Bathroom_01_55
+  - first:
+      213: -5393239586507231303
+    second: B-C-D-E_Bathroom_01_56
+  - first:
+      213: -1591453612248667274
+    second: B-C-D-E_Bathroom_01_57
+  - first:
+      213: 1178833801662608912
+    second: B-C-D-E_Bathroom_01_58
+  - first:
+      213: -8206266578951455292
+    second: B-C-D-E_Bathroom_01_59
+  - first:
+      213: 6334042425876680956
+    second: B-C-D-E_Bathroom_01_60
+  - first:
+      213: 2991850666285657520
+    second: B-C-D-E_Bathroom_01_61
+  - first:
+      213: 3319284364929793253
+    second: B-C-D-E_Bathroom_01_62
+  - first:
+      213: -561059667241093852
+    second: B-C-D-E_Bathroom_01_63
+  - first:
+      213: -6485102738965877509
+    second: B-C-D-E_Bathroom_01_64
+  - first:
+      213: 8483907475964082436
+    second: B-C-D-E_Bathroom_01_65
+  - first:
+      213: 3500654600097737094
+    second: B-C-D-E_Bathroom_01_66
+  - first:
+      213: 7514428091330923164
+    second: B-C-D-E_Bathroom_01_67
+  - first:
+      213: 2765175870080970858
+    second: B-C-D-E_Bathroom_01_68
+  - first:
+      213: 7386595414221585976
+    second: B-C-D-E_Bathroom_01_69
+  - first:
+      213: 7718800008747228436
+    second: B-C-D-E_Bathroom_01_70
+  - first:
+      213: -6794800847042759406
+    second: B-C-D-E_Bathroom_01_71
+  - first:
+      213: 3847089482514673679
+    second: B-C-D-E_Bathroom_01_72
+  - first:
+      213: -9079057996521044097
+    second: B-C-D-E_Bathroom_01_73
+  - first:
+      213: 5107985904729373195
+    second: B-C-D-E_Bathroom_01_74
+  - first:
+      213: -6203537651396240559
+    second: B-C-D-E_Bathroom_01_75
+  - first:
+      213: 5387004927111237575
+    second: B-C-D-E_Bathroom_01_76
+  - first:
+      213: -798995863428307091
+    second: B-C-D-E_Bathroom_01_77
+  - first:
+      213: 3326970777134035549
+    second: B-C-D-E_Bathroom_01_78
+  - first:
+      213: -1591127312824449036
+    second: B-C-D-E_Bathroom_01_79
+  - first:
+      213: -9014267524466742179
+    second: B-C-D-E_Bathroom_01_80
+  - first:
+      213: 663987048293410642
+    second: B-C-D-E_Bathroom_01_81
+  - first:
+      213: -5041187520454834249
+    second: B-C-D-E_Bathroom_01_82
+  - first:
+      213: -7852156224787390789
+    second: B-C-D-E_Bathroom_01_83
+  - first:
+      213: -3563356594619409145
+    second: B-C-D-E_Bathroom_01_84
+  - first:
+      213: -5127719628870291707
+    second: B-C-D-E_Bathroom_01_85
+  - first:
+      213: -5321091907064275338
+    second: B-C-D-E_Bathroom_01_86
+  - first:
+      213: 8153958923998752152
+    second: B-C-D-E_Bathroom_01_87
+  - first:
+      213: 1254187538922354962
+    second: B-C-D-E_Bathroom_01_88
+  - first:
+      213: 5305889536387964383
+    second: B-C-D-E_Bathroom_01_89
+  - first:
+      213: -555871733122793892
+    second: B-C-D-E_Bathroom_01_90
+  - first:
+      213: -4100075744779984767
+    second: B-C-D-E_Bathroom_01_91
+  - first:
+      213: -4043811550449104182
+    second: B-C-D-E_Bathroom_01_92
+  - first:
+      213: 7844468054620549597
+    second: B-C-D-E_Bathroom_01_93
+  - first:
+      213: 2931853440542026095
+    second: B-C-D-E_Bathroom_01_94
+  - first:
+      213: -5756505003709370870
+    second: B-C-D-E_Bathroom_01_95
+  - first:
+      213: -52089996632624838
+    second: B-C-D-E_Bathroom_01_96
+  - first:
+      213: -8425004119701603824
+    second: B-C-D-E_Bathroom_01_97
+  - first:
+      213: 2182279091099818886
+    second: B-C-D-E_Bathroom_01_98
+  - first:
+      213: -9139584457698641870
+    second: B-C-D-E_Bathroom_01_99
+  - first:
+      213: -1557979790130053093
+    second: B-C-D-E_Bathroom_01_100
+  - first:
+      213: -3697201996244524877
+    second: B-C-D-E_Bathroom_01_101
+  - first:
+      213: 9015248469200398184
+    second: B-C-D-E_Bathroom_01_102
+  - first:
+      213: -2239618509586467170
+    second: B-C-D-E_Bathroom_01_103
+  - first:
+      213: -8072167197324522527
+    second: B-C-D-E_Bathroom_01_104
+  - first:
+      213: 4369334920855886132
+    second: B-C-D-E_Bathroom_01_105
+  - first:
+      213: -5554888231879056582
+    second: B-C-D-E_Bathroom_01_106
+  - first:
+      213: -7960701714178764147
+    second: B-C-D-E_Bathroom_01_107
+  - first:
+      213: 192690398007728968
+    second: B-C-D-E_Bathroom_01_108
+  - first:
+      213: 1974331112523188797
+    second: B-C-D-E_Bathroom_01_109
+  - first:
+      213: 3887083541284155576
+    second: B-C-D-E_Bathroom_01_110
+  - first:
+      213: -403171626301118
+    second: B-C-D-E_Bathroom_01_111
+  - first:
+      213: -3357678360147639573
+    second: B-C-D-E_Bathroom_01_112
+  - first:
+      213: -3754799335389340290
+    second: B-C-D-E_Bathroom_01_113
+  - first:
+      213: 4398346783981811436
+    second: B-C-D-E_Bathroom_01_114
+  - first:
+      213: 7347201716075815703
+    second: B-C-D-E_Bathroom_01_115
+  - first:
+      213: 1669838075778700971
+    second: B-C-D-E_Bathroom_01_116
+  - first:
+      213: -6198927214773847511
+    second: B-C-D-E_Bathroom_01_117
+  - first:
+      213: -8120477888429910426
+    second: B-C-D-E_Bathroom_01_118
+  - first:
+      213: -1470384325177656805
+    second: B-C-D-E_Bathroom_01_119
+  - first:
+      213: -2426047055929203004
+    second: B-C-D-E_Bathroom_01_120
+  - first:
+      213: -3459480640847377380
+    second: B-C-D-E_Bathroom_01_121
+  - first:
+      213: 369158525957843709
+    second: B-C-D-E_Bathroom_01_122
+  - first:
+      213: 2421215683019335629
+    second: B-C-D-E_Bathroom_01_123
+  - first:
+      213: -606271090846582398
+    second: B-C-D-E_Bathroom_01_124
+  - first:
+      213: -8829115788255549690
+    second: B-C-D-E_Bathroom_01_125
+  - first:
+      213: -5262634630968874347
+    second: B-C-D-E_Bathroom_01_126
+  - first:
+      213: -6576263336637815971
+    second: B-C-D-E_Bathroom_01_127
+  - first:
+      213: -442699656013756178
+    second: B-C-D-E_Bathroom_01_128
+  - first:
+      213: -5431480074445178969
+    second: B-C-D-E_Bathroom_01_129
+  - first:
+      213: 2029733744850092011
+    second: B-C-D-E_Bathroom_01_130
+  - first:
+      213: 3048079293895685528
+    second: B-C-D-E_Bathroom_01_131
+  - first:
+      213: -8894917117644646703
+    second: B-C-D-E_Bathroom_01_132
+  - first:
+      213: -2347857290309667059
+    second: B-C-D-E_Bathroom_01_133
+  - first:
+      213: -3181367907214784734
+    second: B-C-D-E_Bathroom_01_134
+  - first:
+      213: -4816294603761383774
+    second: B-C-D-E_Bathroom_01_135
+  - first:
+      213: 1307802619636948164
+    second: B-C-D-E_Bathroom_01_136
+  - first:
+      213: 5857017015253861242
+    second: B-C-D-E_Bathroom_01_137
+  - first:
+      213: 6771789024753061887
+    second: B-C-D-E_Bathroom_01_138
+  - first:
+      213: 5370943615042528102
+    second: B-C-D-E_Bathroom_01_139
+  - first:
+      213: 6046137481070657593
+    second: B-C-D-E_Bathroom_01_140
+  - first:
+      213: -2054009550297658936
+    second: B-C-D-E_Bathroom_01_141
+  - first:
+      213: -1803189219037710975
+    second: B-C-D-E_Bathroom_01_142
+  - first:
+      213: 6990320249617541029
+    second: B-C-D-E_Bathroom_01_143
+  - first:
+      213: -2741124114431708142
+    second: B-C-D-E_Bathroom_01_144
+  - first:
+      213: 7065542096424535874
+    second: B-C-D-E_Bathroom_01_145
+  - first:
+      213: -1009102426497761738
+    second: B-C-D-E_Bathroom_01_146
+  - first:
+      213: 8969784526847866747
+    second: B-C-D-E_Bathroom_01_147
+  - first:
+      213: 6104758880723623636
+    second: B-C-D-E_Bathroom_01_148
+  - first:
+      213: 4036982342750494631
+    second: B-C-D-E_Bathroom_01_149
+  - first:
+      213: -214424252913472588
+    second: B-C-D-E_Bathroom_01_150
+  - first:
+      213: -2544413862250012803
+    second: B-C-D-E_Bathroom_01_151
+  - first:
+      213: -1705170323432243943
+    second: B-C-D-E_Bathroom_01_152
+  - first:
+      213: -958063910853286989
+    second: B-C-D-E_Bathroom_01_153
+  - first:
+      213: 3576400800195482479
+    second: B-C-D-E_Bathroom_01_154
+  - first:
+      213: -1458707440358515351
+    second: B-C-D-E_Bathroom_01_155
+  - first:
+      213: -171549750952395737
+    second: B-C-D-E_Bathroom_01_156
+  - first:
+      213: -8724373258768013475
+    second: B-C-D-E_Bathroom_01_157
+  - first:
+      213: -2496403084066811573
+    second: B-C-D-E_Bathroom_01_158
+  - first:
+      213: 4370999254702342627
+    second: B-C-D-E_Bathroom_01_159
+  - first:
+      213: -4562772513074793940
+    second: B-C-D-E_Bathroom_01_160
+  - first:
+      213: -6081098660545117367
+    second: B-C-D-E_Bathroom_01_161
+  - first:
+      213: -720811589041511238
+    second: B-C-D-E_Bathroom_01_162
+  - first:
+      213: 3033489966359419149
+    second: B-C-D-E_Bathroom_01_163
+  - first:
+      213: -4855815979559856501
+    second: B-C-D-E_Bathroom_01_164
+  - first:
+      213: 417094924074502221
+    second: B-C-D-E_Bathroom_01_165
+  - first:
+      213: 4660766639337324678
+    second: B-C-D-E_Bathroom_01_166
+  - first:
+      213: 3446372686967655645
+    second: B-C-D-E_Bathroom_01_167
+  - first:
+      213: 7777054678474629239
+    second: B-C-D-E_Bathroom_01_168
+  - first:
+      213: -7493717666742109084
+    second: B-C-D-E_Bathroom_01_169
+  - first:
+      213: 362775264961506283
+    second: B-C-D-E_Bathroom_01_170
+  - first:
+      213: 1732883951848957490
+    second: B-C-D-E_Bathroom_01_171
+  - first:
+      213: 2529002704852620130
+    second: B-C-D-E_Bathroom_01_172
+  - first:
+      213: 7607390557192141008
+    second: B-C-D-E_Bathroom_01_173
+  - first:
+      213: -1762156321939867736
+    second: B-C-D-E_Bathroom_01_174
+  - first:
+      213: -4751690571046554046
+    second: B-C-D-E_Bathroom_01_175
+  - first:
+      213: -2344719405595514723
+    second: B-C-D-E_Bathroom_01_176
+  - first:
+      213: 2549001850945426164
+    second: B-C-D-E_Bathroom_01_177
+  - first:
+      213: -7158686722172002852
+    second: B-C-D-E_Bathroom_01_178
+  - first:
+      213: 8217051163279611967
+    second: B-C-D-E_Bathroom_01_179
+  - first:
+      213: -5603763757135424006
+    second: B-C-D-E_Bathroom_01_180
+  - first:
+      213: 4826651210614107136
+    second: B-C-D-E_Bathroom_01_181
+  - first:
+      213: 4447616083630533832
+    second: B-C-D-E_Bathroom_01_182
+  - first:
+      213: 422228961780144462
+    second: B-C-D-E_Bathroom_01_183
+  - first:
+      213: 12876330086257609
+    second: B-C-D-E_Bathroom_01_184
+  - first:
+      213: -4839339214593370878
+    second: B-C-D-E_Bathroom_01_185
+  - first:
+      213: -676106093588741171
+    second: B-C-D-E_Bathroom_01_186
+  - first:
+      213: -2694967203160650987
+    second: B-C-D-E_Bathroom_01_187
+  - first:
+      213: 9034618906343165925
+    second: B-C-D-E_Bathroom_01_188
+  - first:
+      213: 5569144844141192129
+    second: B-C-D-E_Bathroom_01_189
+  - first:
+      213: -4356966260996117084
+    second: B-C-D-E_Bathroom_01_190
+  - first:
+      213: 2762458977671523703
+    second: B-C-D-E_Bathroom_01_191
+  - first:
+      213: 3327490720750094550
+    second: B-C-D-E_Bathroom_01_192
+  - first:
+      213: -3569105074431839086
+    second: B-C-D-E_Bathroom_01_193
+  - first:
+      213: 3634273417538562312
+    second: B-C-D-E_Bathroom_01_194
+  - first:
+      213: -4096188643529156344
+    second: B-C-D-E_Bathroom_01_195
+  - first:
+      213: 8042673053883421289
+    second: B-C-D-E_Bathroom_01_196
+  - first:
+      213: 7248399985259525624
+    second: B-C-D-E_Bathroom_01_197
+  - first:
+      213: 5716536045112699736
+    second: B-C-D-E_Bathroom_01_198
+  - first:
+      213: -3994652274236354759
+    second: B-C-D-E_Bathroom_01_199
+  - first:
+      213: -4952892782925459864
+    second: B-C-D-E_Bathroom_01_200
+  - first:
+      213: -9110677052380103180
+    second: B-C-D-E_Bathroom_01_201
+  - first:
+      213: 8069116431460708714
+    second: B-C-D-E_Bathroom_01_202
+  - first:
+      213: 5917429003344274359
+    second: B-C-D-E_Bathroom_01_203
+  - first:
+      213: -5917986634912941580
+    second: B-C-D-E_Bathroom_01_204
+  - first:
+      213: -5240552941389500745
+    second: B-C-D-E_Bathroom_01_205
+  - first:
+      213: 5065722931249668630
+    second: B-C-D-E_Bathroom_01_206
+  - first:
+      213: 1419177703763758492
+    second: B-C-D-E_Bathroom_01_207
+  - first:
+      213: -8978589003525943348
+    second: B-C-D-E_Bathroom_01_208
+  - first:
+      213: -4344461013227684417
+    second: B-C-D-E_Bathroom_01_209
+  - first:
+      213: -5277937632738294580
+    second: B-C-D-E_Bathroom_01_210
+  - first:
+      213: -8941857895567150508
+    second: B-C-D-E_Bathroom_01_211
+  - first:
+      213: -3563768781515477922
+    second: B-C-D-E_Bathroom_01_212
+  - first:
+      213: 3775274063161766645
+    second: B-C-D-E_Bathroom_01_213
+  - first:
+      213: 901440992229249104
+    second: B-C-D-E_Bathroom_01_214
+  - first:
+      213: -26065227731763421
+    second: B-C-D-E_Bathroom_01_215
+  - first:
+      213: -7187417028236551253
+    second: B-C-D-E_Bathroom_01_216
+  - first:
+      213: -2381734476071626590
+    second: B-C-D-E_Bathroom_01_217
+  - first:
+      213: -4460584347921806855
+    second: B-C-D-E_Bathroom_01_218
+  - first:
+      213: 235767474835931264
+    second: B-C-D-E_Bathroom_01_219
+  - first:
+      213: -1678480645380075990
+    second: B-C-D-E_Bathroom_01_220
+  - first:
+      213: 6580723226416855326
+    second: B-C-D-E_Bathroom_01_221
+  - first:
+      213: -7931964965857200216
+    second: B-C-D-E_Bathroom_01_222
+  - first:
+      213: 8282160220935250053
+    second: B-C-D-E_Bathroom_01_223
+  - first:
+      213: -3868933056678834848
+    second: B-C-D-E_Bathroom_01_224
+  - first:
+      213: 1930671013700155840
+    second: B-C-D-E_Bathroom_01_225
+  - first:
+      213: 8812981213307080223
+    second: B-C-D-E_Bathroom_01_226
+  - first:
+      213: 998685599893307256
+    second: B-C-D-E_Bathroom_01_227
+  - first:
+      213: -3593369793524997430
+    second: B-C-D-E_Bathroom_01_228
+  - first:
+      213: -1416974828579305212
+    second: B-C-D-E_Bathroom_01_229
+  - first:
+      213: 2873364727259699053
+    second: B-C-D-E_Bathroom_01_230
+  - first:
+      213: -5287694215905222547
+    second: B-C-D-E_Bathroom_01_231
+  - first:
+      213: 8921447721044692451
+    second: B-C-D-E_Bathroom_01_232
+  - first:
+      213: -8012234442911168578
+    second: B-C-D-E_Bathroom_01_233
+  - first:
+      213: 1797876463035380897
+    second: B-C-D-E_Bathroom_01_234
+  - first:
+      213: 566025270303767525
+    second: B-C-D-E_Bathroom_01_235
+  - first:
+      213: 3951441709559045660
+    second: B-C-D-E_Bathroom_01_236
+  - first:
+      213: 4117002497369562702
+    second: B-C-D-E_Bathroom_01_237
+  - first:
+      213: 6187579471705031564
+    second: B-C-D-E_Bathroom_01_238
+  - first:
+      213: 7174086260247921235
+    second: B-C-D-E_Bathroom_01_239
+  - first:
+      213: 8338921637835555148
+    second: B-C-D-E_Bathroom_01_240
+  - first:
+      213: -4403862583417700766
+    second: B-C-D-E_Bathroom_01_241
+  - first:
+      213: -6579501989495382198
+    second: B-C-D-E_Bathroom_01_242
+  - first:
+      213: 3223725529428009171
+    second: B-C-D-E_Bathroom_01_243
+  - first:
+      213: -3185449962349633439
+    second: B-C-D-E_Bathroom_01_244
+  - first:
+      213: -8654476017228165425
+    second: B-C-D-E_Bathroom_01_245
+  - first:
+      213: -5513486170726091837
+    second: B-C-D-E_Bathroom_01_0
+  - first:
+      213: -7663616197744113634
+    second: B-C-D-E_Bathroom_01_1
+  - first:
+      213: -758414478189154529
+    second: B-C-D-E_Bathroom_01_2
+  - first:
+      213: -5711491082728686615
+    second: B-C-D-E_Bathroom_01_3
+  - first:
+      213: 8035584966176328158
+    second: B-C-D-E_Bathroom_01_4
+  - first:
+      213: -1112153125987989025
+    second: B-C-D-E_Bathroom_01_5
+  - first:
+      213: -566194729794395873
+    second: B-C-D-E_Bathroom_01_6
+  - first:
+      213: -5629921647157753694
+    second: B-C-D-E_Bathroom_01_7
+  - first:
+      213: -3367034916046913601
+    second: B-C-D-E_Bathroom_01_8
+  - first:
+      213: -1826966280282691369
+    second: B-C-D-E_Bathroom_01_9
+  - first:
+      213: 5843647972157184583
+    second: B-C-D-E_Bathroom_01_10
+  - first:
+      213: 1153446348610498640
+    second: B-C-D-E_Bathroom_01_11
+  - first:
+      213: -3721112505762366667
+    second: B-C-D-E_Bathroom_01_12
+  - first:
+      213: -1511725548550680256
+    second: B-C-D-E_Bathroom_01_13
+  - first:
+      213: -3205460619948261967
+    second: B-C-D-E_Bathroom_01_14
+  - first:
+      213: 243214475510016925
+    second: B-C-D-E_Bathroom_01_15
+  - first:
+      213: 750805613542021633
+    second: B-C-D-E_Bathroom_01_16
+  - first:
+      213: 2276275818036558135
+    second: B-C-D-E_Bathroom_01_17
+  - first:
+      213: -647656075075724837
+    second: B-C-D-E_Bathroom_01_18
+  - first:
+      213: 7963737755575157354
+    second: B-C-D-E_Bathroom_01_19
+  - first:
+      213: -8738958490447278716
+    second: B-C-D-E_Bathroom_01_20
+  - first:
+      213: -3305905222200704115
+    second: B-C-D-E_Bathroom_01_21
+  - first:
+      213: -5461078927255845627
+    second: B-C-D-E_Bathroom_01_22
+  - first:
+      213: 6499364439188436593
+    second: B-C-D-E_Bathroom_01_23
+  - first:
+      213: 5049837712180894326
+    second: B-C-D-E_Bathroom_01_24
+  - first:
+      213: -3247869756484195400
+    second: B-C-D-E_Bathroom_01_25
+  - first:
+      213: 202750772325387967
+    second: B-C-D-E_Bathroom_01_26
+  - first:
+      213: 3753934773947337324
+    second: B-C-D-E_Bathroom_01_27
+  - first:
+      213: -36659974403111407
+    second: B-C-D-E_Bathroom_01_28
+  - first:
+      213: -9018046869868403749
+    second: B-C-D-E_Bathroom_01_29
+  - first:
+      213: -6803934946127800505
+    second: B-C-D-E_Bathroom_01_30
+  - first:
+      213: -1478899080264709823
+    second: B-C-D-E_Bathroom_01_31
+  - first:
+      213: 7665826686778505071
+    second: B-C-D-E_Bathroom_01_32
+  - first:
+      213: 2291152095429375896
+    second: B-C-D-E_Bathroom_01_33
+  - first:
+      213: 5054589826724975370
+    second: B-C-D-E_Bathroom_01_34
+  - first:
+      213: -8104625477316446582
+    second: B-C-D-E_Bathroom_01_35
+  - first:
+      213: 6465460791906721847
+    second: B-C-D-E_Bathroom_01_36
+  - first:
+      213: 8548373879325188248
+    second: B-C-D-E_Bathroom_01_37
+  - first:
+      213: -3211038626792551399
+    second: B-C-D-E_Bathroom_01_38
+  - first:
+      213: 6825070913526418065
+    second: B-C-D-E_Bathroom_01_39
+  - first:
+      213: 8753119742775427892
+    second: B-C-D-E_Bathroom_01_40
+  - first:
+      213: 30974370003543027
+    second: B-C-D-E_Bathroom_01_41
+  - first:
+      213: 3492087110646830439
+    second: B-C-D-E_Bathroom_01_42
+  - first:
+      213: -1810831039035553876
+    second: B-C-D-E_Bathroom_01_43
+  - first:
+      213: -840807640810471723
+    second: B-C-D-E_Bathroom_01_44
+  - first:
+      213: 1215574856391728185
+    second: B-C-D-E_Bathroom_01_45
+  - first:
+      213: 6105751318282489396
+    second: B-C-D-E_Bathroom_01_46
+  - first:
+      213: -3702839371500638391
+    second: B-C-D-E_Bathroom_01_47
+  - first:
+      213: -9052445775978879026
+    second: B-C-D-E_Bathroom_01_48
+  - first:
+      213: -847547609511347023
+    second: B-C-D-E_Bathroom_01_49
+  - first:
+      213: -360356854090877533
+    second: B-C-D-E_Bathroom_01_50
+  - first:
+      213: 1724137915883260737
+    second: B-C-D-E_Bathroom_01_51
+  - first:
+      213: 3285627458271557569
+    second: B-C-D-E_Bathroom_01_52
+  - first:
+      213: -444213337785442918
+    second: B-C-D-E_Bathroom_01_53
+  - first:
+      213: -332730760098414
+    second: B-C-D-E_Bathroom_01_54
+  - first:
+      213: -736292494889266512
+    second: B-C-D-E_Bathroom_01_55
+  - first:
+      213: -174354589775769460
+    second: B-C-D-E_Bathroom_01_56
+  - first:
+      213: -9032720745119474950
+    second: B-C-D-E_Bathroom_01_57
+  - first:
+      213: 5788355612504886245
+    second: B-C-D-E_Bathroom_01_58
+  - first:
+      213: 6784588920472727296
+    second: B-C-D-E_Bathroom_01_59
+  - first:
+      213: -5641662854390627271
+    second: B-C-D-E_Bathroom_01_60
+  - first:
+      213: 7998094105303896784
+    second: B-C-D-E_Bathroom_01_61
+  - first:
+      213: 7147458717816492197
+    second: B-C-D-E_Bathroom_01_62
+  - first:
+      213: -2138968142819460017
+    second: B-C-D-E_Bathroom_01_63
+  - first:
+      213: -8242615727433040787
+    second: B-C-D-E_Bathroom_01_64
+  - first:
+      213: 1021973109890061688
+    second: B-C-D-E_Bathroom_01_65
+  - first:
+      213: -5049982387136894812
+    second: B-C-D-E_Bathroom_01_66
+  - first:
+      213: -4506401958338579783
+    second: B-C-D-E_Bathroom_01_67
+  - first:
+      213: -4142067806991570121
+    second: B-C-D-E_Bathroom_01_68
+  - first:
+      213: 6807083692451371834
+    second: B-C-D-E_Bathroom_01_69
+  - first:
+      213: -4174702253087760291
+    second: B-C-D-E_Bathroom_01_70
+  - first:
+      213: 8132511193614020299
+    second: B-C-D-E_Bathroom_01_71
+  - first:
+      213: 6543139488372343816
+    second: B-C-D-E_Bathroom_01_72
+  - first:
+      213: -8559744568780931448
+    second: B-C-D-E_Bathroom_01_73
+  - first:
+      213: -3538026795080034066
+    second: B-C-D-E_Bathroom_01_74
+  - first:
+      213: 5807317436173799019
+    second: B-C-D-E_Bathroom_01_75
+  - first:
+      213: -8217299384834914605
+    second: B-C-D-E_Bathroom_01_76
+  - first:
+      213: 8462015281193187039
+    second: B-C-D-E_Bathroom_01_77
+  - first:
+      213: -2272334841070860807
+    second: B-C-D-E_Bathroom_01_78
+  - first:
+      213: 5983114098441681962
+    second: B-C-D-E_Bathroom_01_79
+  - first:
+      213: -568702105792291672
+    second: B-C-D-E_Bathroom_01_80
+  - first:
+      213: 4428274650921313372
+    second: B-C-D-E_Bathroom_01_81
+  - first:
+      213: -7962238068198066097
+    second: B-C-D-E_Bathroom_01_82
+  - first:
+      213: 6666037093922092592
+    second: B-C-D-E_Bathroom_01_83
+  - first:
+      213: -4630440842761614260
+    second: B-C-D-E_Bathroom_01_84
+  - first:
+      213: -7783122452398405999
+    second: B-C-D-E_Bathroom_01_85
+  - first:
+      213: 5628026437239238924
+    second: B-C-D-E_Bathroom_01_86
+  - first:
+      213: 8393547142999895619
+    second: B-C-D-E_Bathroom_01_87
+  - first:
+      213: -5308665185515672410
+    second: B-C-D-E_Bathroom_01_88
+  - first:
+      213: 2060444706691811659
+    second: B-C-D-E_Bathroom_01_89
+  - first:
+      213: 1492256936263849980
+    second: B-C-D-E_Bathroom_01_90
+  - first:
+      213: -3559646364127324402
+    second: B-C-D-E_Bathroom_01_91
+  - first:
+      213: -8111409465952231060
+    second: B-C-D-E_Bathroom_01_92
+  - first:
+      213: 2965086643650459787
+    second: B-C-D-E_Bathroom_01_93
+  - first:
+      213: -9059734763797000694
+    second: B-C-D-E_Bathroom_01_94
+  - first:
+      213: -1471236215368461865
+    second: B-C-D-E_Bathroom_01_95
+  - first:
+      213: 195182581660836070
+    second: B-C-D-E_Bathroom_01_96
+  - first:
+      213: 6138847993540153869
+    second: B-C-D-E_Bathroom_01_97
+  - first:
+      213: -4988353007663363797
+    second: B-C-D-E_Bathroom_01_98
+  - first:
+      213: -627696700434639934
+    second: B-C-D-E_Bathroom_01_99
+  - first:
+      213: 2033132356493652847
+    second: B-C-D-E_Bathroom_01_100
+  - first:
+      213: 1136095799239516274
+    second: B-C-D-E_Bathroom_01_101
+  - first:
+      213: 4008316864816997568
+    second: B-C-D-E_Bathroom_01_102
+  - first:
+      213: 8422958369492594912
+    second: B-C-D-E_Bathroom_01_103
+  - first:
+      213: -52642067805483541
+    second: B-C-D-E_Bathroom_01_104
+  - first:
+      213: 535328884658383548
+    second: B-C-D-E_Bathroom_01_105
+  - first:
+      213: 7927434924540178845
+    second: B-C-D-E_Bathroom_01_106
+  - first:
+      213: 4450442789745679609
+    second: B-C-D-E_Bathroom_01_107
+  - first:
+      213: -5823216306033015373
+    second: B-C-D-E_Bathroom_01_108
+  - first:
+      213: -5420769654087821741
+    second: B-C-D-E_Bathroom_01_109
+  - first:
+      213: 3726077382300936046
+    second: B-C-D-E_Bathroom_01_110
+  - first:
+      213: 4217515552317941306
+    second: B-C-D-E_Bathroom_01_111
+  - first:
+      213: 8847076957801978372
+    second: B-C-D-E_Bathroom_01_112
+  - first:
+      213: -5418989461900283869
+    second: B-C-D-E_Bathroom_01_113
+  - first:
+      213: -6108196352501314245
+    second: B-C-D-E_Bathroom_01_114
+  - first:
+      213: -631823438408497231
+    second: B-C-D-E_Bathroom_01_115
+  - first:
+      213: -2913939710564636642
+    second: B-C-D-E_Bathroom_01_116
+  - first:
+      213: -6070598899882635797
+    second: B-C-D-E_Bathroom_01_117
+  - first:
+      213: -5639134620382466840
+    second: B-C-D-E_Bathroom_01_118
+  - first:
+      213: 6340864183015160056
+    second: B-C-D-E_Bathroom_01_119
+  - first:
+      213: 2303600250059988189
+    second: B-C-D-E_Bathroom_01_120
+  - first:
+      213: -8934553710144418995
+    second: B-C-D-E_Bathroom_01_121
+  - first:
+      213: -3094710905623088951
+    second: B-C-D-E_Bathroom_01_122
+  - first:
+      213: -8771402946745072813
+    second: B-C-D-E_Bathroom_01_123
+  - first:
+      213: 7674370109605390863
+    second: B-C-D-E_Bathroom_01_124
+  - first:
+      213: 3364738327559069772
+    second: B-C-D-E_Bathroom_01_125
+  - first:
+      213: 6188563557321344712
+    second: B-C-D-E_Bathroom_01_126
+  - first:
+      213: -797356474433799814
+    second: B-C-D-E_Bathroom_01_127
+  - first:
+      213: -2142512874752982737
+    second: B-C-D-E_Bathroom_01_128
+  - first:
+      213: -4901211062848428918
+    second: B-C-D-E_Bathroom_01_129
+  - first:
+      213: 913088137048410490
+    second: B-C-D-E_Bathroom_01_130
+  - first:
+      213: -5541646878584346254
+    second: B-C-D-E_Bathroom_01_131
+  - first:
+      213: -191301603305485341
+    second: B-C-D-E_Bathroom_01_132
+  - first:
+      213: -5264614782034398664
+    second: B-C-D-E_Bathroom_01_133
+  - first:
+      213: -2813452809070959770
+    second: B-C-D-E_Bathroom_01_134
+  - first:
+      213: 2307602095924014337
+    second: B-C-D-E_Bathroom_01_135
+  - first:
+      213: -4539440886882004759
+    second: B-C-D-E_Bathroom_01_136
+  - first:
+      213: -3632548943025680563
+    second: B-C-D-E_Bathroom_01_137
+  - first:
+      213: -5508304984097788324
+    second: B-C-D-E_Bathroom_01_138
+  - first:
+      213: 8418170994289279643
+    second: B-C-D-E_Bathroom_01_139
+  - first:
+      213: 2278763526177072723
+    second: B-C-D-E_Bathroom_01_140
+  - first:
+      213: -8795172021466486960
+    second: B-C-D-E_Bathroom_01_141
+  - first:
+      213: -580694946490905216
+    second: B-C-D-E_Bathroom_01_142
+  - first:
+      213: 2670247428175134738
+    second: B-C-D-E_Bathroom_01_143
+  - first:
+      213: -250566765824794895
+    second: B-C-D-E_Bathroom_01_144
+  - first:
+      213: 3136240693408643336
+    second: B-C-D-E_Bathroom_01_145
+  - first:
+      213: -1086887741370276056
+    second: B-C-D-E_Bathroom_01_146
+  - first:
+      213: 2722582167417576208
+    second: B-C-D-E_Bathroom_01_147
+  - first:
+      213: 3654041042272717336
+    second: B-C-D-E_Bathroom_01_148
+  - first:
+      213: -4456472844840770306
+    second: B-C-D-E_Bathroom_01_149
+  - first:
+      213: 8500177279132968241
+    second: B-C-D-E_Bathroom_01_150
+  - first:
+      213: 1080083332166298838
+    second: B-C-D-E_Bathroom_01_151
+  - first:
+      213: -14027514230669044
+    second: B-C-D-E_Bathroom_01_152
+  - first:
+      213: -1356832032371860785
+    second: B-C-D-E_Bathroom_01_153
+  - first:
+      213: -6081441157494110662
+    second: B-C-D-E_Bathroom_01_154
+  - first:
+      213: -4491506401005131705
+    second: B-C-D-E_Bathroom_01_155
+  - first:
+      213: -6504380354537774202
+    second: B-C-D-E_Bathroom_01_156
+  - first:
+      213: -8716617196062628368
+    second: B-C-D-E_Bathroom_01_157
+  - first:
+      213: -3206887137658247593
+    second: B-C-D-E_Bathroom_01_158
+  - first:
+      213: -4561790875383110865
+    second: B-C-D-E_Bathroom_01_159
+  - first:
+      213: 7075002466122701164
+    second: B-C-D-E_Bathroom_01_160
+  - first:
+      213: 2183395716855952861
+    second: B-C-D-E_Bathroom_01_161
+  - first:
+      213: 1088905700371752458
+    second: B-C-D-E_Bathroom_01_162
+  - first:
+      213: -2692764743951194104
+    second: B-C-D-E_Bathroom_01_163
+  - first:
+      213: -8958027766929086911
+    second: B-C-D-E_Bathroom_01_164
+  - first:
+      213: -1061111022505501318
+    second: B-C-D-E_Bathroom_01_165
+  - first:
+      213: -4375964732492660546
+    second: B-C-D-E_Bathroom_01_166
+  - first:
+      213: 6820744703307097506
+    second: B-C-D-E_Bathroom_01_167
+  - first:
+      213: -4426965786044463582
+    second: B-C-D-E_Bathroom_01_168
+  - first:
+      213: -135037330187186688
+    second: B-C-D-E_Bathroom_01_169
+  - first:
+      213: 7213592241194415830
+    second: B-C-D-E_Bathroom_01_170
+  - first:
+      213: 5067610983149216159
+    second: B-C-D-E_Bathroom_01_171
+  - first:
+      213: 5683504661037042605
+    second: B-C-D-E_Bathroom_01_172
+  - first:
+      213: 7737059472247003213
+    second: B-C-D-E_Bathroom_01_173
+  - first:
+      213: -911371878089771721
+    second: B-C-D-E_Bathroom_01_174
+  - first:
+      213: 3063565867400562443
+    second: B-C-D-E_Bathroom_01_175
+  - first:
+      213: -1111123253426832021
+    second: B-C-D-E_Bathroom_01_176
+  - first:
+      213: -2388692187354024643
+    second: B-C-D-E_Bathroom_01_177
+  - first:
+      213: 6185198354099684652
+    second: B-C-D-E_Bathroom_01_178
+  - first:
+      213: -5383816350739639302
+    second: B-C-D-E_Bathroom_01_179
+  - first:
+      213: 2949601421921742567
+    second: B-C-D-E_Bathroom_01_180
+  - first:
+      213: 1993920306300253281
+    second: B-C-D-E_Bathroom_01_181
+  - first:
+      213: -6281758222369843535
+    second: B-C-D-E_Bathroom_01_182
+  - first:
+      213: 591238859567400109
+    second: B-C-D-E_Bathroom_01_183
+  - first:
+      213: 5547413380355973507
+    second: B-C-D-E_Bathroom_01_184
+  - first:
+      213: 4572207745058022918
+    second: B-C-D-E_Bathroom_01_185
+  - first:
+      213: -3280152571680305752
+    second: B-C-D-E_Bathroom_01_186
+  - first:
+      213: 2809271952335075095
+    second: B-C-D-E_Bathroom_01_187
+  - first:
+      213: -4812704138963526116
+    second: B-C-D-E_Bathroom_01_188
+  - first:
+      213: -8569864142436337641
+    second: B-C-D-E_Bathroom_01_189
+  - first:
+      213: -3330286969852704374
+    second: B-C-D-E_Bathroom_01_190
+  - first:
+      213: 4599427598747221746
+    second: B-C-D-E_Bathroom_01_191
+  - first:
+      213: -6388322780674012691
+    second: B-C-D-E_Bathroom_01_192
+  - first:
+      213: 6270981482959730129
+    second: B-C-D-E_Bathroom_01_193
+  - first:
+      213: 5547090822954172570
+    second: B-C-D-E_Bathroom_01_194
+  - first:
+      213: 349621168407957575
+    second: B-C-D-E_Bathroom_01_195
+  - first:
+      213: 1512157037142421001
+    second: B-C-D-E_Bathroom_01_196
+  - first:
+      213: -1424656622752146447
+    second: B-C-D-E_Bathroom_01_197
+  - first:
+      213: -2988162633297404119
+    second: B-C-D-E_Bathroom_01_198
+  - first:
+      213: 8225670427513728067
+    second: B-C-D-E_Bathroom_01_199
+  - first:
+      213: 716578525747406304
+    second: B-C-D-E_Bathroom_01_200
+  - first:
+      213: -1710035331679778231
+    second: B-C-D-E_Bathroom_01_201
+  - first:
+      213: 5831954307087613016
+    second: B-C-D-E_Bathroom_01_202
+  - first:
+      213: -4921496516862892160
+    second: B-C-D-E_Bathroom_01_203
+  - first:
+      213: 3132526482135791568
+    second: B-C-D-E_Bathroom_01_204
+  - first:
+      213: 8334090716462440315
+    second: B-C-D-E_Bathroom_01_205
+  - first:
+      213: -5315592703174525592
+    second: B-C-D-E_Bathroom_01_206
+  - first:
+      213: -1434309004267074587
+    second: B-C-D-E_Bathroom_01_207
+  - first:
+      213: -4533692558106403310
+    second: B-C-D-E_Bathroom_01_208
+  - first:
+      213: -3438064249826257215
+    second: B-C-D-E_Bathroom_01_209
+  - first:
+      213: -1830009322259626780
+    second: B-C-D-E_Bathroom_01_210
+  - first:
+      213: 4020954198536877310
+    second: B-C-D-E_Bathroom_01_211
+  - first:
+      213: -5443534419248058172
+    second: B-C-D-E_Bathroom_01_212
+  - first:
+      213: 1089530057616727052
+    second: B-C-D-E_Bathroom_01_213
+  - first:
+      213: 72948079059914002
+    second: B-C-D-E_Bathroom_01_214
+  - first:
+      213: -7877572981962162985
+    second: B-C-D-E_Bathroom_01_215
+  - first:
+      213: 2163165711040173604
+    second: B-C-D-E_Bathroom_01_216
+  - first:
+      213: -3284974599457912722
+    second: B-C-D-E_Bathroom_01_217
+  - first:
+      213: -4029866772092342626
+    second: B-C-D-E_Bathroom_01_218
+  - first:
+      213: 1051329273405573581
+    second: B-C-D-E_Bathroom_01_219
+  - first:
+      213: 9152589128988375960
+    second: B-C-D-E_Bathroom_01_220
+  - first:
+      213: -3687109839852408854
+    second: B-C-D-E_Bathroom_01_221
+  - first:
+      213: 6686095601629961920
+    second: B-C-D-E_Bathroom_01_222
+  - first:
+      213: -5726184871329264549
+    second: B-C-D-E_Bathroom_01_223
+  - first:
+      213: -1888276803655954113
+    second: B-C-D-E_Bathroom_01_224
+  - first:
+      213: 3174628111306602671
+    second: B-C-D-E_Bathroom_01_225
+  - first:
+      213: 8104009534592036734
+    second: B-C-D-E_Bathroom_01_226
+  - first:
+      213: -8425294761604026647
+    second: B-C-D-E_Bathroom_01_227
+  - first:
+      213: -3184972566754044821
+    second: B-C-D-E_Bathroom_01_228
+  - first:
+      213: 6580302165719700480
+    second: B-C-D-E_Bathroom_01_229
+  - first:
+      213: 2298160038047991462
+    second: B-C-D-E_Bathroom_01_230
+  - first:
+      213: -4653336275396825820
+    second: B-C-D-E_Bathroom_01_231
+  - first:
+      213: -7672867790520026433
+    second: B-C-D-E_Bathroom_01_232
+  - first:
+      213: 5488649578839952816
+    second: B-C-D-E_Bathroom_01_233
+  - first:
+      213: -6352669964971816162
+    second: B-C-D-E_Bathroom_01_234
+  - first:
+      213: -2958513041771351705
+    second: B-C-D-E_Bathroom_01_235
+  - first:
+      213: -945622584270801781
+    second: B-C-D-E_Bathroom_01_236
+  - first:
+      213: -910961195244445569
+    second: B-C-D-E_Bathroom_01_237
+  - first:
+      213: -1714347287722451290
+    second: B-C-D-E_Bathroom_01_238
+  - first:
+      213: 8648491096482198858
+    second: B-C-D-E_Bathroom_01_239
+  - first:
+      213: 6176985532647554608
+    second: B-C-D-E_Bathroom_01_240
+  - first:
+      213: 7830137044919063550
+    second: B-C-D-E_Bathroom_01_241
+  - first:
+      213: 6296795367613600301
+    second: B-C-D-E_Bathroom_01_242
+  - first:
+      213: 2131860806582793708
+    second: B-C-D-E_Bathroom_01_243
+  - first:
+      213: 8671057093940784492
+    second: B-C-D-E_Bathroom_01_244
+  - first:
+      213: 5785406677450786862
+    second: B-C-D-E_Bathroom_01_245
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b7d71a892c73b0800000000000000
+      internalID: -5513486170726091837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184886fbad55a590800000000000000
+      internalID: -7663616197744113634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa503ec029975f0800000000000000
+      internalID: -758414478189154529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb352cfe15bcb0b0800000000000000
+      internalID: -5711491082728686615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c86fc3f1248f60800000000000000
+      internalID: 8035584966176328158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd945a5df96d090f0800000000000000
+      internalID: -1112153125987989025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1128e0a4e87428f0800000000000000
+      internalID: -566194729794395873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a841eb27108ed1b0800000000000000
+      internalID: -5629921647157753694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfbfaa4593e541d0800000000000000
+      internalID: -3367034916046913601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8222709df45a6e0800000000000000
+      internalID: -1826966280282691369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a5cd4aedec81150800000000000000
+      internalID: 5843647972157184583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507664c75dd10010800000000000000
+      internalID: 1153446348610498640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b35cc24e3fb5cc0800000000000000
+      internalID: -3721112505762366667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04111c08f95450be0800000000000000
+      internalID: -1511725548550680256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdfa76ac8ae383d0800000000000000
+      internalID: -3205460619948261967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be101e642106300800000000000000
+      internalID: 243214475510016925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9a824ab56b6a00800000000000000
+      internalID: 750805613542021633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73971e8dbc4f69f10800000000000000
+      internalID: 2276275818036558135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9dc7c2b301307f0800000000000000
+      internalID: -647656075075724837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628c658b41e48e60800000000000000
+      internalID: 7963737755575157354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d810ecd8bf8b680800000000000000
+      internalID: -8738958490447278716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834e9147b01f12d0800000000000000
+      internalID: -3305905222200704115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054b8256a95634b0800000000000000
+      internalID: -5461078927255845627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f1a7b581623a50800000000000000
+      internalID: 6499364439188436593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad9efd4a0a41640800000000000000
+      internalID: 5049837712180894326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb66081aaf3de2d0800000000000000
+      internalID: -3247869756484195400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0462d0c050d200800000000000000
+      internalID: 202750772325387967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0e17a9c7a81430800000000000000
+      internalID: 3753934773947337324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164a3092f1cd7ff0800000000000000
+      internalID: -36659974403111407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3aba9c62679d280800000000000000
+      internalID: -9018046869868403749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7479f2d17319391a0800000000000000
+      internalID: -6803934946127800505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1498b2e3f15e97be0800000000000000
+      internalID: -1478899080264709823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67742f91cc726a60800000000000000
+      internalID: 7665826686778505071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897b57611becbcf10800000000000000
+      internalID: 2291152095429375896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03de33caa2852640800000000000000
+      internalID: 5054589826724975370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f8fa8116968f80800000000000000
+      internalID: -8104625477316446582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e0d2b55ee9b950800000000000000
+      internalID: 6465460791906721847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e76480cce1a670800000000000000
+      internalID: 8548373879325188248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc8f9b1691073d0800000000000000
+      internalID: -3211038626792551399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac797c5d587be50800000000000000
+      internalID: 6825070913526418065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4338690b704597970800000000000000
+      internalID: 8753119742775427892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e331860b0e6000800000000000000
+      internalID: 30974370003543027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76513daa9b2667030800000000000000
+      internalID: 3492087110646830439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c802a3c2aed6e0800000000000000
+      internalID: -1810831039035553876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5debe0dc7e9d454f0800000000000000
+      internalID: -840807640810471723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c102934e69ed010800000000000000
+      internalID: 1215574856391728185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec91d697cfbb450800000000000000
+      internalID: 6105751318282489396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94faf59c53fdc9cc0800000000000000
+      internalID: -3702839371500638391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72b4657804f5280800000000000000
+      internalID: -9052445775978879026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc38dc80f7ec34f0800000000000000
+      internalID: -847547609511347023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53987b951cffaf0800000000000000
+      internalID: -360356854090877533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0104bc4e5de710800000000000000
+      internalID: 1724137915883260737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7bb8ae3c4e89d20800000000000000
+      internalID: 3285627458271557569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddec4a256d5d9f0800000000000000
+      internalID: -444213337785442918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d0d351261defff0800000000000000
+      internalID: -332730760098414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d65f70e928c5f0800000000000000
+      internalID: -736292494889266512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d473ac61949df0800000000000000
+      internalID: -174354589775769460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1ad7f65455a280800000000000000
+      internalID: -9032720745119474950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb0ef4f2ce545050800000000000000
+      internalID: 5788355612504886245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe3d74da3b72e50800000000000000
+      internalID: 6784588920472727296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c7855689c4b1b0800000000000000
+      internalID: -5641662854390627271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d8ca8630fefe60800000000000000
+      internalID: 7998094105303896784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09832c5dfd03360800000000000000
+      internalID: 7147458717816492197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7e5d8ecbd052e0800000000000000
+      internalID: -2138968142819460017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3e4acaa85c9d80800000000000000
+      internalID: -8242615727433040787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759ff8f027ce2e00800000000000000
+      internalID: 1021973109890061688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e9bc56cbdae9b0800000000000000
+      internalID: -5049982387136894812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ba1a7b4b0671c0800000000000000
+      internalID: -4506401958338579783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bafa0764b6486c0800000000000000
+      internalID: -4142067806991570121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b1be48d8e977e50800000000000000
+      internalID: 6807083692451371834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d506ea95b6a7016c0800000000000000
+      internalID: -4174702253087760291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce604bb7db7cd070800000000000000
+      internalID: 8132511193614020299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c34892b6edca50800000000000000
+      internalID: 6543139488372343816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ebbb98aada53980800000000000000
+      internalID: -8559744568780931448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d079006766eec0800000000000000
+      internalID: -3538026795080034066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4211907cb79050800000000000000
+      internalID: 5807317436173799019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d601e12fb946fd80800000000000000
+      internalID: -8217299384834914605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67277801e1f6570800000000000000
+      internalID: 8462015281193187039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54a3b508b0770e0800000000000000
+      internalID: -2272334841070860807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7f38929a480350800000000000000
+      internalID: 5983114098441681962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdb39a2709b18f0800000000000000
+      internalID: -568702105792291672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5428004554647d30800000000000000
+      internalID: 4428274650921313372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4836f7a9a2708190800000000000000
+      internalID: -7962238068198066097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036bdc23b65828c50800000000000000
+      internalID: 6666037093922092592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccbbd269e5dbfb0800000000000000
+      internalID: -4630440842761614260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960d65cd5bccf390800000000000000
+      internalID: -7783122452398405999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f622e934ca1e40800000000000000
+      internalID: 5628026437239238924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee008d7aedb7470800000000000000
+      internalID: 8393547142999895619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acead9e325d356b0800000000000000
+      internalID: -5308665185515672410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4903b54b8b289c10800000000000000
+      internalID: 2060444706691811659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79e97f6cf85b410800000000000000
+      internalID: 1492256936263849980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071e2cdd78999ec0800000000000000
+      internalID: -3559646364127324402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612d2a111c7e6f80800000000000000
+      internalID: -8111409465952231060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887a0bb79a162920800000000000000
+      internalID: 2965086643650459787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e4f9c9b3b554280800000000000000
+      internalID: -9059734763797000694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d542057e159be0800000000000000
+      internalID: -1471236215368461865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ec3e168d65b200800000000000000
+      internalID: 195182581660836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029411a9b1913550800000000000000
+      internalID: 6138847993540153869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2949f37e5fc5cab0800000000000000
+      internalID: -4988353007663363797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c398e73d29f947f0800000000000000
+      internalID: -627696700434639934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6338223b13273c10800000000000000
+      internalID: 2033132356493652847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702c703c1934cf00800000000000000
+      internalID: 1136095799239516274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4ef9a93f660a730800000000000000
+      internalID: 4008316864816997568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07283a20c54e470800000000000000
+      internalID: 8422958369492594912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4638715af44ff0800000000000000
+      internalID: -52642067805483541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa118c8cedd6700800000000000000
+      internalID: 535328884658383548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d913e310018e30e60800000000000000
+      internalID: 7927434924540178845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5df7432623cd30800000000000000
+      internalID: 4450442789745679609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c3a45f97cf2fa0800000000000000
+      internalID: -5823216306033015373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d0e658be85c4b0800000000000000
+      internalID: -5420769654087821741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672aa933afa5b330800000000000000
+      internalID: 3726077382300936046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a89aac00a78a30800000000000000
+      internalID: 4217515552317941306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a945a8e9127ca70800000000000000
+      internalID: 8847076957801978372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32039d1abc1ebc4b0800000000000000
+      internalID: -5418989461900283869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d82dea7c35b3ba0800000000000000
+      internalID: -6108196352501314245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b745e82eef4b37f0800000000000000
+      internalID: -631823438408497231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e3ee954b9f87d0800000000000000
+      internalID: -2913939710564636642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4e96c676e0cba0800000000000000
+      internalID: -6070598899882635797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecee7fa0f4cdb1b0800000000000000
+      internalID: -5639134620382466840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8bd9d01664ff750800000000000000
+      internalID: 6340864183015160056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9351f83808ff10800000000000000
+      internalID: 2303600250059988189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8138ecb6120480800000000000000
+      internalID: -8934553710144418995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fecbe3d06d05d0800000000000000
+      internalID: -3094710905623088951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35302792e77b54680800000000000000
+      internalID: -8771402946745072813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa7e144f6d08a60800000000000000
+      internalID: 7674370109605390863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ec488ea3f1be20800000000000000
+      internalID: 3364738327559069772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6011854c132e550800000000000000
+      internalID: 6188563557321344712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f306d2883fe4f0800000000000000
+      internalID: -797356474433799814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21c5a554e34442e0800000000000000
+      internalID: -2142512874752982737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8464bd81866bfbb0800000000000000
+      internalID: -4901211062848428918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c469a2d0fbac00800000000000000
+      internalID: 913088137048410490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e35b568d1813b0800000000000000
+      internalID: -5541646878584346254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8302943c585df0800000000000000
+      internalID: -191301603305485341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b195bfb450f6b0800000000000000
+      internalID: -5264614782034398664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6632003939b94f8d0800000000000000
+      internalID: -2813452809070959770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6f7a41ef360020800000000000000
+      internalID: 2307602095924014337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0938a709aa001c0800000000000000
+      internalID: -4539440886882004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcbbd7bf7969dc0800000000000000
+      internalID: -3632548943025680563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e665c1dc19e83b0800000000000000
+      internalID: -5508304984097788324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920c1dfae953d470800000000000000
+      internalID: 8418170994289279643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a6e88a5bcf9f10800000000000000
+      internalID: 2278763526177072723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057290235a541f580800000000000000
+      internalID: -8795172021466486960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8b87d505f0f7f0800000000000000
+      internalID: -580694946490905216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21087ca63ef9e0520800000000000000
+      internalID: 2670247428175134738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9e72aadec58cf0800000000000000
+      internalID: -250566765824794895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8093fbc4b4a268b20800000000000000
+      internalID: 3136240693408643336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827e5e89b599ae0f0800000000000000
+      internalID: -1086887741370276056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bdcb07e0e88c520800000000000000
+      internalID: 2722582167417576208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0d5fc7f2c5b230800000000000000
+      internalID: 3654041042272717336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4671c1f8d6722c0800000000000000
+      internalID: -4456472844840770306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13521921332b6f570800000000000000
+      internalID: 8500177279132968241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca79d611a3dfe00800000000000000
+      internalID: 1080083332166298838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c010335dc0a2ecff0800000000000000
+      internalID: -14027514230669044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9a9294709b2de0800000000000000
+      internalID: -1356832032371860785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368f15fc716a9ba0800000000000000
+      internalID: -6081441157494110662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74822bda9b6faa1c0800000000000000
+      internalID: -4491506401005131705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6832fbb778ccbb5a0800000000000000
+      internalID: -6504380354537774202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f520a1c7da580780800000000000000
+      internalID: -8716617196062628368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566c1d9329de73d0800000000000000
+      internalID: -3206887137658247593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23eb254e5341b0c0800000000000000
+      internalID: -4561790875383110865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69914a02457f2260800000000000000
+      internalID: 7075002466122701164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5fe4b16dafc4e10800000000000000
+      internalID: 2183395716855952861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066e8817f19c1f00800000000000000
+      internalID: 1088905700371752458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e7157bb061aad0800000000000000
+      internalID: -2692764743951194104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1462b182531bea380800000000000000
+      internalID: -8958027766929086911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dde44a52d2641f0800000000000000
+      internalID: -1061111022505501318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0432ab2437543c0800000000000000
+      internalID: -4375964732492660546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52f387b2728ae50800000000000000
+      internalID: 6820744703307097506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226030a92124092c0800000000000000
+      internalID: -4426965786044463582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e86ce7340402ef0800000000000000
+      internalID: -135037330187186688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d638e29ce3db1460800000000000000
+      internalID: 7213592241194415830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912a7ef655c35640800000000000000
+      internalID: 5067610983149216159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc360706ddfde40800000000000000
+      internalID: 5683504661037042605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489a59e89e8f5b60800000000000000
+      internalID: 7737059472247003213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735bd240b182a53f0800000000000000
+      internalID: -911371878089771721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070c68cce8f38a20800000000000000
+      internalID: 3063565867400562443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d31d9b94f7490f0800000000000000
+      internalID: -1111123253426832021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3533078c19a9ded0800000000000000
+      internalID: -2388692187354024643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254179e12d36d550800000000000000
+      internalID: 6185198354099684652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3593ebd87d845b0800000000000000
+      internalID: -5383816350739639302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee1a69dd61fe820800000000000000
+      internalID: 2949601421921742567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f67f44f3dbab10800000000000000
+      internalID: 1993920306300253281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b691cecd26b2d8a0800000000000000
+      internalID: -6281758222369843535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da40ce93c90843800800000000000000
+      internalID: 591238859567400109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ed56f31f5cfc40800000000000000
+      internalID: 5547413380355973507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606297338beb37f30800000000000000
+      internalID: 4572207745058022918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad49e37d9e8a72d0800000000000000
+      internalID: -3280152571680305752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717766cd4f98cf620800000000000000
+      internalID: 2809271952335075095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed60c9517d53db0800000000000000
+      internalID: -4812704138963526116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71879b0b7f9b11980800000000000000
+      internalID: -8569864142436337641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8941d145a178c1d0800000000000000
+      internalID: -3330286969852704374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb471480374df30800000000000000
+      internalID: 4599427598747221746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c36b174e1857a0800000000000000
+      internalID: -6388322780674012691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5fdd40f60070750800000000000000
+      internalID: 6270981482959730129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904307b6b93bfc40800000000000000
+      internalID: 5547090822954172570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d9eca99a1ad400800000000000000
+      internalID: 349621168407957575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2b7340d24cf410800000000000000
+      internalID: 1512157037142421001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb53f9895a9a3ce0800000000000000
+      internalID: -1424656622752146447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f563fbae9e786d0800000000000000
+      internalID: -2988162633297404119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c246f1ca3772270800000000000000
+      internalID: 8225670427513728067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e8d06f5cc1f900800000000000000
+      internalID: 716578525747406304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0cdd0debb448e0800000000000000
+      internalID: -1710035331679778231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c34441b834fe050800000000000000
+      internalID: 5831954307087613016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a01d3ef453bbb0800000000000000
+      internalID: -4921496516862892160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_204
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d735391d38f87b20800000000000000
+      internalID: 3132526482135791568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fdf98c953a8a370800000000000000
+      internalID: 8334090716462440315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_206
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dbf9489983b36b0800000000000000
+      internalID: -5315592703174525592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb44865f8f481ce0800000000000000
+      internalID: -1434309004267074587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5c3193a61511c0800000000000000
+      internalID: -4533692558106403310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d22ac7ca8940d0800000000000000
+      internalID: -3438064249826257215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4cf0b97308a96e0800000000000000
+      internalID: -1830009322259626780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f7e52a8c4dc730800000000000000
+      internalID: 4020954198536877310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07b1a694ea474b0800000000000000
+      internalID: -5443534419248058172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1b5890d9ce1f00800000000000000
+      internalID: 1089530057616727052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc96334e9230100800000000000000
+      internalID: 72948079059914002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_215
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc3eed2c1d3da290800000000000000
+      internalID: -7877572981962162985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dad4d0cb150e10800000000000000
+      internalID: 2163165711040173604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_217
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68412f910d6962d0800000000000000
+      internalID: -3284974599457912722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_218
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e294d95890318c0800000000000000
+      internalID: -4029866772092342626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_219
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90f4b6762179e00800000000000000
+      internalID: 1051329273405573581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_220
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b34700257840f70800000000000000
+      internalID: 9152589128988375960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_221
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefefb3c221c4dcc0800000000000000
+      internalID: -3687109839852408854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce94757688c9cc50800000000000000
+      internalID: 6686095601629961920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c043ab2318880b0800000000000000
+      internalID: -5726184871329264549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311a78604e7bc5e0800000000000000
+      internalID: -1888276803655954113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_225
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83664827b8e0c20800000000000000
+      internalID: 3174628111306602671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7facbd1cb9377070800000000000000
+      internalID: 8104009534592036734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee1aead07531b80800000000000000
+      internalID: -8425294761604026647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d2434354bcc3d0800000000000000
+      internalID: -3184972566754044821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d47ea4fde15b50800000000000000
+      internalID: 6580302165719700480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a649d0e064b4ef10800000000000000
+      internalID: 2298160038047991462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d688cdf470c6fb0800000000000000
+      internalID: -4653336275396825820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba7489a56f748590800000000000000
+      internalID: -7672867790520026433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_233
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4a5b36b99b2c40800000000000000
+      internalID: 5488649578839952816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_234
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcf822358c6d7a0800000000000000
+      internalID: -6352669964971816162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_235
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761bbd9301041f6d0800000000000000
+      internalID: -2958513041771351705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84b3fc054970e2f0800000000000000
+      internalID: -945622584270801781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_237
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702a419e9d9b53f0800000000000000
+      internalID: -910961195244445569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_238
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae16ad893a6538e0800000000000000
+      internalID: -1714347287722451290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_239
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4533f0a4dc950870800000000000000
+      internalID: 8648491096482198858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e3f286d9f09b550800000000000000
+      internalID: 6176985532647554608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_241
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef31701182c3aac60800000000000000
+      internalID: 7830137044919063550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221fe56606b26750800000000000000
+      internalID: 6296795367613600301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5f1f6cb14e59d10800000000000000
+      internalID: 2131860806582793708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_244
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da8775c78c55870800000000000000
+      internalID: 8671057093940784492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-C-D-E_Bathroom_01_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2880a288b4e94050800000000000000
+      internalID: 5785406677450786862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

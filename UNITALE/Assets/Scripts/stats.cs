@@ -96,15 +96,18 @@ public class stats : MonoBehaviour
         }
     }
 
-    public void Heal(int heal)
+    public int Heal(int heal)
     {
         if (currentHP + heal > maxHP)
         {
+            int difference = maxHP - currentHP;
             currentHP = maxHP;
+            return difference;
         }
         else
         {
             currentHP += heal;
+            return heal;
         }
     }
 

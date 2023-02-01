@@ -208,14 +208,14 @@ public class battleSystem : MonoBehaviour
 
     IEnumerator Item()
     {
-        // Heal the player by 5 HP
-        playerStats.Heal(5);
+        // Heal the player by 30 HP
+        int difference = playerStats.Heal(30);
 
         // Update the player UI
         PlayerUI();
 
         // Dialogue line
-        string[] playerItemLines = { "You heal yourself."};
+        string[] playerItemLines = { "You heal yourself by " + difference + "HP."};
         StartCoroutine(TypeLine(playerItemLines));
 
         yield return new WaitForSeconds(2f);
@@ -429,22 +429,39 @@ public class battleSystem : MonoBehaviour
         // Allow the player to  heal if they press the ITEM button during their turn
         // Enusre the player only chooses an action once
         // Ensure all the text has loaded onto the screen
-        if (gameState == BattleState.PLAYERTURN && actionChosen == false)
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false && playerStats.USB > 0)
         {
+            // Allow the player to heal
             StartCoroutine(Item());
+            // Ensure we know an action was chosen
             actionChosen = true;
+            //Reduce the number of USBs the player has
+            playerStats.USB += -1;
+            // Make battle player section, attack and item buttons disappear
+            attackItemButtons.SetActive(false);
+            // Reactivate the dialogue box
+            dialogueBox.SetActive(true);
         }
 
+        if (gameState == BattleState.PLAYERTURN && actionChosen == false && playerStats.USB <= 0)
+        {
+            StartCoroutine(ItemButtonFailure());
+        }
+    }
 
-        // YOU CAN COLLECT USBs IN GAME (CREATE ANOTHER SCRIPT FOR THIS) AND CAN HEAL IF HAVE ONE
-
-        // INSTEAD JUST HAVE ONE HEAL BUTTON WHICH YOU CAN USE TO HEAL, DEPENDING ON HOW MANY YOU COLLECT (e.g. stays at 30 points)
-
-
-
-
-
-
+    IEnumerator ItemButtonFailure()
+    {
+        // Make battle player section, attack and item buttons disappear
+        attackItemButtons.SetActive(false);
+        // Reactivate the dialogue box
+        dialogueBox.SetActive(true);
+        string[] mustAttackLines = { "You don't have any USBs left. Time to attack!" };
+        StartCoroutine(TypeLine(mustAttackLines));
+        yield return new WaitForSeconds(4f);
+        // Reactivate the dialogue box
+        dialogueBox.SetActive(false);
+        // Make the attack buttons appear
+        attackButtons.SetActive(true);
     }
 
 
