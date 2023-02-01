@@ -11,4 +11,6 @@ public class attackMove : MonoBehaviour
     [TextArea(1, 10)]
     // Description of the move
     public string[] moveDescription;
+    // The reponse the enemy will give
+    public string moveResponse;
 }

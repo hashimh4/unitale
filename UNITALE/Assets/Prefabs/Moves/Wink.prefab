@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Ooh a wink... huh, what, why? Confuse your opponent.
   - Deals 10 point of damage
+  moveResponse: blushes.

@@ -78,18 +78,22 @@ public class levelUpMove : MonoBehaviour
         playerStats.move1_name = punch.moveName;
         playerStats.move1_damage = punch.moveDamage;
         playerStats.move1_mp = punch.mentalPhysical;
+        playerStats.move1_response = punch.moveResponse;
 
         playerStats.move2_name = poke.moveName;
         playerStats.move2_damage = poke.moveDamage;
         playerStats.move2_mp = poke.mentalPhysical;
+        playerStats.move2_response = poke.moveResponse;
 
         playerStats.move3_name = kick.moveName;
         playerStats.move3_damage = kick.moveDamage;
         playerStats.move3_mp = kick.mentalPhysical;
+        playerStats.move3_response = kick.moveResponse;
 
         playerStats.move4_name = point.moveName;
         playerStats.move4_damage = point.moveDamage;
         playerStats.move4_mp = point.mentalPhysical;
+        playerStats.move4_response = point.moveResponse;
     }
 
     // Update is called once per frame
@@ -161,6 +165,7 @@ public class levelUpMove : MonoBehaviour
                 string newMoveName = newMoveList[0].moveName;
                 int newMoveDamage = newMoveList[0].moveDamage;
                 bool newMoveMP = newMoveList[0].mentalPhysical;
+                string newMoveResponse = newMoveList[0].moveResponse;
             }
             if (selection == 2)
             {
@@ -169,6 +174,7 @@ public class levelUpMove : MonoBehaviour
                 string newMoveName = newMoveList[1].moveName;
                 int newMoveDamage = newMoveList[1].moveDamage;
                 bool newMoveMP = newMoveList[1].mentalPhysical;
+                string newMoveResponse = newMoveList[1].moveResponse;
             }
             if (selection == 3)
             {
@@ -177,6 +183,7 @@ public class levelUpMove : MonoBehaviour
                 string newMoveName = newMoveList[2].moveName;
                 int newMoveDamage = newMoveList[2].moveDamage;
                 bool newMoveMP = newMoveList[2].mentalPhysical;
+                string newMoveResponse = newMoveList[2].moveResponse;
             }
             if (selection == 4)
             {
@@ -185,6 +192,7 @@ public class levelUpMove : MonoBehaviour
                 string newMoveName = newMoveList[3].moveName;
                 int newMoveDamage = newMoveList[3].moveDamage;
                 bool newMoveMP = newMoveList[3].mentalPhysical;
+                string newMoveResponse = newMoveList[3].moveResponse;
             }
             newPosition = selection - 1;
             selection = 0;
@@ -203,24 +211,28 @@ public class levelUpMove : MonoBehaviour
                 playerStats.move1_name = newMoveList[newPosition].moveName;
                 playerStats.move1_damage = newMoveList[newPosition].moveDamage;
                 playerStats.move1_mp = newMoveList[newPosition].mentalPhysical;
+                playerStats.move1_response = newMoveList[newPosition].moveResponse;
             }
             if (selectionOld == 2)
             {
                 playerStats.move2_name = newMoveList[newPosition].moveName;
                 playerStats.move2_damage = newMoveList[newPosition].moveDamage;
                 playerStats.move2_mp = newMoveList[newPosition].mentalPhysical;
+                playerStats.move2_response = newMoveList[newPosition].moveResponse;
             }
             if (selectionOld == 3)
             {
                 playerStats.move3_name = newMoveList[newPosition].moveName;
                 playerStats.move3_damage = newMoveList[newPosition].moveDamage;
                 playerStats.move3_mp = newMoveList[newPosition].mentalPhysical;
+                playerStats.move3_response = newMoveList[newPosition].moveResponse;
             }
             if (selectionOld == 4)
             {
                 playerStats.move4_name = newMoveList[newPosition].moveName;
                 playerStats.move4_damage = newMoveList[newPosition].moveDamage;
                 playerStats.move4_mp = newMoveList[newPosition].mentalPhysical;
+                playerStats.move4_response = newMoveList[newPosition].moveResponse;
             }
             // Deactivate the dialogue box
             originalAttackButtons.SetActive(false);

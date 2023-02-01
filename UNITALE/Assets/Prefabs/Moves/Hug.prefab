@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Awh, how kind! Go and hug 'em
   - Deals 100 point of damage
+  moveResponse: is trying to escape the hug.

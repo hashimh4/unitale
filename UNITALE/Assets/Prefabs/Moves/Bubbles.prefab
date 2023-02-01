@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - No one can ever resist popping a bubble. Blow bubbles in your opponent's face
   - Deals 3 point of damage
+  moveResponse: is distracted popping bubbles.

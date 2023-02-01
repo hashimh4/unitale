@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Integrate and differentiate your opponent. They won't like that
   - Deals 10 point of damage
+  moveResponse: is differentiated.

@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Nudge nudge - what are you doing there buddy? Poke your opponent where it hurts
   - Deals 1 point of damage
+  moveResponse: is annoyed.

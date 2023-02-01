@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - 'Let justice rain down upon them... and make them soggy in the process. '
   - Deals 10 point of damage
+  moveResponse: is wet.

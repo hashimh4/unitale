@@ -19,18 +19,22 @@ public class stats : MonoBehaviour
     public int move1_damage;
     // Whether a move is mentally or physically geared
     public bool move1_mp;
+    public string move1_response;
 
     public string move2_name;
     public int move2_damage;
     public bool move2_mp;
+    public string move2_response;
 
     public string move3_name;
     public int move3_damage;
     public bool move3_mp;
+    public string move3_response;
 
     public string move4_name;
     public int move4_damage;
     public bool move4_mp;
+    public string move4_response;
 
     // The number of USBs the player has
     public int USB;

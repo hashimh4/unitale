@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Flute go fffffffffffffffffffffffffff
   - Deals 20 point of damage
+  moveResponse: 'is feeling tranquility. '

@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - The birds. THE BIRDS. NOT THE BIRDS. Caw caw
   - Deals 40 point of damage
+  moveResponse: is screaming as the birds gnaw away.

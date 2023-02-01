@@ -5,6 +5,7 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 // To define the different game states
 public enum BattleState { NOBATTLE, START, PLAYERTURN, ENEMYTURN, WON, LOST }
@@ -65,12 +66,6 @@ public class battleSystem : MonoBehaviour
     // Making reference to the game state, so that it can be changed
     public BattleState gameState;
 
-
-    /// <summary>
-    /// ////////////////////////////////////////////////// CREATE DIALOGUE SIMILAR TO SIGN DIALOGUE 
-    /// </summary>
-
-
     // Start is called before the first frame update
     private void Start()
     {
@@ -102,7 +97,7 @@ public class battleSystem : MonoBehaviour
         attack3Text.text = playerStats.move3_name;
         attack4Text.text = playerStats.move4_name;
         // Load the number of player USBs on the screen
-        //playerUSBs.text = playerStats.USB.ToString();
+        playerUSBs.text = "USBs - " + playerStats.USB.ToString();
     }
 
     // The enemy specific UI that needs to be changed throughout the battle
@@ -132,7 +127,12 @@ public class battleSystem : MonoBehaviour
 
         // Load the dialogue lines on the screen
         text.text = string.Empty;
-        string[] initial = { enemyStats.spriteName + " approaches..."};
+        System.Random rnd = new System.Random();
+        int randomText = rnd.Next(1, 6);
+        string[] initialText = { enemyStats.spriteName + " readies up...", enemyStats.spriteName + " takes a deep breath.", 
+            enemyStats.spriteName + " is thinking deeply.", enemyStats.spriteName + " looks nervous.", 
+            enemyStats.spriteName + " prepares themselves.", enemyStats.spriteName + " looks serious." };
+        string[] initial = { initialText[randomText - 1] };
         StartCoroutine(TypeLine(initial));
 
         // Update the UI on the screen
@@ -144,7 +144,7 @@ public class battleSystem : MonoBehaviour
             + Convert.ToInt32(playerStats.move3_mp) + Convert.ToInt32(playerStats.move4_mp) - 2) / 2;
 
         // DIALOGUE //////////////////////////////////////////////////////////
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(3f);
 
         // Change the game state to the correct turn ////////////////////////////////////
         gameState = BattleState.PLAYERTURN;
@@ -178,7 +178,7 @@ public class battleSystem : MonoBehaviour
 
 
     // If the player chooses to attack on their turn
-    IEnumerator Attack(int move_damage, bool move_type, float victim_mp)
+    IEnumerator Attack(int move_damage, bool move_type, float victim_mp, string move_reponse)
     {
         // Update the enemy stats
         bool dead = enemyStats.TakeDamage(move_damage, move_type, victim_mp);
@@ -186,10 +186,10 @@ public class battleSystem : MonoBehaviour
         // Update the enemy UI details
         EnemyUI();
         // Dialogue line
-        string[] playerAttackLines = { "You hit " + enemyStats.spriteName};
+        string[] playerAttackLines = { enemyStats.spriteName + " " + move_reponse};
         StartCoroutine(TypeLine(playerAttackLines));
 
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(5f);
 
         // Check whether the enemy is dead
         if(dead)
@@ -218,7 +218,7 @@ public class battleSystem : MonoBehaviour
         string[] playerItemLines = { "You heal yourself by " + difference + "HP."};
         StartCoroutine(TypeLine(playerItemLines));
 
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(2.5f);
 
         // Continue the battle and change the state to the enemy's turn
         gameState = BattleState.ENEMYTURN;
@@ -231,12 +231,6 @@ public class battleSystem : MonoBehaviour
         // Reset the variable for the next player turn, so they can choose an action again
         actionChosen = false;
 
-        // Dialogue line
-        string[] enemyAttackLines = { enemyStats.spriteName + " attacks."};
-        StartCoroutine(TypeLine(enemyAttackLines));
-
-        yield return new WaitForSeconds(2f);
-
         // Random move between 1 and 4
         System.Random rnd = new System.Random();
         int enemyMove = rnd.Next(1, 4);
@@ -246,28 +240,39 @@ public class battleSystem : MonoBehaviour
         if (enemyMove == 1)
         {
             dead = playerStats.TakeDamage(enemyStats.move1_damage, enemyStats.move1_mp, playerStats.mentalPhysical);
+            // Dialogue Line
+            string[] enemyAttackLines = { enemyStats.spriteName + " uses " + enemyStats.move1_name + " and " + enemyStats.move1_response };
+            StartCoroutine(TypeLine(enemyAttackLines));
         }
 
         if (enemyMove == 2)
         {
             dead = playerStats.TakeDamage(enemyStats.move2_damage, enemyStats.move2_mp, playerStats.mentalPhysical);
+            // Dialogue Line
+            string[] enemyAttackLines = { enemyStats.spriteName + " uses " + enemyStats.move2_name + " and " + enemyStats.move2_response };
+            StartCoroutine(TypeLine(enemyAttackLines));
         }
 
         if (enemyMove == 3)
         {
             dead = playerStats.TakeDamage(enemyStats.move3_damage, enemyStats.move3_mp, playerStats.mentalPhysical);
-        
-        } else
+            // Dialogue Line
+            string[] enemyAttackLines = { enemyStats.spriteName + " uses " + enemyStats.move3_name + " and " + enemyStats.move3_response };
+            StartCoroutine(TypeLine(enemyAttackLines));
+
+        }
+        if (enemyMove == 4)
         {
             dead = playerStats.TakeDamage(enemyStats.move4_damage, enemyStats.move4_mp, playerStats.mentalPhysical);
+            // Dialogue Line
+            string[] enemyAttackLines = { enemyStats.spriteName + " uses " + enemyStats.move4_name + " and " + enemyStats.move4_response };
+            StartCoroutine(TypeLine(enemyAttackLines));
         }
-
-        // Update the player stats
 
         // Update the player UI details
         PlayerUI();
 
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(5f);
 
         // Check whether the player has lost all their HP
         if (dead)
@@ -291,7 +296,7 @@ public class battleSystem : MonoBehaviour
         StartCoroutine(TypeLine(playerTurnLines));
         // WAIT 1 SECOND THEN
 
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(2.5f);
 
         // Remove the text display
         dialogueBox.SetActive(false);
@@ -310,7 +315,7 @@ public class battleSystem : MonoBehaviour
             string[] wonBattleLines = { "You beat " + enemyStats.spriteName };
             StartCoroutine(TypeLine(wonBattleLines));
 
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(2.5f);
 
             gameState = BattleState.NOBATTLE;
         }
@@ -320,9 +325,10 @@ public class battleSystem : MonoBehaviour
             string[] lostBattleLines = { "You were beat. You passed out." };
             StartCoroutine(TypeLine(lostBattleLines));
 
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(2.5f);
 
             gameState = BattleState.NOBATTLE;
+            SceneManager.LoadScene("SampleScene");
 
         }
 
@@ -357,7 +363,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move1_damage, playerStats.move1_mp, enemyStats.mentalPhysical));
+            StartCoroutine(Attack(playerStats.move1_damage, playerStats.move1_mp, enemyStats.mentalPhysical, playerStats.move1_response));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -375,7 +381,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move2_damage, playerStats.move2_mp, enemyStats.mentalPhysical));
+            StartCoroutine(Attack(playerStats.move2_damage, playerStats.move2_mp, enemyStats.mentalPhysical, playerStats.move2_response));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -394,7 +400,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move3_damage, playerStats.move3_mp, enemyStats.mentalPhysical));
+            StartCoroutine(Attack(playerStats.move3_damage, playerStats.move3_mp, enemyStats.mentalPhysical, playerStats.move3_response));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -412,7 +418,7 @@ public class battleSystem : MonoBehaviour
         if (gameState == BattleState.PLAYERTURN && actionChosen == false)
         {
             // Start the attack with the correct damage chosen
-            StartCoroutine(Attack(playerStats.move4_damage, playerStats.move4_mp, enemyStats.mentalPhysical));
+            StartCoroutine(Attack(playerStats.move4_damage, playerStats.move4_mp, enemyStats.mentalPhysical, playerStats.move4_response));
             // Pass in the correct attack
             actionChosen = true;
 
@@ -457,7 +463,7 @@ public class battleSystem : MonoBehaviour
         dialogueBox.SetActive(true);
         string[] mustAttackLines = { "You don't have any USBs left. Time to attack!" };
         StartCoroutine(TypeLine(mustAttackLines));
-        yield return new WaitForSeconds(4f);
+        yield return new WaitForSeconds(3.5f);
         // Reactivate the dialogue box
         dialogueBox.SetActive(false);
         // Make the attack buttons appear

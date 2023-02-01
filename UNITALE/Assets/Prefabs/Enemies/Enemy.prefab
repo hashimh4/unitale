@@ -49,18 +49,22 @@ MonoBehaviour:
   xp: 0
   xpMax: 0
   newMove: 0
-  move1_name: 
+  move1_name: Poke
   move1_damage: 1
   move1_mp: 1
-  move2_name: 
+  move1_response: pokes your arm.
+  move2_name: Punch
   move2_damage: 1
   move2_mp: 1
-  move3_name: 
+  move2_response: punches your face.
+  move3_name: Kick
   move3_damage: 1
   move3_mp: 0
-  move4_name: 
+  move3_response: kicks you.
+  move4_name: Chomp
   move4_damage: 1
   move4_mp: 0
+  move4_response: bites your hand.
   USB: 0
   maxHP: 10
   currentHP: 2

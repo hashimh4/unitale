@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Summon a bolt of lightning to fry your opponent.
   - Deals 50 point of damage
+  moveResponse: is shocked.

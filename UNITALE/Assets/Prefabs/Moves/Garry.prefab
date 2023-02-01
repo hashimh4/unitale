@@ -49,3 +49,4 @@ MonoBehaviour:
   moveDescription:
   - Garry - what a champ. Summon Garry into the battle to confuse your opponent
   - Deals 10 point of damage
+  moveResponse: is bored by Garry.
