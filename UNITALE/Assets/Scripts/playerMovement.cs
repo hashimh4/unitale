@@ -22,10 +22,11 @@ public class playerMovement : MonoBehaviour
 
     private void Start()
     {
+        // Ensure the player cannot move right away
+        canMove = false;
+
         StartCoroutine(TheStartScreen());
-        
-        // Ensure the player can move right away
-        canMove = true;
+      
     }
 
     // Update is called once per frame
@@ -80,5 +81,7 @@ public class playerMovement : MonoBehaviour
         // A sound effect played when the start screen is loaded
 
         startScreen.SetActive(false);
+
+        canMove = true;
     }
 }

@@ -52,13 +52,13 @@ public class cutSceneHandler : MonoBehaviour
         dialogueBox.SetActive(false);
 
         // If the player has collected a USB, increase the USB count by one
-        if (USB)
+        if (USB && playerStats != null)
         {
             playerStats.USB += 1;
         }
 
         // Allow the game to end if the player has reached the end
-        if (battleScript.endGame)
+        if (battleScript.endGame && battleScript != null)
         {
             dialogueBox.SetActive(false);
             endGameScreen.SetActive(true);
@@ -74,6 +74,7 @@ public class cutSceneHandler : MonoBehaviour
         // Only pass on a battle enemy sprite and start a battle if this is a battle cut scene
         if (battleCutScene)
         {
+            Debug.Log(true);
             // Pass the correct enemy prefab to the battle system script
             battleScript.enemyPrefab = battleEnemyPrefab;
             // Change the state in the battle script

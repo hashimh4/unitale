@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5115872636381316412}
   - component: {fileID: 5115872636381316410}
   - component: {fileID: 5115872636381316411}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: d3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5115872636589919382}
   - component: {fileID: 5115872636589919381}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cut-Scene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125,8 +125,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 909f96ddd202c444fa7c5db9efd20203, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueBox: {fileID: 0}
   movementScript: {fileID: 0}
+  playerStats: {fileID: 0}
+  dialogueBox: {fileID: 0}
+  battleCutScene: 0
+  USB: 0
+  battleScript: {fileID: 0}
+  battleEnemyPrefab: {fileID: 0}
+  endGameScreen: {fileID: 0}
 --- !u!1 &5115872636710490859
 GameObject:
   m_ObjectHideFlags: 0
@@ -138,7 +144,7 @@ GameObject:
   - component: {fileID: 5115872636710490858}
   - component: {fileID: 5115872636710490856}
   - component: {fileID: 5115872636710490857}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: d2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +224,7 @@ GameObject:
   - component: {fileID: 5115872636944183985}
   - component: {fileID: 5115872636944183986}
   - component: {fileID: 5115872636944183987}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: d1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

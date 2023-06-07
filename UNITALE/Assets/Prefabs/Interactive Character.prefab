@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7105345664221642202}
   - component: {fileID: 7105345664221642203}
   - component: {fileID: 7105345664221642212}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Interactive Character
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.5009799}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
