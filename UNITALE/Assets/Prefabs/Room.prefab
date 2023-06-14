@@ -161,6 +161,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   virtualCam: {fileID: 1121382179249081572}
+  needText: 0
+  locationName: 
+  text: {fileID: 0}
+  locationText: {fileID: 0}
 --- !u!1 &4884740640205547856
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,7 +210,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 2.6199245, y: -6.656206}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
